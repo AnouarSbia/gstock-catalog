@@ -9,7 +9,41 @@
       "nameAr": "الإسمنت والخرسانة",
       "icon": "🏗️",
       "productCount": 24,
-      "file": "catalog/ciment-beton.json"
+      "file": "catalog/ciment-beton.json",
+      "brands": [
+        {
+          "name": "Sika",
+          "count": 10
+        },
+        {
+          "name": "Weber",
+          "count": 5
+        },
+        {
+          "name": "GICA",
+          "count": 3
+        },
+        {
+          "name": "St Astier",
+          "count": 2
+        },
+        {
+          "name": "LafargeHolcim",
+          "count": 1
+        },
+        {
+          "name": "Mitzad",
+          "count": 1
+        },
+        {
+          "name": "ENM",
+          "count": 1
+        },
+        {
+          "name": "Sour El Ghozlane",
+          "count": 1
+        }
+      ]
     },
     {
       "code": "fer-acier",
@@ -17,7 +51,13 @@
       "nameAr": "الحديد والصلب",
       "icon": "🔩",
       "productCount": 31,
-      "file": "catalog/fer-acier.json"
+      "file": "catalog/fer-acier.json",
+      "brands": [
+        {
+          "name": "ENSA",
+          "count": 31
+        }
+      ]
     },
     {
       "code": "outillage",
@@ -25,7 +65,21 @@
       "nameAr": "العُدد",
       "icon": "🔧",
       "productCount": 34,
-      "file": "catalog/outillage.json"
+      "file": "catalog/outillage.json",
+      "brands": [
+        {
+          "name": "Stanley",
+          "count": 25
+        },
+        {
+          "name": "Bosch",
+          "count": 5
+        },
+        {
+          "name": "Facom",
+          "count": 4
+        }
+      ]
     },
     {
       "code": "plomberie",
@@ -33,7 +87,33 @@
       "nameAr": "السباكة",
       "icon": "🚿",
       "productCount": 35,
-      "file": "catalog/plomberie.json"
+      "file": "catalog/plomberie.json",
+      "brands": [
+        {
+          "name": "Selem",
+          "count": 15
+        },
+        {
+          "name": "Palsit",
+          "count": 8
+        },
+        {
+          "name": "Tubial",
+          "count": 5
+        },
+        {
+          "name": "Kassler",
+          "count": 3
+        },
+        {
+          "name": "Virax",
+          "count": 2
+        },
+        {
+          "name": "Tassili",
+          "count": 2
+        }
+      ]
     },
     {
       "code": "electricite",
@@ -41,7 +121,41 @@
       "nameAr": "الكهرباء",
       "icon": "⚡",
       "productCount": 45,
-      "file": "catalog/electricite.json"
+      "file": "catalog/electricite.json",
+      "brands": [
+        {
+          "name": "Schneider",
+          "count": 22
+        },
+        {
+          "name": "Sonelgaz",
+          "count": 7
+        },
+        {
+          "name": "Geba",
+          "count": 6
+        },
+        {
+          "name": "Philips",
+          "count": 4
+        },
+        {
+          "name": "Pirelli",
+          "count": 2
+        },
+        {
+          "name": "Sylvania",
+          "count": 2
+        },
+        {
+          "name": "WAGO",
+          "count": 1
+        },
+        {
+          "name": "Generic",
+          "count": 1
+        }
+      ]
     },
     {
       "code": "peinture",
@@ -49,7 +163,41 @@
       "nameAr": "الدهان",
       "icon": "🎨",
       "productCount": 36,
-      "file": "catalog/peinture.json"
+      "file": "catalog/peinture.json",
+      "brands": [
+        {
+          "name": "Decoral",
+          "count": 11
+        },
+        {
+          "name": "Prestige",
+          "count": 7
+        },
+        {
+          "name": "Selem",
+          "count": 5
+        },
+        {
+          "name": "Sipral",
+          "count": 3
+        },
+        {
+          "name": "Sia",
+          "count": 3
+        },
+        {
+          "name": "Facom",
+          "count": 3
+        },
+        {
+          "name": "Quelid",
+          "count": 2
+        },
+        {
+          "name": "Tesa",
+          "count": 2
+        }
+      ]
     },
     {
       "code": "quincaillerie",
@@ -57,7 +205,13 @@
       "nameAr": "الحدادة",
       "icon": "🔨",
       "productCount": 51,
-      "file": "catalog/quincaillerie.json"
+      "file": "catalog/quincaillerie.json",
+      "brands": [
+        {
+          "name": "Generic",
+          "count": 51
+        }
+      ]
     },
     {
       "code": "bois-derives",
@@ -65,7 +219,17 @@
       "nameAr": "الخشب ومشتقاته",
       "icon": "🪚",
       "productCount": 18,
-      "file": "catalog/bois-derives.json"
+      "file": "catalog/bois-derives.json",
+      "brands": [
+        {
+          "name": "Generic",
+          "count": 13
+        },
+        {
+          "name": "Knauf",
+          "count": 5
+        }
+      ]
     },
     {
       "code": "sanitaire",
@@ -73,29 +237,135 @@
       "nameAr": "الأدوات الصحية",
       "icon": "🚽",
       "productCount": 20,
-      "file": "catalog/sanitaire.json"
+      "file": "catalog/sanitaire.json",
+      "brands": [
+        {
+          "name": "Generic",
+          "count": 20
+        }
+      ]
     }
   ],
   "brands": [
-    { "code": "gica", "name": "GICA", "nameAr": "جيكا", "country": "Algérie" },
-    { "code": "sonelgaz", "name": "Sonelgaz", "nameAr": "سونلغاز", "country": "Algérie" },
-    { "code": "ensa", "name": "ENSA", "nameAr": "أنسا", "country": "Algérie" },
-    { "code": "mitsubishi", "name": "Mitsubishi", "nameAr": "ميتسوبيشي", "country": "Japon" },
-    { "code": "bosch", "name": "Bosch", "nameAr": "بوش", "country": "Allemagne" },
-    { "code": "makita", "name": "Makita", "nameAr": "ماكيتا", "country": "Japon" },
-    { "code": "stanley", "name": "Stanley", "nameAr": "ستانلي", "country": "USA" },
-    { "code": "virax", "name": "Virax", "nameAr": "فيراكس", "country": "France" },
-    { "code": "pressol", "name": "Pressol", "nameAr": "بريسول", "country": "France" },
-    { "code": "algerie-tuyaux", "name": "Algérie Tuyaux", "nameAr": "أنابيب الجزائر", "country": "Algérie" },
-    { "code": "tubial", "name": "Tubial", "nameAr": "توبيال", "country": "Algérie" },
-    { "code": "palsit", "name": "Palsit", "nameAr": "پالسيت", "country": "Algérie" },
-    { "code": "knauf", "name": "Knauf", "nameAr": "ناوف", "country": "Allemagne" },
-    { "code": "placo", "name": "Placo", "nameAr": "بلاكو", "country": "France" },
-    { "code": "saint-gobain", "name": "Saint-Gobain", "nameAr": "سان غوبان", "country": "France" },
-    { "code": "jotun", "name": "Jotun", "nameAr": "جوتن", "country": "Norvège" },
-    { "code": "selem", "name": "Selem", "nameAr": "سالم", "country": "Algérie" },
-    { "code": "tassili", "name": "Tassili", "nameAr": "تاسيلي", "country": "Algérie" },
-    { "code": "kassler", "name": "Kassler", "nameAr": "كاسلر", "country": "Allemagne" },
-    { "code": "yale", "name": "Yale", "nameAr": "يال", "country": "USA" }
+    {
+      "code": "gica",
+      "name": "GICA",
+      "nameAr": "جيكا",
+      "country": "Algérie"
+    },
+    {
+      "code": "sonelgaz",
+      "name": "Sonelgaz",
+      "nameAr": "سونلغاز",
+      "country": "Algérie"
+    },
+    {
+      "code": "ensa",
+      "name": "ENSA",
+      "nameAr": "أنسا",
+      "country": "Algérie"
+    },
+    {
+      "code": "mitsubishi",
+      "name": "Mitsubishi",
+      "nameAr": "ميتسوبيشي",
+      "country": "Japon"
+    },
+    {
+      "code": "bosch",
+      "name": "Bosch",
+      "nameAr": "بوش",
+      "country": "Allemagne"
+    },
+    {
+      "code": "makita",
+      "name": "Makita",
+      "nameAr": "ماكيتا",
+      "country": "Japon"
+    },
+    {
+      "code": "stanley",
+      "name": "Stanley",
+      "nameAr": "ستانلي",
+      "country": "USA"
+    },
+    {
+      "code": "virax",
+      "name": "Virax",
+      "nameAr": "فيراكس",
+      "country": "France"
+    },
+    {
+      "code": "pressol",
+      "name": "Pressol",
+      "nameAr": "بريسول",
+      "country": "France"
+    },
+    {
+      "code": "algerie-tuyaux",
+      "name": "Algérie Tuyaux",
+      "nameAr": "أنابيب الجزائر",
+      "country": "Algérie"
+    },
+    {
+      "code": "tubial",
+      "name": "Tubial",
+      "nameAr": "توبيال",
+      "country": "Algérie"
+    },
+    {
+      "code": "palsit",
+      "name": "Palsit",
+      "nameAr": "پالسيت",
+      "country": "Algérie"
+    },
+    {
+      "code": "knauf",
+      "name": "Knauf",
+      "nameAr": "ناوف",
+      "country": "Allemagne"
+    },
+    {
+      "code": "placo",
+      "name": "Placo",
+      "nameAr": "بلاكو",
+      "country": "France"
+    },
+    {
+      "code": "saint-gobain",
+      "name": "Saint-Gobain",
+      "nameAr": "سان غوبان",
+      "country": "France"
+    },
+    {
+      "code": "jotun",
+      "name": "Jotun",
+      "nameAr": "جوتن",
+      "country": "Norvège"
+    },
+    {
+      "code": "selem",
+      "name": "Selem",
+      "nameAr": "سالم",
+      "country": "Algérie"
+    },
+    {
+      "code": "tassili",
+      "name": "Tassili",
+      "nameAr": "تاسيلي",
+      "country": "Algérie"
+    },
+    {
+      "code": "kassler",
+      "name": "Kassler",
+      "nameAr": "كاسلر",
+      "country": "Allemagne"
+    },
+    {
+      "code": "yale",
+      "name": "Yale",
+      "nameAr": "يال",
+      "country": "USA"
+    }
   ]
 }
