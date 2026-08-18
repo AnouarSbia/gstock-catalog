@@ -1,0 +1,789 @@
+{
+  "category": {
+    "code": "securite",
+    "name": "Sécurité",
+    "nameAr": "الأمان"
+  },
+  "products": [
+    {
+      "code": "ENERGICAL-E300210XWB",
+      "name": "Moniteur 2 fils 7 pouces avec WIFI VFE10-W",
+      "nameAr": "",
+      "brand": "Generic",
+      "barcode": "E300210XWB",
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 17255,
+      "salePrice": 20300,
+      "minStock": 10,
+      "image": "images/securite/ENERGICAL-E300210XWB.webp",
+      "aliases": [
+        "moniteur 2 fils 7 pouces avec wifi vfe10-w",
+        "e300210xwb"
+      ],
+      "description": "Le Moniteur 2 fils 7 pouces VFE10 avec WIFI est un appareil de surveillance innovant et efficace. Avec un poids de seulement 0,679 kg et des dimensions compactes de 17,5 × 25 × 5,5 cm, il est facile à installer et à utiliser. Ce modèle dispose d&rsquo;un système à 2 fils, garantissant une connexion fiable et rapide. Livré en boîtes de 1 pièce et en cartons de 10 pièces pour un poids total de 6,2 kg. Il est couvert par une garantie de 2 ans, assurant une tranquillité d&rsquo;esprit à long terme.",
+      "categories": [
+        "Alarme sécurité de la maison",
+        "Visiophone système 2 fils"
+      ],
+      "source": {
+        "id": 42168,
+        "sku": "E300210XWB",
+        "permalink": "https://energical.com/fr/produit/moniteur-2-fils-7-pouces-avec-wifi-vfe10-w/",
+        "stockStatus": "instock",
+        "categoryName": "Alarme sécurité de la maison",
+        "scrapedAt": "2026-08-18T22:40:21.280Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-VFE01C-VFE04-2",
+      "name": "Pack Visiophone Complet 472-C",
+      "nameAr": "",
+      "brand": "Generic",
+      "barcode": "VFE01C-VFE04-2",
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 36805,
+      "salePrice": 43300,
+      "minStock": 10,
+      "image": "images/securite/ENERGICAL-VFE01C-VFE04-2.webp",
+      "aliases": [
+        "pack visiophone complet 472-c",
+        "vfe01c-vfe04-2"
+      ],
+      "description": "Le Pack Visiophone 4 Fils est votre allié pour une maison sécurisée. Avec un écran tactile de 7 pouces, le moniteur rend la surveillance simple et accessible. Enregistrez des vidéos et des voix avec la carte SD intégrée. La sonnette avec son lecteur RFID gère l&rsquo;accès personnalisé et la serrure avec un doigt de verrou permet de renforcer la sécurité.",
+      "categories": [
+        "Alarme sécurité de la maison",
+        "Pack Visiophone",
+        "Visiophone système 4 fils"
+      ],
+      "source": {
+        "id": 28784,
+        "sku": "VFE01C-VFE04-2",
+        "permalink": "https://energical.com/fr/produit/pack-visio-4-fils-1/",
+        "stockStatus": "instock",
+        "categoryName": "Alarme sécurité de la maison",
+        "scrapedAt": "2026-08-18T22:40:25.913Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-E3002PR068",
+      "name": "Monitor Distributor (Switch)",
+      "nameAr": "",
+      "brand": "Generic",
+      "barcode": "E3002PR068",
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 3171,
+      "salePrice": 3730,
+      "minStock": 10,
+      "image": "images/securite/ENERGICAL-E3002PR068.webp",
+      "aliases": [
+        "monitor distributor (switch)",
+        "e3002pr068"
+      ],
+      "description": "",
+      "categories": [
+        "Visiophone système 4 fils"
+      ],
+      "source": {
+        "id": 27873,
+        "sku": "E3002PR068",
+        "permalink": "https://energical.com/fr/produit/monitor-distributor-switch/",
+        "stockStatus": "instock",
+        "categoryName": "Visiophone système 4 fils",
+        "scrapedAt": "2026-08-18T22:40:25.913Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-E3001PR003",
+      "name": "Transformateur DC 24V/1A",
+      "nameAr": "",
+      "brand": "Generic",
+      "barcode": "E3001PR003",
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 778,
+      "salePrice": 915,
+      "minStock": 10,
+      "image": "images/securite/ENERGICAL-E3001PR003.webp",
+      "aliases": [
+        "transformateur dc 24v/1a",
+        "e3001pr003"
+      ],
+      "description": "Adaptateur/ Transformateur DC 24V/1A pour Visiophone 2 fils",
+      "categories": [
+        "Alarme sécurité de la maison",
+        "Visiophone système 2 fils"
+      ],
+      "source": {
+        "id": 25457,
+        "sku": "E3001PR003",
+        "permalink": "https://energical.com/fr/produit/transformateur-dc-24v-1a/",
+        "stockStatus": "instock",
+        "categoryName": "Alarme sécurité de la maison",
+        "scrapedAt": "2026-08-18T22:40:25.913Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-E3001PR002",
+      "name": "Transformateur DC 15V/1A",
+      "nameAr": "",
+      "brand": "Generic",
+      "barcode": "E3001PR002",
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 778,
+      "salePrice": 915,
+      "minStock": 10,
+      "image": "images/securite/ENERGICAL-E3001PR002.webp",
+      "aliases": [
+        "transformateur dc 15v/1a",
+        "e3001pr002"
+      ],
+      "description": "Adaptateur/ transformateur DC 15V/1A pour Visiophone 4 fils",
+      "categories": [
+        "Alarme sécurité de la maison",
+        "Visiophone système 4 fils"
+      ],
+      "source": {
+        "id": 25452,
+        "sku": "E3001PR002",
+        "permalink": "https://energical.com/fr/produit/adaptateur-transformateur-dc-15v-1a-adapter/",
+        "stockStatus": "instock",
+        "categoryName": "Alarme sécurité de la maison",
+        "scrapedAt": "2026-08-18T22:40:25.913Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-E300209B30",
+      "name": "Panneau d extension 2 fils trente boutons VFE09B30",
+      "nameAr": "",
+      "brand": "Generic",
+      "barcode": "E300209B30",
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 46453,
+      "salePrice": 54650,
+      "minStock": 10,
+      "image": "images/securite/ENERGICAL-E300209B30.webp",
+      "aliases": [
+        "panneau d extension 2 fils trente boutons vfe09b30",
+        "e300209b30"
+      ],
+      "description": "Le panneau d&rsquo;extension 2 fils trente boutons VFE09B30 offre une solution polyvalente pour étendre les capacités de votre système. Avec un modèle conçu pour un système 2 fils, il offre une intégration facile et une utilisation intuitive. Pesant seulement 2,179 kg et mesurant 325 × 130 × 60 cm, il est compact et facile à installer. Bénéficiez d&rsquo;une garantie de 2 ans pour une tranquillité d&rsquo;esprit totale, et améliorez les fonctionnalités de votre système avec ce panneau d&rsquo;ex",
+      "categories": [
+        "Alarme sécurité de la maison",
+        "Visiophone système 2 fils"
+      ],
+      "source": {
+        "id": 25019,
+        "sku": "E300209B30",
+        "permalink": "https://energical.com/fr/produit/panneau-extension-2fils-trente-boutons-vfe09b30/",
+        "stockStatus": "instock",
+        "categoryName": "Alarme sécurité de la maison",
+        "scrapedAt": "2026-08-18T22:40:25.913Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-E300209B15",
+      "name": "Panneau d&rsquo;extension 2 fils quinze boutons VFE09B15",
+      "nameAr": "",
+      "brand": "Generic",
+      "barcode": "E300209B15",
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 40647,
+      "salePrice": 47820,
+      "minStock": 10,
+      "image": "images/securite/ENERGICAL-E300209B15.webp",
+      "aliases": [
+        "panneau d&rsquo;extension 2 fils quinze boutons vfe09b15",
+        "e300209b15"
+      ],
+      "description": "Le panneau d&rsquo;extension 2 fils quinze boutons VFE09B15 offre une solution pratique pour étendre les capacités de votre système. Conçu pour un système 2 fils, il garantit une intégration facile et une utilisation intuitive. Compact et léger, avec un poids de seulement [Poids du produit], il s&rsquo;installe facilement dans n&rsquo;importe quel espace. Profitez d&rsquo;une garantie de [Durée de garantie] pour une tranquillité d&rsquo;esprit totale. Améliorez les fonctionnalités de votre systè",
+      "categories": [
+        "Alarme sécurité de la maison",
+        "Visiophone système 2 fils"
+      ],
+      "source": {
+        "id": 25013,
+        "sku": "E300209B15",
+        "permalink": "https://energical.com/fr/produit/panneau-extension-2fils-quinze-boutons-vfe09b15/",
+        "stockStatus": "instock",
+        "categoryName": "Alarme sécurité de la maison",
+        "scrapedAt": "2026-08-18T22:40:25.913Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-E300407X02",
+      "name": "Pack Interphone audio 4 fils ADE07",
+      "nameAr": "",
+      "brand": "Generic",
+      "barcode": "E300407X02",
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 5053,
+      "salePrice": 5945,
+      "minStock": 10,
+      "image": "images/securite/ENERGICAL-E300407X02.webp",
+      "aliases": [
+        "pack interphone audio 4 fils ade07",
+        "e300407x02"
+      ],
+      "description": "Découvrez notre système de communication vocale autonome, conçu spécifiquement pour une utilisation dans des bâtiments ou petits ensembles de bâtiments équipés de sonnettes. Ce système permet une communication claire et efficace entre les visiteurs et les occupants du bâtiment. Lorsqu&rsquo;un visiteur appuie sur la sonnette, le système active la communication vocale, permettant ainsi à l&rsquo;occupant de répondre et d&rsquo;interagir avec le visiteur à distance. Facile à installer et à utilise",
+      "categories": [
+        "Alarme sécurité de la maison",
+        "Visiophone système 4 fils"
+      ],
+      "source": {
+        "id": 24433,
+        "sku": "E300407X02",
+        "permalink": "https://energical.com/fr/produit/pack-interphone-audio-4fils-ade07/",
+        "stockStatus": "instock",
+        "categoryName": "Alarme sécurité de la maison",
+        "scrapedAt": "2026-08-18T22:40:25.913Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-E300302XXB",
+      "name": "Interphone Combine 4 fils VFE02A",
+      "nameAr": "",
+      "brand": "Generic",
+      "barcode": "E300302XXB",
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 2588,
+      "salePrice": 3045,
+      "minStock": 10,
+      "image": "images/securite/ENERGICAL-E300302XXB.webp",
+      "aliases": [
+        "interphone combine 4 fils vfe02a",
+        "e300302xxb"
+      ],
+      "description": "L&rsquo;interphone Combine 4 fils VFE02A offre une communication fiable et sécurisée pour votre domicile ou votre entreprise. Avec son modèle 4 fils et sa couleur blanche élégante, il s&rsquo;intègre parfaitement à tout environnement. Compact avec des dimensions de 8 × 21 × 67 cm et un poids de 2,282 kg, il est facile à installer et à utiliser. Bénéficiez d&rsquo;une garantie de 2 ans pour une tranquillité d&rsquo;esprit totale avec cet interphone de qualité.",
+      "categories": [
+        "Alarme sécurité de la maison",
+        "Visiophone système 4 fils"
+      ],
+      "source": {
+        "id": 24416,
+        "sku": "E300302XXB",
+        "permalink": "https://energical.com/fr/produit/interphone-combine/",
+        "stockStatus": "instock",
+        "categoryName": "Alarme sécurité de la maison",
+        "scrapedAt": "2026-08-18T22:40:25.913Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-20912",
+      "name": "Moniteur 4 fils 7 pouces VFE03",
+      "nameAr": "",
+      "brand": "Generic",
+      "barcode": null,
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 14276,
+      "salePrice": 16795,
+      "minStock": 10,
+      "image": "images/securite/ENERGICAL-20912.webp",
+      "aliases": [
+        "moniteur 4 fils 7 pouces vfe03"
+      ],
+      "description": "Le moniteur 4 fils 7 pouces VFE03 offre une surveillance fiable et pratique pour votre système d&rsquo;interphone. Avec un modèle 4 fils et un écran couleur de 7 pouces, il assure une visualisation claire et détaillée. Pesant seulement 0,72 kg et mesurant 28 × 22,7 × 6 cm, il est compact et facile à installer. Doté de fonctions avancées telles que l&rsquo;appel interne, la carte microSD et la capture d&rsquo;image, ce moniteur garantit une sécurité optimale pour votre domicile ou votre entrepris",
+      "categories": [
+        "Alarme sécurité de la maison",
+        "Visiophone système 4 fils"
+      ],
+      "source": {
+        "id": 20912,
+        "sku": "",
+        "permalink": "https://energical.com/fr/produit/moniteur-4fils-vfe03/",
+        "stockStatus": "instock",
+        "categoryName": "Alarme sécurité de la maison",
+        "scrapedAt": "2026-08-18T22:40:25.913Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-E30010101B",
+      "name": "Sonnette 4 fils avec lecteur RFID VFE01-C",
+      "nameAr": "",
+      "brand": "Generic",
+      "barcode": "E30010101B",
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 10540,
+      "salePrice": 12400,
+      "minStock": 10,
+      "image": "images/securite/ENERGICAL-E30010101B.webp",
+      "aliases": [
+        "sonnette 4 fils avec lecteur rfid vfe01-c",
+        "e30010101b"
+      ],
+      "description": "La sonnette 4 fils avec lecteur RFID VFE01-C offre une sécurité accrue pour votre domicile ou votre entreprise. Avec un modèle de système 4 fils et un lecteur RFID intégré, elle permet un contrôle d&rsquo;accès pratique et sécurisé. Compacte et légère avec un poids de seulement 0,4 kg et des dimensions de 18,7 × 12,5 × 6 cm, elle s&rsquo;installe facilement. Bénéficiez d&rsquo;une garantie de 2 ans pour une tranquillité d&rsquo;esprit totale avec cette sonnette fiable.",
+      "categories": [
+        "Alarme sécurité de la maison",
+        "Visiophone système 4 fils"
+      ],
+      "source": {
+        "id": 20526,
+        "sku": "E30010101B",
+        "permalink": "https://energical.com/fr/produit/sonnette-4fils-avec-lecteur/",
+        "stockStatus": "instock",
+        "categoryName": "Alarme sécurité de la maison",
+        "scrapedAt": "2026-08-18T22:40:25.913Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-E3101ECL2N",
+      "name": "Serrure électrique noir avec doigt de verrouillage",
+      "nameAr": "",
+      "brand": "Generic",
+      "barcode": "E3101ECL2N",
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 7225,
+      "salePrice": 8500,
+      "minStock": 10,
+      "image": "images/securite/ENERGICAL-E3101ECL2N.webp",
+      "aliases": [
+        "serrure électrique noir avec doigt de verrouillage",
+        "e3101ecl2n"
+      ],
+      "description": "La serrure électrique noire avec doigt de verrouillage offre sécurité et praticité pour votre tranquillité d&rsquo;esprit. Pesant 2,3485 kg et mesurant 17,5 × 13 × 12,5 cm, elle garantit une protection fiable. Avec une garantie de 2 ans, cette serrure électrique assure la sécurité de votre maison ou de votre bureau. Son design noir élégant et son mécanisme de verrouillage par empreinte digitale en font un choix idéal pour une sécurité moderne et efficace.",
+      "categories": [
+        "Alarme sécurité de la maison",
+        "Visiophone système 2 fils",
+        "Visiophone système 4 fils"
+      ],
+      "source": {
+        "id": 11910,
+        "sku": "E3101ECL2N",
+        "permalink": "https://energical.com/fr/produit/serrure-electrique-noir-avec-doigt-de-verouillage/",
+        "stockStatus": "instock",
+        "categoryName": "Alarme sécurité de la maison",
+        "scrapedAt": "2026-08-18T22:40:31.136Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-E3101ECL0G",
+      "name": "Serrure électrique grise",
+      "nameAr": "",
+      "brand": "Generic",
+      "barcode": "E3101ECL0G",
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 5270,
+      "salePrice": 6200,
+      "minStock": 10,
+      "image": "images/securite/ENERGICAL-E3101ECL0G.webp",
+      "aliases": [
+        "serrure électrique grise",
+        "e3101ecl0g"
+      ],
+      "description": "La serrure électrique grise combine sécurité et design moderne pour votre confort. Pesant 0,234 kg et mesurant 17,5 × 13 × 12,5 cm, elle est idéale pour sécuriser vos portes. Livrée en cartons de 10 pièces pesant 2293 kg, elle est parfaite pour des installations en série. Avec une garantie de 2 ans, cette serrure assure une protection durable et efficace pour votre maison ou votre bureau, alliant esthétique et fonctionnalité.",
+      "categories": [
+        "Alarme sécurité de la maison",
+        "Visiophone système 2 fils",
+        "Visiophone système 4 fils"
+      ],
+      "source": {
+        "id": 11899,
+        "sku": "E3101ECL0G",
+        "permalink": "https://energical.com/fr/produit/serrure-electrique-grise/",
+        "stockStatus": "instock",
+        "categoryName": "Alarme sécurité de la maison",
+        "scrapedAt": "2026-08-18T22:40:31.136Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-E30020920C",
+      "name": "Sonnette collective 2 fils 20 boutons avec lecteur RFID VFE09B20",
+      "nameAr": "",
+      "brand": "Generic",
+      "barcode": "E30020920C",
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 49075,
+      "salePrice": 57735,
+      "minStock": 10,
+      "image": "images/securite/ENERGICAL-E30020920C.webp",
+      "aliases": [
+        "sonnette collective 2 fils 20 boutons avec lecteur rfid vfe09b20",
+        "e30020920c"
+      ],
+      "description": "La sonnette collective 2 fils VFE09B20 avec 20 boutons et lecteur RFID est idéale pour les immeubles et complexes résidentiels. Pesant 2,196 kg et mesurant 325 × 130 × 60 cm, elle offre une installation facile grâce à son système 2 fils. Le lecteur RFID intégré assure un accès sécurisé pour les résidents. Avec une garantie de 2 ans, cette sonnette allie commodité et sécurité pour une gestion efficace des entrées.",
+      "categories": [
+        "Alarme sécurité de la maison",
+        "Visiophone système 2 fils"
+      ],
+      "source": {
+        "id": 11895,
+        "sku": "E30020920C",
+        "permalink": "https://energical.com/fr/produit/sonnette-collective-20-boutons-avec-lecteur-rfid-vfe09b20/",
+        "stockStatus": "instock",
+        "categoryName": "Alarme sécurité de la maison",
+        "scrapedAt": "2026-08-18T22:40:31.136Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-E30020910C",
+      "name": "Sonnette collective 2 fils 10 boutons avec lecteur RFID VFE09B10",
+      "nameAr": "",
+      "brand": "Generic",
+      "barcode": "E30020910C",
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 41701,
+      "salePrice": 49060,
+      "minStock": 10,
+      "image": "images/securite/ENERGICAL-E30020910C.webp",
+      "aliases": [
+        "sonnette collective 2 fils 10 boutons avec lecteur rfid vfe09b10",
+        "e30020910c"
+      ],
+      "description": "La sonnette collective 2 fils VFE09B10 avec 10 boutons et lecteur RFID est parfaite pour les immeubles et résidences. Pesant 2,0194 kg et mesurant 325 × 130 × 60 cm, elle s&rsquo;installe facilement grâce à son système 2 fils. Le lecteur RFID intégré assure un accès sécurisé pour les résidents. Avec une garantie de 2 ans, cette sonnette combine praticité et sécurité, facilitant la gestion des entrées pour une tranquillité d&rsquo;esprit optimale.",
+      "categories": [
+        "Alarme sécurité de la maison",
+        "Visiophone système 2 fils"
+      ],
+      "source": {
+        "id": 11890,
+        "sku": "E30020910C",
+        "permalink": "https://energical.com/fr/produit/sonnette-dappartement-10-boutons-avec-lecteur-rfid-vfe09b10/",
+        "stockStatus": "instock",
+        "categoryName": "Alarme sécurité de la maison",
+        "scrapedAt": "2026-08-18T22:40:31.136Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-E30020905C",
+      "name": "Sonnette collective 2 fils 5 boutons avec lecteur RFID VFE09B5",
+      "nameAr": "",
+      "brand": "Generic",
+      "barcode": "E30020905C",
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 22066,
+      "salePrice": 25960,
+      "minStock": 10,
+      "image": "images/securite/ENERGICAL-E30020905C.webp",
+      "aliases": [
+        "sonnette collective 2 fils 5 boutons avec lecteur rfid vfe09b5",
+        "e30020905c"
+      ],
+      "description": "La sonnette collective 2 fils VFE09B5 avec 5 boutons et lecteur RFID est idéale pour les petits immeubles et résidences. Pesant 1,4916 kg et mesurant 235 × 130 × 60 cm, elle s&rsquo;installe facilement grâce à son système 2 fils. Le lecteur RFID intégré garantit un accès sécurisé pour les résidents. Avec une garantie de 2 ans, cette sonnette offre une solution pratique et sécurisée pour la gestion des entrées, alliant confort et sécurité.",
+      "categories": [
+        "Alarme sécurité de la maison",
+        "Visiophone système 2 fils"
+      ],
+      "source": {
+        "id": 11885,
+        "sku": "E30020905C",
+        "permalink": "https://energical.com/fr/produit/sonnette-collective-5-boutons-avec-lecteur-rfid-vfe09b5/",
+        "stockStatus": "instock",
+        "categoryName": "Alarme sécurité de la maison",
+        "scrapedAt": "2026-08-18T22:40:31.136Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-E30010104C",
+      "name": "Sonnette avec 4 boutons 4 fils VFE01B4",
+      "nameAr": "",
+      "brand": "Generic",
+      "barcode": "E30010104C",
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 9227,
+      "salePrice": 10855,
+      "minStock": 10,
+      "image": "images/securite/ENERGICAL-E30010104C.webp",
+      "aliases": [
+        "sonnette avec 4 boutons 4 fils vfe01b4",
+        "e30010104c"
+      ],
+      "description": "La sonnette avec 4 boutons VFE01B4 et système 4 fils est idéale pour les installations résidentielles. Pesant 0,53 kg et mesurant 18,8 × 12,5 × 6 cm, elle assure une installation stable et fiable. Livrée en cartons de 10 pièces, elle est conçue pour une utilisation facile et durable. Cette sonnette pratique et compacte est parfaite pour répondre aux besoins de sécurité et de communication dans les immeubles ou les maisons.",
+      "categories": [
+        "Alarme sécurité de la maison",
+        "Visiophone système 4 fils"
+      ],
+      "source": {
+        "id": 11881,
+        "sku": "E30010104C",
+        "permalink": "https://energical.com/fr/produit/sonnette-avec-4-boutons-vfe01b4/",
+        "stockStatus": "instock",
+        "categoryName": "Alarme sécurité de la maison",
+        "scrapedAt": "2026-08-18T22:40:31.136Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-E30010102C",
+      "name": "Sonnette avec 2 boutons 4 fils VFE01B2",
+      "nameAr": "",
+      "brand": "Generic",
+      "barcode": "E30010102C",
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 8237,
+      "salePrice": 9690,
+      "minStock": 10,
+      "image": "images/securite/ENERGICAL-E30010102C.webp",
+      "aliases": [
+        "sonnette avec 2 boutons 4 fils vfe01b2",
+        "e30010102c"
+      ],
+      "description": "La sonnette avec 2 boutons VFE01B2 et système 4 fils est parfaite pour les petites résidences. Mesurant 18,8 × 12,5 × 6 cm, elle offre une installation simple et fiable. Livrée en cartons de 10 pièces, elle est idéale pour une utilisation durable et pratique. Avec une garantie de 2 ans, cette sonnette assure la sécurité et la communication efficace entre les occupants, répondant parfaitement aux besoins des petites structures.",
+      "categories": [
+        "Alarme sécurité de la maison",
+        "Visiophone système 4 fils"
+      ],
+      "source": {
+        "id": 11875,
+        "sku": "E30010102C",
+        "permalink": "https://energical.com/fr/produit/sonnette-avec-2-boutons-vfe01b2/",
+        "stockStatus": "instock",
+        "categoryName": "Alarme sécurité de la maison",
+        "scrapedAt": "2026-08-18T22:40:31.136Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-E300211XXB",
+      "name": "Moniteur 2 fils 4.3 pouces VFE11",
+      "nameAr": "",
+      "brand": "Generic",
+      "barcode": "E300211XXB",
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 6885,
+      "salePrice": 8100,
+      "minStock": 10,
+      "image": "images/securite/ENERGICAL-E300211XXB.webp",
+      "aliases": [
+        "moniteur 2 fils 4.3 pouces vfe11",
+        "e300211xxb"
+      ],
+      "description": "Le moniteur 2 fils VFE11 avec écran de 4,3 pouces offre une solution de surveillance claire et efficace. Pesant 0,467 kg et mesurant 17,5 × 25 × 5,5 cm, il s&rsquo;intègre parfaitement dans tout environnement résidentiel. Grâce à son système 2 fils, l&rsquo;installation est rapide et simple. Livré en cartons de 10 pièces, ce moniteur est conçu pour une utilisation durable et fiable. Bénéficiez d&rsquo;une garantie de 2 ans pour une tranquillité d&rsquo;esprit maximale.",
+      "categories": [
+        "Alarme sécurité de la maison",
+        "Visiophone système 2 fils"
+      ],
+      "source": {
+        "id": 11871,
+        "sku": "E300211XXB",
+        "permalink": "https://energical.com/fr/produit/moniteur-2fils-4-3-pouces/",
+        "stockStatus": "instock",
+        "categoryName": "Alarme sécurité de la maison",
+        "scrapedAt": "2026-08-18T22:40:31.136Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-E30020901B",
+      "name": "Sonnette 2 fils avec lecteur RFID VFE09-C",
+      "nameAr": "",
+      "brand": "Generic",
+      "barcode": "E30020901B",
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 12627,
+      "salePrice": 14855,
+      "minStock": 10,
+      "image": "images/securite/ENERGICAL-E30020901B.webp",
+      "aliases": [
+        "sonnette 2 fils avec lecteur rfid vfe09-c",
+        "e30020901b"
+      ],
+      "description": "La Sonnette 2 fils avec lecteur RFID VFE09-C est un dispositif moderne et sécurisé. Pesant seulement 0,66 kg et mesurant 17,5 × 25 × 5,5 cm, elle est facile à installer. Dotée d&rsquo;un système à 2 fils, elle assure une connexion rapide et fiable. Le lecteur RFID intégré offre une sécurité supplémentaire. Disponible en boîtes de 1 pièce et en cartons de 10 pièces pour un poids total de 6,1 kg. Profitez de la tranquillité d&rsquo;esprit grâce à une garantie de 2 ans.",
+      "categories": [
+        "Alarme sécurité de la maison",
+        "Visiophone système 2 fils"
+      ],
+      "source": {
+        "id": 11862,
+        "sku": "E30020901B",
+        "permalink": "https://energical.com/fr/produit/sonnette-2-fils-avec-lecteur-rfid/",
+        "stockStatus": "instock",
+        "categoryName": "Alarme sécurité de la maison",
+        "scrapedAt": "2026-08-18T22:40:31.136Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-E30020901C",
+      "name": "Sonnette 2 fils grise VFE09",
+      "nameAr": "",
+      "brand": "Generic",
+      "barcode": "E30020901C",
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 11084,
+      "salePrice": 13040,
+      "minStock": 10,
+      "image": "images/securite/ENERGICAL-E30020901C.webp",
+      "aliases": [
+        "sonnette 2 fils grise vfe09",
+        "e30020901c"
+      ],
+      "description": "La Sonnette 2 fils grise VFE09 est un appareil élégant et efficace pour sécuriser votre domicile. Pesant seulement 0,629 kg et mesurant 17,5 × 25 × 5,5 cm, elle est facile à installer et à utiliser. Dotée d&rsquo;un système à 2 fils, elle offre une connexion fiable. Livrée en boîtes de 1 pièce et en cartons de 10 pièces pour un poids total de 5,7 kg. Elle bénéficie d&rsquo;une garantie de 2 ans, assurant une tranquillité d&rsquo;esprit durable.",
+      "categories": [
+        "Alarme sécurité de la maison",
+        "Visiophone système 2 fils"
+      ],
+      "source": {
+        "id": 11828,
+        "sku": "E30020901C",
+        "permalink": "https://energical.com/fr/produit/sonnette-2-fils-grise/",
+        "stockStatus": "instock",
+        "categoryName": "Alarme sécurité de la maison",
+        "scrapedAt": "2026-08-18T22:40:31.136Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-E300104XXN",
+      "name": "Moniteur 4 fils noir 7 pouces VFE04",
+      "nameAr": "",
+      "brand": "Generic",
+      "barcode": "E300104XXN",
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 23056,
+      "salePrice": 27125,
+      "minStock": 10,
+      "image": "images/securite/ENERGICAL-E300104XXN.webp",
+      "aliases": [
+        "moniteur 4 fils noir 7 pouces vfe04",
+        "e300104xxn"
+      ],
+      "description": "Le Moniteur 4 fils noir 7 pouces VFE04 est un appareil de surveillance robuste et performant. Avec un poids de 0,8 kg et des dimensions de 23 × 28,7 × 6 cm, il est conçu pour une installation facile. Ce modèle utilise un système à 4 fils, garantissant une connexion stable et efficace. Livré en boîtes de 1 pièce et en cartons de 10 pièces pour un poids total de 8,69 kg. Il est couvert par une garantie de 2 ans, assurant une utilisation sereine et durable.",
+      "categories": [
+        "Alarme sécurité de la maison",
+        "Visiophone système 4 fils"
+      ],
+      "source": {
+        "id": 11824,
+        "sku": "E300104XXN",
+        "permalink": "https://energical.com/fr/produit/moniteur-noir-7-pouces/",
+        "stockStatus": "instock",
+        "categoryName": "Alarme sécurité de la maison",
+        "scrapedAt": "2026-08-18T22:40:31.136Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-E300106XXB",
+      "name": "Moniteur 4 fils 4.3 pouces VFE06",
+      "nameAr": "",
+      "brand": "Generic",
+      "barcode": "E300106XXB",
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 7472,
+      "salePrice": 8790,
+      "minStock": 10,
+      "image": "images/securite/ENERGICAL-E300106XXB.webp",
+      "aliases": [
+        "moniteur 4 fils 4.3 pouces vfe06",
+        "e300106xxb"
+      ],
+      "description": "Le Moniteur 4 fils 4,3 pouces VFE06 est un appareil de surveillance compact et efficace. Pesant seulement 0,53 kg et mesurant 28 × 15,2 × 6 cm, il est facile à installer. Ce modèle utilise un système à 4 fils, assurant une connexion stable et fiable. Livré en boîtes de 1 pièce et en cartons de 16 pièces pour un poids total de 7,6 kg. Il est couvert par une garantie de 2 ans, offrant une tranquillité d&rsquo;esprit durable.",
+      "categories": [
+        "Alarme sécurité de la maison",
+        "Visiophone système 4 fils"
+      ],
+      "source": {
+        "id": 11815,
+        "sku": "E300106XXB",
+        "permalink": "https://energical.com/fr/produit/moniteur-4-3-pouces-4fils-vfe06/",
+        "stockStatus": "instock",
+        "categoryName": "Alarme sécurité de la maison",
+        "scrapedAt": "2026-08-18T22:40:31.136Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-E300108XXB",
+      "name": "Moniteur avec combiné 4 fils VFE08",
+      "nameAr": "",
+      "brand": "Generic",
+      "barcode": "E300108XXB",
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 8407,
+      "salePrice": 9890,
+      "minStock": 10,
+      "image": "images/securite/ENERGICAL-E300108XXB.webp",
+      "aliases": [
+        "moniteur avec combiné 4 fils vfe08",
+        "e300108xxb"
+      ],
+      "description": "Le Moniteur avec combiné 4 fils VFE08 est un appareil de surveillance polyvalent et performant. Pesant 0,72 kg et mesurant 31,5 × 16 × 6 cm, il s&rsquo;intègre facilement dans tout environnement. Équipé d&rsquo;un système à 4 fils, il garantit une connexion stable et fiable. Livré en boîtes de 1 pièce et en cartons de 10 pièces pour un poids total de 7,68 kg. Il bénéficie d&rsquo;une garantie de 2 ans, assurant une tranquillité d&rsquo;esprit et une utilisation sans souci.",
+      "categories": [
+        "Alarme sécurité de la maison",
+        "Visiophone système 4 fils"
+      ],
+      "source": {
+        "id": 11810,
+        "sku": "E300108XXB",
+        "permalink": "https://energical.com/fr/produit/moniteur-avec-combine-vfe08/",
+        "stockStatus": "instock",
+        "categoryName": "Alarme sécurité de la maison",
+        "scrapedAt": "2026-08-18T22:40:31.136Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-E30010701N",
+      "name": "Sonnette 4 fils noir métallique VFE07",
+      "nameAr": "",
+      "brand": "Generic",
+      "barcode": "E30010701N",
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 5092,
+      "salePrice": 5990,
+      "minStock": 10,
+      "image": "images/securite/ENERGICAL-E30010701N.webp",
+      "aliases": [
+        "sonnette 4 fils noir métallique vfe07",
+        "e30010701n"
+      ],
+      "description": "La Sonnette 4 fils noir métallique VFE07 est un dispositif de sécurité moderne et élégant. Pesant seulement 0,29 kg et mesurant 18,6 × 12,5 × 6 cm, elle est facile à installer et ne prend pas beaucoup de place. Équipée d&rsquo;un système à 4 fils, elle garantit une connexion stable et fiable. Disponible en boîtes de 1 pièce et en cartons de 10 pièces pour un poids total de 4,48 kg. Elle est couverte par une garantie de 2 ans, offrant une tranquillité d&rsquo;esprit durable.",
+      "categories": [
+        "Alarme sécurité de la maison",
+        "Visiophone système 4 fils"
+      ],
+      "source": {
+        "id": 11805,
+        "sku": "E30010701N",
+        "permalink": "https://energical.com/fr/produit/sonnette-4fils-noir-metallique-economique/",
+        "stockStatus": "instock",
+        "categoryName": "Alarme sécurité de la maison",
+        "scrapedAt": "2026-08-18T22:40:31.136Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-11796",
+      "name": "Sonnette 4 fils VFE01",
+      "nameAr": "",
+      "brand": "Generic",
+      "barcode": null,
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 7472,
+      "salePrice": 8790,
+      "minStock": 10,
+      "image": "images/securite/ENERGICAL-11796.webp",
+      "aliases": [
+        "sonnette 4 fils vfe01"
+      ],
+      "description": "La Sonnette 4 fils VFE01 est un dispositif de sécurité fiable et polyvalent, disponible en couleurs gris et doré. Avec un poids de seulement 0,4 kg et des dimensions compactes de 18,7 × 12,5 × 6 cm, elle est facile à installer. Dotée d&rsquo;un système à 4 fils, elle offre une connexion stable et efficace. Livrée en boîtes de 1 pièce et en cartons de 10 pièces pour un poids total de 4,46 kg. Elle bénéficie d&rsquo;une garantie de 2 ans, assurant une utilisation sans souci.",
+      "categories": [
+        "Alarme sécurité de la maison",
+        "Visiophone système 4 fils"
+      ],
+      "source": {
+        "id": 11796,
+        "sku": "",
+        "permalink": "https://energical.com/fr/produit/sonnette-4fils-vfe01/",
+        "stockStatus": "instock",
+        "categoryName": "Alarme sécurité de la maison",
+        "scrapedAt": "2026-08-18T22:40:31.136Z"
+      }
+    }
+  ]
+}

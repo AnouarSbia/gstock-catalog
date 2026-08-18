@@ -125,6 +125,102 @@
       "name": "Energical",
       "nameAr": "إنرجيكال",
       "country": "Algérie"
+    },
+    {
+      "code": "diaa",
+      "name": "DIAA",
+      "nameAr": "دياا",
+      "country": "International"
+    },
+    {
+      "code": "noor",
+      "name": "NOOR",
+      "nameAr": "نور",
+      "country": "International"
+    },
+    {
+      "code": "adenium",
+      "name": "Adenium",
+      "nameAr": "أدينيوم",
+      "country": "International"
+    },
+    {
+      "code": "nir",
+      "name": "NIR",
+      "nameAr": "نير",
+      "country": "International"
+    },
+    {
+      "code": "sabah",
+      "name": "Sabah",
+      "nameAr": "صباح",
+      "country": "International"
+    },
+    {
+      "code": "fly",
+      "name": "Fly",
+      "nameAr": "فلاي",
+      "country": "International"
+    },
+    {
+      "code": "aura",
+      "name": "AURA",
+      "nameAr": "أورا",
+      "country": "International"
+    },
+    {
+      "code": "silk",
+      "name": "SILK",
+      "nameAr": "سيلك",
+      "country": "International"
+    },
+    {
+      "code": "razy",
+      "name": "Razy",
+      "nameAr": "رازي",
+      "country": "International"
+    },
+    {
+      "code": "amen",
+      "name": "Amen",
+      "nameAr": "آمن",
+      "country": "International"
+    },
+    {
+      "code": "serie-07",
+      "name": "Série 07",
+      "nameAr": "سيري 07",
+      "country": "International"
+    },
+    {
+      "code": "disa",
+      "name": "Disa",
+      "nameAr": "ديسا",
+      "country": "International"
+    },
+    {
+      "code": "oxalis",
+      "name": "Oxalis",
+      "nameAr": "أوكساليس",
+      "country": "International"
+    },
+    {
+      "code": "acacia",
+      "name": "Acacia",
+      "nameAr": "أكاسيا",
+      "country": "International"
+    },
+    {
+      "code": "tulip",
+      "name": "Tulip",
+      "nameAr": "توليب",
+      "country": "International"
+    },
+    {
+      "code": "confort",
+      "name": "Confort",
+      "nameAr": "كونفورت",
+      "country": "International"
     }
   ]
 }

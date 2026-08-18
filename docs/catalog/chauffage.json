@@ -1,0 +1,3652 @@
+{
+  "category": {
+    "code": "chauffage",
+    "name": "Chauffage",
+    "nameAr": "التدفئة"
+  },
+  "products": [
+    {
+      "code": "ENERGICAL-GCCD004860400",
+      "name": "Bloc de gaz chaudière à condensation",
+      "nameAr": "",
+      "brand": "Generic",
+      "barcode": "GCCD004860400",
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 9376,
+      "salePrice": 11030,
+      "minStock": 10,
+      "image": "images/chauffage/ENERGICAL-GCCD004860400.webp",
+      "aliases": [
+        "bloc de gaz chaudière à condensation",
+        "gccd004860400"
+      ],
+      "description": "",
+      "categories": [
+        "Pièces de rechange Chaudières",
+        "Pièces de rechange pour S.A.V."
+      ],
+      "source": {
+        "id": 50314,
+        "sku": "GCCD004860400",
+        "permalink": "https://energical.com/fr/produit/bloc-de-gaz-chaudiere-a-condensation/",
+        "stockStatus": "instock",
+        "categoryName": "Pièces de rechange Chaudières",
+        "scrapedAt": "2026-08-18T22:40:21.278Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-GCCD004845200",
+      "name": "Afficheur pour chaudière électrique",
+      "nameAr": "",
+      "brand": "Generic",
+      "barcode": "GCCD004845200",
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 3613,
+      "salePrice": 4250,
+      "minStock": 10,
+      "image": "images/chauffage/ENERGICAL-GCCD004845200.webp",
+      "aliases": [
+        "afficheur pour chaudière électrique",
+        "gccd004845200"
+      ],
+      "description": "",
+      "categories": [
+        "Pièces de rechange Chaudières",
+        "Pièces de rechange pour S.A.V."
+      ],
+      "source": {
+        "id": 50244,
+        "sku": "GCCD004845200",
+        "permalink": "https://energical.com/fr/produit/afficheur-pour-chaudiere-electrique/",
+        "stockStatus": "instock",
+        "categoryName": "Pièces de rechange Chaudières",
+        "scrapedAt": "2026-08-18T22:40:21.278Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-GCCD124849800",
+      "name": "Carte de commande principale pour chaudière électrique 12kW",
+      "nameAr": "",
+      "brand": "Generic",
+      "barcode": "GCCD124849800",
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 10795,
+      "salePrice": 12700,
+      "minStock": 10,
+      "image": "images/chauffage/ENERGICAL-GCCD124849800.webp",
+      "aliases": [
+        "carte de commande principale pour chaudière électrique 12kw",
+        "gccd124849800"
+      ],
+      "description": "La carte de contrôle électronique est un composant essentiel pour la gestion optimale de chaudière électrique 12 kW. Pesant 0,60 kg, elle intègre des technologies avancées pour assurer un contrôle précis et fiable de votre système de chauffage. Cette carte optimise les performances de la chaudière, régule les paramètres critiques et améliore l&rsquo;efficacité énergétique. Facile à installer, elle offre une surveillance continue et une protection renforcée, garantissant ainsi la longévité et la ",
+      "categories": [
+        "Pièces de rechange Chaudières",
+        "Pièces de rechange pour S.A.V."
+      ],
+      "source": {
+        "id": 50243,
+        "sku": "GCCD124849800",
+        "permalink": "https://energical.com/fr/produit/carte-de-commande-principale-pour-chaudiere-electrique-12kw/",
+        "stockStatus": "instock",
+        "categoryName": "Pièces de rechange Chaudières",
+        "scrapedAt": "2026-08-18T22:40:21.278Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-GCCD244849900",
+      "name": "Carte de commande principale pour chaudière électrique 24kW",
+      "nameAr": "",
+      "brand": "Generic",
+      "barcode": "GCCD244849900",
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 13175,
+      "salePrice": 15500,
+      "minStock": 10,
+      "image": "images/chauffage/ENERGICAL-GCCD244849900.webp",
+      "aliases": [
+        "carte de commande principale pour chaudière électrique 24kw",
+        "gccd244849900"
+      ],
+      "description": "La carte de contrôle électronique est un composant essentiel pour la gestion optimale de chaudière électrique 24 kW. Pesant 0,60 kg, elle intègre des technologies avancées pour assurer un contrôle précis et fiable de votre système de chauffage. Cette carte optimise les performances de la chaudière, régule les paramètres critiques et améliore l&rsquo;efficacité énergétique. Facile à installer, elle offre une surveillance continue et une protection renforcée, garantissant ainsi la longévité et la ",
+      "categories": [
+        "Pièces de rechange Chaudières",
+        "Pièces de rechange pour S.A.V."
+      ],
+      "source": {
+        "id": 49746,
+        "sku": "GCCD244849900",
+        "permalink": "https://energical.com/fr/produit/carte-de-commande-principale/",
+        "stockStatus": "instock",
+        "categoryName": "Pièces de rechange Chaudières",
+        "scrapedAt": "2026-08-18T22:40:21.279Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-GCD2448413",
+      "name": "Chaudière Électrique 24 kW",
+      "nameAr": "",
+      "brand": "Generic",
+      "barcode": "GCD2448413",
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 91800,
+      "salePrice": 108000,
+      "minStock": 10,
+      "image": "images/chauffage/ENERGICAL-GCD2448413.webp",
+      "aliases": [
+        "chaudière électrique 24 kw",
+        "gcd2448413"
+      ],
+      "description": "La chaudière électrique ENERGICAL 24 kW est une solution performante destinée aux installations de chauffage central nécessitant une puissance supérieure.\nSon format mural facilite son intégration dans différents espaces tout en garantissant une utilisation pratique et économique.\nElle dispose d’un système de réglage permettant d’adapter la température de chauffage selon les besoins de l’utilisateur.\nAvantages du produit :\n✔ Grande puissance de chauffage 24 kW✔ Idéale pour grandes surfaces✔ Inst",
+      "categories": [
+        "Chaudières",
+        "Chauffage et régulation gaz",
+        "Sanitaire et Plomberie"
+      ],
+      "source": {
+        "id": 49438,
+        "sku": "GCD2448413",
+        "permalink": "https://energical.com/fr/produit/chaudiere-electrique-24-kw/",
+        "stockStatus": "instock",
+        "categoryName": "Chaudières",
+        "scrapedAt": "2026-08-18T22:40:21.279Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-GCD1248412",
+      "name": "Chaudière Électrique 12 kW",
+      "nameAr": "",
+      "brand": "Generic",
+      "barcode": "GCD1248412",
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 78625,
+      "salePrice": 92500,
+      "minStock": 10,
+      "image": "images/chauffage/ENERGICAL-GCD1248412.webp",
+      "aliases": [
+        "chaudière électrique 12 kw",
+        "gcd1248412"
+      ],
+      "description": "La chaudière électrique ENERGICAL 12 kW est conçue pour alimenter les systèmes de chauffage central résidentiels et professionnels.\nGrâce à sa conception murale compacte, elle permet un gain d’espace tout en offrant une puissance adaptée aux besoins de chauffage.\nElle fonctionne avec une alimentation électrique 220V / 50Hz et garantit une montée en température rapide avec une régulation de chauffage réglable.\nAvantages du produit :\n✔ Installation murale peu encombrante✔ Chauffage électrique fiab",
+      "categories": [
+        "Chaudières",
+        "Chauffage et régulation gaz",
+        "Sanitaire et Plomberie"
+      ],
+      "source": {
+        "id": 49436,
+        "sku": "GCD1248412",
+        "permalink": "https://energical.com/fr/produit/chaudiere-electrique-12-kw/",
+        "stockStatus": "instock",
+        "categoryName": "Chaudières",
+        "scrapedAt": "2026-08-18T22:40:21.279Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-GCD3648559",
+      "name": "Chaudière à condensation QL-DO36",
+      "nameAr": "",
+      "brand": "Generic",
+      "barcode": "GCD3648559",
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 129200,
+      "salePrice": 152000,
+      "minStock": 10,
+      "image": "images/chauffage/ENERGICAL-GCD3648559.webp",
+      "aliases": [
+        "chaudière à condensation ql-do36",
+        "gcd3648559"
+      ],
+      "description": "La chaudière à condensation QL-DO36 de 36 kW offre une performance énergétique optimale pour le chauffage domestique.Grâce à la technologie de condensation, elle permet une réduction significative de la consommation de gaz tout en garantissant un confort thermique constant.\nIdéale pour les habitations de moyenne à grande surface, elle combine rendement élevé, fiabilité et faible émission polluante.",
+      "categories": [
+        "Chaudières",
+        "Chauffage et régulation gaz",
+        "Sanitaire et Plomberie"
+      ],
+      "source": {
+        "id": 49432,
+        "sku": "GCD3648559",
+        "permalink": "https://energical.com/fr/produit/chaudiere-a-condensation-ql-do36/",
+        "stockStatus": "instock",
+        "categoryName": "Chaudières",
+        "scrapedAt": "2026-08-18T22:40:21.279Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-WBSAR00001",
+      "name": "Baguette d&rsquo;Argent à Souder Sans Cadmium",
+      "nameAr": "",
+      "brand": "Generic",
+      "barcode": "WBSAR00001",
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 485,
+      "salePrice": 570,
+      "minStock": 10,
+      "image": "images/chauffage/ENERGICAL-WBSAR00001.webp",
+      "aliases": [
+        "baguette d&rsquo;argent à souder sans cadmium",
+        "wbsar00001"
+      ],
+      "description": "Baguette d&rsquo;Argent à Souder Sans Cadmium &#8211; Performance et Sécurité\nLa baguette d&rsquo;argent à souder sans cadmium représente l&rsquo;innovation en matière de brasure pour professionnels et bricoleurs exigeants. Avec sa composition 5% d&rsquo;argent, elle offre des performances de brasure supérieures tout en respectant votre santé et l&rsquo;environnement grâce à l&rsquo;absence totale de cadmium.\nPourquoi choisir notre baguette sans cadmium ?\nLe cadmium est reconnu comme substance d",
+      "categories": [
+        "Chauffage et régulation gaz",
+        "Outillage chauffage",
+        "Sanitaire et Plomberie"
+      ],
+      "source": {
+        "id": 48712,
+        "sku": "WBSAR00001",
+        "permalink": "https://energical.com/fr/produit/baguette-dargent-a-souder-sans-cadmium/",
+        "stockStatus": "instock",
+        "categoryName": "Chauffage et régulation gaz",
+        "scrapedAt": "2026-08-18T22:40:21.279Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-GCCH16ETC0300",
+      "name": "Brûleur pour chauffe-eau à T° const WCT 16L",
+      "nameAr": "",
+      "brand": "Generic",
+      "barcode": "GCCH16ETC0300",
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 952,
+      "salePrice": 1120,
+      "minStock": 10,
+      "image": "images/chauffage/ENERGICAL-GCCH16ETC0300.webp",
+      "aliases": [
+        "brûleur pour chauffe-eau à t° const wct 16l",
+        "gcch16etc0300"
+      ],
+      "description": "Découvrez notre Brûleur pour Chauffe-eau à Température Constante, conçu spécifiquement pour le chauffe-eau WCT-16L. Profitez d&rsquo;une performance fiable et d&rsquo;une température d&rsquo;eau constante pour répondre à vos besoins en eau chaude. Ce brûleur assure une combustion efficace et une distribution homogène de la chaleur, garantissant une utilisation économe en énergie. Profitez d&rsquo;une eau chaude à la température idéale, sans fluctuation, pour un confort maximal au quotidien.",
+      "categories": [
+        "Pièces de rechange chauffe-eau à température constante",
+        "Pièces de rechange pour S.A.V."
+      ],
+      "source": {
+        "id": 47814,
+        "sku": "GCCH16ETC0300",
+        "permalink": "https://energical.com/fr/produit/bruleur-pour-chauffe-eau-a-t-const-wct-16l/",
+        "stockStatus": "instock",
+        "categoryName": "Pièces de rechange chauffe-eau à température constante",
+        "scrapedAt": "2026-08-18T22:40:21.279Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-GCD3648551",
+      "name": "Chaudière chauffage seul SL-NL36",
+      "nameAr": "",
+      "brand": "Generic",
+      "barcode": "GCD3648551",
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 101150,
+      "salePrice": 119000,
+      "minStock": 10,
+      "image": "images/chauffage/ENERGICAL-GCD3648551.webp",
+      "aliases": [
+        "chaudière chauffage seul sl-nl36",
+        "gcd3648551"
+      ],
+      "description": "La chaudière SL-NL36 est une solution performante dédiée au chauffage central, conçue pour fonctionner avec un chauffe-eau séparé.Elle offre une puissance élevée de 36 kW, idéale pour les grandes surfaces ou installations nécessitant un fort rendement thermique.\nFonctionnant au gaz naturel, elle garantit une utilisation fiable et économique.",
+      "categories": [
+        "Chaudières",
+        "Chauffage et régulation gaz"
+      ],
+      "source": {
+        "id": 47812,
+        "sku": "GCD3648551",
+        "permalink": "https://energical.com/fr/produit/chaudiere-chauffage-seul-sl-nl36/",
+        "stockStatus": "instock",
+        "categoryName": "Chaudières",
+        "scrapedAt": "2026-08-18T22:40:21.279Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-GCD3048559",
+      "name": "Chaudière à condensation QL-DO30",
+      "nameAr": "",
+      "brand": "Generic",
+      "barcode": "GCD3048559",
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 118575,
+      "salePrice": 139500,
+      "minStock": 10,
+      "image": "images/chauffage/ENERGICAL-GCD3048559.webp",
+      "aliases": [
+        "chaudière à condensation ql-do30",
+        "gcd3048559"
+      ],
+      "description": "La chaudière à condensation QL-DO30 de 30 kW offre une performance énergétique optimale pour le chauffage domestique.Grâce à la technologie de condensation, elle permet une réduction significative de la consommation de gaz tout en garantissant un confort thermique constant.\nIdéale pour les habitations de moyenne à grande surface, elle combine rendement élevé, fiabilité et faible émission polluante.",
+      "categories": [
+        "Chaudières",
+        "Chauffage et régulation gaz",
+        "Sanitaire et Plomberie"
+      ],
+      "source": {
+        "id": 47269,
+        "sku": "GCD3048559",
+        "permalink": "https://energical.com/fr/produit/chaudiere-a-condensation-ql-do30/",
+        "stockStatus": "instock",
+        "categoryName": "Chaudières",
+        "scrapedAt": "2026-08-18T22:40:21.279Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-GCD2448550",
+      "name": "Chaudière chauffage seul SL-NM24",
+      "nameAr": "",
+      "brand": "Generic",
+      "barcode": "GCD2448550",
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 76500,
+      "salePrice": 90000,
+      "minStock": 10,
+      "image": "images/chauffage/ENERGICAL-GCD2448550.webp",
+      "aliases": [
+        "chaudière chauffage seul sl-nm24",
+        "gcd2448550"
+      ],
+      "description": "La chaudière chauffage seul SL-NM24 est conçue pour assurer exclusivement le chauffage des espaces, sans production d’eau chaude sanitaire intégrée.Elle constitue une solution idéale pour les installations disposant déjà d’un chauffe-eau indépendant ou pour les projets nécessitant une séparation entre chauffage et ECS.\nAvec sa puissance de 24 kW, cette chaudière garantit un confort thermique optimal pour les habitations de taille moyenne ainsi que pour les locaux professionnels. Sa conception ro",
+      "categories": [
+        "Chaudières",
+        "Chauffage et régulation gaz"
+      ],
+      "source": {
+        "id": 46994,
+        "sku": "GCD2448550",
+        "permalink": "https://energical.com/fr/produit/chaudiere-sl-nm24/",
+        "stockStatus": "instock",
+        "categoryName": "Chaudières",
+        "scrapedAt": "2026-08-18T22:40:21.279Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-GCD2448558",
+      "name": "Chaudière à condensation QL-DO24",
+      "nameAr": "",
+      "brand": "Generic",
+      "barcode": "GCD2448558",
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 97750,
+      "salePrice": 115000,
+      "minStock": 10,
+      "image": "images/chauffage/ENERGICAL-GCD2448558.webp",
+      "aliases": [
+        "chaudière à condensation ql-do24",
+        "gcd2448558"
+      ],
+      "description": "La chaudière à condensation QL-DO24 est une solution moderne et performante pour le chauffage domestique. Grâce à la technologie de condensation, elle récupère la chaleur latente contenue dans les fumées de combustion afin d’optimiser le rendement énergétique et réduire la consommation de gaz.\nConçue pour les installations murales, elle convient parfaitement aux appartements et maisons individuelles nécessitant une puissance de 24 kW. Son fonctionnement silencieux, sa compacité et sa simplicité ",
+      "categories": [
+        "Chaudières",
+        "Chauffage et régulation gaz",
+        "Sanitaire et Plomberie"
+      ],
+      "source": {
+        "id": 46593,
+        "sku": "GCD2448558",
+        "permalink": "https://energical.com/fr/produit/chaudiere-a-condensation-ql-do24/",
+        "stockStatus": "instock",
+        "categoryName": "Chaudières",
+        "scrapedAt": "2026-08-18T22:40:21.279Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-GCCD45T454800",
+      "name": "Ventilateur 67W",
+      "nameAr": "",
+      "brand": "Generic",
+      "barcode": "GCCD45T454800",
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 7098,
+      "salePrice": 8350,
+      "minStock": 10,
+      "image": "images/chauffage/ENERGICAL-GCCD45T454800.webp",
+      "aliases": [
+        "ventilateur 67w",
+        "gccd45t454800"
+      ],
+      "description": "Le ventilateur 67W est spécialement conçu pour les chaudières de 45 kW, offrant une ventilation efficace dans un format compact. Avec un poids de seulement 1,34 kg, il est facile à installer et à manipuler. Ce ventilateur de haute qualité assure une circulation d&rsquo;air optimale, contribuant ainsi à maximiser l&rsquo;efficacité énergétique de votre système de chauffage. Robuste et fiable, il garantit une performance constante pour maintenir un environnement confortable.",
+      "categories": [
+        "Pièces de rechange Chaudières",
+        "Pièces de rechange pour S.A.V."
+      ],
+      "source": {
+        "id": 46437,
+        "sku": "GCCD45T454800",
+        "permalink": "https://energical.com/fr/produit/ventilateur-67w/",
+        "stockStatus": "instock",
+        "categoryName": "Pièces de rechange Chaudières",
+        "scrapedAt": "2026-08-18T22:40:21.279Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-GCCD18H182100",
+      "name": "Echangeur de chaleur à plaques 10",
+      "nameAr": "",
+      "brand": "Generic",
+      "barcode": "GCCD18H182100",
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 3417,
+      "salePrice": 4020,
+      "minStock": 10,
+      "image": "images/chauffage/ENERGICAL-GCCD18H182100.webp",
+      "aliases": [
+        "echangeur de chaleur à plaques 10",
+        "gccd18h182100"
+      ],
+      "description": "L&rsquo;échangeur de chaleur à plaques 10 est un composant essentiel de votre système de chauffage. Avec une puissance de chaudière de 18 kW, il assure un transfert de chaleur efficace pour maintenir votre espace confortablement chauffé. Léger avec un poids de seulement 0,76 kg, il est facile à installer et offre une performance fiable. Profitez d&rsquo;une solution de chauffage optimale pour répondre à vos besoins de confort thermique avec cet échangeur de chaleur à plaques de qualité.",
+      "categories": [
+        "Pièces de rechange Chaudières",
+        "Pièces de rechange pour S.A.V."
+      ],
+      "source": {
+        "id": 46434,
+        "sku": "GCCD18H182100",
+        "permalink": "https://energical.com/fr/produit/echangeur-de-chaleur-a-plaques-10/",
+        "stockStatus": "instock",
+        "categoryName": "Pièces de rechange Chaudières",
+        "scrapedAt": "2026-08-18T22:40:21.279Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-GCCD18H181800",
+      "name": "Vase d’expansion 6L-18kW",
+      "nameAr": "",
+      "brand": "Generic",
+      "barcode": "GCCD18H181800",
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 4284,
+      "salePrice": 5040,
+      "minStock": 10,
+      "image": "images/chauffage/ENERGICAL-GCCD18H181800.webp",
+      "aliases": [
+        "vase d’expansion 6l-18kw",
+        "gccd18h181800"
+      ],
+      "description": "Le vase d’expansion 6L est un composant crucial pour les systèmes de chauffage, offrant une capacité généreuse pour absorber les variations de pression. Avec un poids de 4,86 kg, ce vase est conçu pour la chaudière 18 kW, assurant une performance optimale. Son volume de 6 litres permet une expansion contrôlée du liquide de refroidissement, évitant ainsi les surpressions. Robuste et fiable, ce vase d’expansion prolonge la durée de vie de votre système de chauffage tout en assurant une sécurité ac",
+      "categories": [
+        "Pièces de rechange Chaudières",
+        "Pièces de rechange pour S.A.V."
+      ],
+      "source": {
+        "id": 46277,
+        "sku": "GCCD18H181800",
+        "permalink": "https://energical.com/fr/produit/vase-dexpansion-6l-18kw/",
+        "stockStatus": "instock",
+        "categoryName": "Pièces de rechange Chaudières",
+        "scrapedAt": "2026-08-18T22:40:21.279Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-GCCD45T45700",
+      "name": "Vase d’expansion 12L",
+      "nameAr": "",
+      "brand": "Generic",
+      "barcode": "GCCD45T45700",
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 7098,
+      "salePrice": 8350,
+      "minStock": 10,
+      "image": "images/chauffage/ENERGICAL-GCCD45T45700.webp",
+      "aliases": [
+        "vase d’expansion 12l",
+        "gccd45t45700"
+      ],
+      "description": "Le vase d’expansion 12L est un composant crucial pour les systèmes de chauffage, offrant une capacité généreuse pour absorber les variations de pression. Avec un poids de 4,86 kg, ce vase est conçu pour la chaudière 46 kW, assurant une performance optimale. Son volume de 12 litres permet une expansion contrôlée du liquide de refroidissement, évitant ainsi les surpressions. Robuste et fiable, ce vase d’expansion prolonge la durée de vie de votre système de chauffage tout en assurant une sécurité ",
+      "categories": [
+        "Pièces de rechange Chaudières",
+        "Pièces de rechange pour S.A.V."
+      ],
+      "source": {
+        "id": 46276,
+        "sku": "GCCD45T45700",
+        "permalink": "https://energical.com/fr/produit/vase-dexpansion-12l/",
+        "stockStatus": "instock",
+        "categoryName": "Pièces de rechange Chaudières",
+        "scrapedAt": "2026-08-18T22:40:21.279Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-GCCH16ETC0600",
+      "name": "Ventilateur DC 36V pour chauffe-eau à T° const WCT 16L",
+      "nameAr": "",
+      "brand": "Generic",
+      "barcode": "GCCH16ETC0600",
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 1649,
+      "salePrice": 1940,
+      "minStock": 10,
+      "image": "images/chauffage/ENERGICAL-GCCH16ETC0600.webp",
+      "aliases": [
+        "ventilateur dc 36v pour chauffe-eau à t° const wct 16l",
+        "gcch16etc0600"
+      ],
+      "description": "Améliorez la circulation de l&rsquo;air autour de votre chauffe-eau avec le ventilateur DC 36V spécialement conçu pour les modèles à température constante comme le WCT-16L. Ce ventilateur efficace assure un refroidissement optimal, prolongeant ainsi la durée de vie de votre chauffe-eau et garantissant un fonctionnement fiable. Profitez d&rsquo;une température constante de l&rsquo;eau et d&rsquo;une performance accrue avec cet accessoire essentiel. Facile à installer et économe en énergie, ce ven",
+      "categories": [
+        "Pièces de rechange chauffe-eau à température constante",
+        "Pièces de rechange pour S.A.V."
+      ],
+      "source": {
+        "id": 46254,
+        "sku": "GCCH16ETC0600",
+        "permalink": "https://energical.com/fr/produit/ventilateur-dc-36v-pour-chauffe-eau-a-t-const-wct-16l/",
+        "stockStatus": "instock",
+        "categoryName": "Pièces de rechange chauffe-eau à température constante",
+        "scrapedAt": "2026-08-18T22:40:21.279Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-GCCH16ETC0100",
+      "name": "Echangeur pour chauffe-eau à T° const WCT 16L",
+      "nameAr": "",
+      "brand": "Generic",
+      "barcode": "GCCH16ETC0100",
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 12725,
+      "salePrice": 14970,
+      "minStock": 10,
+      "image": "images/chauffage/ENERGICAL-GCCH16ETC0100.webp",
+      "aliases": [
+        "echangeur pour chauffe-eau à t° const wct 16l",
+        "gcch16etc0100"
+      ],
+      "description": "Optimisez l&rsquo;efficacité de votre chauffe-eau avec l&rsquo;échangeur spécialement conçu pour les modèles à température constante comme le WCT-16L. Cet échangeur de chaleur de haute qualité garantit un transfert thermique optimal, assurant ainsi une montée en température rapide et une consommation énergétique réduite. Profitez d&rsquo;une eau toujours à la température idéale, avec une performance accrue et une fiabilité garantie. Facile à installer et durable, cet échangeur est un choix essen",
+      "categories": [
+        "Pièces de rechange chauffe-eau à température constante",
+        "Pièces de rechange pour S.A.V."
+      ],
+      "source": {
+        "id": 46253,
+        "sku": "GCCH16ETC0100",
+        "permalink": "https://energical.com/fr/produit/echangeur-pour-chauffe-eau-a-t-const-wct-16l/",
+        "stockStatus": "instock",
+        "categoryName": "Pièces de rechange chauffe-eau à température constante",
+        "scrapedAt": "2026-08-18T22:40:21.279Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-GCDFGGF340",
+      "name": "Filtre à gaz pour chaudière à connexion G3/4&Prime;M &#8211; G3/4&Prime;F",
+      "nameAr": "",
+      "brand": "Generic",
+      "barcode": "GCDFGGF340",
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 1360,
+      "salePrice": 1600,
+      "minStock": 10,
+      "image": "images/chauffage/ENERGICAL-GCDFGGF340.webp",
+      "aliases": [
+        "filtre à gaz pour chaudière à connexion g3/4&prime;m &#8211; g3/4&prime;f",
+        "gcdfggf340"
+      ],
+      "description": "",
+      "categories": [
+        "Chaudières",
+        "Chauffage et régulation gaz",
+        "Sanitaire et Plomberie"
+      ],
+      "source": {
+        "id": 46210,
+        "sku": "GCDFGGF340",
+        "permalink": "https://energical.com/fr/produit/filtre-a-gaz-pour-chaudiere-a-connexion-g3-4-m-g3-4f/",
+        "stockStatus": "instock",
+        "categoryName": "Chaudières",
+        "scrapedAt": "2026-08-18T22:40:21.279Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-GCDFGGF120",
+      "name": "Filtre à gaz pour chaudière à connexion G1/2&Prime;M &#8211; G3/4&Prime;F",
+      "nameAr": "",
+      "brand": "Generic",
+      "barcode": "GCDFGGF120",
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 1105,
+      "salePrice": 1300,
+      "minStock": 10,
+      "image": "images/chauffage/ENERGICAL-GCDFGGF120.webp",
+      "aliases": [
+        "filtre à gaz pour chaudière à connexion g1/2&prime;m &#8211; g3/4&prime;f",
+        "gcdfggf120"
+      ],
+      "description": "",
+      "categories": [
+        "Chaudières",
+        "Chauffage et régulation gaz",
+        "Sanitaire et Plomberie"
+      ],
+      "source": {
+        "id": 46209,
+        "sku": "GCDFGGF120",
+        "permalink": "https://energical.com/fr/produit/filtre-a-gaz-pour-chaudiere-a-connexion-g1-2-m-g3-4f/",
+        "stockStatus": "instock",
+        "categoryName": "Chaudières",
+        "scrapedAt": "2026-08-18T22:40:21.279Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-GCCD45T452900",
+      "name": "Pompe Shinhoo 270W",
+      "nameAr": "",
+      "brand": "Generic",
+      "barcode": "GCCD45T452900",
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 20400,
+      "salePrice": 24000,
+      "minStock": 10,
+      "image": "images/chauffage/ENERGICAL-GCCD45T452900.webp",
+      "aliases": [
+        "pompe shinhoo 270w",
+        "gccd45t452900"
+      ],
+      "description": "La pompe Shinhoo est conçue pour une performance optimale avec les chaudières de 45 kW. Avec une puissance de 270 W, elle assure une circulation efficace de l&rsquo;eau dans votre système de chauffage. Robuste et fiable, cette pompe garantit un fonctionnement continu et une distribution uniforme de la chaleur. Son design compact permet une installation facile et un fonctionnement silencieux, assurant ainsi un confort optimal dans votre espace.",
+      "categories": [
+        "Pièces de rechange Chaudières",
+        "Pièces de rechange pour S.A.V.",
+        "Sanitaire et Plomberie"
+      ],
+      "source": {
+        "id": 45923,
+        "sku": "GCCD45T452900",
+        "permalink": "https://energical.com/fr/produit/pompe-shinhoo-gpd20-12s/",
+        "stockStatus": "instock",
+        "categoryName": "Pièces de rechange Chaudières",
+        "scrapedAt": "2026-08-18T22:40:21.279Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-GCD4548412",
+      "name": "Filtre magnétique pour chaudière à connexion G »",
+      "nameAr": "",
+      "brand": "Generic",
+      "barcode": "GCD4548412",
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 7225,
+      "salePrice": 8500,
+      "minStock": 10,
+      "image": "images/chauffage/ENERGICAL-GCD4548412.webp",
+      "aliases": [
+        "filtre magnétique pour chaudière à connexion g »",
+        "gcd4548412"
+      ],
+      "description": "",
+      "categories": [
+        "Chaudières",
+        "Chauffage et régulation gaz",
+        "Sanitaire et Plomberie"
+      ],
+      "source": {
+        "id": 45282,
+        "sku": "GCD4548412",
+        "permalink": "https://energical.com/fr/produit/filtre-magnetique-pour-chaudiere-a-connexion-g1/",
+        "stockStatus": "instock",
+        "categoryName": "Chaudières",
+        "scrapedAt": "2026-08-18T22:40:21.279Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-GKCD004832700",
+      "name": "Filtre magnétique pour chaudière à connexion G3/4&Prime;",
+      "nameAr": "",
+      "brand": "Generic",
+      "barcode": "GKCD004832700",
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 3315,
+      "salePrice": 3900,
+      "minStock": 10,
+      "image": "images/chauffage/ENERGICAL-GKCD004832700.webp",
+      "aliases": [
+        "filtre magnétique pour chaudière à connexion g3/4&prime;",
+        "gkcd004832700"
+      ],
+      "description": "",
+      "categories": [
+        "Chaudières",
+        "Chauffage et régulation gaz",
+        "Sanitaire et Plomberie"
+      ],
+      "source": {
+        "id": 45196,
+        "sku": "GKCD004832700",
+        "permalink": "https://energical.com/fr/produit/filtre-magnetique-pour-chaudiere-a-connexion-g3-4/",
+        "stockStatus": "instock",
+        "categoryName": "Chaudières",
+        "scrapedAt": "2026-08-18T22:40:21.279Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-45161",
+      "name": "Sèche-serviettes barres rondes 80 cm",
+      "nameAr": "",
+      "brand": "Generic",
+      "barcode": null,
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 8075,
+      "salePrice": 9500,
+      "minStock": 10,
+      "image": "images/chauffage/ENERGICAL-45161.webp",
+      "aliases": [
+        "sèche-serviettes barres rondes 80 cm"
+      ],
+      "description": "Alliez confort et élégance dans votre salle de bain avec ce sèche-serviettes eau chaude à barres rondes en aluminium.Conçu pour les installations de chauffage central, il offre une montée en température rapide et une grande résistance grâce à sa finition thermolaquée par poudre électrostatique.Disponible en blanc, gris et noir, ce modèle combine performance, durabilité et design moderne, tout en étant couvert par une garantie de 2 ans pour une utilisation en toute sérénité.",
+      "categories": [
+        "Chauffage et régulation gaz",
+        "Radiateurs et sèches-serviettes",
+        "Sanitaire et Plomberie"
+      ],
+      "source": {
+        "id": 45161,
+        "sku": "",
+        "permalink": "https://energical.com/fr/produit/seche-serviettes-barres-rondes-80-cm/",
+        "stockStatus": "instock",
+        "categoryName": "Chauffage et régulation gaz",
+        "scrapedAt": "2026-08-18T22:40:21.279Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-45145",
+      "name": "Sèche-serviettes barres plates 80 cm",
+      "nameAr": "",
+      "brand": "Generic",
+      "barcode": null,
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 10200,
+      "salePrice": 12000,
+      "minStock": 10,
+      "image": "images/chauffage/ENERGICAL-45145.webp",
+      "aliases": [
+        "sèche-serviettes barres plates 80 cm"
+      ],
+      "description": "Alliez confort et élégance dans votre salle de bain avec ce sèche-serviettes eau chaude à barres plates en aluminium.Conçu pour les installations de chauffage central, il offre une montée en température rapide et une grande résistance grâce à sa finition thermolaquée par poudre électrostatique.Disponible en blanc, gris anthracite et noir mat, ce modèle combine performance, durabilité et design moderne, tout en étant couvert par une garantie de 2 ans pour une utilisation en toute sérénité.",
+      "categories": [
+        "Chauffage et régulation gaz",
+        "Radiateurs et sèches-serviettes",
+        "Sanitaire et Plomberie"
+      ],
+      "source": {
+        "id": 45145,
+        "sku": "",
+        "permalink": "https://energical.com/fr/produit/seche-serviettes-barres-plates-80-cm/",
+        "stockStatus": "instock",
+        "categoryName": "Chauffage et régulation gaz",
+        "scrapedAt": "2026-08-18T22:40:21.279Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-GCCD18H181100",
+      "name": "Ventilateur 25W",
+      "nameAr": "",
+      "brand": "Generic",
+      "barcode": "GCCD18H181100",
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 3621,
+      "salePrice": 4260,
+      "minStock": 10,
+      "image": "images/chauffage/ENERGICAL-GCCD18H181100.webp",
+      "aliases": [
+        "ventilateur 25w",
+        "gccd18h181100"
+      ],
+      "description": "Le ventilateur 25W est spécialement conçu pour les chaudières de 18 kW, offrant une ventilation efficace dans un format compact. Avec un poids de seulement 1,34 kg, il est facile à installer et à manipuler. Ce ventilateur de haute qualité assure une circulation d&rsquo;air optimale, contribuant ainsi à maximiser l&rsquo;efficacité énergétique de votre système de chauffage. Robuste et fiable, il garantit une performance constante pour maintenir un environnement confortable.",
+      "categories": [
+        "Pièces de rechange Chaudières",
+        "Pièces de rechange pour S.A.V."
+      ],
+      "source": {
+        "id": 43993,
+        "sku": "GCCD18H181100",
+        "permalink": "https://energical.com/fr/produit/ventilateur-25w/",
+        "stockStatus": "instock",
+        "categoryName": "Pièces de rechange Chaudières",
+        "scrapedAt": "2026-08-18T22:40:21.279Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-GCCD003262800",
+      "name": "Vanne à 3 voies 7M-32kW-36kW",
+      "nameAr": "",
+      "brand": "Generic",
+      "barcode": "GCCD003262800",
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 2933,
+      "salePrice": 3450,
+      "minStock": 10,
+      "image": "images/chauffage/ENERGICAL-GCCD003262800.webp",
+      "aliases": [
+        "vanne à 3 voies 7m-32kw-36kw",
+        "gccd003262800"
+      ],
+      "description": "",
+      "categories": [
+        "Pièces de rechange Chaudières",
+        "Pièces de rechange pour S.A.V.",
+        "Sanitaire et Plomberie"
+      ],
+      "source": {
+        "id": 42635,
+        "sku": "GCCD003262800",
+        "permalink": "https://energical.com/fr/produit/vanne-a-3-voies-7m-32kw-36kw/",
+        "stockStatus": "instock",
+        "categoryName": "Pièces de rechange Chaudières",
+        "scrapedAt": "2026-08-18T22:40:21.280Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-GCCD00H481200",
+      "name": "Panneau de commande avec boutons de contrôle Q",
+      "nameAr": "",
+      "brand": "Generic",
+      "barcode": "GCCD00H481200",
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 5627,
+      "salePrice": 6620,
+      "minStock": 10,
+      "image": "images/chauffage/ENERGICAL-GCCD00H481200.webp",
+      "aliases": [
+        "panneau de commande avec boutons de contrôle q",
+        "gccd00h481200"
+      ],
+      "description": "",
+      "categories": [
+        "Pièces de rechange Chaudières",
+        "Pièces de rechange pour S.A.V.",
+        "Sanitaire et Plomberie"
+      ],
+      "source": {
+        "id": 42630,
+        "sku": "GCCD00H481200",
+        "permalink": "https://energical.com/fr/produit/panneau-de-commande-avec-boutons-de-controle-q/",
+        "stockStatus": "instock",
+        "categoryName": "Pièces de rechange Chaudières",
+        "scrapedAt": "2026-08-18T22:40:21.280Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-GCCDMG2481500",
+      "name": "Vanne à 3 voies 6M-24kW-28kW",
+      "nameAr": "",
+      "brand": "Generic",
+      "barcode": "GCCDMG2481500",
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 2933,
+      "salePrice": 3450,
+      "minStock": 10,
+      "image": "images/chauffage/ENERGICAL-GCCDMG2481500.webp",
+      "aliases": [
+        "vanne à 3 voies 6m-24kw-28kw",
+        "gccdmg2481500"
+      ],
+      "description": "",
+      "categories": [
+        "Pièces de rechange Chaudières",
+        "Pièces de rechange pour S.A.V.",
+        "Sanitaire et Plomberie"
+      ],
+      "source": {
+        "id": 42376,
+        "sku": "GCCDMG2481500",
+        "permalink": "https://energical.com/fr/produit/vanne-a-3-voies-6m/",
+        "stockStatus": "instock",
+        "categoryName": "Pièces de rechange Chaudières",
+        "scrapedAt": "2026-08-18T22:40:21.280Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-GCU10CE100",
+      "name": "Cumulus électrique 100L",
+      "nameAr": "",
+      "brand": "Generic",
+      "barcode": "GCU10CE100",
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 23290,
+      "salePrice": 27400,
+      "minStock": 10,
+      "image": "images/chauffage/ENERGICAL-GCU10CE100.webp",
+      "aliases": [
+        "cumulus électrique 100l",
+        "gcu10ce100"
+      ],
+      "description": "Sélecteur de température;\n\n\nCapteur de température;\n\n\nLampe témoin de fonctionnement;\n\n\nRéservoir en ACIER émaillé par quatre couches pour une durée de vie prolongée;\n\n\nProtège l’intérieur du réservoir, maintient la pression en dessous de 8 bars et permet la vidange du réservoir;\n\nThermoplongeur en cuivre équipé d&rsquo;une anode en magnésium.",
+      "categories": [
+        "Chauffage et régulation gaz",
+        "Chauffe-eaux et cumulus",
+        "Sanitaire et Plomberie"
+      ],
+      "source": {
+        "id": 41617,
+        "sku": "GCU10CE100",
+        "permalink": "https://energical.com/fr/produit/cumulus-electrique-100l/",
+        "stockStatus": "instock",
+        "categoryName": "Chauffage et régulation gaz",
+        "scrapedAt": "2026-08-18T22:40:23.156Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-GCU80CEV80",
+      "name": "Cumulus électrique 80L",
+      "nameAr": "",
+      "brand": "Generic",
+      "barcode": "GCU80CEV80",
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 21845,
+      "salePrice": 25700,
+      "minStock": 10,
+      "image": "images/chauffage/ENERGICAL-GCU80CEV80.webp",
+      "aliases": [
+        "cumulus électrique 80l",
+        "gcu80cev80"
+      ],
+      "description": "Sélecteur de température;\n\n\nCapteur de température;\n\n\nLampe témoin de fonctionnement;\n\n\nRéservoir en ACIER émaillé par quatre couches pour une durée de vie prolongée;\n\n\nProtège l’intérieur du réservoir, maintient la pression en dessous de 8 bars et permet la vidange du réservoir;\n\nThermoplongeur en cuivre équipé d&rsquo;une anode en magnésium.",
+      "categories": [
+        "Chauffage et régulation gaz",
+        "Chauffe-eaux et cumulus"
+      ],
+      "source": {
+        "id": 41613,
+        "sku": "GCU80CEV80",
+        "permalink": "https://energical.com/fr/produit/cumulus-electrique-80l/",
+        "stockStatus": "instock",
+        "categoryName": "Chauffage et régulation gaz",
+        "scrapedAt": "2026-08-18T22:40:23.156Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-GCU51CUV51",
+      "name": "Cumulus électrique 51L",
+      "nameAr": "",
+      "brand": "Generic",
+      "barcode": "GCU51CUV51",
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 20145,
+      "salePrice": 23700,
+      "minStock": 10,
+      "image": "images/chauffage/ENERGICAL-GCU51CUV51.webp",
+      "aliases": [
+        "cumulus électrique 51l",
+        "gcu51cuv51"
+      ],
+      "description": "Sélecteur de température;\n\n\nCapteur de température;\n\n\nLampe témoin de fonctionnement;\n\n\nRéservoir en ACIER émaillé par quatre couches pour une durée de vie prolongée;\n\n\nProtège l’intérieur du réservoir, maintient la pression en dessous de 8 bars et permet la vidange du réservoir;\n\nThermoplongeur en cuivre équipé d&rsquo;une anode en magnésium.",
+      "categories": [
+        "Chauffage et régulation gaz",
+        "Chauffe-eaux et cumulus",
+        "Sanitaire et Plomberie"
+      ],
+      "source": {
+        "id": 41603,
+        "sku": "GCU51CUV51",
+        "permalink": "https://energical.com/fr/produit/cumulus-electrique-51l/",
+        "stockStatus": "instock",
+        "categoryName": "Chauffage et régulation gaz",
+        "scrapedAt": "2026-08-18T22:40:23.156Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-GCCDMG3600200",
+      "name": "Panneau de commande avec boutons de contrôle E",
+      "nameAr": "",
+      "brand": "Generic",
+      "barcode": "GCCDMG3600200",
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 5627,
+      "salePrice": 6620,
+      "minStock": 10,
+      "image": "images/chauffage/ENERGICAL-GCCDMG3600200.webp",
+      "aliases": [
+        "panneau de commande avec boutons de contrôle e",
+        "gccdmg3600200"
+      ],
+      "description": "",
+      "categories": [
+        "Pièces de rechange Chaudières",
+        "Pièces de rechange pour S.A.V.",
+        "Sanitaire et Plomberie"
+      ],
+      "source": {
+        "id": 37269,
+        "sku": "GCCDMG3600200",
+        "permalink": "https://energical.com/fr/produit/panneau-de-commande-avec-boutons-de-controle-e/",
+        "stockStatus": "instock",
+        "categoryName": "Pièces de rechange Chaudières",
+        "scrapedAt": "2026-08-18T22:40:23.156Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-GCD45SLT45",
+      "name": "Chaudière SL-DT45",
+      "nameAr": "",
+      "brand": "Generic",
+      "barcode": "GCD45SLT45",
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 168300,
+      "salePrice": 198000,
+      "minStock": 10,
+      "image": "images/chauffage/ENERGICAL-GCD45SLT45.webp",
+      "aliases": [
+        "chaudière sl-dt45",
+        "gcd45slt45"
+      ],
+      "description": "",
+      "categories": [
+        "Chaudières",
+        "Chauffage et régulation gaz"
+      ],
+      "source": {
+        "id": 37019,
+        "sku": "GCD45SLT45",
+        "permalink": "https://energical.com/fr/produit/chaudiere-sl-dt45/",
+        "stockStatus": "instock",
+        "categoryName": "Chaudières",
+        "scrapedAt": "2026-08-18T22:40:23.156Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-GCH12RC112",
+      "name": "Rallonge du conduit de fumée concentrique (1m) chauffe-eau 12L",
+      "nameAr": "",
+      "brand": "Generic",
+      "barcode": "GCH12RC112",
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 1318,
+      "salePrice": 1550,
+      "minStock": 10,
+      "image": "images/chauffage/ENERGICAL-GCH12RC112.webp",
+      "aliases": [
+        "rallonge du conduit de fumée concentrique (1m) chauffe-eau 12l",
+        "gch12rc112"
+      ],
+      "description": "",
+      "categories": [
+        "Pièces de rechange chauffe-eau à température constante",
+        "Pièces de rechange pour S.A.V."
+      ],
+      "source": {
+        "id": 37014,
+        "sku": "GCH12RC112",
+        "permalink": "https://energical.com/fr/produit/rallonge-du-conduit-de-fumee-concentrique-1m-chauffe-eau-12l/",
+        "stockStatus": "instock",
+        "categoryName": "Pièces de rechange chauffe-eau à température constante",
+        "scrapedAt": "2026-08-18T22:40:23.156Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-GCCH12ETC0900",
+      "name": "Carte de contrôle électronique pour chauffe-eau à T° const WCT 12L",
+      "nameAr": "",
+      "brand": "Generic",
+      "barcode": "GCCH12ETC0900",
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 2950,
+      "salePrice": 3470,
+      "minStock": 10,
+      "image": "images/chauffage/ENERGICAL-GCCH12ETC0900.webp",
+      "aliases": [
+        "carte de contrôle électronique pour chauffe-eau à t° const wct 12l",
+        "gcch12etc0900"
+      ],
+      "description": "Optimisez la gestion de votre chauffe-eau avec la carte de contrôle électronique spécialement conçue pour les modèles à température constante comme le WCT-12L. Cette carte intelligente surveille et régule efficacement la température de l&rsquo;eau, assurant un fonctionnement optimal et une consommation énergétique réduite. Profitez d&rsquo;une eau toujours à la température idéale, avec une fiabilité accrue et une facilité d&rsquo;utilisation inégalée. Cette carte est l&rsquo;élément indispensabl",
+      "categories": [
+        "Pièces de rechange chauffe-eau à température constante",
+        "Pièces de rechange pour S.A.V."
+      ],
+      "source": {
+        "id": 36745,
+        "sku": "GCCH12ETC0900",
+        "permalink": "https://energical.com/fr/produit/carte-de-controle-electronique-pour-chauffe-eau-a-t-const-wct-12l/",
+        "stockStatus": "instock",
+        "categoryName": "Pièces de rechange chauffe-eau à température constante",
+        "scrapedAt": "2026-08-18T22:40:23.156Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-36632",
+      "name": "Chauffe-eau à température constante XCT-12L (Gaz Butane)",
+      "nameAr": "",
+      "brand": "Generic",
+      "barcode": null,
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 25500,
+      "salePrice": 30000,
+      "minStock": 10,
+      "image": "images/chauffage/ENERGICAL-36632.webp",
+      "aliases": [
+        "chauffe-eau à température constante xct-12l (gaz butane)"
+      ],
+      "description": "Chauffe-eau à température constante 12 litres\nÉvacuation forcée des gaz brûlés\nFaçade en verre\nDétection des codes d’erreurs\nContrôle intelligent avec écran numérique\nTempérature réglable et constante\nDémarrage avec une très faible pression d’eau\nPièces de rechange disponibles",
+      "categories": [
+        "Chauffage et régulation gaz",
+        "Chauffe-eaux et cumulus"
+      ],
+      "source": {
+        "id": 36632,
+        "sku": "",
+        "permalink": "https://energical.com/fr/produit/chauffe-eau-a-temperature-constante-xct-12l-gaz-butane/",
+        "stockStatus": "instock",
+        "categoryName": "Chauffage et régulation gaz",
+        "scrapedAt": "2026-08-18T22:40:23.156Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-36627",
+      "name": "Chauffe-eau à température constante WCT-16L (Gaz Naturel)",
+      "nameAr": "",
+      "brand": "Generic",
+      "barcode": null,
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 27200,
+      "salePrice": 32000,
+      "minStock": 10,
+      "image": "images/chauffage/ENERGICAL-36627.webp",
+      "aliases": [
+        "chauffe-eau à température constante wct-16l (gaz naturel)"
+      ],
+      "description": "Chauffe-eau à température constante 16 litres\nÉvacuation forcée des gaz brûlés\nFaçade en verre\nDétection des codes d’erreurs\nContrôle intelligent avec écran numérique\nTempérature réglable et constante\nDémarrage avec une très faible pression d’eau\nPièces de rechange disponibles",
+      "categories": [
+        "Chauffage et régulation gaz",
+        "Chauffe-eaux et cumulus"
+      ],
+      "source": {
+        "id": 36627,
+        "sku": "",
+        "permalink": "https://energical.com/fr/produit/chauffe-eau-a-temperature-constante-wct-16l-gaz-naturel/",
+        "stockStatus": "instock",
+        "categoryName": "Chauffage et régulation gaz",
+        "scrapedAt": "2026-08-18T22:40:23.156Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-GCCH12ETC0800",
+      "name": "Condensateur pour chauffe-eau à T° const",
+      "nameAr": "",
+      "brand": "Generic",
+      "barcode": "GCCH12ETC0800",
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 383,
+      "salePrice": 450,
+      "minStock": 10,
+      "image": "images/chauffage/ENERGICAL-GCCH12ETC0800.webp",
+      "aliases": [
+        "condensateur pour chauffe-eau à t° const",
+        "gcch12etc0800"
+      ],
+      "description": "",
+      "categories": [
+        "Pièces de rechange chauffe-eau à température constante",
+        "Pièces de rechange pour S.A.V."
+      ],
+      "source": {
+        "id": 36593,
+        "sku": "GCCH12ETC0800",
+        "permalink": "https://energical.com/fr/produit/condensateur-pour-chauffe-eau-a-t-const/",
+        "stockStatus": "instock",
+        "categoryName": "Pièces de rechange chauffe-eau à température constante",
+        "scrapedAt": "2026-08-18T22:40:23.156Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-GCH12CFC12",
+      "name": "Conduit de fumée concentrique (cheminée) pour chauffe eau 12L",
+      "nameAr": "",
+      "brand": "Generic",
+      "barcode": "GCH12CFC12",
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 1360,
+      "salePrice": 1600,
+      "minStock": 10,
+      "image": "images/chauffage/ENERGICAL-GCH12CFC12.webp",
+      "aliases": [
+        "conduit de fumée concentrique (cheminée) pour chauffe eau 12l",
+        "gch12cfc12"
+      ],
+      "description": "",
+      "categories": [
+        "Chauffage et régulation gaz",
+        "Chauffe-eaux et cumulus"
+      ],
+      "source": {
+        "id": 36469,
+        "sku": "GCH12CFC12",
+        "permalink": "https://energical.com/fr/produit/conduit-de-fumee-concentrique-cheminee-pour-chauffe-eau-a-t-c/",
+        "stockStatus": "instock",
+        "categoryName": "Chauffage et régulation gaz",
+        "scrapedAt": "2026-08-18T22:40:23.156Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-GCD0048323",
+      "name": "Conduit de fumée concentrique (cheminée) pour chaudière/chauffe-eau 16L",
+      "nameAr": "",
+      "brand": "Generic",
+      "barcode": "GCD0048323",
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 2253,
+      "salePrice": 2650,
+      "minStock": 10,
+      "image": "images/chauffage/ENERGICAL-GCD0048323.webp",
+      "aliases": [
+        "conduit de fumée concentrique (cheminée) pour chaudière/chauffe-eau 16l",
+        "gcd0048323"
+      ],
+      "description": "",
+      "categories": [
+        "Chaudières",
+        "Chauffage et régulation gaz"
+      ],
+      "source": {
+        "id": 36336,
+        "sku": "GCD0048323",
+        "permalink": "https://energical.com/fr/produit/conduit-de-fumee-concentrique-cheminee/",
+        "stockStatus": "instock",
+        "categoryName": "Chaudières",
+        "scrapedAt": "2026-08-18T22:40:23.156Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-GCCD004834400",
+      "name": "Panneau de commande avec boutons de contrôle L",
+      "nameAr": "",
+      "brand": "Generic",
+      "barcode": "GCCD004834400",
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 5627,
+      "salePrice": 6620,
+      "minStock": 10,
+      "image": "images/chauffage/ENERGICAL-GCCD004834400.webp",
+      "aliases": [
+        "panneau de commande avec boutons de contrôle l",
+        "gccd004834400"
+      ],
+      "description": "",
+      "categories": [
+        "Pièces de rechange Chaudières",
+        "Pièces de rechange pour S.A.V.",
+        "Sanitaire et Plomberie"
+      ],
+      "source": {
+        "id": 33140,
+        "sku": "GCCD004834400",
+        "permalink": "https://energical.com/fr/produit/panneau-de-commande-avec-boutons-de-controle-l/",
+        "stockStatus": "instock",
+        "categoryName": "Pièces de rechange Chaudières",
+        "scrapedAt": "2026-08-18T22:40:23.156Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-GCCD00H481100",
+      "name": "Panneau de commande avec boutons de contrôle M",
+      "nameAr": "",
+      "brand": "Generic",
+      "barcode": "GCCD00H481100",
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 5627,
+      "salePrice": 6620,
+      "minStock": 10,
+      "image": "images/chauffage/ENERGICAL-GCCD00H481100.webp",
+      "aliases": [
+        "panneau de commande avec boutons de contrôle m",
+        "gccd00h481100"
+      ],
+      "description": "",
+      "categories": [
+        "Pièces de rechange Chaudières",
+        "Pièces de rechange pour S.A.V.",
+        "Sanitaire et Plomberie"
+      ],
+      "source": {
+        "id": 33136,
+        "sku": "GCCD00H481100",
+        "permalink": "https://energical.com/fr/produit/panneau-de-commande-avec-boutons-de-controle-m/",
+        "stockStatus": "instock",
+        "categoryName": "Pièces de rechange Chaudières",
+        "scrapedAt": "2026-08-18T22:40:23.156Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-GCCD004837500",
+      "name": "Robinet de remplissage",
+      "nameAr": "",
+      "brand": "Generic",
+      "barcode": "GCCD004837500",
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 689,
+      "salePrice": 810,
+      "minStock": 10,
+      "image": "images/chauffage/ENERGICAL-GCCD004837500.webp",
+      "aliases": [
+        "robinet de remplissage",
+        "gccd004837500"
+      ],
+      "description": "",
+      "categories": [
+        "Pièces de rechange Chaudières",
+        "Pièces de rechange pour S.A.V.",
+        "Sanitaire et Plomberie"
+      ],
+      "source": {
+        "id": 33115,
+        "sku": "GCCD004837500",
+        "permalink": "https://energical.com/fr/produit/robinet-de-remplissage/",
+        "stockStatus": "instock",
+        "categoryName": "Pièces de rechange Chaudières",
+        "scrapedAt": "2026-08-18T22:40:23.156Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-GCH12RC512",
+      "name": "Rallonge du conduit de fumée concentrique (50 cm) chauffe-eau 12L",
+      "nameAr": "",
+      "brand": "Generic",
+      "barcode": "GCH12RC512",
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 1020,
+      "salePrice": 1200,
+      "minStock": 10,
+      "image": "images/chauffage/ENERGICAL-GCH12RC512.webp",
+      "aliases": [
+        "rallonge du conduit de fumée concentrique (50 cm) chauffe-eau 12l",
+        "gch12rc512"
+      ],
+      "description": "",
+      "categories": [
+        "Pièces de rechange chauffe-eau à température constante",
+        "Pièces de rechange pour S.A.V."
+      ],
+      "source": {
+        "id": 32461,
+        "sku": "GCH12RC512",
+        "permalink": "https://energical.com/fr/produit/rallonge-du-conduit-de-fumee-concentrique-50-cm-chauffe-eau-12l/",
+        "stockStatus": "instock",
+        "categoryName": "Pièces de rechange chauffe-eau à température constante",
+        "scrapedAt": "2026-08-18T22:40:23.156Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-GCCH12ETC0300",
+      "name": "Brûleur pour chauffe-eau à T° const WCT 12L",
+      "nameAr": "",
+      "brand": "Generic",
+      "barcode": "GCCH12ETC0300",
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 952,
+      "salePrice": 1120,
+      "minStock": 10,
+      "image": "images/chauffage/ENERGICAL-GCCH12ETC0300.webp",
+      "aliases": [
+        "brûleur pour chauffe-eau à t° const wct 12l",
+        "gcch12etc0300"
+      ],
+      "description": "Découvrez notre Brûleur pour Chauffe-eau à Température Constante, conçu spécifiquement pour le chauffe-eau WCT-12L. Profitez d&rsquo;une performance fiable et d&rsquo;une température d&rsquo;eau constante pour répondre à vos besoins en eau chaude. Ce brûleur assure une combustion efficace et une distribution homogène de la chaleur, garantissant une utilisation économe en énergie. Profitez d&rsquo;une eau chaude à la température idéale, sans fluctuation, pour un confort maximal au quotidien.",
+      "categories": [
+        "Pièces de rechange chauffe-eau à température constante",
+        "Pièces de rechange pour S.A.V."
+      ],
+      "source": {
+        "id": 32330,
+        "sku": "GCCH12ETC0300",
+        "permalink": "https://energical.com/fr/produit/bruleur-pour-chauffe-eau-a-t-const/",
+        "stockStatus": "instock",
+        "categoryName": "Pièces de rechange chauffe-eau à température constante",
+        "scrapedAt": "2026-08-18T22:40:23.156Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-32329",
+      "name": "Panneau de verre pour chauffe-eau à T° const",
+      "nameAr": "",
+      "brand": "Generic",
+      "barcode": null,
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 3349,
+      "salePrice": 3940,
+      "minStock": 10,
+      "image": "images/chauffage/ENERGICAL-32329.webp",
+      "aliases": [
+        "panneau de verre pour chauffe-eau à t° const"
+      ],
+      "description": "Le panneau de verre pour chauffe-eau à température constante est conçu pour le chauffe-eau WCT-12L. Fabriqué avec des matériaux de haute qualité, ce panneau garantit une protection optimale contre les éléments tout en maintenant une température constante. Profitez d&rsquo;une durabilité exceptionnelle et d&rsquo;une performance fiable grâce à ce panneau de verre résistant. Avec sa conception intelligente, il assure une distribution uniforme de la chaleur pour une expérience de chauffage efficace",
+      "categories": [
+        "Pièces de rechange chauffe-eau à température constante",
+        "Pièces de rechange pour S.A.V."
+      ],
+      "source": {
+        "id": 32329,
+        "sku": "",
+        "permalink": "https://energical.com/fr/produit/panneau-de-verre-pour-chauffe-eau-a-t-const/",
+        "stockStatus": "instock",
+        "categoryName": "Pièces de rechange chauffe-eau à température constante",
+        "scrapedAt": "2026-08-18T22:40:23.156Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-GCCH00ETC3300",
+      "name": "Afficheur pour chauffe-eau à T° const",
+      "nameAr": "",
+      "brand": "Generic",
+      "barcode": "GCCH00ETC3300",
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 2015,
+      "salePrice": 2370,
+      "minStock": 10,
+      "image": "images/chauffage/ENERGICAL-GCCH00ETC3300.webp",
+      "aliases": [
+        "afficheur pour chauffe-eau à t° const",
+        "gcch00etc3300"
+      ],
+      "description": "Optimisez la performance de votre chauffe-eau avec notre Afficheur pour Chauffe-eau à Température Constante. Conçu pour le modèle WCT-12L, cet afficheur intuitif offre une surveillance précise de la température, garantissant un confort constant. Grâce à son interface conviviale, contrôlez facilement votre chauffe-eau pour une efficacité maximale. Simplifiez votre expérience quotidienne avec notre solution innovante.",
+      "categories": [
+        "Pièces de rechange chauffe-eau à température constante",
+        "Pièces de rechange pour S.A.V."
+      ],
+      "source": {
+        "id": 32328,
+        "sku": "GCCH00ETC3300",
+        "permalink": "https://energical.com/fr/produit/afficheur-pour-chauffe-eau-a-t-const/",
+        "stockStatus": "instock",
+        "categoryName": "Pièces de rechange chauffe-eau à température constante",
+        "scrapedAt": "2026-08-18T22:40:23.156Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-GCCH00ETC1100",
+      "name": "Cable d’alimentation pour chauffe-eau à T° const",
+      "nameAr": "",
+      "brand": "Generic",
+      "barcode": "GCCH00ETC1100",
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 1105,
+      "salePrice": 1300,
+      "minStock": 10,
+      "image": "images/chauffage/ENERGICAL-GCCH00ETC1100.webp",
+      "aliases": [
+        "cable d’alimentation pour chauffe-eau à t° const",
+        "gcch00etc1100"
+      ],
+      "description": "Optimisez la performance de votre chauffe-eau avec le câble d’alimentation spécialement conçu pour les modèles à température constante comme le WCT-12L. Ce câble robuste assure une alimentation électrique fiable, permettant un fonctionnement efficace de votre chauffe-eau. Profitez d&rsquo;une température constante de l&rsquo;eau sans souci de coupure électrique. Avec sa conception durable et sa compatibilité parfaite, ce câble est l&rsquo;accessoire essentiel pour une utilisation en toute tranqu",
+      "categories": [
+        "Pièces de rechange chauffe-eau à température constante",
+        "Pièces de rechange pour S.A.V."
+      ],
+      "source": {
+        "id": 32327,
+        "sku": "GCCH00ETC1100",
+        "permalink": "https://energical.com/fr/produit/cable-dalimentation-pour-chauffe-eau-a-t-const/",
+        "stockStatus": "instock",
+        "categoryName": "Pièces de rechange chauffe-eau à température constante",
+        "scrapedAt": "2026-08-18T22:40:23.159Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-GCCH00ETC1000",
+      "name": "Thermocontact 80°C pour chauffe-eau à T° const",
+      "nameAr": "",
+      "brand": "Generic",
+      "barcode": "GCCH00ETC1000",
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 68,
+      "salePrice": 80,
+      "minStock": 10,
+      "image": "images/chauffage/ENERGICAL-GCCH00ETC1000.webp",
+      "aliases": [
+        "thermocontact 80°c pour chauffe-eau à t° const",
+        "gcch00etc1000"
+      ],
+      "description": "Optimisez la régulation thermique de votre chauffe-eau avec le thermocontact 80°C conçu spécifiquement pour les modèles à température constante tels que le WCT-12L. Ce dispositif de haute qualité garantit un contrôle précis de la température de l&rsquo;eau, assurant un fonctionnement efficace et sécurisé de votre chauffe-eau. Profitez d&rsquo;une eau toujours à la température idéale, sans risque de surchauffe. Avec sa fiabilité éprouvée et sa facilité d&rsquo;installation, ce thermocontact est u",
+      "categories": [
+        "Pièces de rechange chauffe-eau à température constante",
+        "Pièces de rechange pour S.A.V."
+      ],
+      "source": {
+        "id": 32326,
+        "sku": "GCCH00ETC1000",
+        "permalink": "https://energical.com/fr/produit/thermocontact-80c-pour-chauffe-eau-a-t-const/",
+        "stockStatus": "instock",
+        "categoryName": "Pièces de rechange chauffe-eau à température constante",
+        "scrapedAt": "2026-08-18T22:40:23.159Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-GCCH00ETC0900",
+      "name": "Capteur de température ECS pour chauffe-eau à T° const",
+      "nameAr": "",
+      "brand": "Generic",
+      "barcode": "GCCH00ETC0900",
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 136,
+      "salePrice": 160,
+      "minStock": 10,
+      "image": "images/chauffage/ENERGICAL-GCCH00ETC0900.webp",
+      "aliases": [
+        "capteur de température ecs pour chauffe-eau à t° const",
+        "gcch00etc0900"
+      ],
+      "description": "Optimisez la précision de votre système de chauffe-eau avec le capteur de température ECS spécialement conçu pour les modèles à température constante tels que le WCT-12L. Ce capteur de haute qualité garantit une surveillance précise de la température de l&rsquo;eau, assurant un fonctionnement optimal et une consommation énergétique réduite. Profitez d&rsquo;une eau toujours à la température idéale, sans fluctuations indésirables. Avec sa conception robuste et sa compatibilité parfaite, ce capteu",
+      "categories": [
+        "Pièces de rechange chauffe-eau à température constante",
+        "Pièces de rechange pour S.A.V."
+      ],
+      "source": {
+        "id": 32319,
+        "sku": "GCCH00ETC0900",
+        "permalink": "https://energical.com/fr/produit/capteur-de-temperature-ecs-pour-chauffe-eau-a-t-const/",
+        "stockStatus": "instock",
+        "categoryName": "Pièces de rechange chauffe-eau à température constante",
+        "scrapedAt": "2026-08-18T22:40:23.159Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-GCCH12ETC1100",
+      "name": "Pressostat pour chauffe-eau à T° const",
+      "nameAr": "",
+      "brand": "Generic",
+      "barcode": "GCCH12ETC1100",
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 434,
+      "salePrice": 510,
+      "minStock": 10,
+      "image": "images/chauffage/ENERGICAL-GCCH12ETC1100.webp",
+      "aliases": [
+        "pressostat pour chauffe-eau à t° const",
+        "gcch12etc1100"
+      ],
+      "description": "Améliorez la sécurité et l&rsquo;efficacité de votre chauffe-eau avec le pressostat spécialement conçu pour les modèles à température constante tels que le WCT-12L. Ce dispositif de qualité assure une régulation précise de la pression de l&rsquo;eau, garantissant un fonctionnement optimal et sans risque de surpression. Profitez d&rsquo;une eau toujours à la température idéale, avec une tranquillité d&rsquo;esprit accrue. Facile à installer et durable, ce pressostat est un choix incontournable po",
+      "categories": [
+        "Pièces de rechange chauffe-eau à température constante",
+        "Pièces de rechange pour S.A.V."
+      ],
+      "source": {
+        "id": 32318,
+        "sku": "GCCH12ETC1100",
+        "permalink": "https://energical.com/fr/produit/pressostat-pour-chauffe-eau-a-t-const/",
+        "stockStatus": "instock",
+        "categoryName": "Pièces de rechange chauffe-eau à température constante",
+        "scrapedAt": "2026-08-18T22:40:23.159Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-GCCH12ETC1000",
+      "name": "Robinet avec filtre et soupape de décharge pour chauffe-eau à T° const",
+      "nameAr": "",
+      "brand": "Generic",
+      "barcode": "GCCH12ETC1000",
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 1318,
+      "salePrice": 1550,
+      "minStock": 10,
+      "image": "images/chauffage/ENERGICAL-GCCH12ETC1000.webp",
+      "aliases": [
+        "robinet avec filtre et soupape de décharge pour chauffe-eau à t° const",
+        "gcch12etc1000"
+      ],
+      "description": "Optimisez la qualité de votre eau et prolongez la durée de vie de votre chauffe-eau avec le robinet équipé d&rsquo;un filtre et d&rsquo;une soupape de décharge, spécialement conçu pour les modèles à température constante comme le WCT-12L. Ce robinet innovant filtre les impuretés, assurant une eau propre et sûre, tandis que la soupape de décharge évacue efficacement les excès de pression. Profitez d&rsquo;une eau de qualité constante et d&rsquo;un fonctionnement sans souci avec cet accessoire ess",
+      "categories": [
+        "Pièces de rechange chauffe-eau à température constante",
+        "Pièces de rechange pour S.A.V."
+      ],
+      "source": {
+        "id": 32317,
+        "sku": "GCCH12ETC1000",
+        "permalink": "https://energical.com/fr/produit/robinet-avec-filtre-et-soupape-de-decharge-pour-chauffe-eau-a-t-const/",
+        "stockStatus": "instock",
+        "categoryName": "Pièces de rechange chauffe-eau à température constante",
+        "scrapedAt": "2026-08-18T22:40:25.912Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-GCCH00ETC0800",
+      "name": "Capteur de débit pour chauffe-eau à T° const",
+      "nameAr": "",
+      "brand": "Generic",
+      "barcode": "GCCH00ETC0800",
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 595,
+      "salePrice": 700,
+      "minStock": 10,
+      "image": "images/chauffage/ENERGICAL-GCCH00ETC0800.webp",
+      "aliases": [
+        "capteur de débit pour chauffe-eau à t° const",
+        "gcch00etc0800"
+      ],
+      "description": "Améliorez l&rsquo;efficacité de votre chauffe-eau avec le capteur de débit spécialement conçu pour les modèles à température constante comme le WCT-12L. Ce capteur innovant surveille le débit d&rsquo;eau, permettant un contrôle précis de la température et une utilisation optimale de l&rsquo;énergie. Profitez d&rsquo;une eau toujours à la température idéale, sans gaspillage ni fluctuations. Avec sa conception robuste et sa compatibilité parfaite, ce capteur est un ajout essentiel à votre système ",
+      "categories": [
+        "Pièces de rechange chauffe-eau à température constante",
+        "Pièces de rechange pour S.A.V."
+      ],
+      "source": {
+        "id": 32316,
+        "sku": "GCCH00ETC0800",
+        "permalink": "https://energical.com/fr/produit/capteur-de-debit-pour-chauffe-eau-a-t-const/",
+        "stockStatus": "instock",
+        "categoryName": "Pièces de rechange chauffe-eau à température constante",
+        "scrapedAt": "2026-08-18T22:40:25.912Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-GCCH16ETC0900",
+      "name": "Carte de contrôle électronique pour chauffe-eau à T° const WCT 16L",
+      "nameAr": "",
+      "brand": "Generic",
+      "barcode": "GCCH16ETC0900",
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 2950,
+      "salePrice": 3470,
+      "minStock": 10,
+      "image": "images/chauffage/ENERGICAL-GCCH16ETC0900.webp",
+      "aliases": [
+        "carte de contrôle électronique pour chauffe-eau à t° const wct 16l",
+        "gcch16etc0900"
+      ],
+      "description": "Optimisez la gestion de votre chauffe-eau avec la carte de contrôle électronique spécialement conçue pour les modèles à température constante comme le WCT-16L. Cette carte intelligente surveille et régule efficacement la température de l&rsquo;eau, assurant un fonctionnement optimal et une consommation énergétique réduite. Profitez d&rsquo;une eau toujours à la température idéale, avec une fiabilité accrue et une facilité d&rsquo;utilisation inégalée. Cette carte est l&rsquo;élément indispensabl",
+      "categories": [
+        "Pièces de rechange chauffe-eau à température constante",
+        "Pièces de rechange pour S.A.V."
+      ],
+      "source": {
+        "id": 32315,
+        "sku": "GCCH16ETC0900",
+        "permalink": "https://energical.com/fr/produit/carte-de-controle-electronique-pour-chauffe-eau-a-t-const/",
+        "stockStatus": "instock",
+        "categoryName": "Pièces de rechange chauffe-eau à température constante",
+        "scrapedAt": "2026-08-18T22:40:25.912Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-GCCH00ETC0500",
+      "name": "Bloc de gaz pour chauffe-eau à T° const",
+      "nameAr": "",
+      "brand": "Generic",
+      "barcode": "GCCH00ETC0500",
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 1479,
+      "salePrice": 1740,
+      "minStock": 10,
+      "image": "images/chauffage/ENERGICAL-GCCH00ETC0500.webp",
+      "aliases": [
+        "bloc de gaz pour chauffe-eau à t° const",
+        "gcch00etc0500"
+      ],
+      "description": "Assurez un fonctionnement fiable de votre chauffe-eau avec le bloc de gaz spécialement conçu pour les modèles à température constante comme le WCT-12L. Ce bloc de gaz efficace garantit une combustion propre et stable, assurant une performance optimale et une consommation énergétique réduite. Profitez d&rsquo;une eau toujours à la température idéale, avec une tranquillité d&rsquo;esprit accrue. Facile à installer et durable, ce bloc de gaz est l&rsquo;élément essentiel pour une utilisation sans s",
+      "categories": [
+        "Pièces de rechange chauffe-eau à température constante",
+        "Pièces de rechange pour S.A.V."
+      ],
+      "source": {
+        "id": 32313,
+        "sku": "GCCH00ETC0500",
+        "permalink": "https://energical.com/fr/produit/bloc-de-gaz-pour-chauffe-eau-a-t-const/",
+        "stockStatus": "instock",
+        "categoryName": "Pièces de rechange chauffe-eau à température constante",
+        "scrapedAt": "2026-08-18T22:40:25.912Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-GCCH12ETC0700",
+      "name": "Tube en silicone avec piège à condensat pour chauffe-eau à T° const",
+      "nameAr": "",
+      "brand": "Generic",
+      "barcode": "GCCH12ETC0700",
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 272,
+      "salePrice": 320,
+      "minStock": 10,
+      "image": "images/chauffage/ENERGICAL-GCCH12ETC0700.webp",
+      "aliases": [
+        "tube en silicone avec piège à condensat pour chauffe-eau à t° const",
+        "gcch12etc0700"
+      ],
+      "description": "Optimisez la performance de votre chauffe-eau avec le tube en silicone équipé d&rsquo;un piège à condensat spécialement conçu pour les modèles à température constante tels que le WCT-12L. Ce tube durable et flexible évacue efficacement le condensat, empêchant les obstructions et assurant un fonctionnement sans souci de votre chauffe-eau. Profitez d&rsquo;une eau toujours à la température idéale, avec une tranquillité d&rsquo;esprit accrue. Facile à installer et résistant, ce tube en silicone est",
+      "categories": [
+        "Pièces de rechange chauffe-eau à température constante",
+        "Pièces de rechange pour S.A.V."
+      ],
+      "source": {
+        "id": 32311,
+        "sku": "GCCH12ETC0700",
+        "permalink": "https://energical.com/fr/produit/tube-en-silicone-avec-piege-a-condensat-pour-chauffe-eau-a-t-const/",
+        "stockStatus": "instock",
+        "categoryName": "Pièces de rechange chauffe-eau à température constante",
+        "scrapedAt": "2026-08-18T22:40:25.912Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-GCCH12ETC0600",
+      "name": "Ventilateur 8W pour chauffe-eau à T° const WCT 12L",
+      "nameAr": "",
+      "brand": "Generic",
+      "barcode": "GCCH12ETC0600",
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 1649,
+      "salePrice": 1940,
+      "minStock": 10,
+      "image": "images/chauffage/ENERGICAL-GCCH12ETC0600.webp",
+      "aliases": [
+        "ventilateur 8w pour chauffe-eau à t° const wct 12l",
+        "gcch12etc0600"
+      ],
+      "description": "Améliorez la circulation de l&rsquo;air autour de votre chauffe-eau avec le ventilateur 8W spécialement conçu pour les modèles à température constante comme le WCT-12L. Ce ventilateur efficace assure un refroidissement optimal, prolongeant ainsi la durée de vie de votre chauffe-eau et garantissant un fonctionnement fiable. Profitez d&rsquo;une température constante de l&rsquo;eau et d&rsquo;une performance accrue avec cet accessoire essentiel. Facile à installer et économe en énergie, ce ventila",
+      "categories": [
+        "Pièces de rechange chauffe-eau à température constante",
+        "Pièces de rechange pour S.A.V."
+      ],
+      "source": {
+        "id": 32309,
+        "sku": "GCCH12ETC0600",
+        "permalink": "https://energical.com/fr/produit/ventilateur-8w-pour-chauffe-eau-a-t-const/",
+        "stockStatus": "instock",
+        "categoryName": "Pièces de rechange chauffe-eau à température constante",
+        "scrapedAt": "2026-08-18T22:40:25.912Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-GCCH00ETC0300",
+      "name": "Bobine DC 24V pour chauffe-eau à T° const",
+      "nameAr": "",
+      "brand": "Generic",
+      "barcode": "GCCH00ETC0300",
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 459,
+      "salePrice": 540,
+      "minStock": 10,
+      "image": "images/chauffage/ENERGICAL-GCCH00ETC0300.webp",
+      "aliases": [
+        "bobine dc 24v pour chauffe-eau à t° const",
+        "gcch00etc0300"
+      ],
+      "description": "Assurez un fonctionnement efficace de votre chauffe-eau avec la bobine DC 24V spécialement conçue pour les modèles à température constante comme le WCT-12L. Cette bobine électromagnétique de haute qualité garantit un contrôle précis de diverses fonctions, assurant ainsi une performance optimale et une consommation énergétique réduite. Profitez d&rsquo;une température constante de l&rsquo;eau et d&rsquo;une fiabilité accrue avec cet élément essentiel. Facile à installer et durable, cette bobine e",
+      "categories": [
+        "Pièces de rechange chauffe-eau à température constante",
+        "Pièces de rechange pour S.A.V."
+      ],
+      "source": {
+        "id": 32307,
+        "sku": "GCCH00ETC0300",
+        "permalink": "https://energical.com/fr/produit/bobine-dc-24v-pour-chauffe-eau-a-t-const/",
+        "stockStatus": "instock",
+        "categoryName": "Pièces de rechange chauffe-eau à température constante",
+        "scrapedAt": "2026-08-18T22:40:25.912Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-GCCH00ETC0200",
+      "name": "Détecteur de flamme pour chauffe-eau à T° const",
+      "nameAr": "",
+      "brand": "Generic",
+      "barcode": "GCCH00ETC0200",
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 476,
+      "salePrice": 560,
+      "minStock": 10,
+      "image": "images/chauffage/ENERGICAL-GCCH00ETC0200.webp",
+      "aliases": [
+        "détecteur de flamme pour chauffe-eau à t° const",
+        "gcch00etc0200"
+      ],
+      "description": "Assurez la sécurité de votre chauffe-eau avec le détecteur de flamme spécialement conçu pour les modèles à température constante comme le WCT-12L. Ce dispositif sensible détecte efficacement la présence de flamme, assurant un arrêt automatique en cas de dysfonctionnement ou de danger. Profitez d&rsquo;une tranquillité d&rsquo;esprit accrue, sachant que votre chauffe-eau est protégé contre les risques d&rsquo;incendie. Facile à installer et fiable, ce détecteur est un choix essentiel pour votre s",
+      "categories": [
+        "Pièces de rechange chauffe-eau à température constante",
+        "Pièces de rechange pour S.A.V."
+      ],
+      "source": {
+        "id": 32305,
+        "sku": "GCCH00ETC0200",
+        "permalink": "https://energical.com/fr/produit/detecteur-de-flamme-pour-chauffe-eau-a-t-const/",
+        "stockStatus": "instock",
+        "categoryName": "Pièces de rechange chauffe-eau à température constante",
+        "scrapedAt": "2026-08-18T22:40:25.912Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-GCCH00ETC0100",
+      "name": "Electrode d’allumage pour chauffe-eau à T° const",
+      "nameAr": "",
+      "brand": "Generic",
+      "barcode": "GCCH00ETC0100",
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 740,
+      "salePrice": 870,
+      "minStock": 10,
+      "image": "images/chauffage/ENERGICAL-GCCH00ETC0100.webp",
+      "aliases": [
+        "electrode d’allumage pour chauffe-eau à t° const",
+        "gcch00etc0100"
+      ],
+      "description": "Assurez un allumage fiable de votre chauffe-eau avec l&rsquo;électrode d’allumage spécialement conçue pour les modèles à température constante comme le WCT-12L. Cette électrode de haute qualité génère une étincelle précise et constante, assurant un démarrage rapide et efficace. Profitez d&rsquo;une température constante de l&rsquo;eau dès l&rsquo;allumage, avec une performance optimale à chaque utilisation. Facile à installer et durable, cette électrode est un élément essentiel pour votre systèm",
+      "categories": [
+        "Pièces de rechange chauffe-eau à température constante",
+        "Pièces de rechange pour S.A.V."
+      ],
+      "source": {
+        "id": 32301,
+        "sku": "GCCH00ETC0100",
+        "permalink": "https://energical.com/fr/produit/electrode-dallumage-pour-chauffe-eau-a-t-const/",
+        "stockStatus": "instock",
+        "categoryName": "Pièces de rechange chauffe-eau à température constante",
+        "scrapedAt": "2026-08-18T22:40:25.912Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-GCCH12ETC0100",
+      "name": "Echangeur pour chauffe-eau à T° const WCT 12L",
+      "nameAr": "",
+      "brand": "Generic",
+      "barcode": "GCCH12ETC0100",
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 10583,
+      "salePrice": 12450,
+      "minStock": 10,
+      "image": "images/chauffage/ENERGICAL-GCCH12ETC0100.webp",
+      "aliases": [
+        "echangeur pour chauffe-eau à t° const wct 12l",
+        "gcch12etc0100"
+      ],
+      "description": "Optimisez l&rsquo;efficacité de votre chauffe-eau avec l&rsquo;échangeur spécialement conçu pour les modèles à température constante comme le WCT-12L. Cet échangeur de chaleur de haute qualité garantit un transfert thermique optimal, assurant ainsi une montée en température rapide et une consommation énergétique réduite. Profitez d&rsquo;une eau toujours à la température idéale, avec une performance accrue et une fiabilité garantie. Facile à installer et durable, cet échangeur est un choix essen",
+      "categories": [
+        "Pièces de rechange chauffe-eau à température constante",
+        "Pièces de rechange pour S.A.V."
+      ],
+      "source": {
+        "id": 32280,
+        "sku": "GCCH12ETC0100",
+        "permalink": "https://energical.com/fr/produit/echangeur-pour-chauffe-eau-a-t-const/",
+        "stockStatus": "instock",
+        "categoryName": "Pièces de rechange chauffe-eau à température constante",
+        "scrapedAt": "2026-08-18T22:40:25.912Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-GCD18SLM18",
+      "name": "Chaudière SL-DM18",
+      "nameAr": "",
+      "brand": "Generic",
+      "barcode": "GCD18SLM18",
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 74800,
+      "salePrice": 88000,
+      "minStock": 10,
+      "image": "images/chauffage/ENERGICAL-GCD18SLM18.webp",
+      "aliases": [
+        "chaudière sl-dm18",
+        "gcd18slm18"
+      ],
+      "description": "La Chaudière SL-DM18 offre une puissance de 18 kW et une capacité de 9 litres, idéale pour le chauffage à gaz naturel. Avec un poids de 36,3 kg et des dimensions compactes de 70 × 40 × 26 cm, elle s&rsquo;intègre facilement dans divers environnements. Équipée d&rsquo;accessoires pratiques tels qu&rsquo;un conduit d&rsquo;échappement, un filtre magnétique et une prise de protection, cette chaudière garantit une performance fiable et sécurisée. Profitez d&rsquo;une garantie de 2 ans pour une tranq",
+      "categories": [
+        "Chaudières",
+        "Chauffage et régulation gaz"
+      ],
+      "source": {
+        "id": 31668,
+        "sku": "GCD18SLM18",
+        "permalink": "https://energical.com/fr/produit/chaudiere-sl-dm18/",
+        "stockStatus": "instock",
+        "categoryName": "Chaudières",
+        "scrapedAt": "2026-08-18T22:40:25.912Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-29635",
+      "name": "Chauffe-eau à température constante WCT-12L (Gaz Naturel)",
+      "nameAr": "",
+      "brand": "Generic",
+      "barcode": null,
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 24650,
+      "salePrice": 29000,
+      "minStock": 10,
+      "image": "images/chauffage/ENERGICAL-29635.webp",
+      "aliases": [
+        "chauffe-eau à température constante wct-12l (gaz naturel)"
+      ],
+      "description": "Chauffe-eau à température constante 12 litres\nÉvacuation forcée des gaz brûlés\nFaçade en verre\nDétection des codes d’erreurs\nContrôle intelligent avec écran numérique\nTempérature réglable et constante\nDémarrage avec une très faible pression d’eau\nPièces de rechange disponibles",
+      "categories": [
+        "Chauffage et régulation gaz",
+        "Chauffe-eaux et cumulus"
+      ],
+      "source": {
+        "id": 29635,
+        "sku": "",
+        "permalink": "https://energical.com/fr/produit/chauffe-eau-a-temperature-constante/",
+        "stockStatus": "instock",
+        "categoryName": "Chauffage et régulation gaz",
+        "scrapedAt": "2026-08-18T22:40:25.913Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-GCD0048692",
+      "name": "Rallonge du conduit de fumée concentrique (50 cm) chaudière/chauffe-eau 16L",
+      "nameAr": "",
+      "brand": "Generic",
+      "barcode": "GCD0048692",
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 1411,
+      "salePrice": 1660,
+      "minStock": 10,
+      "image": "images/chauffage/ENERGICAL-GCD0048692.webp",
+      "aliases": [
+        "rallonge du conduit de fumée concentrique (50 cm) chaudière/chauffe-eau 16l",
+        "gcd0048692"
+      ],
+      "description": "",
+      "categories": [
+        "Pièces de rechange Chaudières",
+        "Pièces de rechange pour S.A.V."
+      ],
+      "source": {
+        "id": 28356,
+        "sku": "GCD0048692",
+        "permalink": "https://energical.com/fr/produit/rallonge-du-conduit-de-fumee-concentrique-50-cm/",
+        "stockStatus": "instock",
+        "categoryName": "Pièces de rechange Chaudières",
+        "scrapedAt": "2026-08-18T22:40:25.913Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-GCD0048691",
+      "name": "Rallonge du conduit de fumée concentrique (1m) chaudière/chauffe-eau 16L",
+      "nameAr": "",
+      "brand": "Generic",
+      "barcode": "GCD0048691",
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 2805,
+      "salePrice": 3300,
+      "minStock": 10,
+      "image": "images/chauffage/ENERGICAL-GCD0048691.webp",
+      "aliases": [
+        "rallonge du conduit de fumée concentrique (1m) chaudière/chauffe-eau 16l",
+        "gcd0048691"
+      ],
+      "description": "",
+      "categories": [
+        "Pièces de rechange Chaudières"
+      ],
+      "source": {
+        "id": 28350,
+        "sku": "GCD0048691",
+        "permalink": "https://energical.com/fr/produit/rallonge-du-conduit-de-fumee-concentrique-1m/",
+        "stockStatus": "instock",
+        "categoryName": "Pièces de rechange Chaudières",
+        "scrapedAt": "2026-08-18T22:40:25.913Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-GCCH10CHP0900",
+      "name": "Tube de sortie d’échangeur 10L",
+      "nameAr": "",
+      "brand": "Generic",
+      "barcode": "GCCH10CHP0900",
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 514,
+      "salePrice": 605,
+      "minStock": 10,
+      "image": "images/chauffage/ENERGICAL-GCCH10CHP0900.webp",
+      "aliases": [
+        "tube de sortie d’échangeur 10l",
+        "gcch10chp0900"
+      ],
+      "description": "Optimisez l&rsquo;efficacité de votre échangeur thermique avec notre tube de sortie d&rsquo;échangeur de 10L. Conçu avec précision pour offrir un flux de liquide régulier et une dissipation thermique maximale, ce tube garantit des performances fiables et une longue durée de vie. Avec sa construction robuste et sa compatibilité universelle, il répond aux besoins des applications industrielles les plus exigeantes.",
+      "categories": [
+        "Pièces de rechange Chauffe eaux",
+        "Pièces de rechange pour S.A.V."
+      ],
+      "source": {
+        "id": 27350,
+        "sku": "GCCH10CHP0900",
+        "permalink": "https://energical.com/fr/produit/tube-de-sortie-dechangeur-10l/",
+        "stockStatus": "instock",
+        "categoryName": "Pièces de rechange Chauffe eaux",
+        "scrapedAt": "2026-08-18T22:40:25.913Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-GCCH06CHP0700",
+      "name": "Tube de sortie d’échangeur 6L",
+      "nameAr": "",
+      "brand": "Generic",
+      "barcode": "GCCH06CHP0700",
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 514,
+      "salePrice": 605,
+      "minStock": 10,
+      "image": "images/chauffage/ENERGICAL-GCCH06CHP0700.webp",
+      "aliases": [
+        "tube de sortie d’échangeur 6l",
+        "gcch06chp0700"
+      ],
+      "description": "Augmentez l&rsquo;efficacité de votre système de refroidissement avec notre tube de sortie d&rsquo;échangeur de 6L. Conçu pour une dissipation thermique optimale, ce tube garantit un flux de liquide régulier et des performances fiables. Sa construction durable assure une longue durée de vie, répondant ainsi aux exigences des environnements industriels les plus exigeants.",
+      "categories": [
+        "Pièces de rechange Chauffe eaux",
+        "Pièces de rechange pour S.A.V."
+      ],
+      "source": {
+        "id": 27346,
+        "sku": "GCCH06CHP0700",
+        "permalink": "https://energical.com/fr/produit/tube-de-sortie-dechangeur-6l/",
+        "stockStatus": "instock",
+        "categoryName": "Pièces de rechange Chauffe eaux",
+        "scrapedAt": "2026-08-18T22:40:25.913Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-GCCH00CHF0100_200",
+      "name": "Raccord dentrée et de sortie + joint torique (Chauffe-eau)",
+      "nameAr": "",
+      "brand": "Generic",
+      "barcode": "GCCH00CHF0100_200",
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 782,
+      "salePrice": 920,
+      "minStock": 10,
+      "image": "images/chauffage/ENERGICAL-GCCH00CHF0100_200.webp",
+      "aliases": [
+        "raccord dentrée et de sortie + joint torique (chauffe-eau)",
+        "gcch00chf0100_200"
+      ],
+      "description": "Optimisez les performances de votre chauffe-eau avec nos raccords d&rsquo;entrée et de sortie, accompagnés de joints toriques de qualité. Conçus pour assurer une connexion étanche et fiable, ces raccords garantissent un fonctionnement fluide et sans fuites. Avec une installation facile et une durabilité exceptionnelle, ils offrent une solution efficace pour maintenir la performance de votre chauffe-eau.",
+      "categories": [
+        "Pièces de rechange Chauffe eaux",
+        "Pièces de rechange pour S.A.V."
+      ],
+      "source": {
+        "id": 27295,
+        "sku": "GCCH00CHF0100_200",
+        "permalink": "https://energical.com/fr/produit/raccord-dentree-et-de-sortiee-chauffe-eau/",
+        "stockStatus": "instock",
+        "categoryName": "Pièces de rechange Chauffe eaux",
+        "scrapedAt": "2026-08-18T22:40:25.913Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-GCCH02CHT0200",
+      "name": "Générateur électrique (Chauffe-eau)",
+      "nameAr": "",
+      "brand": "Generic",
+      "barcode": "GCCH02CHT0200",
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 1233,
+      "salePrice": 1450,
+      "minStock": 10,
+      "image": "images/chauffage/ENERGICAL-GCCH02CHT0200.webp",
+      "aliases": [
+        "générateur électrique (chauffe-eau)",
+        "gcch02cht0200"
+      ],
+      "description": "Optimisez l&rsquo;alimentation de votre chauffe-eau avec notre générateur électrique fiable. Conçu pour fournir une énergie stable et constante, ce générateur assure un fonctionnement sans interruption, même dans les conditions les plus exigeantes. Avec sa construction robuste et sa facilité d&rsquo;installation, il offre une solution efficace pour garantir un approvisionnement continu en électricité pour votre chauffe-eau.",
+      "categories": [
+        "Pièces de rechange Chauffe eaux",
+        "Pièces de rechange pour S.A.V."
+      ],
+      "source": {
+        "id": 27291,
+        "sku": "GCCH02CHT0200",
+        "permalink": "https://energical.com/fr/produit/generateur-electrique-chauffe-eau/",
+        "stockStatus": "instock",
+        "categoryName": "Pièces de rechange Chauffe eaux",
+        "scrapedAt": "2026-08-18T22:40:25.913Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-GCCH01CHT0100",
+      "name": "Générateur d’impulsion (Chauffe eau)",
+      "nameAr": "",
+      "brand": "Generic",
+      "barcode": "GCCH01CHT0100",
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 1029,
+      "salePrice": 1210,
+      "minStock": 10,
+      "image": "images/chauffage/ENERGICAL-GCCH01CHT0100.webp",
+      "aliases": [
+        "générateur d’impulsion (chauffe eau)",
+        "gcch01cht0100"
+      ],
+      "description": "Optimisez l&rsquo;efficacité de votre chauffe-eau avec notre générateur d&rsquo;impulsion de pointe. Conçu pour fournir des impulsions précises et régulières, ce générateur assure un contrôle optimal de la température de l&rsquo;eau, garantissant ainsi des performances de chauffage fiables et efficaces. Avec sa technologie avancée et sa facilité d&rsquo;installation, il offre une solution innovante pour répondre à vos besoins de chauffage",
+      "categories": [
+        "Pièces de rechange Chauffe eaux",
+        "Pièces de rechange pour S.A.V."
+      ],
+      "source": {
+        "id": 27283,
+        "sku": "GCCH01CHT0100",
+        "permalink": "https://energical.com/fr/produit/generateur-dimpulsion-chauffe-eau/",
+        "stockStatus": "instock",
+        "categoryName": "Pièces de rechange Chauffe eaux",
+        "scrapedAt": "2026-08-18T22:40:25.913Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-GCCH03CHT0300",
+      "name": "Capteur chauffe eau à turbine",
+      "nameAr": "",
+      "brand": "Generic",
+      "barcode": "GCCH03CHT0300",
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 514,
+      "salePrice": 605,
+      "minStock": 10,
+      "image": "images/chauffage/ENERGICAL-GCCH03CHT0300.webp",
+      "aliases": [
+        "capteur chauffe eau à turbine",
+        "gcch03cht0300"
+      ],
+      "description": "Améliorez l&rsquo;efficacité de votre chauffe-eau avec notre capteur à turbine innovant. Conçu pour détecter les mouvements d&rsquo;eau avec précision, ce capteur assure un contrôle optimal de la température, permettant ainsi des économies d&rsquo;énergie significatives. Sa technologie de pointe garantit une réponse rapide et fiable, assurant un chauffage efficace et une longue durée de vie pour votre équipement.",
+      "categories": [
+        "Pièces de rechange Chauffe eaux",
+        "Pièces de rechange pour S.A.V."
+      ],
+      "source": {
+        "id": 27237,
+        "sku": "GCCH03CHT0300",
+        "permalink": "https://energical.com/fr/produit/capteur-chauffe-eau-a-turbine/",
+        "stockStatus": "instock",
+        "categoryName": "Pièces de rechange Chauffe eaux",
+        "scrapedAt": "2026-08-18T22:40:25.913Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-GCD36SLL36",
+      "name": "Chaudière SL-DL36",
+      "nameAr": "",
+      "brand": "Generic",
+      "barcode": "GCD36SLL36",
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 118150,
+      "salePrice": 139000,
+      "minStock": 10,
+      "image": "images/chauffage/ENERGICAL-GCD36SLL36.webp",
+      "aliases": [
+        "chaudière sl-dl36",
+        "gcd36sll36"
+      ],
+      "description": "",
+      "categories": [
+        "Chaudières",
+        "Chauffage et régulation gaz"
+      ],
+      "source": {
+        "id": 27212,
+        "sku": "GCD36SLL36",
+        "permalink": "https://energical.com/fr/produit/chaudiere-sl-dl36/",
+        "stockStatus": "instock",
+        "categoryName": "Chaudières",
+        "scrapedAt": "2026-08-18T22:40:25.913Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-GCCD004835700",
+      "name": "Soupape de décharge",
+      "nameAr": "",
+      "brand": "Generic",
+      "barcode": "GCCD004835700",
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 714,
+      "salePrice": 840,
+      "minStock": 10,
+      "image": "images/chauffage/ENERGICAL-GCCD004835700.webp",
+      "aliases": [
+        "soupape de décharge",
+        "gccd004835700"
+      ],
+      "description": "La soupape de décharge est un élément essentiel pour la sécurité des systèmes de pression. Cette soupape libère automatiquement la pression excédentaire pour éviter les surpressions potentiellement dangereuses. Fabriquée avec des matériaux de haute qualité et conçue pour une performance fiable, elle assure la sécurité des équipements et des opérateurs. Disponible dans différentes tailles et configurations, la soupape de décharge est un choix sûr et efficace pour tout système nécessitant une prot",
+      "categories": [
+        "Pièces de rechange Chaudières",
+        "Pièces de rechange pour S.A.V."
+      ],
+      "source": {
+        "id": 27084,
+        "sku": "GCCD004835700",
+        "permalink": "https://energical.com/fr/produit/soupape-de-decharge/",
+        "stockStatus": "instock",
+        "categoryName": "Pièces de rechange Chaudières",
+        "scrapedAt": "2026-08-18T22:40:25.913Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-18964",
+      "name": "Echangeur de chaleur principal",
+      "nameAr": "",
+      "brand": "Generic",
+      "barcode": null,
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 20485,
+      "salePrice": 24100,
+      "minStock": 10,
+      "image": "images/chauffage/ENERGICAL-18964.webp",
+      "aliases": [
+        "echangeur de chaleur principal"
+      ],
+      "description": "L&rsquo;échangeur de chaleur principal est un composant essentiel de votre système de chauffage. Disponible avec une puissance de chaudière de 24 kW, 28 kW, 32-36 kW ou 45kW, il garantit un transfert de chaleur efficace pour maintenir votre espace confortablement chauffé. Fabriqué avec des matériaux de qualité, cet échangeur offre une performance fiable et durable. Profitez d&rsquo;une solution de chauffage optimale pour répondre à vos besoins de confort thermique.",
+      "categories": [
+        "Pièces de rechange Chaudières",
+        "Pièces de rechange pour S.A.V."
+      ],
+      "source": {
+        "id": 18964,
+        "sku": "",
+        "permalink": "https://energical.com/fr/produit/echangeur-de-chaleur-principal/",
+        "stockStatus": "instock",
+        "categoryName": "Pièces de rechange Chaudières",
+        "scrapedAt": "2026-08-18T22:40:25.913Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-GCCD24H240600",
+      "name": "Echangeur de chaleur à plaques 14",
+      "nameAr": "",
+      "brand": "Generic",
+      "barcode": "GCCD24H240600",
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 3485,
+      "salePrice": 4100,
+      "minStock": 10,
+      "image": "images/chauffage/ENERGICAL-GCCD24H240600.webp",
+      "aliases": [
+        "echangeur de chaleur à plaques 14",
+        "gccd24h240600"
+      ],
+      "description": "L&rsquo;échangeur de chaleur à plaques 12 est un composant essentiel de votre système de chauffage. Avec une puissance de chaudière de 24 kW, il assure un transfert de chaleur efficace pour maintenir votre espace confortablement chauffé. Léger avec un poids de seulement 0,76 kg, il est facile à installer et offre une performance fiable. Profitez d&rsquo;une solution de chauffage optimale pour répondre à vos besoins de confort thermique avec cet échangeur de chaleur à plaques de qualité.",
+      "categories": [
+        "Pièces de rechange Chaudières",
+        "Pièces de rechange pour S.A.V."
+      ],
+      "source": {
+        "id": 18999,
+        "sku": "GCCD24H240600",
+        "permalink": "https://energical.com/fr/produit/echangeur-de-chaleur-a-plaques-14-l-2/",
+        "stockStatus": "instock",
+        "categoryName": "Pièces de rechange Chaudières",
+        "scrapedAt": "2026-08-18T22:40:25.913Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-GCCH10CHP1000",
+      "name": "Brûleur 10L avec collecteur GN",
+      "nameAr": "",
+      "brand": "Generic",
+      "barcode": "GCCH10CHP1000",
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 2414,
+      "salePrice": 2840,
+      "minStock": 10,
+      "image": "images/chauffage/ENERGICAL-GCCH10CHP1000.webp",
+      "aliases": [
+        "brûleur 10l avec collecteur gn",
+        "gcch10chp1000"
+      ],
+      "description": "Découvrez notre brûleur 10L avec collecteur GN, parfait pour les professionnels de la restauration. Avec un poids de seulement 0,64 kg et des dimensions compactes de 23,5 × 13 × 10,5 cm, ce brûleur est conçu pour une performance optimale tout en économisant de l&rsquo;espace. Idéal pour maintenir vos plats à la bonne température, son collecteur GN assure une distribution uniforme de la chaleur. Fabriqué avec des matériaux de haute qualité, il garantit durabilité et fiabilité pour une utilisation",
+      "categories": [
+        "Pièces de rechange Chauffe eaux",
+        "Pièces de rechange pour S.A.V."
+      ],
+      "source": {
+        "id": 19059,
+        "sku": "GCCH10CHP1000",
+        "permalink": "https://energical.com/fr/produit/bruleur-10l-avec-collecteur-gn/",
+        "stockStatus": "instock",
+        "categoryName": "Pièces de rechange Chauffe eaux",
+        "scrapedAt": "2026-08-18T22:40:25.913Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-GCCD003263000",
+      "name": "Ventilateur 56W",
+      "nameAr": "",
+      "brand": "Generic",
+      "barcode": "GCCD003263000",
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 5891,
+      "salePrice": 6930,
+      "minStock": 10,
+      "image": "images/chauffage/ENERGICAL-GCCD003263000.webp",
+      "aliases": [
+        "ventilateur 56w",
+        "gccd003263000"
+      ],
+      "description": "Le ventilateur 56W est conçu pour offrir une ventilation puissante et efficace, parfait pour une utilisation avec des chaudières de 32 à 36 kW. Ce ventilateur de haute qualité assure une circulation optimale de l&rsquo;air, améliorant l&rsquo;efficacité énergétique de votre système de chauffage. Robuste et durable, il garantit une performance fiable même en usage intensif. Facile à installer et à entretenir, il est l&rsquo;allié idéal pour maintenir un environnement confortable et bien ventilé.",
+      "categories": [
+        "Pièces de rechange Chaudières",
+        "Pièces de rechange pour S.A.V."
+      ],
+      "source": {
+        "id": 18956,
+        "sku": "GCCD003263000",
+        "permalink": "https://energical.com/fr/produit/ventilateur-56w/",
+        "stockStatus": "instock",
+        "categoryName": "Pièces de rechange Chaudières",
+        "scrapedAt": "2026-08-18T22:40:25.913Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-GCCD28H281400",
+      "name": "Ventilateur 45W",
+      "nameAr": "",
+      "brand": "Generic",
+      "barcode": "GCCD28H281400",
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 5891,
+      "salePrice": 6930,
+      "minStock": 10,
+      "image": "images/chauffage/ENERGICAL-GCCD28H281400.webp",
+      "aliases": [
+        "ventilateur 45w",
+        "gccd28h281400"
+      ],
+      "description": "Le ventilateur 45W est un choix idéal pour les chaudières de 28 kW, offrant une ventilation efficace et fiable. Avec un poids de 1,44 kg, il est robuste et facile à installer. Ce ventilateur de haute qualité assure une circulation d&rsquo;air optimale, contribuant ainsi à l&rsquo;efficacité énergétique de votre système de chauffage. Sa conception durable garantit une performance constante, assurant un environnement confortable dans votre espace.",
+      "categories": [
+        "Pièces de rechange Chaudières",
+        "Pièces de rechange pour S.A.V."
+      ],
+      "source": {
+        "id": 18953,
+        "sku": "GCCD28H281400",
+        "permalink": "https://energical.com/fr/produit/ventilateur-45w/",
+        "stockStatus": "instock",
+        "categoryName": "Pièces de rechange Chaudières",
+        "scrapedAt": "2026-08-18T22:40:25.913Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-GCCD24H241500",
+      "name": "Ventilateur 35W",
+      "nameAr": "",
+      "brand": "Generic",
+      "barcode": "GCCD24H241500",
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 4420,
+      "salePrice": 5200,
+      "minStock": 10,
+      "image": "images/chauffage/ENERGICAL-GCCD24H241500.webp",
+      "aliases": [
+        "ventilateur 35w",
+        "gccd24h241500"
+      ],
+      "description": "Le ventilateur 35W est spécialement conçu pour les chaudières de 24 kW, offrant une ventilation efficace dans un format compact. Avec un poids de seulement 1,34 kg, il est facile à installer et à manipuler. Ce ventilateur de haute qualité assure une circulation d&rsquo;air optimale, contribuant ainsi à maximiser l&rsquo;efficacité énergétique de votre système de chauffage. Robuste et fiable, il garantit une performance constante pour maintenir un environnement confortable.",
+      "categories": [
+        "Pièces de rechange Chaudières",
+        "Pièces de rechange pour S.A.V."
+      ],
+      "source": {
+        "id": 18950,
+        "sku": "GCCD24H241500",
+        "permalink": "https://energical.com/fr/produit/ventilateur-35w/",
+        "stockStatus": "instock",
+        "categoryName": "Pièces de rechange Chaudières",
+        "scrapedAt": "2026-08-18T22:40:25.913Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-GCCD004836000",
+      "name": "Thermocontact 95°C",
+      "nameAr": "",
+      "brand": "Generic",
+      "barcode": "GCCD004836000",
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 272,
+      "salePrice": 320,
+      "minStock": 10,
+      "image": "images/chauffage/ENERGICAL-GCCD004836000.webp",
+      "aliases": [
+        "thermocontact 95°c",
+        "gccd004836000"
+      ],
+      "description": "Le thermocontact 95°C est essentiel pour le contrôle thermique précis des chaudières de 24 à 36 kW. Avec un poids ultra-léger de 0,007 kg, il offre une installation facile et une fiabilité inégalée. Ce dispositif de haute qualité garantit un fonctionnement optimal de votre système de chauffage en maintenant une température constante de 95°C. Profitez d&rsquo;une régulation thermique précise et d&rsquo;une performance fiable pour un confort optimal.",
+      "categories": [
+        "Pièces de rechange Chaudières",
+        "Pièces de rechange pour S.A.V."
+      ],
+      "source": {
+        "id": 18973,
+        "sku": "GCCD004836000",
+        "permalink": "https://energical.com/fr/produit/thermocontact-95c/",
+        "stockStatus": "instock",
+        "categoryName": "Pièces de rechange Chaudières",
+        "scrapedAt": "2026-08-18T22:40:25.913Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-GCCD004834200",
+      "name": "Moteur vanne à 3 voies",
+      "nameAr": "",
+      "brand": "Generic",
+      "barcode": "GCCD004834200",
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 1343,
+      "salePrice": 1580,
+      "minStock": 10,
+      "image": "images/chauffage/ENERGICAL-GCCD004834200.webp",
+      "aliases": [
+        "moteur vanne à 3 voies",
+        "gccd004834200"
+      ],
+      "description": "Le moteur vanne à 3 voies est l&rsquo;élément clé pour contrôler la distribution de chaleur dans les chaudières de 24 à 36 kW. Avec un poids léger de 0,20 kg, il garantit une installation simple et une performance fiable. Ce moteur de haute qualité assure un fonctionnement fluide et efficace de votre système de chauffage, permettant une régulation précise de la température. Profitez d&rsquo;une distribution uniforme de la chaleur pour un confort optimal dans votre espace.",
+      "categories": [
+        "Pièces de rechange Chaudières",
+        "Pièces de rechange pour S.A.V."
+      ],
+      "source": {
+        "id": 18995,
+        "sku": "GCCD004834200",
+        "permalink": "https://energical.com/fr/produit/moteur-vanne-a-3-voies/",
+        "stockStatus": "instock",
+        "categoryName": "Pièces de rechange Chaudières",
+        "scrapedAt": "2026-08-18T22:40:25.913Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-GCCD004835600",
+      "name": "Sonde de température de chauffage 10kOhm",
+      "nameAr": "",
+      "brand": "Generic",
+      "barcode": "GCCD004835600",
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 272,
+      "salePrice": 320,
+      "minStock": 10,
+      "image": "images/chauffage/ENERGICAL-GCCD004835600.webp",
+      "aliases": [
+        "sonde de température de chauffage 10kohm",
+        "gccd004835600"
+      ],
+      "description": "La sonde de température de chauffage 10kOhm est un composant essentiel pour le contrôle précis de la température dans les chaudières de 24 à 36 kW. Avec un poids ultra-léger de 0,014 kg, elle garantit une installation facile et une fiabilité inégalée. Cette sonde de haute qualité assure une mesure précise de la température, assurant ainsi un fonctionnement optimal de votre système de chauffage. Profitez d&rsquo;un contrôle thermique précis pour un confort maximal.",
+      "categories": [
+        "Pièces de rechange Chaudières",
+        "Pièces de rechange pour S.A.V."
+      ],
+      "source": {
+        "id": 19023,
+        "sku": "GCCD004835600",
+        "permalink": "https://energical.com/fr/produit/sonde-de-temperature-de-chauffage-10kohm/",
+        "stockStatus": "instock",
+        "categoryName": "Pièces de rechange Chaudières",
+        "scrapedAt": "2026-08-18T22:40:25.913Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-GCCD004832600",
+      "name": "Electrode détecteur",
+      "nameAr": "",
+      "brand": "Generic",
+      "barcode": "GCCD004832600",
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 383,
+      "salePrice": 450,
+      "minStock": 10,
+      "image": "images/chauffage/ENERGICAL-GCCD004832600.webp",
+      "aliases": [
+        "electrode détecteur",
+        "gccd004832600"
+      ],
+      "description": "L&rsquo;électrode détecteur est un élément crucial pour assurer un fonctionnement sûr et efficace des chaudières de 24 à 36 kW. Avec un poids léger de 0,02 kg, elle garantit une installation facile et une fiabilité inégalée. Cette électrode de haute qualité assure une détection précise des signaux électriques, assurant ainsi un contrôle optimal du fonctionnement de votre système de chauffage. Profitez d&rsquo;une tranquillité d&rsquo;esprit avec cette composante essentielle pour votre équipement",
+      "categories": [
+        "Pièces de rechange Chaudières",
+        "Pièces de rechange pour S.A.V."
+      ],
+      "source": {
+        "id": 18977,
+        "sku": "GCCD004832600",
+        "permalink": "https://energical.com/fr/produit/electrode-detecteur/",
+        "stockStatus": "instock",
+        "categoryName": "Pièces de rechange Chaudières",
+        "scrapedAt": "2026-08-18T22:40:25.913Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-GCCD004832500",
+      "name": "Electrode d’allumage gauche",
+      "nameAr": "",
+      "brand": "Generic",
+      "barcode": "GCCD004832500",
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 383,
+      "salePrice": 450,
+      "minStock": 10,
+      "image": "images/chauffage/ENERGICAL-GCCD004832500.webp",
+      "aliases": [
+        "electrode d’allumage gauche",
+        "gccd004832500"
+      ],
+      "description": "L&rsquo;électrode d&rsquo;allumage gauche est un élément esentiel pour garantir un allumage fiable et efficace des chaudières de 24 à 36 kW. Avec un poids léger de 0,014 kg, elle offre une installation simple et une fiabilité exceptionnelle. Cette électrode de haute qualité assure une étincelle précise et constante, assurant ainsi un démarrage optimal de votre système de chauffage. Profitez d&rsquo;une performance fiable et d&rsquo;une tranquillité d&rsquo;esprit avec cette composante indispensa",
+      "categories": [
+        "Pièces de rechange Chaudières",
+        "Pièces de rechange pour S.A.V."
+      ],
+      "source": {
+        "id": 18983,
+        "sku": "GCCD004832500",
+        "permalink": "https://energical.com/fr/produit/electrode-dallumage-gauche/",
+        "stockStatus": "instock",
+        "categoryName": "Pièces de rechange Chaudières",
+        "scrapedAt": "2026-08-18T22:40:25.913Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-GCCD004832400",
+      "name": "Electrode d’allumage droite",
+      "nameAr": "",
+      "brand": "Generic",
+      "barcode": "GCCD004832400",
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 383,
+      "salePrice": 450,
+      "minStock": 10,
+      "image": "images/chauffage/ENERGICAL-GCCD004832400.webp",
+      "aliases": [
+        "electrode d’allumage droite",
+        "gccd004832400"
+      ],
+      "description": "L&rsquo;électrode d’allumage droite est un composant essentiel pour garantir un allumage fiable et efficace des chaudières de 24 à 36 kW. Avec un poids léger de 0,014 kg, elle assure une installation simple et une fiabilité exceptionnelle. Cette électrode de haute qualité délivre une étincelle précise et constante, assurant ainsi un démarrage optimal de votre système de chauffage. Profitez d&rsquo;une performance fiable et d&rsquo;une tranquillité d&rsquo;esprit avec cette composante indispensab",
+      "categories": [
+        "Pièces de rechange Chaudières",
+        "Pièces de rechange pour S.A.V."
+      ],
+      "source": {
+        "id": 18980,
+        "sku": "GCCD004832400",
+        "permalink": "https://energical.com/fr/produit/electrode-dallumage-droite/",
+        "stockStatus": "instock",
+        "categoryName": "Pièces de rechange Chaudières",
+        "scrapedAt": "2026-08-18T22:40:25.913Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-GCCD36H360300",
+      "name": "Echangeur de chaleur à plaques 20",
+      "nameAr": "",
+      "brand": "Generic",
+      "barcode": "GCCD36H360300",
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 5024,
+      "salePrice": 5910,
+      "minStock": 10,
+      "image": "images/chauffage/ENERGICAL-GCCD36H360300.webp",
+      "aliases": [
+        "echangeur de chaleur à plaques 20",
+        "gccd36h360300"
+      ],
+      "description": "L&rsquo;échangeur de chaleur à plaques 18 est conçu pour une performance optimale avec des chaudières de 36 kW. Son design innovant assure une transmission efficace de la chaleur, permettant ainsi une utilisation efficace de l&rsquo;énergie. Compact et robuste, cet échangeur de chaleur garantit une longue durée de vie et une maintenance réduite. Profitez d&rsquo;une distribution uniforme de la chaleur pour un confort optimal dans votre espace.",
+      "categories": [
+        "Pièces de rechange Chaudières",
+        "Pièces de rechange pour S.A.V."
+      ],
+      "source": {
+        "id": 19007,
+        "sku": "GCCD36H360300",
+        "permalink": "https://energical.com/fr/produit/echangeur-de-chaleur-a-plaques-20/",
+        "stockStatus": "instock",
+        "categoryName": "Pièces de rechange Chaudières",
+        "scrapedAt": "2026-08-18T22:40:25.913Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-GCCD32H320200",
+      "name": "Echangeur de chaleur à plaques 18",
+      "nameAr": "",
+      "brand": "Generic",
+      "barcode": "GCCD32H320200",
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 4420,
+      "salePrice": 5200,
+      "minStock": 10,
+      "image": "images/chauffage/ENERGICAL-GCCD32H320200.webp",
+      "aliases": [
+        "echangeur de chaleur à plaques 18",
+        "gccd32h320200"
+      ],
+      "description": "L&rsquo;échangeur de chaleur à plaques 16 est spécialement conçu pour les chaudières de 32 kW, offrant une performance fiable et efficace. Avec un poids de 0,86 kg, il est robuste et facile à installer. Cet échangeur de chaleur garantit une transmission optimale de la chaleur, assurant ainsi une utilisation efficace de l&rsquo;énergie. Sa conception compacte permet un gain d&rsquo;espace significatif, tandis que sa durabilité assure une longue durée de vie pour votre système de chauffage.",
+      "categories": [
+        "Pièces de rechange Chaudières",
+        "Pièces de rechange pour S.A.V."
+      ],
+      "source": {
+        "id": 19005,
+        "sku": "GCCD32H320200",
+        "permalink": "https://energical.com/fr/produit/echangeur-de-chaleur-a-plaques-18/",
+        "stockStatus": "instock",
+        "categoryName": "Pièces de rechange Chaudières",
+        "scrapedAt": "2026-08-18T22:40:25.913Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-GCCD28H280600",
+      "name": "Echangeur de chaleur à plaques 16",
+      "nameAr": "",
+      "brand": "Generic",
+      "barcode": "GCCD28H280600",
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 4089,
+      "salePrice": 4810,
+      "minStock": 10,
+      "image": "images/chauffage/ENERGICAL-GCCD28H280600.webp",
+      "aliases": [
+        "echangeur de chaleur à plaques 16",
+        "gccd28h280600"
+      ],
+      "description": "L&rsquo;échangeur de chaleur à plaques 14 est spécialement conçu pour les chaudières de 28 kW, offrant une performance fiable et efficace. Avec un poids de 0,76 kg, il est léger et facile à installer. Cet échangeur de chaleur garantit une transmission optimale de la chaleur, assurant ainsi une utilisation efficace de l&rsquo;énergie. Sa conception compacte permet un gain d&rsquo;espace significatif, tandis que sa durabilité assure une longue durée de vie pour votre système de chauffage.",
+      "categories": [
+        "Pièces de rechange Chaudières",
+        "Pièces de rechange pour S.A.V."
+      ],
+      "source": {
+        "id": 19001,
+        "sku": "GCCD28H280600",
+        "permalink": "https://energical.com/fr/produit/echangeur-de-chaleur-a-plaques-16-l/",
+        "stockStatus": "instock",
+        "categoryName": "Pièces de rechange Chaudières",
+        "scrapedAt": "2026-08-18T22:40:25.913Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-19011",
+      "name": "Capteur de débit",
+      "nameAr": "",
+      "brand": "Generic",
+      "barcode": null,
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 2227,
+      "salePrice": 2620,
+      "minStock": 10,
+      "image": "images/chauffage/ENERGICAL-19011.webp",
+      "aliases": [
+        "capteur de débit"
+      ],
+      "description": "Le capteur de débit est un composant essentiel pour mesurer avec précision le débit de liquide dans les systèmes de chauffage. Son design innovant assure une détection précise, permettant ainsi un contrôle optimal de la circulation du fluide. Facile à installer et à entretenir, ce capteur garantit une performance fiable et une utilisation efficace de l&rsquo;énergie. Assurez-vous d&rsquo;une régulation précise du débit pour un fonctionnement optimal de votre système de chauffage.",
+      "categories": [
+        "Pièces de rechange Chaudières",
+        "Pièces de rechange pour S.A.V."
+      ],
+      "source": {
+        "id": 19011,
+        "sku": "",
+        "permalink": "https://energical.com/fr/produit/capteur-de-debit/",
+        "stockStatus": "instock",
+        "categoryName": "Pièces de rechange Chaudières",
+        "scrapedAt": "2026-08-18T22:40:25.913Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-GCCD004831400",
+      "name": "Capteur de température ECS 10kOhm",
+      "nameAr": "",
+      "brand": "Generic",
+      "barcode": "GCCD004831400",
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 272,
+      "salePrice": 320,
+      "minStock": 10,
+      "image": "images/chauffage/ENERGICAL-GCCD004831400.webp",
+      "aliases": [
+        "capteur de température ecs 10kohm",
+        "gccd004831400"
+      ],
+      "description": "Le capteur de température ECS 10kOhm est un élément essentiel pour mesurer avec précision la température de l&rsquo;eau chaude sanitaire dans les systèmes de chauffage. Avec un poids ultra-léger de 0,007 kg, il offre une installation facile et une fiabilité inégalée. Ce capteur de haute qualité assure une mesure précise de la température, permettant ainsi un contrôle optimal du chauffage de l&rsquo;eau. Profitez d&rsquo;une régulation thermique précise pour un confort maximal.",
+      "categories": [
+        "Pièces de rechange Chaudières",
+        "Pièces de rechange pour S.A.V."
+      ],
+      "source": {
+        "id": 19016,
+        "sku": "GCCD004831400",
+        "permalink": "https://energical.com/fr/produit/capteur-de-temperature-ecs-10kohm/",
+        "stockStatus": "instock",
+        "categoryName": "Pièces de rechange Chaudières",
+        "scrapedAt": "2026-08-18T22:40:25.913Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-GCCD004831300",
+      "name": "Capteur de pression d&rsquo;eau",
+      "nameAr": "",
+      "brand": "Generic",
+      "barcode": "GCCD004831300",
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 510,
+      "salePrice": 600,
+      "minStock": 10,
+      "image": "images/chauffage/ENERGICAL-GCCD004831300.webp",
+      "aliases": [
+        "capteur de pression d&rsquo;eau",
+        "gccd004831300"
+      ],
+      "description": "Le capteur de pression d&rsquo;eau est un composant crucial pour surveiller avec précision la pression dans les systèmes de chauffage. Avec un poids de seulement 0,014 kg, il est léger et facile à installer. Ce capteur de haute qualité assure une mesure précise de la pression, permettant ainsi un contrôle optimal du système de chauffage. Robuste et fiable, il garantit un fonctionnement sûr et efficace, assurant ainsi une performance optimale de votre chaudière.",
+      "categories": [
+        "Pièces de rechange Chaudières",
+        "Pièces de rechange pour S.A.V."
+      ],
+      "source": {
+        "id": 19026,
+        "sku": "GCCD004831300",
+        "permalink": "https://energical.com/fr/produit/capteur-de-pression-deau/",
+        "stockStatus": "instock",
+        "categoryName": "Pièces de rechange Chaudières",
+        "scrapedAt": "2026-08-18T22:40:25.913Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-GCCD004830300",
+      "name": "Bloc de gaz",
+      "nameAr": "",
+      "brand": "Generic",
+      "barcode": "GCCD004830300",
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 9427,
+      "salePrice": 11090,
+      "minStock": 10,
+      "image": "images/chauffage/ENERGICAL-GCCD004830300.webp",
+      "aliases": [
+        "bloc de gaz",
+        "gccd004830300"
+      ],
+      "description": "Le bloc de gaz est un composant essentiel des chaudières de 24 à 36 kW, assurant une combustion efficace du gaz pour produire de la chaleur. Avec un poids de 0,80 kg, il est robuste et facile à installer. Ce bloc de haute qualité garantit une combustion propre et fiable, assurant ainsi un fonctionnement optimal de votre chaudière. Profitez d&rsquo;une performance constante et d&rsquo;une sécurité accrue pour un chauffage efficace de votre espace.",
+      "categories": [
+        "Pièces de rechange Chaudières",
+        "Pièces de rechange pour S.A.V."
+      ],
+      "source": {
+        "id": 19038,
+        "sku": "GCCD004830300",
+        "permalink": "https://energical.com/fr/produit/bloc-de-gaz/",
+        "stockStatus": "instock",
+        "categoryName": "Pièces de rechange Chaudières",
+        "scrapedAt": "2026-08-18T22:40:25.913Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-GCCD003262100",
+      "name": "Pompe Grundfos 96 w",
+      "nameAr": "",
+      "brand": "Generic",
+      "barcode": "GCCD003262100",
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 19015,
+      "salePrice": 22370,
+      "minStock": 10,
+      "image": "images/chauffage/ENERGICAL-GCCD003262100.webp",
+      "aliases": [
+        "pompe grundfos 96 w",
+        "gccd003262100"
+      ],
+      "description": "La pompe Grundfos 96 W est conçue pour une performance optimale avec les chaudières de 32 à 36 kW. Avec une puissance de 96 W, elle assure une circulation efficace de l&rsquo;eau dans votre système de chauffage. Robuste et fiable, cette pompe garantit un fonctionnement continu et une distribution uniforme de la chaleur. Son design compact permet une installation facile et un fonctionnement silencieux, assurant ainsi un confort optimal dans votre espace.",
+      "categories": [
+        "Pièces de rechange Chaudières",
+        "Pièces de rechange pour S.A.V."
+      ],
+      "source": {
+        "id": 19032,
+        "sku": "GCCD003262100",
+        "permalink": "https://energical.com/fr/produit/pompe-grundfos-96-w/",
+        "stockStatus": "instock",
+        "categoryName": "Pièces de rechange Chaudières",
+        "scrapedAt": "2026-08-18T22:40:25.913Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-GCCD00H482000",
+      "name": "Pompe Grundfos 76 w",
+      "nameAr": "",
+      "brand": "Generic",
+      "barcode": "GCCD00H482000",
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 14731,
+      "salePrice": 17330,
+      "minStock": 10,
+      "image": "images/chauffage/ENERGICAL-GCCD00H482000.webp",
+      "aliases": [
+        "pompe grundfos 76 w",
+        "gccd00h482000"
+      ],
+      "description": "La pompe Grundfos 76 W est un équipement essentiel pour les systèmes de chauffage, offrant une puissance fiable de 76 watts et une capacité de chaudière de 24 à 28 kW. Pesant seulement 1,86 kg, cette pompe est légère mais robuste, assurant une circulation efficace de l&rsquo;eau dans votre système de chauffage. Sa conception avancée garantit une performance optimale tout en réduisant la consommation d&rsquo;énergie. Idéale pour les installations domestiques et commerciales, elle assure une effic",
+      "categories": [
+        "Pièces de rechange Chaudières",
+        "Pièces de rechange pour S.A.V."
+      ],
+      "source": {
+        "id": 19029,
+        "sku": "GCCD00H482000",
+        "permalink": "https://energical.com/fr/produit/pompe-grundfos-76-w/",
+        "stockStatus": "instock",
+        "categoryName": "Pièces de rechange Chaudières",
+        "scrapedAt": "2026-08-18T22:40:25.913Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-GCCD004835400",
+      "name": "Pressostat",
+      "nameAr": "",
+      "brand": "Generic",
+      "barcode": "GCCD004835400",
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 1275,
+      "salePrice": 1500,
+      "minStock": 10,
+      "image": "images/chauffage/ENERGICAL-GCCD004835400.webp",
+      "aliases": [
+        "pressostat",
+        "gccd004835400"
+      ],
+      "description": "Le pressostat est un composant essentiel pour la régulation de la pression dans les systèmes de chauffage. Avec un poids léger de 0,08 kg, il est compatible avec des chaudières de puissance variée, allant de 24 à 36 kW. Ce dispositif assure un fonctionnement sécurisé et efficace, en maintenant la pression optimale pour éviter les surpressions et sous-pressions. Idéal pour les applications domestiques et industrielles, le pressostat garantit une performance fiable et une longue durée de vie de vo",
+      "categories": [
+        "Pièces de rechange Chaudières",
+        "Pièces de rechange pour S.A.V."
+      ],
+      "source": {
+        "id": 18959,
+        "sku": "GCCD004835400",
+        "permalink": "https://energical.com/fr/produit/pressostat/",
+        "stockStatus": "instock",
+        "categoryName": "Pièces de rechange Chaudières",
+        "scrapedAt": "2026-08-18T22:40:25.913Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-GCCD004831500",
+      "name": "Capteur Holl",
+      "nameAr": "",
+      "brand": "Generic",
+      "barcode": "GCCD004831500",
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 901,
+      "salePrice": 1060,
+      "minStock": 10,
+      "image": "images/chauffage/ENERGICAL-GCCD004831500.webp",
+      "aliases": [
+        "capteur holl",
+        "gccd004831500"
+      ],
+      "description": "Le capteur Hall est un dispositif de haute précision conçu pour les chaudières de 24 à 36 kW. Pesant seulement 0,007 kg, il assure une détection précise et fiable des champs magnétiques, garantissant ainsi une performance optimale de votre système de chauffage. Ce capteur est essentiel pour le bon fonctionnement et la sécurité des chaudières, offrant une surveillance continue et une réactivité immédiate. Sa petite taille et son poids léger facilitent l&rsquo;installation et l&rsquo;intégration d",
+      "categories": [
+        "Pièces de rechange Chaudières",
+        "Pièces de rechange pour S.A.V."
+      ],
+      "source": {
+        "id": 19014,
+        "sku": "GCCD004831500",
+        "permalink": "https://energical.com/fr/produit/capteur-holl/",
+        "stockStatus": "instock",
+        "categoryName": "Pièces de rechange Chaudières",
+        "scrapedAt": "2026-08-18T22:40:25.913Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-GCCD004831700",
+      "name": "Carte de contrôle électronique",
+      "nameAr": "",
+      "brand": "Generic",
+      "barcode": "GCCD004831700",
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 11518,
+      "salePrice": 13550,
+      "minStock": 10,
+      "image": "images/chauffage/ENERGICAL-GCCD004831700.webp",
+      "aliases": [
+        "carte de contrôle électronique",
+        "gccd004831700"
+      ],
+      "description": "La carte de contrôle électronique est un composant essentiel pour la gestion optimale des chaudières de 24 à 45 kW. Pesant 0,60 kg, elle intègre des technologies avancées pour assurer un contrôle précis et fiable de votre système de chauffage. Cette carte optimise les performances de la chaudière, régule les paramètres critiques et améliore l&rsquo;efficacité énergétique. Facile à installer, elle offre une surveillance continue et une protection renforcée, garantissant ainsi la longévité et la s",
+      "categories": [
+        "Pièces de rechange Chaudières",
+        "Pièces de rechange pour S.A.V."
+      ],
+      "source": {
+        "id": 19041,
+        "sku": "GCCD004831700",
+        "permalink": "https://energical.com/fr/produit/carte-de-controle-electronique/",
+        "stockStatus": "instock",
+        "categoryName": "Pièces de rechange Chaudières",
+        "scrapedAt": "2026-08-18T22:40:25.913Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-GCCH06CHP0100",
+      "name": "Brûleur 6L avec collecteur GN",
+      "nameAr": "",
+      "brand": "Generic",
+      "barcode": "GCCH06CHP0100",
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 2104,
+      "salePrice": 2475,
+      "minStock": 10,
+      "image": "images/chauffage/ENERGICAL-GCCH06CHP0100.webp",
+      "aliases": [
+        "brûleur 6l avec collecteur gn",
+        "gcch06chp0100"
+      ],
+      "description": "Le brûleur 6L avec collecteur GN est un équipement essentiel pour les systèmes de chauffage, conçu pour une performance maximale. Avec un poids de 0,71 kg et des dimensions compactes de 24 × 12 × 12 cm, ce brûleur assure une combustion efficace et uniforme. Le collecteur GN intégré optimise la distribution du gaz naturel, garantissant une meilleure efficacité énergétique et une réduction des émissions. Idéal pour diverses applications, ce brûleur offre robustesse, durabilité et une installation ",
+      "categories": [
+        "Pièces de rechange Chauffe eaux",
+        "Pièces de rechange pour S.A.V."
+      ],
+      "source": {
+        "id": 19056,
+        "sku": "GCCH06CHP0100",
+        "permalink": "https://energical.com/fr/produit/bruleur-6l-avec-collecteur-gn/",
+        "stockStatus": "instock",
+        "categoryName": "Pièces de rechange Chauffe eaux",
+        "scrapedAt": "2026-08-18T22:40:25.913Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-GCCD004834100",
+      "name": "Manomètre de pression d’eau 4 bar",
+      "nameAr": "",
+      "brand": "Generic",
+      "barcode": "GCCD004834100",
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 901,
+      "salePrice": 1060,
+      "minStock": 10,
+      "image": "images/chauffage/ENERGICAL-GCCD004834100.webp",
+      "aliases": [
+        "manomètre de pression d’eau 4 bar",
+        "gccd004834100"
+      ],
+      "description": "Le manomètre de pression d’eau 4 bar est un outil indispensable pour surveiller la pression dans les systèmes de chauffage. Avec un poids léger de 0,04 kg, ce manomètre est compatible avec des chaudières de 24 à 36 kW. Il offre une lecture précise de la pression jusqu&rsquo;à 4 bars, garantissant ainsi un fonctionnement sûr et efficace de votre installation de chauffage. Conçu pour une installation facile, il assure une maintenance préventive fiable et prolonge la durée de vie de votre système d",
+      "categories": [
+        "Pièces de rechange Chaudières",
+        "Pièces de rechange pour S.A.V."
+      ],
+      "source": {
+        "id": 19019,
+        "sku": "GCCD004834100",
+        "permalink": "https://energical.com/fr/produit/manometre-de-pression-deau-4-bar/",
+        "stockStatus": "instock",
+        "categoryName": "Pièces de rechange Chaudières",
+        "scrapedAt": "2026-08-18T22:40:25.913Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-GCCD003262900",
+      "name": "Vase d’expansion 10L",
+      "nameAr": "",
+      "brand": "Generic",
+      "barcode": "GCCD003262900",
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 6834,
+      "salePrice": 8040,
+      "minStock": 10,
+      "image": "images/chauffage/ENERGICAL-GCCD003262900.webp",
+      "aliases": [
+        "vase d’expansion 10l",
+        "gccd003262900"
+      ],
+      "description": "Le vase d’expansion 10L est un composant crucial pour les systèmes de chauffage, offrant une capacité généreuse pour absorber les variations de pression. Avec un poids de 4,86 kg, ce vase est conçu pour les chaudières de 32 à 36 kW, assurant une performance optimale. Son volume de 10 litres permet une expansion contrôlée du liquide de refroidissement, évitant ainsi les surpressions. Robuste et fiable, ce vase d’expansion prolonge la durée de vie de votre système de chauffage tout en assurant une",
+      "categories": [
+        "Pièces de rechange Chaudières",
+        "Pièces de rechange pour S.A.V."
+      ],
+      "source": {
+        "id": 18991,
+        "sku": "GCCD003262900",
+        "permalink": "https://energical.com/fr/produit/vase-dexpansion-10l/",
+        "stockStatus": "instock",
+        "categoryName": "Pièces de rechange Chaudières",
+        "scrapedAt": "2026-08-18T22:40:25.913Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-GCCD28H281300",
+      "name": "Vase d’expansion 8L",
+      "nameAr": "",
+      "brand": "Generic",
+      "barcode": "GCCD28H281300",
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 5695,
+      "salePrice": 6700,
+      "minStock": 10,
+      "image": "images/chauffage/ENERGICAL-GCCD28H281300.webp",
+      "aliases": [
+        "vase d’expansion 8l",
+        "gccd28h281300"
+      ],
+      "description": "Le vase d’expansion 8L est un élément essentiel des systèmes de chauffage, offrant une capacité optimale pour absorber les variations de pression. Avec un poids de 4,78 kg, ce vase est spécialement conçu pour les chaudières de 28 kW, assurant une performance fiable. Son volume de 8 litres permet une expansion contrôlée du liquide de refroidissement, garantissant ainsi une pression stable dans votre système de chauffage. Robuste et durable, ce vase d’expansion prolonge la durée de vie de votre in",
+      "categories": [
+        "Pièces de rechange Chaudières",
+        "Pièces de rechange pour S.A.V."
+      ],
+      "source": {
+        "id": 18988,
+        "sku": "GCCD28H281300",
+        "permalink": "https://energical.com/fr/produit/vase-dexpansion-8l/",
+        "stockStatus": "instock",
+        "categoryName": "Pièces de rechange Chaudières",
+        "scrapedAt": "2026-08-18T22:40:25.913Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-GCCD24H241400",
+      "name": "Vase d’expansion 6L-24kW",
+      "nameAr": "",
+      "brand": "Generic",
+      "barcode": "GCCD24H241400",
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 4692,
+      "salePrice": 5520,
+      "minStock": 10,
+      "image": "images/chauffage/ENERGICAL-GCCD24H241400.webp",
+      "aliases": [
+        "vase d’expansion 6l-24kw",
+        "gccd24h241400"
+      ],
+      "description": "Le vase d’expansion 6L est un composant essentiel des systèmes de chauffage, offrant une capacité optimale pour absorber les variations de pression. Avec un poids de 4,52 kg, ce vase est spécialement conçu pour les chaudières de 24 kW, garantissant une performance fiable. Son volume de 6 litres permet une expansion contrôlée du liquide de refroidissement, assurant ainsi une pression stable dans votre système de chauffage. Robuste et durable, ce vase d’expansion prolonge la durée de vie de votre ",
+      "categories": [
+        "Pièces de rechange Chaudières",
+        "Pièces de rechange pour S.A.V."
+      ],
+      "source": {
+        "id": 18986,
+        "sku": "GCCD24H241400",
+        "permalink": "https://energical.com/fr/produit/vase-dexpansion-6l/",
+        "stockStatus": "instock",
+        "categoryName": "Pièces de rechange Chaudières",
+        "scrapedAt": "2026-08-18T22:40:25.913Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-GCCH10CHP0500",
+      "name": "Thermocontact gaz brulé 160°",
+      "nameAr": "",
+      "brand": "Generic",
+      "barcode": "GCCH10CHP0500",
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 123,
+      "salePrice": 145,
+      "minStock": 10,
+      "image": "images/chauffage/ENERGICAL-GCCH10CHP0500.webp",
+      "aliases": [
+        "thermocontact gaz brulé 160°",
+        "gcch10chp0500"
+      ],
+      "description": "Le thermocontact gaz brûlé 160° est un élément essentiel des chauffe-eau, assurant une régulation précise de la température. Avec un poids léger de 0,0442 kg, ce thermocontact est conçu pour détecter et contrôler la température du gaz brûlé jusqu&rsquo;à 160 degrés Celsius. Idéal pour les chauffe-eau de 10L, il garantit un fonctionnement sûr et efficace, contribuant ainsi à prolonger la durée de vie de votre équipement de chauffage d&rsquo;eau.",
+      "categories": [
+        "Pièces de rechange Chauffe eaux",
+        "Pièces de rechange pour S.A.V."
+      ],
+      "source": {
+        "id": 18890,
+        "sku": "GCCH10CHP0500",
+        "permalink": "https://energical.com/fr/produit/thermocontact-gaz-brule-160-10l/",
+        "stockStatus": "instock",
+        "categoryName": "Pièces de rechange Chauffe eaux",
+        "scrapedAt": "2026-08-18T22:40:25.913Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-GCCH06CHP0500",
+      "name": "Thermocontact gaz brulé 140°",
+      "nameAr": "",
+      "brand": "Generic",
+      "barcode": "GCCH06CHP0500",
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 123,
+      "salePrice": 145,
+      "minStock": 10,
+      "image": "images/chauffage/ENERGICAL-GCCH06CHP0500.webp",
+      "aliases": [
+        "thermocontact gaz brulé 140°",
+        "gcch06chp0500"
+      ],
+      "description": "Le thermocontact gaz brûlé 140° est un élément crucial des chauffe-eau, assurant une régulation précise de la température. Avec un poids léger de 0,0442 kg, ce thermocontact est conçu pour détecter et contrôler la température du gaz brûlé jusqu&rsquo;à 140 degrés Celsius. Idéal pour les chauffe-eau de 6L, il garantit un fonctionnement sûr et efficace, contribuant ainsi à prolonger la durée de vie de votre équipement de chauffage d&rsquo;eau.",
+      "categories": [
+        "Pièces de rechange Chauffe eaux",
+        "Pièces de rechange pour S.A.V."
+      ],
+      "source": {
+        "id": 18887,
+        "sku": "GCCH06CHP0500",
+        "permalink": "https://energical.com/fr/produit/thermocontact-gaz-brule-140-6l/",
+        "stockStatus": "instock",
+        "categoryName": "Pièces de rechange Chauffe eaux",
+        "scrapedAt": "2026-08-18T22:40:25.913Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-GCCH10CHP0600",
+      "name": "Echangeur 10L",
+      "nameAr": "",
+      "brand": "Generic",
+      "barcode": "GCCH10CHP0600",
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 9775,
+      "salePrice": 11500,
+      "minStock": 10,
+      "image": "images/chauffage/ENERGICAL-GCCH10CHP0600.webp",
+      "aliases": [
+        "echangeur 10l",
+        "gcch10chp0600"
+      ],
+      "description": "L&rsquo;échangeur 10L est un composant essentiel des chauffe-eau, assurant un transfert efficace de la chaleur pour une production d&rsquo;eau chaude optimale. Avec un poids de 2,227 kg et des dimensions de 29 × 17 × 19 cm, cet échangeur est spécialement conçu pour les chauffe-eau de 10L. Il garantit une performance fiable et une distribution homogène de la chaleur, assurant ainsi un approvisionnement constant en eau chaude pour vos besoins domestiques.",
+      "categories": [
+        "Pièces de rechange Chauffe eaux",
+        "Pièces de rechange pour S.A.V."
+      ],
+      "source": {
+        "id": 18882,
+        "sku": "GCCH10CHP0600",
+        "permalink": "https://energical.com/fr/produit/echangeur-10l/",
+        "stockStatus": "instock",
+        "categoryName": "Pièces de rechange Chauffe eaux",
+        "scrapedAt": "2026-08-18T22:40:28.482Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-GCCH00CHF0700",
+      "name": "Pilote GN",
+      "nameAr": "",
+      "brand": "Generic",
+      "barcode": "GCCH00CHF0700",
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 884,
+      "salePrice": 1040,
+      "minStock": 10,
+      "image": "images/chauffage/ENERGICAL-GCCH00CHF0700.webp",
+      "aliases": [
+        "pilote gn",
+        "gcch00chf0700"
+      ],
+      "description": "Le pilote GN est un élément crucial des chauffe-eau, assurant un allumage fiable et efficace des brûleurs au gaz naturel. Avec un poids léger de 0,143 kg et des dimensions compactes de 15 × 6,5 × 2 cm, ce pilote est adapté aux chauffe-eau de 6L et 10L. Il garantit un démarrage rapide et sûr du système de chauffage, assurant ainsi une production d&rsquo;eau chaude constante et confortable pour vos besoins domestiques.",
+      "categories": [
+        "Pièces de rechange Chauffe eaux",
+        "Pièces de rechange pour S.A.V."
+      ],
+      "source": {
+        "id": 18880,
+        "sku": "GCCH00CHF0700",
+        "permalink": "https://energical.com/fr/produit/pilote-ng-6l-10l/",
+        "stockStatus": "instock",
+        "categoryName": "Pièces de rechange Chauffe eaux",
+        "scrapedAt": "2026-08-18T22:40:28.482Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-GCCH06CHP0000",
+      "name": "Echangeur 6L",
+      "nameAr": "",
+      "brand": "Generic",
+      "barcode": "GCCH06CHP0000",
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 6826,
+      "salePrice": 8030,
+      "minStock": 10,
+      "image": "images/chauffage/ENERGICAL-GCCH06CHP0000.webp",
+      "aliases": [
+        "echangeur 6l",
+        "gcch06chp0000"
+      ],
+      "description": "L&rsquo;échangeur 6L est un composant essentiel des chauffe-eau, assurant un transfert efficace de la chaleur pour une production d&rsquo;eau chaude optimale. Avec un poids de 1,644 kg et des dimensions de 27,5 × 14 × 17,5 cm, cet échangeur est spécialement conçu pour les chauffe-eau de 6L. Il garantit une performance fiable et une distribution homogène de la chaleur, assurant ainsi un approvisionnement constant en eau chaude pour vos besoins domestiques.",
+      "categories": [
+        "Pièces de rechange Chauffe eaux",
+        "Pièces de rechange pour S.A.V."
+      ],
+      "source": {
+        "id": 18877,
+        "sku": "GCCH06CHP0000",
+        "permalink": "https://energical.com/fr/produit/echangeur-6l/",
+        "stockStatus": "instock",
+        "categoryName": "Pièces de rechange Chauffe eaux",
+        "scrapedAt": "2026-08-18T22:40:28.482Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-GCCH00CHF1700",
+      "name": "Thermocontact 80°C (surchauffe eau)",
+      "nameAr": "",
+      "brand": "Generic",
+      "barcode": "GCCH00CHF1700",
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 123,
+      "salePrice": 145,
+      "minStock": 10,
+      "image": "images/chauffage/ENERGICAL-GCCH00CHF1700.webp",
+      "aliases": [
+        "thermocontact 80°c (surchauffe eau)",
+        "gcch00chf1700"
+      ],
+      "description": "Le thermocontact 80°C pour la surchauffe de l&rsquo;eau est un élément essentiel des chauffe-eau, assurant une surveillance précise de la température. Avec un poids léger de 0,0472 kg, ce thermocontact est conçu pour détecter et contrôler la température de l&rsquo;eau jusqu&rsquo;à 80 degrés Celsius, évitant ainsi les risques de surchauffe. Compatible avec les chauffe-eau de 6L et 10L, il garantit un fonctionnement sûr et efficace, assurant ainsi une eau chaude constante et sécurisée.",
+      "categories": [
+        "Pièces de rechange Chauffe eaux",
+        "Pièces de rechange pour S.A.V."
+      ],
+      "source": {
+        "id": 18873,
+        "sku": "GCCH00CHF1700",
+        "permalink": "https://energical.com/fr/produit/thermocontact-de-surchauffe-80c-6l-10l/",
+        "stockStatus": "instock",
+        "categoryName": "Pièces de rechange Chauffe eaux",
+        "scrapedAt": "2026-08-18T22:40:28.482Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-GCCH00CHF3900",
+      "name": "Membrane – Bloc de commande",
+      "nameAr": "",
+      "brand": "Generic",
+      "barcode": "GCCH00CHF3900",
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 616,
+      "salePrice": 725,
+      "minStock": 10,
+      "image": "images/chauffage/ENERGICAL-GCCH00CHF3900.webp",
+      "aliases": [
+        "membrane – bloc de commande",
+        "gcch00chf3900"
+      ],
+      "description": "La membrane du bloc de commande est un composant essentiel des chauffe-eau, assurant une régulation précise de la pression. Avec un poids léger de 0,0455 kg, cette membrane est conçue pour les chauffe-eau de 6L et 10L. Elle garantit un fonctionnement fiable et une régulation efficace de la pression, assurant ainsi une performance optimale de votre chauffe-eau. Robuste et durable, cette membrane contribue à prolonger la durée de vie de votre équipement de chauffage d&rsquo;eau.",
+      "categories": [
+        "Pièces de rechange Chauffe eaux",
+        "Pièces de rechange pour S.A.V."
+      ],
+      "source": {
+        "id": 18865,
+        "sku": "GCCH00CHF3900",
+        "permalink": "https://energical.com/fr/produit/membrane/",
+        "stockStatus": "instock",
+        "categoryName": "Pièces de rechange Chauffe eaux",
+        "scrapedAt": "2026-08-18T22:40:28.482Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-GCCH00CHF3700",
+      "name": "Kit complet partie eau 10L",
+      "nameAr": "",
+      "brand": "Generic",
+      "barcode": "GCCH00CHF3700",
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 3655,
+      "salePrice": 4300,
+      "minStock": 10,
+      "image": "images/chauffage/ENERGICAL-GCCH00CHF3700.webp",
+      "aliases": [
+        "kit complet partie eau 10l",
+        "gcch00chf3700"
+      ],
+      "description": "Le kit complet partie eau 10L est une solution tout-en-un pour les chauffe-eau de 10L, offrant une installation facile et une performance optimale. Avec un poids léger de 0,21 kg et des dimensions compactes de 8,5 × 6 × 4 cm, ce kit comprend tous les composants nécessaires pour la partie eau du chauffe-eau. Robuste et facile à installer, il garantit un approvisionnement constant en eau chaude, répondant ainsi à vos besoins domestiques en matière de chauffage d&rsquo;eau.",
+      "categories": [
+        "Pièces de rechange Chauffe eaux",
+        "Pièces de rechange pour S.A.V."
+      ],
+      "source": {
+        "id": 18849,
+        "sku": "GCCH00CHF3700",
+        "permalink": "https://energical.com/fr/produit/kit-complet-10l/",
+        "stockStatus": "instock",
+        "categoryName": "Pièces de rechange Chauffe eaux",
+        "scrapedAt": "2026-08-18T22:40:28.482Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-GCCH00CHF3800",
+      "name": "Kit complet partie eau 6L",
+      "nameAr": "",
+      "brand": "Generic",
+      "barcode": "GCCH00CHF3800",
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 3655,
+      "salePrice": 4300,
+      "minStock": 10,
+      "image": "images/chauffage/ENERGICAL-GCCH00CHF3800.webp",
+      "aliases": [
+        "kit complet partie eau 6l",
+        "gcch00chf3800"
+      ],
+      "description": "Le kit complet partie eau 6L est une solution tout-en-un pour les chauffe-eau de 6L, offrant une installation facile et une performance optimale. Avec un poids léger de 0,21 kg et des dimensions compactes de 8,5 × 6 × 4 cm, ce kit comprend tous les composants nécessaires pour la partie eau du chauffe-eau. Robuste et facile à installer, il garantit un approvisionnement constant en eau chaude, répondant ainsi à vos besoins domestiques en matière de chauffage d&rsquo;eau.",
+      "categories": [
+        "Pièces de rechange Chauffe eaux",
+        "Pièces de rechange pour S.A.V."
+      ],
+      "source": {
+        "id": 18851,
+        "sku": "GCCH00CHF3800",
+        "permalink": "https://energical.com/fr/produit/kit-complet-6l/",
+        "stockStatus": "instock",
+        "categoryName": "Pièces de rechange Chauffe eaux",
+        "scrapedAt": "2026-08-18T22:40:28.482Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-GKCH10CHP0100",
+      "name": "Bloc de commande 10L",
+      "nameAr": "",
+      "brand": "Generic",
+      "barcode": "GKCH10CHP0100",
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 5950,
+      "salePrice": 7000,
+      "minStock": 10,
+      "image": "images/chauffage/ENERGICAL-GKCH10CHP0100.webp",
+      "aliases": [
+        "bloc de commande 10l",
+        "gkch10chp0100"
+      ],
+      "description": "Le bloc de commande 10L est un élément central des chauffe-eau, assurant un contrôle précis et efficace de l&rsquo;eau chaude. Avec un poids de 0,47 kg et des dimensions de 13 × 11 × 7,5 cm, ce bloc de commande est spécialement conçu pour les chauffe-eau de 10L. Il intègre des fonctionnalités avancées pour une gestion optimale de la température et de la pression, garantissant ainsi un fonctionnement sûr et une performance optimale de votre chauffe-eau.",
+      "categories": [
+        "Pièces de rechange Chauffe eaux",
+        "Pièces de rechange pour S.A.V."
+      ],
+      "source": {
+        "id": 18847,
+        "sku": "GKCH10CHP0100",
+        "permalink": "https://energical.com/fr/produit/bloc-de-commande-10l/",
+        "stockStatus": "instock",
+        "categoryName": "Pièces de rechange Chauffe eaux",
+        "scrapedAt": "2026-08-18T22:40:28.482Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-GKCH06CHP0100",
+      "name": "Bloc de commande 6L",
+      "nameAr": "",
+      "brand": "Generic",
+      "barcode": "GKCH06CHP0100",
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 5950,
+      "salePrice": 7000,
+      "minStock": 10,
+      "image": "images/chauffage/ENERGICAL-GKCH06CHP0100.webp",
+      "aliases": [
+        "bloc de commande 6l",
+        "gkch06chp0100"
+      ],
+      "description": "Le bloc de commande 6L est un élément central des chauffe-eau, assurant un contrôle précis et efficace de l&rsquo;eau chaude. Avec un poids de 0,47 kg et des dimensions de 13 × 11 × 7,5 cm, ce bloc de commande est spécialement conçu pour les chauffe-eau de 6L. Il intègre des fonctionnalités avancées pour une gestion optimale de la température et de la pression, garantissant ainsi un fonctionnement sûr et une performance optimale de votre chauffe-eau.",
+      "categories": [
+        "Pièces de rechange Chauffe eaux",
+        "Pièces de rechange pour S.A.V."
+      ],
+      "source": {
+        "id": 18845,
+        "sku": "GKCH06CHP0100",
+        "permalink": "https://energical.com/fr/produit/bloc-de-commande-6l/",
+        "stockStatus": "instock",
+        "categoryName": "Pièces de rechange Chauffe eaux",
+        "scrapedAt": "2026-08-18T22:40:28.482Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-GCD32SLL32",
+      "name": "Chaudière SL-DL32",
+      "nameAr": "",
+      "brand": "Generic",
+      "barcode": "GCD32SLL32",
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 109650,
+      "salePrice": 129000,
+      "minStock": 10,
+      "image": "images/chauffage/ENERGICAL-GCD32SLL32.webp",
+      "aliases": [
+        "chaudière sl-dl32",
+        "gcd32sll32"
+      ],
+      "description": "Les chaudières à double circuits ENERGICAL sont conçues pour le chauffage des locaux (circuit de chauffage) et pour la production d’eau chaude.L&rsquo;affichage de la chaudière montre l&rsquo;état du système: il montre la valeur de la température, le fonctionnement des unités principales, qui permet à l&rsquo;utilisateur de configurer facilement l&rsquo;équipement.Le panneau de commande est équipé de boutons de réglage qui permettent à l&rsquo;utilisateurde faire fonctionner facilement la chaudi",
+      "categories": [
+        "Chaudières",
+        "Chauffage et régulation gaz"
+      ],
+      "source": {
+        "id": 12503,
+        "sku": "GCD32SLL32",
+        "permalink": "https://energical.com/fr/produit/chaudiere-sl-dl32/",
+        "stockStatus": "instock",
+        "categoryName": "Chaudières",
+        "scrapedAt": "2026-08-18T22:40:31.135Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-GCD28SLM28",
+      "name": "Chaudière SL-DM28",
+      "nameAr": "",
+      "brand": "Generic",
+      "barcode": "GCD28SLM28",
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 98600,
+      "salePrice": 116000,
+      "minStock": 10,
+      "image": "images/chauffage/ENERGICAL-GCD28SLM28.webp",
+      "aliases": [
+        "chaudière sl-dm28",
+        "gcd28slm28"
+      ],
+      "description": "La chaudière SL-DM28 est un choix efficace pour le chauffage et la production d&rsquo;eau chaude, avec une puissance de 28 kW et une capacité de 14 L. Alimentée au gaz naturel, elle offre des performances fiables et économiques. Livrée avec des accessoires incluant un conduit d&rsquo;échappement, un filtre magnétique et une prise de protection, elle garantit une installation complète et sécurisée. Dotée d&rsquo;un affichage du manomètre en face, elle permet un contrôle facile de la température e",
+      "categories": [
+        "Chaudières",
+        "Chauffage et régulation gaz"
+      ],
+      "source": {
+        "id": 12499,
+        "sku": "GCD28SLM28",
+        "permalink": "https://energical.com/fr/produit/chaudiere-sl-dm28/",
+        "stockStatus": "instock",
+        "categoryName": "Chaudières",
+        "scrapedAt": "2026-08-18T22:40:31.135Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-GCD24SLM24",
+      "name": "Chaudière SL-DM24",
+      "nameAr": "",
+      "brand": "Generic",
+      "barcode": "GCD24SLM24",
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 86700,
+      "salePrice": 102000,
+      "minStock": 10,
+      "image": "images/chauffage/ENERGICAL-GCD24SLM24.webp",
+      "aliases": [
+        "chaudière sl-dm24",
+        "gcd24slm24"
+      ],
+      "description": "La chaudière SL-DM24 est une solution efficace pour le chauffage et la production d&rsquo;eau chaude, avec une puissance de 24 kW et une capacité de 12 L. Fonctionnant au gaz naturel, elle assure des performances fiables et économiques. Livrée avec des accessoires comprenant un conduit d&rsquo;échappement, un filtre magnétique et une prise de protection, elle garantit une installation complète et sécurisée. Son affichage du manomètre en face facilite le contrôle de la température et des réglages",
+      "categories": [
+        "Chaudières",
+        "Chauffage et régulation gaz"
+      ],
+      "source": {
+        "id": 12490,
+        "sku": "GCD24SLM24",
+        "permalink": "https://energical.com/fr/produit/chaudiere-sl-dm24/",
+        "stockStatus": "instock",
+        "categoryName": "Chaudières",
+        "scrapedAt": "2026-08-18T22:40:31.135Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-GRE01B2521",
+      "name": "Régulateur B25-21mbar",
+      "nameAr": "",
+      "brand": "Generic",
+      "barcode": "GRE01B2521",
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 7578,
+      "salePrice": 8915,
+      "minStock": 10,
+      "image": "images/chauffage/ENERGICAL-GRE01B2521.webp",
+      "aliases": [
+        "régulateur b25-21mbar",
+        "gre01b2521"
+      ],
+      "description": "Le régulateur B25-21mbar est un composant essentiel pour vos systèmes de gaz, pesant 1,227 kg. Avec des dimensions de 175 × 105 × 160 cm, il assure une régulation précise de la pression à 21 mbar. Livré avec une garantie d&rsquo;un an, ce régulateur garantit des performances fiables et sécurisées pour vos installations de gaz. Parfait pour les applications résidentielles et commerciales, il assure un fonctionnement optimal de vos équipements de gaz.",
+      "categories": [
+        "Chauffage et régulation gaz",
+        "Régulateurs"
+      ],
+      "source": {
+        "id": 12432,
+        "sku": "GRE01B2521",
+        "permalink": "https://energical.com/fr/produit/regulateur-b25-21mbar/",
+        "stockStatus": "instock",
+        "categoryName": "Chauffage et régulation gaz",
+        "scrapedAt": "2026-08-18T22:40:31.135Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-GRE01B1021",
+      "name": "Régulateur B10-21mbar",
+      "nameAr": "",
+      "brand": "Generic",
+      "barcode": "GRE01B1021",
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 4662,
+      "salePrice": 5485,
+      "minStock": 10,
+      "image": "images/chauffage/ENERGICAL-GRE01B1021.webp",
+      "aliases": [
+        "régulateur b10-21mbar",
+        "gre01b1021"
+      ],
+      "description": "Le régulateur B10-21mbar est un composant essentiel pour vos systèmes de gaz, pesant 1,112 kg. Avec des dimensions de 175 × 105 × 160 cm, il assure une régulation précise de la pression à 21 mbar. Livré avec une garantie d&rsquo;un an, ce régulateur garantit des performances fiables et sécurisées pour vos installations de gaz. Parfait pour les applications résidentielles et commerciales, il assure un fonctionnement optimal de vos équipements de gaz.",
+      "categories": [
+        "Chauffage et régulation gaz",
+        "Régulateurs"
+      ],
+      "source": {
+        "id": 12421,
+        "sku": "GRE01B1021",
+        "permalink": "https://energical.com/fr/produit/regulateur-b10-21mbar/",
+        "stockStatus": "instock",
+        "categoryName": "Chauffage et régulation gaz",
+        "scrapedAt": "2026-08-18T22:40:31.135Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-GRE01B0621",
+      "name": "Régulateur B6-21mbar",
+      "nameAr": "",
+      "brand": "Generic",
+      "barcode": "GRE01B0621",
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 4463,
+      "salePrice": 5250,
+      "minStock": 10,
+      "image": "images/chauffage/ENERGICAL-GRE01B0621.webp",
+      "aliases": [
+        "régulateur b6-21mbar",
+        "gre01b0621"
+      ],
+      "description": "",
+      "categories": [
+        "Chauffage et régulation gaz",
+        "Régulateurs"
+      ],
+      "source": {
+        "id": 9785,
+        "sku": "GRE01B0621",
+        "permalink": "https://energical.com/fr/produit/regulateur-b6-21mbar/",
+        "stockStatus": "instock",
+        "categoryName": "Chauffage et régulation gaz",
+        "scrapedAt": "2026-08-18T22:40:33.636Z"
+      }
+    }
+  ]
+}

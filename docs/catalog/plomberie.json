@@ -17,7 +17,11 @@
       "salePrice": 220,
       "minStock": 50,
       "image": "images/plomberie/tube-ppr-20-4b.jpg",
-      "aliases": ["tube ppr", "أنبوب ppr", "polycop 20"],
+      "aliases": [
+        "tube ppr",
+        "أنبوب ppr",
+        "polycop 20"
+      ],
       "description": "Tube polypropylène Ø20mm 4bar, longueur 4m, pour eau froide"
     },
     {
@@ -32,7 +36,11 @@
       "salePrice": 320,
       "minStock": 50,
       "image": "images/plomberie/tube-ppr-25-4b.jpg",
-      "aliases": ["tube ppr 25", "أنبوب ppr 25", "polycop 25"],
+      "aliases": [
+        "tube ppr 25",
+        "أنبوب ppr 25",
+        "polycop 25"
+      ],
       "description": "Tube polypropylène Ø25mm 4bar, longueur 4m, pour eau froide"
     },
     {
@@ -47,7 +55,11 @@
       "salePrice": 450,
       "minStock": 40,
       "image": "images/plomberie/tube-ppr-32-4b.jpg",
-      "aliases": ["tube ppr 32", "أنبوب ppr 32", "polycop 32"],
+      "aliases": [
+        "tube ppr 32",
+        "أنبوب ppr 32",
+        "polycop 32"
+      ],
       "description": "Tube polypropylène Ø32mm 4bar, longueur 4m, pour eau froide"
     },
     {
@@ -62,7 +74,11 @@
       "salePrice": 280,
       "minStock": 50,
       "image": "images/plomberie/tube-ppr-20-6b.jpg",
-      "aliases": ["tube ppr 6bar", "أنبوب ppr 6bar", "polycop 20 6bar"],
+      "aliases": [
+        "tube ppr 6bar",
+        "أنبوب ppr 6bar",
+        "polycop 20 6bar"
+      ],
       "description": "Tube polypropylène Ø20mm 6bar, longueur 4m, pour eau chaude"
     },
     {
@@ -77,7 +93,11 @@
       "salePrice": 380,
       "minStock": 40,
       "image": "images/plomberie/tube-pvc-50.jpg",
-      "aliases": ["tube pvc 50", "أنبوب pvc 50", "evacuation 50"],
+      "aliases": [
+        "tube pvc 50",
+        "أنبوب pvc 50",
+        "evacuation 50"
+      ],
       "description": "Tube PVC évacuation Ø50mm, longueur 4m, pour eaux usées"
     },
     {
@@ -92,7 +112,11 @@
       "salePrice": 950,
       "minStock": 30,
       "image": "images/plomberie/tube-pvc-100.jpg",
-      "aliases": ["tube pvc 100", "أنبوب pvc 100", "evacuation 100"],
+      "aliases": [
+        "tube pvc 100",
+        "أنبوب pvc 100",
+        "evacuation 100"
+      ],
       "description": "Tube PVC évacuation Ø100mm, longueur 4m, pour eaux usées"
     },
     {
@@ -107,7 +131,11 @@
       "salePrice": 2000,
       "minStock": 15,
       "image": "images/plomberie/tube-pvc-160.jpg",
-      "aliases": ["tube pvc 160", "أنبوب pvc 160", "evacuation 160"],
+      "aliases": [
+        "tube pvc 160",
+        "أنبوب pvc 160",
+        "evacuation 160"
+      ],
       "description": "Tube PVC évacuation Ø160mm, longueur 4m, pour eaux usées"
     },
     {
@@ -122,7 +150,11 @@
       "salePrice": 30,
       "minStock": 200,
       "image": "images/plomberie/manchon-ppr-20.jpg",
-      "aliases": ["manchon ppr 20", "وصلة ppr 20", "raccord ppr"],
+      "aliases": [
+        "manchon ppr 20",
+        "وصلة ppr 20",
+        "raccord ppr"
+      ],
       "description": "Manchon de raccordement PPR Ø20mm, à souder"
     },
     {
@@ -137,7 +169,11 @@
       "salePrice": 50,
       "minStock": 150,
       "image": "images/plomberie/coude-ppr-25.jpg",
-      "aliases": ["coude ppr 25", "كوع ppr 25", "raccord ppr 90"],
+      "aliases": [
+        "coude ppr 25",
+        "كوع ppr 25",
+        "raccord ppr 90"
+      ],
       "description": "Coude 90° PPR Ø25mm, à souder"
     },
     {
@@ -152,7 +188,11 @@
       "salePrice": 85,
       "minStock": 100,
       "image": "images/plomberie/te-ppr-32.jpg",
-      "aliases": ["te ppr 32", "تي ppr 32", "raccord ppr te"],
+      "aliases": [
+        "te ppr 32",
+        "تي ppr 32",
+        "raccord ppr te"
+      ],
       "description": "Té de raccordement PPR Ø32mm, à souder"
     },
     {
@@ -167,7 +207,11 @@
       "salePrice": 45,
       "minStock": 150,
       "image": "images/plomberie/reduc-ppr-2520.jpg",
-      "aliases": ["reduction ppr", "تخفيض ppr", "raccord ppr reduc"],
+      "aliases": [
+        "reduction ppr",
+        "تخفيض ppr",
+        "raccord ppr reduc"
+      ],
       "description": "Réduction PPR de Ø25mm à Ø20mm, à souder"
     },
     {
@@ -182,7 +226,11 @@
       "salePrice": 40,
       "minStock": 200,
       "image": "images/plomberie/manchon-pvc-50.jpg",
-      "aliases": ["manchon pvc 50", "وصلة pvc 50", "raccord pvc"],
+      "aliases": [
+        "manchon pvc 50",
+        "وصلة pvc 50",
+        "raccord pvc"
+      ],
       "description": "Manchon de raccordement PVC évacuation Ø50mm, à coller"
     },
     {
@@ -197,7 +245,11 @@
       "salePrice": 140,
       "minStock": 80,
       "image": "images/plomberie/coude-pvc-100.jpg",
-      "aliases": ["coude pvc 100", "كوع pvc 100", "raccord pvc 90"],
+      "aliases": [
+        "coude pvc 100",
+        "كوع pvc 100",
+        "raccord pvc 90"
+      ],
       "description": "Coude 90° PVC évacuation Ø100mm, à coller"
     },
     {
@@ -212,7 +264,11 @@
       "salePrice": 200,
       "minStock": 60,
       "image": "images/plomberie/robinet-sph-20.jpg",
-      "aliases": ["robinet spherique 20", "صنبور كروي 20", "vanne 20"],
+      "aliases": [
+        "robinet spherique 20",
+        "صنبور كروي 20",
+        "vanne 20"
+      ],
       "description": "Robinet sphérique PPR Ø20mm, laiton chromé"
     },
     {
@@ -227,7 +283,11 @@
       "salePrice": 270,
       "minStock": 50,
       "image": "images/plomberie/robinet-sph-25.jpg",
-      "aliases": ["robinet spherique 25", "صنبور كروي 25", "vanne 25"],
+      "aliases": [
+        "robinet spherique 25",
+        "صنبور كروي 25",
+        "vanne 25"
+      ],
       "description": "Robinet sphérique PPR Ø25mm, laiton chromé"
     },
     {
@@ -242,7 +302,11 @@
       "salePrice": 380,
       "minStock": 30,
       "image": "images/plomberie/robinet-flotteur.jpg",
-      "aliases": ["robinet flotteur", "صنبور عوامة", "flotteur chateau"],
+      "aliases": [
+        "robinet flotteur",
+        "صنبور عوامة",
+        "flotteur chateau"
+      ],
       "description": "Robinet à flotteur pour château d'eau, 1/2 pouce"
     },
     {
@@ -257,7 +321,11 @@
       "salePrice": 160,
       "minStock": 60,
       "image": "images/plomberie/robinet-arret-20.jpg",
-      "aliases": ["robinet arret 20", "صنبور ايقاف 20", "vanne arret"],
+      "aliases": [
+        "robinet arret 20",
+        "صنبور ايقاف 20",
+        "vanne arret"
+      ],
       "description": "Robinet d'arrêt PPR Ø20mm, laiton"
     },
     {
@@ -272,7 +340,11 @@
       "salePrice": 5200,
       "minStock": 5,
       "image": "images/plomberie/machine-souder-ppr.jpg",
-      "aliases": ["machine souder ppr", "الة لحام ppr", "poste a souder ppr"],
+      "aliases": [
+        "machine souder ppr",
+        "الة لحام ppr",
+        "poste a souder ppr"
+      ],
       "description": "Machine à souder tubes PPR, 800W, avec support"
     },
     {
@@ -287,7 +359,11 @@
       "salePrice": 900,
       "minStock": 10,
       "image": "images/plomberie/embouts-ppr-set.jpg",
-      "aliases": ["embouts ppr", "رؤوس لحام ppr", "fers a souder ppr"],
+      "aliases": [
+        "embouts ppr",
+        "رؤوس لحام ppr",
+        "fers a souder ppr"
+      ],
       "description": "Set d'embouts Ø20/25/32/40 pour machine à souder PPR"
     },
     {
@@ -302,7 +378,11 @@
       "salePrice": 380,
       "minStock": 20,
       "image": "images/plomberie/colle-pvc-1l.jpg",
-      "aliases": ["colle pvc", "غراء pvc", "colle evacuation"],
+      "aliases": [
+        "colle pvc",
+        "غراء pvc",
+        "colle evacuation"
+      ],
       "description": "Colle PVC pour tubes d'évacuation, pot 1 litre"
     },
     {
@@ -317,7 +397,11 @@
       "salePrice": 30,
       "minStock": 200,
       "image": "images/plomberie/teflon-ruban.jpg",
-      "aliases": ["teflon", "تفلون", "ruban filet"],
+      "aliases": [
+        "teflon",
+        "تفلون",
+        "ruban filet"
+      ],
       "description": "Ruban Téflon pour étanchéité filetage, largeur 12mm"
     },
     {
@@ -332,7 +416,11 @@
       "salePrice": 480,
       "minStock": 25,
       "image": "images/plomberie/filtre-eau.jpg",
-      "aliases": ["filtre eau", "فلتر ماء", "filtre cartouche"],
+      "aliases": [
+        "filtre eau",
+        "فلتر ماء",
+        "filtre cartouche"
+      ],
       "description": "Filtre à eau à cartouche, 10 pouces, entrée 1/2 pouce"
     },
     {
@@ -347,7 +435,11 @@
       "salePrice": 70,
       "minStock": 100,
       "image": "images/plomberie/collier-serrage.jpg",
-      "aliases": ["collier serrage", "طوق تثبيت", "collier tube"],
+      "aliases": [
+        "collier serrage",
+        "طوق تثبيت",
+        "collier tube"
+      ],
       "description": "Collier de serrage plastique Ø20, sachet de 10 pièces"
     },
     {
@@ -362,7 +454,11 @@
       "salePrice": 210,
       "minStock": 50,
       "image": "images/plomberie/tube-cuivre-12.jpg",
-      "aliases": ["tube cuivre 12", "أنبوب نحاس 12", "cuivre 12"],
+      "aliases": [
+        "tube cuivre 12",
+        "أنبوب نحاس 12",
+        "cuivre 12"
+      ],
       "description": "Tube cuivre Ø12mm, vendu au mètre, pour gaz et eau"
     },
     {
@@ -377,7 +473,11 @@
       "salePrice": 260,
       "minStock": 50,
       "image": "images/plomberie/tube-cuivre-14.jpg",
-      "aliases": ["tube cuivre 14", "أنبوب نحاس 14", "cuivre 14"],
+      "aliases": [
+        "tube cuivre 14",
+        "أنبوب نحاس 14",
+        "cuivre 14"
+      ],
       "description": "Tube cuivre Ø14mm, vendu au mètre, pour gaz et eau"
     },
     {
@@ -392,7 +492,11 @@
       "salePrice": 310,
       "minStock": 40,
       "image": "images/plomberie/tube-cuivre-16.jpg",
-      "aliases": ["tube cuivre 16", "أنبوب نحاس 16", "cuivre 16"],
+      "aliases": [
+        "tube cuivre 16",
+        "أنبوب نحاس 16",
+        "cuivre 16"
+      ],
       "description": "Tube cuivre Ø16mm, vendu au mètre, pour gaz et eau"
     },
     {
@@ -407,7 +511,11 @@
       "salePrice": 140,
       "minStock": 80,
       "image": "images/plomberie/flex-inox-30.jpg",
-      "aliases": ["flexible inox 30", "خرطوم ستانلس 30", "souple inox"],
+      "aliases": [
+        "flexible inox 30",
+        "خرطوم ستانلس 30",
+        "souple inox"
+      ],
       "description": "Flexible inox 30cm, écrou 1/2 pouce, pour robinetterie"
     },
     {
@@ -422,7 +530,11 @@
       "salePrice": 190,
       "minStock": 80,
       "image": "images/plomberie/flex-inox-50.jpg",
-      "aliases": ["flexible inox 50", "خرطوم ستانلس 50", "souple inox 50"],
+      "aliases": [
+        "flexible inox 50",
+        "خرطوم ستانلس 50",
+        "souple inox 50"
+      ],
       "description": "Flexible inox 50cm, écrou 1/2 pouce, pour robinetterie"
     },
     {
@@ -437,7 +549,11 @@
       "salePrice": 360,
       "minStock": 50,
       "image": "images/plomberie/flex-douche-150.jpg",
-      "aliases": ["flexible douche", "خرطوم دش", "douche flexible"],
+      "aliases": [
+        "flexible douche",
+        "خرطوم دش",
+        "douche flexible"
+      ],
       "description": "Flexible de douche 1.5m, inox anti-torsion"
     },
     {
@@ -452,7 +568,11 @@
       "salePrice": 90,
       "minStock": 60,
       "image": "images/plomberie/filasse.jpg",
-      "aliases": ["filasse", "خيوط كتان", "fil etanchéité"],
+      "aliases": [
+        "filasse",
+        "خيوط كتان",
+        "fil etanchéité"
+      ],
       "description": "Filasse de chanvre pour étanchéité filetage, écheveau 50g"
     },
     {
@@ -467,7 +587,11 @@
       "salePrice": 170,
       "minStock": 40,
       "image": "images/plomberie/mastic.jpg",
-      "aliases": ["mastic", "معجون احكام", "mastic etanchéité"],
+      "aliases": [
+        "mastic",
+        "معجون احكام",
+        "mastic etanchéité"
+      ],
       "description": "Mastic d'étanchéité multi-usage, cartouche 300g"
     },
     {
@@ -482,7 +606,11 @@
       "salePrice": 130,
       "minStock": 50,
       "image": "images/plomberie/pate-joint.jpg",
-      "aliases": ["pate a joint", "عجينة حشو", "pate filetage"],
+      "aliases": [
+        "pate a joint",
+        "عجينة حشو",
+        "pate filetage"
+      ],
       "description": "Pâte à joint pour filetage, pot 250g"
     },
     {
@@ -497,7 +625,11 @@
       "salePrice": 7200,
       "minStock": 5,
       "image": "images/plomberie/pompe-relevage.jpg",
-      "aliases": ["pompe relevage", "مضخة رفع", "pompe vide cave"],
+      "aliases": [
+        "pompe relevage",
+        "مضخة رفع",
+        "pompe vide cave"
+      ],
       "description": "Pompe de relevage eaux usées 0.75kW, débit 8m³/h"
     },
     {
@@ -512,7 +644,11 @@
       "salePrice": 13500,
       "minStock": 5,
       "image": "images/plomberie/chauffe-eau-50l.jpg",
-      "aliases": ["chauffe eau 50l", "سخان ماء 50", "ballon 50l"],
+      "aliases": [
+        "chauffe eau 50l",
+        "سخان ماء 50",
+        "ballon 50l"
+      ],
       "description": "Chauffe-eau électrique vertical 50 litres, 1500W"
     },
     {
@@ -527,8 +663,1776 @@
       "salePrice": 19500,
       "minStock": 5,
       "image": "images/plomberie/chauffe-eau-100l.jpg",
-      "aliases": ["chauffe eau 100l", "سخان ماء 100", "ballon 100l"],
+      "aliases": [
+        "chauffe eau 100l",
+        "سخان ماء 100",
+        "ballon 100l"
+      ],
       "description": "Chauffe-eau électrique vertical 100 litres, 2000W"
+    },
+    {
+      "code": "ENERGICAL-WMCRDRF203",
+      "name": "Raccord droit femelle 20×3/4″",
+      "nameAr": "",
+      "brand": "Generic",
+      "barcode": "WMCRDRF203",
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 451,
+      "salePrice": 530,
+      "minStock": 10,
+      "image": "images/plomberie/ENERGICAL-WMCRDRF203.webp",
+      "aliases": [
+        "raccord droit femelle 20×3/4″",
+        "wmcrdrf203"
+      ],
+      "description": "Le raccord droit femelle 20×3/4″ est un composant essentiel pour vos systèmes de plomberie, avec un poids léger de 0,098 kg. Conçu pour assurer une connexion sécurisée et étanche, ce raccord garantit une distribution fluide des fluides dans vos installations. Fabriqué avec des matériaux de haute qualité, il offre une durabilité exceptionnelle pour une utilisation à long terme. Parfait pour les applications résidentielles et commerciales, il assure un fonctionnement fiable de vos systèmes de plom",
+      "categories": [
+        "Accessoires multicouche",
+        "Raccords",
+        "Robinets multicouches et accessoires"
+      ],
+      "source": {
+        "id": 49191,
+        "sku": "WMCRDRF203",
+        "permalink": "https://energical.com/fr/produit/raccord-droit-femelle-20x3-4%e2%80%b3/",
+        "stockStatus": "instock",
+        "categoryName": "Accessoires multicouche",
+        "scrapedAt": "2026-08-18T22:40:21.279Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-WMCRDRF201",
+      "name": "Raccord droit femelle 20×1/2″",
+      "nameAr": "",
+      "brand": "Generic",
+      "barcode": "WMCRDRF201",
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 425,
+      "salePrice": 500,
+      "minStock": 10,
+      "image": "images/plomberie/ENERGICAL-WMCRDRF201.webp",
+      "aliases": [
+        "raccord droit femelle 20×1/2″",
+        "wmcrdrf201"
+      ],
+      "description": "Le raccord droit femelle 20×1/2″ est un composant essentiel pour vos systèmes de plomberie, avec un poids léger de 0,098 kg. Conçu pour assurer une connexion sécurisée et étanche, ce raccord garantit une distribution fluide des fluides dans vos installations. Fabriqué avec des matériaux de haute qualité, il offre une durabilité exceptionnelle pour une utilisation à long terme. Parfait pour les applications résidentielles et commerciales, il assure un fonctionnement fiable de vos systèmes de plom",
+      "categories": [
+        "Accessoires multicouche",
+        "Raccords",
+        "Robinets multicouches et accessoires"
+      ],
+      "source": {
+        "id": 49189,
+        "sku": "WMCRDRF201",
+        "permalink": "https://energical.com/fr/produit/raccord-droit-femelle-20x1-2%e2%80%b3/",
+        "stockStatus": "instock",
+        "categoryName": "Accessoires multicouche",
+        "scrapedAt": "2026-08-18T22:40:21.279Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-WMCUNRU020",
+      "name": "Raccord union 20",
+      "nameAr": "",
+      "brand": "Generic",
+      "barcode": "WMCUNRU020",
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 612,
+      "salePrice": 720,
+      "minStock": 10,
+      "image": "images/plomberie/ENERGICAL-WMCUNRU020.webp",
+      "aliases": [
+        "raccord union 20",
+        "wmcunru020"
+      ],
+      "description": "Le raccord union 20 est un élément essentiel pour vos systèmes de plomberie, avec un poids léger de 0,099 kg. Conçu pour assurer une connexion sûre et étanche entre deux tuyaux de 20 mm, ce raccord garantit une distribution efficace des fluides. Fabriqué avec des matériaux de haute qualité, il offre une durabilité exceptionnelle pour une utilisation à long terme. Parfait pour les applications résidentielles et commerciales, il assure un fonctionnement fiable de vos systèmes de plomberie.",
+      "categories": [
+        "Accessoires multicouche",
+        "Raccords",
+        "Robinets multicouches et accessoires"
+      ],
+      "source": {
+        "id": 49188,
+        "sku": "WMCUNRU020",
+        "permalink": "https://energical.com/fr/produit/raccord-union-20/",
+        "stockStatus": "instock",
+        "categoryName": "Accessoires multicouche",
+        "scrapedAt": "2026-08-18T22:40:21.279Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-WMCUNRU026",
+      "name": "Raccord union 26×26",
+      "nameAr": "",
+      "brand": "Generic",
+      "barcode": "WMCUNRU026",
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 357,
+      "salePrice": 420,
+      "minStock": 10,
+      "image": "images/plomberie/ENERGICAL-WMCUNRU026.webp",
+      "aliases": [
+        "raccord union 26×26",
+        "wmcunru026"
+      ],
+      "description": "Le raccord union 26×26 est un élément essentiel pour vos systèmes de plomberie, avec un poids léger de 0,099 kg. Conçu pour assurer une connexion sûre et étanche entre deux tuyaux de 26 mm, ce raccord garantit une distribution efficace des fluides. Fabriqué avec des matériaux de haute qualité, il offre une durabilité exceptionnelle pour une utilisation à long terme. Parfait pour les applications résidentielles et commerciales, il assure un fonctionnement fiable de vos systèmes de plomberie.",
+      "categories": [
+        "Accessoires multicouche",
+        "Raccords",
+        "Robinets multicouches et accessoires"
+      ],
+      "source": {
+        "id": 49187,
+        "sku": "WMCUNRU026",
+        "permalink": "https://energical.com/fr/produit/raccord-union-26x26/",
+        "stockStatus": "instock",
+        "categoryName": "Accessoires multicouche",
+        "scrapedAt": "2026-08-18T22:40:21.279Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-HPM75JLM75",
+      "name": "Pompe de surface à jet auto-amorçante JLM75",
+      "nameAr": "",
+      "brand": "Generic",
+      "barcode": "HPM75JLM75",
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 13600,
+      "salePrice": 16000,
+      "minStock": 10,
+      "image": "images/plomberie/ENERGICAL-HPM75JLM75.webp",
+      "aliases": [
+        "pompe de surface à jet auto-amorçante jlm75",
+        "hpm75jlm75"
+      ],
+      "description": "Produite selon les normes de sécurité: EN 60335 et de performance :ISO 9906 Dotée d’une technologie ingénieuse avec un rendement inégalé dans sa catégorie avec une économie d’énergie grâce a une conception brevetée du rotor, Auto amorçante capable de démarrer même avec une conduite pleine d’air , Pouvant puiser le liquide en profondeur avec une conception en venturi spécial et conception spéciale de la buse, offrant une aspiration élevée de 9 m avec un niveau de pression élevée, Corps de la pomp",
+      "categories": [
+        "Hydraulique"
+      ],
+      "source": {
+        "id": 49134,
+        "sku": "HPM75JLM75",
+        "permalink": "https://energical.com/fr/produit/pompe-de-surface-a-jet-auto-amorcante-jlm75/",
+        "stockStatus": "instock",
+        "categoryName": "Hydraulique",
+        "scrapedAt": "2026-08-18T22:40:21.279Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-HPM35EMP50",
+      "name": "Pompe de surface multi-étages EMP3-50",
+      "nameAr": "",
+      "brand": "Generic",
+      "barcode": "HPM35EMP50",
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 16320,
+      "salePrice": 19200,
+      "minStock": 10,
+      "image": "images/plomberie/ENERGICAL-HPM35EMP50.webp",
+      "aliases": [
+        "pompe de surface multi-étages emp3-50",
+        "hpm35emp50"
+      ],
+      "description": "Les pompes multicellulaires sont conformes aux normes de sécurité EN 60335 et de performance ISO 9906. Grâce à une technologie brevetée de rotor, elles offrent un rendement élevé et une économie d&rsquo;énergie. Corps de la pompe en fonte anti-rouille Les pompes possèdent une roue en PPO de qualité, permettant un transport efficace et silencieux des liquides. La conception en série avec plusieurs roues permet d&rsquo;atteindre de hautes pressions, rendant ces pompes idéales pour le transport de ",
+      "categories": [
+        "Hydraulique"
+      ],
+      "source": {
+        "id": 49133,
+        "sku": "HPM35EMP50",
+        "permalink": "https://energical.com/fr/produit/pompe-de-surface-multi-etages-emp3-50-2/",
+        "stockStatus": "instock",
+        "categoryName": "Hydraulique",
+        "scrapedAt": "2026-08-18T22:40:21.279Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-HPM34EMP40",
+      "name": "Pompe de surface multi-étages EMP3-40",
+      "nameAr": "",
+      "brand": "Generic",
+      "barcode": "HPM34EMP40",
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 15130,
+      "salePrice": 17800,
+      "minStock": 10,
+      "image": "images/plomberie/ENERGICAL-HPM34EMP40.webp",
+      "aliases": [
+        "pompe de surface multi-étages emp3-40",
+        "hpm34emp40"
+      ],
+      "description": "Les pompes multicellulaires sont conformes aux normes de sécurité EN 60335 et de performance ISO 9906. Grâce à une technologie brevetée de rotor, elles offrent un rendement élevé et une économie d&rsquo;énergie. Corps de la pompe en fonte anti-rouille Les pompes possèdent une roue en PPO de qualité, permettant un transport efficace et silencieux des liquides. La conception en série avec plusieurs roues permet d&rsquo;atteindre de hautes pressions, rendant ces pompes idéales pour le transport de ",
+      "categories": [
+        "Hydraulique"
+      ],
+      "source": {
+        "id": 49132,
+        "sku": "HPM34EMP40",
+        "permalink": "https://energical.com/fr/produit/pompe-de-surface-multi-etages-emp3-40-2/",
+        "stockStatus": "instock",
+        "categoryName": "Hydraulique",
+        "scrapedAt": "2026-08-18T22:40:21.279Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-HPM33EMP30",
+      "name": "Pompe de surface multi-étages EMP3-30",
+      "nameAr": "",
+      "brand": "Generic",
+      "barcode": "HPM33EMP30",
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 13770,
+      "salePrice": 16200,
+      "minStock": 10,
+      "image": "images/plomberie/ENERGICAL-HPM33EMP30.webp",
+      "aliases": [
+        "pompe de surface multi-étages emp3-30",
+        "hpm33emp30"
+      ],
+      "description": "Les pompes multicellulaires sont conformes aux normes de sécurité EN 60335 et de performance ISO 9906. Grâce à une technologie brevetée de rotor, elles offrent un rendement élevé et une économie d&rsquo;énergie. Corps de la pompe en fonte anti-rouille Les pompes possèdent une roue en PPO de qualité, permettant un transport efficace et silencieux des liquides. La conception en série avec plusieurs roues permet d&rsquo;atteindre de hautes pressions, rendant ces pompes idéales pour le transport de ",
+      "categories": [
+        "Hydraulique"
+      ],
+      "source": {
+        "id": 49128,
+        "sku": "HPM33EMP30",
+        "permalink": "https://energical.com/fr/produit/pompe-de-surface-multi-etages-emp3-30/",
+        "stockStatus": "instock",
+        "categoryName": "Hydraulique",
+        "scrapedAt": "2026-08-18T22:40:21.279Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-HPM37JLM37",
+      "name": "Pompe de surface à jet auto-amorçante JLM37",
+      "nameAr": "",
+      "brand": "Generic",
+      "barcode": "HPM37JLM37",
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 12240,
+      "salePrice": 14400,
+      "minStock": 10,
+      "image": "images/plomberie/ENERGICAL-HPM37JLM37.webp",
+      "aliases": [
+        "pompe de surface à jet auto-amorçante jlm37",
+        "hpm37jlm37"
+      ],
+      "description": "Produite selon les normes de sécurité: EN 60335 et de performance :ISO 9906 Dotée d’une technologie ingénieuse avec un rendement inégalé dans sa catégorie avec une économie d’énergie grâce a une conception brevetée du rotor, Auto amorçante capable de démarrer même avec une conduite pleine d’air , Pouvant puiser le liquide en profondeur avec une conception en venturi spécial et conception spéciale de la buse, offrant une aspiration élevée de 9 m avec un niveau de pression élevée, Corps de la pomp",
+      "categories": [
+        "Hydraulique"
+      ],
+      "source": {
+        "id": 49127,
+        "sku": "HPM37JLM37",
+        "permalink": "https://energical.com/fr/produit/pompe-de-surface-a-jet-auto-amorcante-jlm37/",
+        "stockStatus": "instock",
+        "categoryName": "Hydraulique",
+        "scrapedAt": "2026-08-18T22:40:21.279Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-HPM75PVM75",
+      "name": "Pompe de surface type VORTEX VM75",
+      "nameAr": "",
+      "brand": "Generic",
+      "barcode": "HPM75PVM75",
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 8840,
+      "salePrice": 10400,
+      "minStock": 10,
+      "image": "images/plomberie/ENERGICAL-HPM75PVM75.webp",
+      "aliases": [
+        "pompe de surface type vortex vm75",
+        "hpm75pvm75"
+      ],
+      "description": "Produite selon les normes de sécurité: EN 60335 et de performance :ISO 9906 Dotée d’une technologie ingénieuse avec un rendement inégalé dans sa catégorie avec une économie d’énergie grâce a une conception brevetée du rotor, Corps de la pompe en fonte avec traitement anti rouille, Roue de la turbine en laiton de haute qualité, une technologie ingénieuse pour acheminement du liquide de manière efficace et silencieuse, Excellente dans vos applications nécessitant une hauteur manométrique élevée, F",
+      "categories": [
+        "Hydraulique"
+      ],
+      "source": {
+        "id": 49126,
+        "sku": "HPM75PVM75",
+        "permalink": "https://energical.com/fr/produit/pompe-de-surface-type-vortex-vm75/",
+        "stockStatus": "instock",
+        "categoryName": "Hydraulique",
+        "scrapedAt": "2026-08-18T22:40:21.279Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-HPM37PVM37",
+      "name": "Pompe de surface type VORTEX VM37",
+      "nameAr": "",
+      "brand": "Generic",
+      "barcode": "HPM37PVM37",
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 6290,
+      "salePrice": 7400,
+      "minStock": 10,
+      "image": "images/plomberie/ENERGICAL-HPM37PVM37.webp",
+      "aliases": [
+        "pompe de surface type vortex vm37",
+        "hpm37pvm37"
+      ],
+      "description": "Produite selon les normes de sécurité: EN 60335 et de performance :ISO 9906 Dotée d’une technologie ingénieuse avec un rendement inégalé dans sa catégorie avec une économie d’énergie grâce a une conception brevetée du rotor, Corps de la pompe en fonte avec traitement anti rouille, Roue de la turbine en laiton de haute qualité, une technologie ingénieuse pour acheminement du liquide de manière efficace et silencieuse, Excellente dans vos applications nécessitant une hauteur manométrique élevée, F",
+      "categories": [
+        "Hydraulique"
+      ],
+      "source": {
+        "id": 49125,
+        "sku": "HPM37PVM37",
+        "permalink": "https://energical.com/fr/produit/pompe-de-surface-type-vortex-vm37/",
+        "stockStatus": "instock",
+        "categoryName": "Hydraulique",
+        "scrapedAt": "2026-08-18T22:40:21.279Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-48704",
+      "name": "Flexible Gaz Onduleux Extensible 1/2&Prime; Femelle-Femelle",
+      "nameAr": "",
+      "brand": "Generic",
+      "barcode": null,
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 621,
+      "salePrice": 730,
+      "minStock": 10,
+      "image": "images/plomberie/ENERGICAL-48704.webp",
+      "aliases": [
+        "flexible gaz onduleux extensible 1/2&prime; femelle-femelle"
+      ],
+      "description": "Flexible Gaz Onduleux Extensible &#8211; Sécurité et Conformité Maximale\nLe flexible gaz onduleux extensible est la solution idéale pour vos installations de gaz domestique et industriel. Fabriqué en acier inoxydable de haute qualité avec un revêtement PVC jaune, ce flexible offre une protection optimale contre la corrosion et les agents chimiques externes.\nCaractéristiques techniques :\n\nMatériau : Acier inoxydable avec revêtement PVC jaune\nØ intérieur : 12.2 mm\nØ extérieur : 17.6 mm\nRaccords : ",
+      "categories": [
+        "Installation intérieure",
+        "Robinets gaz et accessoires"
+      ],
+      "source": {
+        "id": 48704,
+        "sku": "",
+        "permalink": "https://energical.com/fr/produit/flexible-gaz-onduleux-extensible-1-2-femelle-femelle/",
+        "stockStatus": "instock",
+        "categoryName": "Installation intérieure",
+        "scrapedAt": "2026-08-18T22:40:21.279Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-GCE15KK100",
+      "name": "Compteur d&rsquo;eau semi sec à jet unique MOD.KK-1",
+      "nameAr": "",
+      "brand": "Generic",
+      "barcode": "GCE15KK100",
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 4250,
+      "salePrice": 5000,
+      "minStock": 10,
+      "image": "images/plomberie/ENERGICAL-GCE15KK100.webp",
+      "aliases": [
+        "compteur d&rsquo;eau semi sec à jet unique mod.kk-1",
+        "gce15kk100"
+      ],
+      "description": "Certifié MID\nLa conception à jet unique garantit une très haute sensibilité\nmême à faible débit\nConvient à l&rsquo;eau potable\nDisponible pour la lecture optique\nCaractéristique de Sortie d’impulsion et lecture AMR\ndisponible\nCorps en laiton résistant à la corrosion, peint de manière\nélectrostatique\nProtection contre les champs magnétiques externes\n2 ans de garantie\nMécanisme sous vide\nCouvercle rotatif à 360°\nConvient à l&rsquo;eau froide jusqu&rsquo;à 50°C\nPresque aucun entretien\nService après",
+      "categories": [
+        "Compteurs d'eau"
+      ],
+      "source": {
+        "id": 39465,
+        "sku": "GCE15KK100",
+        "permalink": "https://energical.com/fr/produit/compteur-deau-semi-sec-a-jet-unique-mod-kk-1/",
+        "stockStatus": "instock",
+        "categoryName": "Compteurs d'eau",
+        "scrapedAt": "2026-08-18T22:40:23.156Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-GCE20SD200",
+      "name": "Compteur d&rsquo;eau semi sec à jet multiple MOD.SD-2",
+      "nameAr": "",
+      "brand": "Generic",
+      "barcode": "GCE20SD200",
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 5355,
+      "salePrice": 6300,
+      "minStock": 10,
+      "image": "images/plomberie/ENERGICAL-GCE20SD200.webp",
+      "aliases": [
+        "compteur d&rsquo;eau semi sec à jet multiple mod.sd-2",
+        "gce20sd200"
+      ],
+      "description": "Certifié MID\nLe principe de fonctionnement multi-jets assure une longue durée de service\nFaible perte de pression, haute sensibilité au débit initial\nConvient à l&rsquo;eau potable\nVerre spécial à haute résistance à la pression et aux chocs\nDouble filtre\nCorps peint électrostatiquement en laiton résistant à la corrosion\nDisponible pour la lecture optique\nLes fonctions de sortie d&rsquo;impulsion et de lecture AMR sont en option\n2 ans de garantie\nConvient à l&rsquo;eau froide jusqu&rsquo;à 50°C\nS",
+      "categories": [
+        "Compteurs d'eau"
+      ],
+      "source": {
+        "id": 38399,
+        "sku": "GCE20SD200",
+        "permalink": "https://energical.com/fr/produit/compteur-deau-semi-sec-a-jet-multiple-mod-sd-2/",
+        "stockStatus": "instock",
+        "categoryName": "Compteurs d'eau",
+        "scrapedAt": "2026-08-18T22:40:23.156Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-GCE15SD100",
+      "name": "Compteur d&rsquo;eau semi sec à jet multiple MOD.SD-1",
+      "nameAr": "",
+      "brand": "Generic",
+      "barcode": "GCE15SD100",
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 4760,
+      "salePrice": 5600,
+      "minStock": 10,
+      "image": "images/plomberie/ENERGICAL-GCE15SD100.webp",
+      "aliases": [
+        "compteur d&rsquo;eau semi sec à jet multiple mod.sd-1",
+        "gce15sd100"
+      ],
+      "description": "Certifié MID\nLe principe de fonctionnement multi-jets assure une longue durée de service\nFaible perte de pression, haute sensibilité au débit initial\nConvient à l&rsquo;eau potable\nVerre spécial à haute résistance à la pression et aux chocs\nDouble filtre\nCorps peint électrostatiquement en laiton résistant à la corrosion\nDisponible pour la lecture optique\nLes fonctions de sortie d&rsquo;impulsion et de lecture AMR sont en option\n2 ans de garantie\nConvient à l&rsquo;eau froide jusqu&rsquo;à 50°C\nS",
+      "categories": [
+        "Compteurs d'eau"
+      ],
+      "source": {
+        "id": 38395,
+        "sku": "GCE15SD100",
+        "permalink": "https://energical.com/fr/produit/compteur-deau-semi-sec-a-jet-multiple-mod-sd-1/",
+        "stockStatus": "instock",
+        "categoryName": "Compteurs d'eau",
+        "scrapedAt": "2026-08-18T22:40:23.156Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-WRC02CO20F",
+      "name": "Robinet à compression femelle 20×3/4″",
+      "nameAr": "",
+      "brand": "Generic",
+      "barcode": "WRC02CO20F",
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 969,
+      "salePrice": 1140,
+      "minStock": 10,
+      "image": "images/plomberie/ENERGICAL-WRC02CO20F.webp",
+      "aliases": [
+        "robinet à compression femelle 20×3/4″",
+        "wrc02co20f"
+      ],
+      "description": "Le robinet à compression femelle 20×3/4&Prime; est un choix de qualité pour vos besoins en plomberie, offrant une connexion sûre et durable. Fabriqué en laiton avec une finition nickelée, ce robinet assure une résistance à la corrosion et une longue durée de vie. Avec un poids de 0,31 kg, il est facile à manipuler et à installer. Sa conception à compression garantit une étanchéité parfaite, assurant ainsi un fonctionnement sans fuite de vos installations de plomberie.",
+      "categories": [
+        "Robinets multicouches",
+        "Robinets multicouches et accessoires"
+      ],
+      "source": {
+        "id": 16312,
+        "sku": "WRC02CO20F",
+        "permalink": "https://energical.com/fr/produit/robinet-a-compression-femelle-20-3-4/",
+        "stockStatus": "instock",
+        "categoryName": "Robinets multicouches",
+        "scrapedAt": "2026-08-18T22:40:28.482Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-WRC02CO20M",
+      "name": "Robinet à compression mâle 20×3/4″",
+      "nameAr": "",
+      "brand": "Generic",
+      "barcode": "WRC02CO20M",
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 986,
+      "salePrice": 1160,
+      "minStock": 10,
+      "image": "images/plomberie/ENERGICAL-WRC02CO20M.webp",
+      "aliases": [
+        "robinet à compression mâle 20×3/4″",
+        "wrc02co20m"
+      ],
+      "description": "Le robinet à compression mâle 20×3/4&Prime; est un choix de qualité pour vos projets de plomberie, offrant une connexion robuste et durable. Fabriqué en laiton avec une finition nickelée, ce robinet garantit une résistance à la corrosion et une longue durée de vie. Avec un poids de 0,33 kg, il est facile à manipuler et à installer. Sa conception à compression assure une étanchéité parfaite, assurant ainsi un fonctionnement sans fuite de vos installations de plomberie.",
+      "categories": [
+        "Robinets multicouches",
+        "Robinets multicouches et accessoires"
+      ],
+      "source": {
+        "id": 16310,
+        "sku": "WRC02CO20M",
+        "permalink": "https://energical.com/fr/produit/robinet-a-compression-male-20x3-4/",
+        "stockStatus": "instock",
+        "categoryName": "Robinets multicouches",
+        "scrapedAt": "2026-08-18T22:40:28.482Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-WRC01CO16M",
+      "name": "Robinet à compression mâle 16×1/2",
+      "nameAr": "",
+      "brand": "Generic",
+      "barcode": "WRC01CO16M",
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 612,
+      "salePrice": 720,
+      "minStock": 10,
+      "image": "images/plomberie/ENERGICAL-WRC01CO16M.webp",
+      "aliases": [
+        "robinet à compression mâle 16×1/2",
+        "wrc01co16m"
+      ],
+      "description": "Le robinet à compression mâle 16×1/2 est un choix de qualité pour vos projets de plomberie, offrant une connexion solide et durable. Fabriqué en laiton avec une finition nickelée, ce robinet garantit une résistance à la corrosion et une longue durée de vie. Avec un poids de 0,194 kg, il est léger et facile à manipuler. Sa conception à compression assure une étanchéité parfaite, garantissant un fonctionnement fiable de vos installations de plomberie.",
+      "categories": [
+        "Robinets multicouches",
+        "Robinets multicouches et accessoires"
+      ],
+      "source": {
+        "id": 16308,
+        "sku": "WRC01CO16M",
+        "permalink": "https://energical.com/fr/produit/robinet-a-compression-male-16x1-2/",
+        "stockStatus": "instock",
+        "categoryName": "Robinets multicouches",
+        "scrapedAt": "2026-08-18T22:40:28.482Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-WRC01CO16F",
+      "name": "Robinet à compression femelle 16×1/2″",
+      "nameAr": "",
+      "brand": "Generic",
+      "barcode": "WRC01CO16F",
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 553,
+      "salePrice": 650,
+      "minStock": 10,
+      "image": "images/plomberie/ENERGICAL-WRC01CO16F.webp",
+      "aliases": [
+        "robinet à compression femelle 16×1/2″",
+        "wrc01co16f"
+      ],
+      "description": "Le robinet à compression femelle 16×1/2&Prime; est un choix de qualité pour vos installations de plomberie, offrant une connexion fiable et durable. Fabriqué en laiton avec une apparence nickel, ce robinet assure une résistance à la corrosion et une longue durée de vie. Avec un poids de 0,172 kg, il est léger et facile à manipuler. Sa conception à compression garantit une étanchéité parfaite, assurant ainsi un fonctionnement sans fuite de vos installations de plomberie.",
+      "categories": [
+        "Robinets multicouches",
+        "Robinets multicouches et accessoires"
+      ],
+      "source": {
+        "id": 16294,
+        "sku": "WRC01CO16F",
+        "permalink": "https://energical.com/fr/produit/robinet-a-compression-femelle-16x1-2/",
+        "stockStatus": "instock",
+        "categoryName": "Robinets multicouches",
+        "scrapedAt": "2026-08-18T22:40:28.482Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-GPTPEPRE00",
+      "name": "Portillon Electricité",
+      "nameAr": "",
+      "brand": "Generic",
+      "barcode": "GPTPEPRE00",
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 1369,
+      "salePrice": 1610,
+      "minStock": 10,
+      "image": "images/plomberie/ENERGICAL-GPTPEPRE00.webp",
+      "aliases": [
+        "portillon electricité",
+        "gptpepre00"
+      ],
+      "description": "Le portillon électricité offre une solution sécurisée pour restreindre l&rsquo;accès aux zones électriques sensibles. Avec des dimensions de 34 × 64 cm et un poids de 2,98 kg, ce portillon est facile à installer et à utiliser. Fabriqué avec des matériaux de haute qualité, il assure une protection fiable contre les dangers électriques. Parfait pour les installations industrielles, commerciales et résidentielles, ce portillon garantit la sécurité des travailleurs et des occupants.",
+      "categories": [
+        "Portillons",
+        "Sanitaire et Plomberie"
+      ],
+      "source": {
+        "id": 12973,
+        "sku": "GPTPEPRE00",
+        "permalink": "https://energical.com/fr/produit/portillon-electricite/",
+        "stockStatus": "instock",
+        "categoryName": "Portillons",
+        "scrapedAt": "2026-08-18T22:40:28.483Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-GPTPAPRA00",
+      "name": "Portillon Eau",
+      "nameAr": "",
+      "brand": "Generic",
+      "barcode": "GPTPAPRA00",
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 1148,
+      "salePrice": 1350,
+      "minStock": 10,
+      "image": "images/plomberie/ENERGICAL-GPTPAPRA00.webp",
+      "aliases": [
+        "portillon eau",
+        "gptpapra00"
+      ],
+      "description": "Le portillon Eau offre une solution pratique pour contrôler l&rsquo;accès aux zones sensibles liées à l&rsquo;eau. Avec des dimensions de 44,5 × 34,5 cm et un poids de 2,10 kg, ce portillon est facile à installer et à utiliser. Fabriqué avec des matériaux de haute qualité, il garantit une protection fiable contre les risques liés à l&rsquo;eau. Idéal pour les installations industrielles, commerciales et résidentielles, ce portillon assure la sécurité des travailleurs et la préservation des zones",
+      "categories": [
+        "Portillons",
+        "Sanitaire et Plomberie"
+      ],
+      "source": {
+        "id": 12968,
+        "sku": "GPTPAPRA00",
+        "permalink": "https://energical.com/fr/produit/portillon-eau/",
+        "stockStatus": "instock",
+        "categoryName": "Portillons",
+        "scrapedAt": "2026-08-18T22:40:28.483Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-GPTPGPRG00",
+      "name": "Portillon Gaz",
+      "nameAr": "",
+      "brand": "Generic",
+      "barcode": "GPTPGPRG00",
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 1836,
+      "salePrice": 2160,
+      "minStock": 10,
+      "image": "images/plomberie/ENERGICAL-GPTPGPRG00.webp",
+      "aliases": [
+        "portillon gaz",
+        "gptpgprg00"
+      ],
+      "description": "Le portillon Gaz offre une solution sûre pour contrôler l&rsquo;accès aux zones sensibles aux gaz. Avec des dimensions de 46 × 54,5 cm et un poids de 4,3 kg, ce portillon est facile à installer et à utiliser. Fabriqué avec des matériaux de haute qualité, il garantit une protection fiable contre les dangers liés aux gaz. Parfait pour les environnements industriels et commerciaux, ce portillon assure la sécurité des travailleurs et la prévention des accidents.",
+      "categories": [
+        "Portillons",
+        "Sanitaire et Plomberie"
+      ],
+      "source": {
+        "id": 12958,
+        "sku": "GPTPGPRG00",
+        "permalink": "https://energical.com/fr/produit/portillon-gaz/",
+        "stockStatus": "instock",
+        "categoryName": "Portillons",
+        "scrapedAt": "2026-08-18T22:40:28.483Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-WRE06D50FF",
+      "name": "Robinet eau DN50-F-F",
+      "nameAr": "",
+      "brand": "Generic",
+      "barcode": "WRE06D50FF",
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 4403,
+      "salePrice": 5180,
+      "minStock": 10,
+      "image": "images/plomberie/ENERGICAL-WRE06D50FF.webp",
+      "aliases": [
+        "robinet eau dn50-f-f",
+        "wre06d50ff"
+      ],
+      "description": "Le robinet eau DN50-F-F est un composant de plomberie robuste conçu pour assurer un contrôle précis du débit d&rsquo;eau. Fabriqué avec un corps en laiton et une manette en alliage de zinc, ce robinet offre une durabilité exceptionnelle. Conforme aux normes européennes NF EN 12164 et NF EN 13828, il subit des tests d&rsquo;étanchéité à 6 bars et un chromage pour assurer des performances fiables. Chaque pièce est marquée avec les informations de fabrication conformément aux exigences techniques.",
+      "categories": [
+        "Robinets eau"
+      ],
+      "source": {
+        "id": 12951,
+        "sku": "WRE06D50FF",
+        "permalink": "https://energical.com/fr/produit/robinet-eau-dn50-f-f/",
+        "stockStatus": "instock",
+        "categoryName": "Robinets eau",
+        "scrapedAt": "2026-08-18T22:40:31.135Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-WRE05D40FF",
+      "name": "Robinet eau DN40-F-F",
+      "nameAr": "",
+      "brand": "Generic",
+      "barcode": "WRE05D40FF",
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 3273,
+      "salePrice": 3850,
+      "minStock": 10,
+      "image": "images/plomberie/ENERGICAL-WRE05D40FF.webp",
+      "aliases": [
+        "robinet eau dn40-f-f",
+        "wre05d40ff"
+      ],
+      "description": "Le robinet eau DN40-F-F est un composant de plomberie fiable conçu pour assurer un contrôle efficace du débit d&rsquo;eau. Fabriqué avec un corps en laiton et une manette en alliage de zinc, ce robinet offre une durabilité exceptionnelle. Conforme aux normes européennes NF EN 12164 et NF EN 13828, il subit des tests d&rsquo;étanchéité à 6 bars et un chromage pour des performances optimales. Chaque pièce est marquée avec les informations de fabrication conformément aux exigences techniques.",
+      "categories": [
+        "Robinets eau"
+      ],
+      "source": {
+        "id": 12947,
+        "sku": "WRE05D40FF",
+        "permalink": "https://energical.com/fr/produit/robinet-eau-dn40-f-f/",
+        "stockStatus": "instock",
+        "categoryName": "Robinets eau",
+        "scrapedAt": "2026-08-18T22:40:31.135Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-WRE04D32FF",
+      "name": "Robinet eau DN32-F-F",
+      "nameAr": "",
+      "brand": "Generic",
+      "barcode": "WRE04D32FF",
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 2091,
+      "salePrice": 2460,
+      "minStock": 10,
+      "image": "images/plomberie/ENERGICAL-WRE04D32FF.webp",
+      "aliases": [
+        "robinet eau dn32-f-f",
+        "wre04d32ff"
+      ],
+      "description": "Le robinet d&rsquo;eau DN32-F-F est conçu pour répondre aux normes européennes les plus strictes (NF EN 12164, NF EN 13828). Fabriqué avec un corps en laiton et une manette en alliage de zinc, il assure une robustesse et une longévité exceptionnelles. Testé pour une étanchéité à 6 bars et bénéficiant d&rsquo;un chromage de haute qualité, il garantit une performance fiable. Chaque robinet est gravé avec le nom de l&rsquo;organisme, la dénomination 1&Prime;1/4 DN32, et la date de fabrication pour ",
+      "categories": [
+        "Robinets eau"
+      ],
+      "source": {
+        "id": 12942,
+        "sku": "WRE04D32FF",
+        "permalink": "https://energical.com/fr/produit/robinet-eau-dn32-f-f/",
+        "stockStatus": "instock",
+        "categoryName": "Robinets eau",
+        "scrapedAt": "2026-08-18T22:40:31.135Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-WRE03D25FF",
+      "name": "Robinet eau DN25-F-F",
+      "nameAr": "",
+      "brand": "Generic",
+      "barcode": "WRE03D25FF",
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 1454,
+      "salePrice": 1710,
+      "minStock": 10,
+      "image": "images/plomberie/ENERGICAL-WRE03D25FF.webp",
+      "aliases": [
+        "robinet eau dn25-f-f",
+        "wre03d25ff"
+      ],
+      "description": "Le robinet d&rsquo;eau DN25-F-F est fabriqué en laiton avec une manette en alliage de zinc, répondant aux normes européennes strictes NF EN 12164 et NF EN 13828. Il est conçu pour une performance durable et fiable, avec un test d&rsquo;étanchéité à 6 bars et un chromage de haute qualité. Chaque robinet porte une inscription indélébile avec le nom de l&rsquo;organisme, la dénomination 1&Prime; DN25, et la date de fabrication, assurant une traçabilité précise. Dimensions: 210 × 145 × 80 cm, poids:",
+      "categories": [
+        "Robinets eau"
+      ],
+      "source": {
+        "id": 12935,
+        "sku": "WRE03D25FF",
+        "permalink": "https://energical.com/fr/produit/robinet-eau-dn25-f-f/",
+        "stockStatus": "instock",
+        "categoryName": "Robinets eau",
+        "scrapedAt": "2026-08-18T22:40:31.135Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-12924",
+      "name": "Robinet eau DN20",
+      "nameAr": "",
+      "brand": "Generic",
+      "barcode": null,
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 859,
+      "salePrice": 1010,
+      "minStock": 10,
+      "image": "images/plomberie/ENERGICAL-12924.webp",
+      "aliases": [
+        "robinet eau dn20"
+      ],
+      "description": "Le robinet d&rsquo;eau DN20 est conçu en laiton avec une manette en alliage de zinc, respectant les normes européennes NF EN 12164 et NF EN 13828. Ce robinet assure une étanchéité fiable grâce à un test de pression à 6 bars et un chromage de qualité supérieure. Chaque pièce est marquée de façon indélébile avec le nom de l&rsquo;organisme, la dénomination 3/4&Prime; DN20, et la date de fabrication pour une traçabilité complète. Idéal pour une utilisation durable et conforme aux standards de fabri",
+      "categories": [
+        "Robinets eau"
+      ],
+      "source": {
+        "id": 12924,
+        "sku": "",
+        "permalink": "https://energical.com/fr/produit/robinet-eau-dn20/",
+        "stockStatus": "instock",
+        "categoryName": "Robinets eau",
+        "scrapedAt": "2026-08-18T22:40:31.135Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-12914",
+      "name": "Robinet eau DN15",
+      "nameAr": "",
+      "brand": "Generic",
+      "barcode": null,
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 561,
+      "salePrice": 660,
+      "minStock": 10,
+      "image": "images/plomberie/ENERGICAL-12914.webp",
+      "aliases": [
+        "robinet eau dn15"
+      ],
+      "description": "Le robinet d&rsquo;eau DN15 est conçu en laiton robuste avec une manette en alliage de zinc, conformément aux normes européennes NF EN 12164 et NF EN 13828. Ce robinet garantit une étanchéité impeccable, testé à une pression de 6 bars et bénéficiant d&rsquo;un chromage de haute qualité. Chaque unité est gravée de manière indélébile avec le nom de l&rsquo;organisme, la dénomination 1/2&Prime; DN15, et la date de fabrication, assurant une traçabilité totale. Idéal pour des installations durables e",
+      "categories": [
+        "Robinets eau"
+      ],
+      "source": {
+        "id": 12914,
+        "sku": "",
+        "permalink": "https://energical.com/fr/produit/robinet-eau-dn15/",
+        "stockStatus": "instock",
+        "categoryName": "Robinets eau",
+        "scrapedAt": "2026-08-18T22:40:31.135Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-WDI05DS165",
+      "name": "Distributeur 5 voies",
+      "nameAr": "",
+      "brand": "Generic",
+      "barcode": "WDI05DS165",
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 3358,
+      "salePrice": 3950,
+      "minStock": 10,
+      "image": "images/plomberie/ENERGICAL-WDI05DS165.webp",
+      "aliases": [
+        "distributeur 5 voies",
+        "wdi05ds165"
+      ],
+      "description": "Le distributeur 5 voies est un dispositif robuste conçu pour une distribution efficace et précise de fluides. Pesant 1,06 kg, il mesure 215 × 190 × 105 cm, assurant une installation stable et durable. Chaque distributeur est fabriqué avec des matériaux de haute qualité pour une performance optimale dans divers environnements industriels. Livré en boîtes de 4 pièces et cartons de 16 pièces, ce distributeur est idéal pour des applications nécessitant une répartition fiable et uniforme des fluides.",
+      "categories": [
+        "Distributeurs multicouches",
+        "Robinets multicouches et accessoires"
+      ],
+      "source": {
+        "id": 12858,
+        "sku": "WDI05DS165",
+        "permalink": "https://energical.com/fr/produit/distributeur-5-voies/",
+        "stockStatus": "instock",
+        "categoryName": "Distributeurs multicouches",
+        "scrapedAt": "2026-08-18T22:40:31.135Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-WDI04DS164",
+      "name": "Distributeur 4 voies",
+      "nameAr": "",
+      "brand": "Generic",
+      "barcode": "WDI04DS164",
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 2639,
+      "salePrice": 3105,
+      "minStock": 10,
+      "image": "images/plomberie/ENERGICAL-WDI04DS164.webp",
+      "aliases": [
+        "distributeur 4 voies",
+        "wdi04ds164"
+      ],
+      "description": "Le distributeur 4 voies est conçu pour une distribution précise et efficace des fluides, pesant 0,852 kg et mesurant 215 × 190 × 105 cm. Fabriqué avec des matériaux de haute qualité, ce dispositif garantit une performance optimale et une durabilité exceptionnelle dans divers environnements industriels. Livré en boîtes de 4 pièces et cartons de 16 pièces, ce distributeur est idéal pour les applications nécessitant une répartition fiable et uniforme des fluides.",
+      "categories": [
+        "Distributeurs multicouches",
+        "Robinets multicouches et accessoires"
+      ],
+      "source": {
+        "id": 12854,
+        "sku": "WDI04DS164",
+        "permalink": "https://energical.com/fr/produit/distributeur-4-voies/",
+        "stockStatus": "instock",
+        "categoryName": "Distributeurs multicouches",
+        "scrapedAt": "2026-08-18T22:40:31.135Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-WDI03DS163",
+      "name": "Distributeur 3 voies",
+      "nameAr": "",
+      "brand": "Generic",
+      "barcode": "WDI03DS163",
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 1951,
+      "salePrice": 2295,
+      "minStock": 10,
+      "image": "images/plomberie/ENERGICAL-WDI03DS163.webp",
+      "aliases": [
+        "distributeur 3 voies",
+        "wdi03ds163"
+      ],
+      "description": "Le distributeur 3 voies est un dispositif de distribution de fluides de haute précision, pesant 0,626 kg et mesurant 215 × 190 × 105 cm. Conçu avec des matériaux durables, il garantit une performance fiable et une longue durée de vie. Parfait pour une utilisation industrielle, ce distributeur est livré en boîtes de 5 pièces et en cartons de 20 pièces, assurant une distribution uniforme et efficace des fluides dans divers systèmes.",
+      "categories": [
+        "Distributeurs multicouches",
+        "Robinets multicouches et accessoires"
+      ],
+      "source": {
+        "id": 12848,
+        "sku": "WDI03DS163",
+        "permalink": "https://energical.com/fr/produit/distributeur-3-voies/",
+        "stockStatus": "instock",
+        "categoryName": "Distributeurs multicouches",
+        "scrapedAt": "2026-08-18T22:40:31.135Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-WDI02DS162",
+      "name": "Distributeur 2 voies",
+      "nameAr": "",
+      "brand": "Generic",
+      "barcode": "WDI02DS162",
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 1326,
+      "salePrice": 1560,
+      "minStock": 10,
+      "image": "images/plomberie/ENERGICAL-WDI02DS162.webp",
+      "aliases": [
+        "distributeur 2 voies",
+        "wdi02ds162"
+      ],
+      "description": "Le distributeur 2 voies est un dispositif fiable et précis pour la distribution de fluides, pesant 0,424 kg et mesurant 215 × 190 × 105 cm. Fabriqué avec des matériaux de haute qualité, il assure une performance optimale et une grande durabilité. Idéal pour des applications industrielles variées, ce distributeur est livré en boîtes de 8 pièces et en cartons de 32 pièces, garantissant une répartition uniforme et efficace des fluides dans vos systèmes.",
+      "categories": [
+        "Distributeurs multicouches",
+        "Robinets multicouches et accessoires"
+      ],
+      "source": {
+        "id": 12843,
+        "sku": "WDI02DS162",
+        "permalink": "https://energical.com/fr/produit/distributeur-2-voies/",
+        "stockStatus": "instock",
+        "categoryName": "Distributeurs multicouches",
+        "scrapedAt": "2026-08-18T22:40:31.135Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-WMCAMAF163",
+      "name": "Applique murale mâle 16×3/4″",
+      "nameAr": "",
+      "brand": "Generic",
+      "barcode": "WMCAMAF163",
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 608,
+      "salePrice": 715,
+      "minStock": 10,
+      "image": "images/plomberie/ENERGICAL-WMCAMAF163.webp",
+      "aliases": [
+        "applique murale mâle 16×3/4″",
+        "wmcamaf163"
+      ],
+      "description": "L&rsquo;applique murale mâle 16×3/4″ est un élément essentiel pour vos installations de plomberie, pesant seulement 0,145 kg. Conçue pour offrir une connexion sécurisée et fiable, elle assure une distribution efficace des fluides. Cette applique murale est fabriquée avec des matériaux de qualité supérieure pour une durabilité maximale. Parfaite pour une variété d&rsquo;applications résidentielles et commerciales, elle garantit un fonctionnement sans faille de vos systèmes de plomberie.",
+      "categories": [
+        "Accessoires multicouche",
+        "Appliques",
+        "Robinets multicouches et accessoires"
+      ],
+      "source": {
+        "id": 12841,
+        "sku": "WMCAMAF163",
+        "permalink": "https://energical.com/fr/produit/applique-murale-male-16x3-4/",
+        "stockStatus": "instock",
+        "categoryName": "Accessoires multicouche",
+        "scrapedAt": "2026-08-18T22:40:31.135Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-WMCAMAM161",
+      "name": "Applique murale femelle 16×1/2″",
+      "nameAr": "",
+      "brand": "Generic",
+      "barcode": "WMCAMAM161",
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 472,
+      "salePrice": 555,
+      "minStock": 10,
+      "image": "images/plomberie/ENERGICAL-WMCAMAM161.webp",
+      "aliases": [
+        "applique murale femelle 16×1/2″",
+        "wmcamam161"
+      ],
+      "description": "L&rsquo;applique murale femelle 16×1/2″ est un composant essentiel pour vos systèmes de plomberie, avec un poids léger de 0,112 kg. Conçue pour assurer une connexion sûre et fiable, elle offre une distribution efficace des fluides dans vos installations. Fabriquée avec des matériaux de haute qualité, cette applique murale garantit une durabilité exceptionnelle pour une utilisation à long terme. Idéale pour les applications résidentielles et commerciales, elle assure un fonctionnement sans faille",
+      "categories": [
+        "Accessoires multicouche",
+        "Appliques",
+        "Robinets multicouches et accessoires"
+      ],
+      "source": {
+        "id": 12836,
+        "sku": "WMCAMAM161",
+        "permalink": "https://energical.com/fr/produit/applique-murale-femelle-16x1-2/",
+        "stockStatus": "instock",
+        "categoryName": "Accessoires multicouche",
+        "scrapedAt": "2026-08-18T22:40:31.135Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-WMCUNRU016",
+      "name": "Raccord union 16×16",
+      "nameAr": "",
+      "brand": "Generic",
+      "barcode": "WMCUNRU016",
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 361,
+      "salePrice": 425,
+      "minStock": 10,
+      "image": "images/plomberie/ENERGICAL-WMCUNRU016.webp",
+      "aliases": [
+        "raccord union 16×16",
+        "wmcunru016"
+      ],
+      "description": "Le raccord union 16×16 est un élément essentiel pour vos systèmes de plomberie, avec un poids léger de 0,099 kg. Conçu pour assurer une connexion sûre et étanche entre deux tuyaux de 16 mm, ce raccord garantit une distribution efficace des fluides. Fabriqué avec des matériaux de haute qualité, il offre une durabilité exceptionnelle pour une utilisation à long terme. Parfait pour les applications résidentielles et commerciales, il assure un fonctionnement fiable de vos systèmes de plomberie.",
+      "categories": [
+        "Accessoires multicouche",
+        "Raccords",
+        "Robinets multicouches et accessoires"
+      ],
+      "source": {
+        "id": 12668,
+        "sku": "WMCUNRU016",
+        "permalink": "https://energical.com/fr/produit/raccord-union-16x16/",
+        "stockStatus": "instock",
+        "categoryName": "Accessoires multicouche",
+        "scrapedAt": "2026-08-18T22:40:31.135Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-WMCRDRF261",
+      "name": "Raccord droit femelle 26×1″",
+      "nameAr": "",
+      "brand": "Generic",
+      "barcode": "WMCRDRF261",
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 476,
+      "salePrice": 560,
+      "minStock": 10,
+      "image": "images/plomberie/ENERGICAL-WMCRDRF261.webp",
+      "aliases": [
+        "raccord droit femelle 26×1″",
+        "wmcrdrf261"
+      ],
+      "description": "Le raccord droit femelle 26×1&Prime; est un élément indispensable pour vos systèmes de plomberie, avec un poids de 0,18 kg. Conçu pour assurer une connexion sûre et étanche, ce raccord garantit une distribution fluide des fluides dans vos installations. Fabriqué avec des matériaux de haute qualité, il offre une durabilité exceptionnelle pour une utilisation à long terme. Idéal pour les applications résidentielles et commerciales, il assure un fonctionnement fiable de vos systèmes de plomberie.",
+      "categories": [
+        "Accessoires multicouche",
+        "Raccords",
+        "Robinets multicouches et accessoires"
+      ],
+      "source": {
+        "id": 12664,
+        "sku": "WMCRDRF261",
+        "permalink": "https://energical.com/fr/produit/raccord-droit-femelle-26x1/",
+        "stockStatus": "instock",
+        "categoryName": "Accessoires multicouche",
+        "scrapedAt": "2026-08-18T22:40:31.135Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-WMCRDRF163",
+      "name": "Raccord droit femelle 16×3/4″",
+      "nameAr": "",
+      "brand": "Generic",
+      "barcode": "WMCRDRF163",
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 298,
+      "salePrice": 350,
+      "minStock": 10,
+      "image": "images/plomberie/ENERGICAL-WMCRDRF163.webp",
+      "aliases": [
+        "raccord droit femelle 16×3/4″",
+        "wmcrdrf163"
+      ],
+      "description": "Le raccord droit femelle 16×3/4″ est un composant essentiel pour vos systèmes de plomberie, avec un poids léger de 0,098 kg. Conçu pour assurer une connexion sécurisée et étanche, ce raccord garantit une distribution fluide des fluides dans vos installations. Fabriqué avec des matériaux de haute qualité, il offre une durabilité exceptionnelle pour une utilisation à long terme. Parfait pour les applications résidentielles et commerciales, il assure un fonctionnement fiable de vos systèmes de plom",
+      "categories": [
+        "Accessoires multicouche",
+        "Raccords",
+        "Robinets multicouches et accessoires"
+      ],
+      "source": {
+        "id": 12645,
+        "sku": "WMCRDRF163",
+        "permalink": "https://energical.com/fr/produit/raccord-droit-femelle-16x3-4/",
+        "stockStatus": "instock",
+        "categoryName": "Accessoires multicouche",
+        "scrapedAt": "2026-08-18T22:40:31.135Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-WMCRDRM261",
+      "name": "Raccord droit mâle 26×1",
+      "nameAr": "",
+      "brand": "Generic",
+      "barcode": "WMCRDRM261",
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 595,
+      "salePrice": 700,
+      "minStock": 10,
+      "image": "images/plomberie/ENERGICAL-WMCRDRM261.webp",
+      "aliases": [
+        "raccord droit mâle 26×1",
+        "wmcrdrm261"
+      ],
+      "description": "Le raccord droit mâle 26×1 est un élément essentiel pour vos installations de plomberie, pesant 0,167 kg. Conçu pour assurer une connexion fiable et étanche, ce raccord garantit une distribution efficace des fluides. Fabriqué avec des matériaux de haute qualité, il offre une durabilité exceptionnelle pour une utilisation à long terme. Idéal pour les applications résidentielles et commerciales, il assure un fonctionnement sans faille de vos systèmes de plomberie.",
+      "categories": [
+        "Accessoires multicouche",
+        "Raccords",
+        "Robinets multicouches et accessoires"
+      ],
+      "source": {
+        "id": 12637,
+        "sku": "WMCRDRM261",
+        "permalink": "https://energical.com/fr/produit/raccord-droit-male-26x1/",
+        "stockStatus": "instock",
+        "categoryName": "Accessoires multicouche",
+        "scrapedAt": "2026-08-18T22:40:31.135Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-WMCRDRM263",
+      "name": "Raccord droit mâle 26×3/4",
+      "nameAr": "",
+      "brand": "Generic",
+      "barcode": "WMCRDRM263",
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 395,
+      "salePrice": 465,
+      "minStock": 10,
+      "image": "images/plomberie/ENERGICAL-WMCRDRM263.webp",
+      "aliases": [
+        "raccord droit mâle 26×3/4",
+        "wmcrdrm263"
+      ],
+      "description": "Le raccord droit mâle 26×3/4 est un composant essentiel pour vos systèmes de plomberie, pesant 0,169 kg. Conçu pour assurer une connexion fiable et étanche, ce raccord garantit une distribution fluide des fluides dans vos installations. Fabriqué avec des matériaux de haute qualité, il offre une durabilité exceptionnelle pour une utilisation à long terme. Parfait pour les applications résidentielles et commerciales, il assure un fonctionnement sans faille de vos systèmes de plomberie.",
+      "categories": [
+        "Accessoires multicouche",
+        "Raccords",
+        "Robinets multicouches et accessoires"
+      ],
+      "source": {
+        "id": 12633,
+        "sku": "WMCRDRM263",
+        "permalink": "https://energical.com/fr/produit/raccord-droit-male-26x3-4/",
+        "stockStatus": "instock",
+        "categoryName": "Accessoires multicouche",
+        "scrapedAt": "2026-08-18T22:40:31.135Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-WMCRDRM162",
+      "name": "Raccord droit mâle 16×3/4",
+      "nameAr": "",
+      "brand": "Generic",
+      "barcode": "WMCRDRM162",
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 247,
+      "salePrice": 290,
+      "minStock": 10,
+      "image": "images/plomberie/ENERGICAL-WMCRDRM162.webp",
+      "aliases": [
+        "raccord droit mâle 16×3/4",
+        "wmcrdrm162"
+      ],
+      "description": "Le raccord droit mâle 16×3/4 est un élément crucial pour les systèmes de plomberie, pesant seulement 0,077 kg. Conçu pour une connexion étanche et fiable, ce raccord assure une distribution fluide des fluides. Fabriqué avec des matériaux de qualité, il offre une durabilité supérieure pour une utilisation à long terme. Idéal pour les applications résidentielles et commerciales, il garantit un fonctionnement sans faille de vos systèmes de plomberie.",
+      "categories": [
+        "Accessoires multicouche",
+        "Raccords",
+        "Robinets multicouches et accessoires"
+      ],
+      "source": {
+        "id": 12617,
+        "sku": "WMCRDRM162",
+        "permalink": "https://energical.com/fr/produit/raccord-droit-male-16x3-4/",
+        "stockStatus": "instock",
+        "categoryName": "Accessoires multicouche",
+        "scrapedAt": "2026-08-18T22:40:31.135Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-WMCRDRF212",
+      "name": "Raccord droit mâle 16×1/2",
+      "nameAr": "",
+      "brand": "Generic",
+      "barcode": "WMCRDRF212",
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 238,
+      "salePrice": 280,
+      "minStock": 10,
+      "image": "images/plomberie/ENERGICAL-WMCRDRF212.webp",
+      "aliases": [
+        "raccord droit mâle 16×1/2",
+        "wmcrdrf212"
+      ],
+      "description": "Le raccord droit mâle 16×1/2 est un composant essentiel pour les systèmes de plomberie, pesant seulement 0,064 kg. Conçu pour une connexion étanche et fiable, ce raccord assure une distribution fluide des fluides. Fabriqué avec des matériaux de haute qualité, il offre une durabilité exceptionnelle pour une utilisation à long terme. Idéal pour les applications résidentielles et commerciales, il garantit un fonctionnement sans faille de vos systèmes de plomberie.",
+      "categories": [
+        "Accessoires multicouche",
+        "Raccords",
+        "Robinets multicouches et accessoires"
+      ],
+      "source": {
+        "id": 12613,
+        "sku": "WMCRDRF212",
+        "permalink": "https://energical.com/fr/produit/raccord-droit-male-16x1-2/",
+        "stockStatus": "instock",
+        "categoryName": "Accessoires multicouche",
+        "scrapedAt": "2026-08-18T22:40:31.135Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-WRC02CO220",
+      "name": "Robinet à compression 20×20",
+      "nameAr": "",
+      "brand": "Generic",
+      "barcode": "WRC02CO220",
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 1114,
+      "salePrice": 1310,
+      "minStock": 10,
+      "image": "images/plomberie/ENERGICAL-WRC02CO220.webp",
+      "aliases": [
+        "robinet à compression 20×20",
+        "wrc02co220"
+      ],
+      "description": "Le robinet à compression 20×20 est un élément essentiel pour les systèmes de plomberie, pesant 0,386 kg. Conçu pour une utilisation fiable et durable, ce robinet assure un contrôle précis du débit d&rsquo;eau. Fabriqué avec des matériaux de haute qualité, il offre une durabilité exceptionnelle pour une utilisation à long terme. Idéal pour les applications résidentielles et commerciales, ce robinet garantit un fonctionnement fluide et efficace de vos systèmes de plomberie.",
+      "categories": [
+        "Robinets multicouches",
+        "Robinets multicouches et accessoires"
+      ],
+      "source": {
+        "id": 12604,
+        "sku": "WRC02CO220",
+        "permalink": "https://energical.com/fr/produit/robinet-a-compression-20x20/",
+        "stockStatus": "instock",
+        "categoryName": "Robinets multicouches",
+        "scrapedAt": "2026-08-18T22:40:31.135Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-WRC01CO016",
+      "name": "Robinet à compression 16×16",
+      "nameAr": "",
+      "brand": "Generic",
+      "barcode": "WRC01CO016",
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 689,
+      "salePrice": 810,
+      "minStock": 10,
+      "image": "images/plomberie/ENERGICAL-WRC01CO016.webp",
+      "aliases": [
+        "robinet à compression 16×16",
+        "wrc01co016"
+      ],
+      "description": "Le robinet à compression 16×16 est un composant essentiel pour les systèmes de plomberie, pesant seulement 0,218 kg. Conçu pour assurer un contrôle précis du débit d&rsquo;eau, ce robinet garantit une utilisation fiable et durable. Fabriqué avec des matériaux de haute qualité, il offre une durabilité exceptionnelle pour une utilisation à long terme. Idéal pour les applications résidentielles et commerciales, ce robinet assure un fonctionnement fluide et efficace de vos systèmes de plomberie.",
+      "categories": [
+        "Robinets multicouches",
+        "Robinets multicouches et accessoires"
+      ],
+      "source": {
+        "id": 12542,
+        "sku": "WRC01CO016",
+        "permalink": "https://energical.com/fr/produit/robinet-a-compression-16x16/",
+        "stockStatus": "instock",
+        "categoryName": "Robinets multicouches",
+        "scrapedAt": "2026-08-18T22:40:31.135Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-GKB05RACG4",
+      "name": "Raccord 2 Pcs pour compteur G2.5/G4",
+      "nameAr": "",
+      "brand": "Generic",
+      "barcode": "GKB05RACG4",
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 357,
+      "salePrice": 420,
+      "minStock": 10,
+      "image": "images/plomberie/ENERGICAL-GKB05RACG4.webp",
+      "aliases": [
+        "raccord 2 pcs pour compteur g2.5/g4",
+        "gkb05racg4"
+      ],
+      "description": "",
+      "categories": [
+        "Installation extérieure",
+        "Robinets gaz et accessoires"
+      ],
+      "source": {
+        "id": 12528,
+        "sku": "GKB05RACG4",
+        "permalink": "https://energical.com/fr/produit/raccord-2-pcs-pour-compteur-g2-5-g4/",
+        "stockStatus": "instock",
+        "categoryName": "Installation extérieure",
+        "scrapedAt": "2026-08-18T22:40:31.135Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-WRI02DRG34",
+      "name": "Robinet double raccord (G3/4)",
+      "nameAr": "",
+      "brand": "Generic",
+      "barcode": "WRI02DRG34",
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 1216,
+      "salePrice": 1430,
+      "minStock": 10,
+      "image": "images/plomberie/ENERGICAL-WRI02DRG34.webp",
+      "aliases": [
+        "robinet double raccord (g3/4)",
+        "wri02drg34"
+      ],
+      "description": "Le robinet double raccord (G3/4) est un élément de haute qualité pour vos installations de plomberie, pesant 0,388 kg. Doté d&rsquo;un corps et d&rsquo;un raccord en laiton ainsi que d&rsquo;une manette en alliage de zinc, il garantit une utilisation fiable et durable. Conforme aux normes européennes NF EN 12164 et NF EN 331, ce robinet assure une étanchéité parfaite et une absence de porosité, assurant un fonctionnement optimal dans vos systèmes de plomberie.",
+      "categories": [
+        "Installation intérieure",
+        "Robinets gaz et accessoires"
+      ],
+      "source": {
+        "id": 12524,
+        "sku": "WRI02DRG34",
+        "permalink": "https://energical.com/fr/produit/robinet-double-raccord-g3-4/",
+        "stockStatus": "instock",
+        "categoryName": "Installation intérieure",
+        "scrapedAt": "2026-08-18T22:40:31.135Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-WRI01CDG12",
+      "name": "Robinet cuisinière double (G1/2)",
+      "nameAr": "",
+      "brand": "Generic",
+      "barcode": "WRI01CDG12",
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 1700,
+      "salePrice": 2000,
+      "minStock": 10,
+      "image": "images/plomberie/ENERGICAL-WRI01CDG12.webp",
+      "aliases": [
+        "robinet cuisinière double (g1/2)",
+        "wri01cdg12"
+      ],
+      "description": "Le robinet cuisinière double (G1/2) est un choix idéal pour vos installations de cuisine, pesant seulement 0,047 kg. Avec un corps en laiton et une manette en alliage de zinc, il garantit une utilisation fiable et durable. Conforme aux normes européennes NF EN 12164 et NF EN 331, ce robinet assure une absence de porosité et une étanchéité parfaite. Avec une tolérance d&rsquo;usinage conforme aux exigences de conception, il garantit un fonctionnement optimal dans vos systèmes de cuisine.",
+      "categories": [
+        "Installation intérieure",
+        "Robinets gaz et accessoires"
+      ],
+      "source": {
+        "id": 12520,
+        "sku": "WRI01CDG12",
+        "permalink": "https://energical.com/fr/produit/robinet-cuisiniere-double-g1-2/",
+        "stockStatus": "instock",
+        "categoryName": "Installation intérieure",
+        "scrapedAt": "2026-08-18T22:40:31.135Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-WRI04RCG12",
+      "name": "Robinet cuisinière (G1/2)",
+      "nameAr": "",
+      "brand": "Generic",
+      "barcode": "WRI04RCG12",
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 816,
+      "salePrice": 960,
+      "minStock": 10,
+      "image": "images/plomberie/ENERGICAL-WRI04RCG12.webp",
+      "aliases": [
+        "robinet cuisinière (g1/2)",
+        "wri04rcg12"
+      ],
+      "description": "Le robinet cuisinière (G1/2) est un choix idéal pour votre cuisine, pesant 0,223 kg. Avec un corps et un raccord en laiton, ainsi qu&rsquo;une manette en alliage de zinc, il assure une utilisation fiable. Conforme aux normes européennes NF EN 12164 et NF EN 331, ce robinet garantit une absence de porosité et une étanchéité parfaite. Sa tolérance d&rsquo;usinage conforme aux exigences de conception assure un fonctionnement optimal dans vos installations.",
+      "categories": [
+        "Installation intérieure",
+        "Robinets gaz et accessoires"
+      ],
+      "source": {
+        "id": 12515,
+        "sku": "WRI04RCG12",
+        "permalink": "https://energical.com/fr/produit/robinet-cuisiniere-g1-2/",
+        "stockStatus": "instock",
+        "categoryName": "Installation intérieure",
+        "scrapedAt": "2026-08-18T22:40:31.135Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-GKB05RAC90",
+      "name": "Crosse coudée à 90°",
+      "nameAr": "",
+      "brand": "Generic",
+      "barcode": "GKB05RAC90",
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 876,
+      "salePrice": 1030,
+      "minStock": 10,
+      "image": "images/plomberie/ENERGICAL-GKB05RAC90.webp",
+      "aliases": [
+        "crosse coudée à 90°",
+        "gkb05rac90"
+      ],
+      "description": "La crosse coudée à 90° est un composant essentiel pour vos systèmes de plomberie, pesant 0,2298 kg. Avec ses dimensions de 200 × 200 × 200 cm, elle offre une solution pratique pour les installations nécessitant un coude à angle droit. Fabriquée avec des matériaux de haute qualité, cette crosse garantit une résistance et une durabilité exceptionnelles. Idéale pour les applications résidentielles et commerciales, elle assure un fonctionnement fluide de vos systèmes de plomberie.",
+      "categories": [
+        "Installation extérieure",
+        "Robinets gaz et accessoires"
+      ],
+      "source": {
+        "id": 12511,
+        "sku": "GKB05RAC90",
+        "permalink": "https://energical.com/fr/produit/crosse-coudee-a-90/",
+        "stockStatus": "instock",
+        "categoryName": "Installation extérieure",
+        "scrapedAt": "2026-08-18T22:40:31.135Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-WRI03DRG12",
+      "name": "Robinet double raccord (G1/2)",
+      "nameAr": "",
+      "brand": "Generic",
+      "barcode": "WRI03DRG12",
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 816,
+      "salePrice": 960,
+      "minStock": 10,
+      "image": "images/plomberie/ENERGICAL-WRI03DRG12.webp",
+      "aliases": [
+        "robinet double raccord (g1/2)",
+        "wri03drg12"
+      ],
+      "description": "Le robinet double raccord (G1/2) est un composant essentiel pour vos installations de plomberie, pesant 0,224 kg. Avec des dimensions de 215 × 175 × 65 cm, il garantit une utilisation fiable et durable. Conçu avec un corps et des raccords en laiton, ainsi qu&rsquo;une manette en alliage de zinc, il assure une résistance à la corrosion et une étanchéité optimale. Conforme aux normes européennes NF EN 12164 et NF EN 331, ce robinet répond aux exigences les plus strictes en matière de qualité et de",
+      "categories": [
+        "Installation intérieure",
+        "Robinets gaz et accessoires"
+      ],
+      "source": {
+        "id": 12404,
+        "sku": "WRI03DRG12",
+        "permalink": "https://energical.com/fr/produit/robinet-double-raccord-g1-2/",
+        "stockStatus": "instock",
+        "categoryName": "Installation intérieure",
+        "scrapedAt": "2026-08-18T22:40:31.135Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-GKB02D15IN",
+      "name": "Robinet à raccord sphéro-conique DN15 et raccord PE20",
+      "nameAr": "",
+      "brand": "Generic",
+      "barcode": "GKB02D15IN",
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 1216,
+      "salePrice": 1430,
+      "minStock": 10,
+      "image": "images/plomberie/ENERGICAL-GKB02D15IN.webp",
+      "aliases": [
+        "robinet à raccord sphéro-conique dn15 et raccord pe20",
+        "gkb02d15in"
+      ],
+      "description": "Le robinet à raccord sphéro-conique DN15 et raccord PE20 est un choix idéal pour vos installations de plomberie, pesant 0,279 kg. Avec des dimensions de 216 × 177 × 65 cm, il assure une utilisation fiable et durable. Fabriqué avec un corps, des raccords et une manette en laiton, il garantit une résistance à la corrosion et une étanchéité optimale. Conforme aux normes européennes NF EN 12164 et NF EN 331, ce robinet répond aux exigences les plus strictes en matière de qualité et de sécurité.",
+      "categories": [
+        "Installation extérieure",
+        "Robinets gaz et accessoires"
+      ],
+      "source": {
+        "id": 12399,
+        "sku": "GKB02D15IN",
+        "permalink": "https://energical.com/fr/produit/robinet-a-raccord-sphero-conique-dn15-et-raccord-pe20/",
+        "stockStatus": "instock",
+        "categoryName": "Installation extérieure",
+        "scrapedAt": "2026-08-18T22:40:31.135Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-GKB01D15SC",
+      "name": "Robinet à raccord sphéro-conique DN15",
+      "nameAr": "",
+      "brand": "Generic",
+      "barcode": "GKB01D15SC",
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 884,
+      "salePrice": 1040,
+      "minStock": 10,
+      "image": "images/plomberie/ENERGICAL-GKB01D15SC.webp",
+      "aliases": [
+        "robinet à raccord sphéro-conique dn15",
+        "gkb01d15sc"
+      ],
+      "description": "Le robinet à raccord sphéro-conique DN15 est un élément essentiel pour vos systèmes de plomberie, pesant 0,225 kg. Avec des dimensions de 216 × 177 × 65 cm, il garantit une utilisation fiable et durable. Fabriqué avec un corps et un raccord en laiton, il assure une résistance à la corrosion et une étanchéité optimale. Conforme aux normes européennes NF EN 12164 et NF EN 331, ce robinet répond aux exigences strictes de qualité et de sécurité.",
+      "categories": [
+        "Installation extérieure",
+        "Robinets gaz et accessoires"
+      ],
+      "source": {
+        "id": 12393,
+        "sku": "GKB01D15SC",
+        "permalink": "https://energical.com/fr/produit/robinet-a-raccord-sphero-conique-dn15/",
+        "stockStatus": "instock",
+        "categoryName": "Installation extérieure",
+        "scrapedAt": "2026-08-18T22:40:31.135Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-GKB03D20G4",
+      "name": "Robinet compteur G4 MOP 0,5 (6/20)",
+      "nameAr": "",
+      "brand": "Generic",
+      "barcode": "GKB03D20G4",
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 1437,
+      "salePrice": 1690,
+      "minStock": 10,
+      "image": "images/plomberie/ENERGICAL-GKB03D20G4.webp",
+      "aliases": [
+        "robinet compteur g4 mop 0,5 (6/20)",
+        "gkb03d20g4"
+      ],
+      "description": "Le robinet compteur G4 MOP 0,5 (6/20) est un élément essentiel pour vos systèmes de distribution de gaz, pesant 0,405 kg. Avec des dimensions de 216 × 177 × 65 cm, il garantit une utilisation fiable et sécurisée. Fabriqué avec un corps et un raccord en laiton, ainsi qu&rsquo;une manette en alliage de zinc, il assure une résistance à la corrosion et une étanchéité optimale. Conforme aux normes européennes NF EN 12164 et NF EN 331, ce robinet répond aux exigences strictes de qualité et de sécurité",
+      "categories": [
+        "Installation extérieure",
+        "Robinets gaz et accessoires"
+      ],
+      "source": {
+        "id": 12389,
+        "sku": "GKB03D20G4",
+        "permalink": "https://energical.com/fr/produit/robinet-compteur-g4-mop-6-20/",
+        "stockStatus": "instock",
+        "categoryName": "Installation extérieure",
+        "scrapedAt": "2026-08-18T22:40:31.135Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-GKB04ROBG6",
+      "name": "Robinet compteur G6 MOP 0,5 (10/32)",
+      "nameAr": "",
+      "brand": "Generic",
+      "barcode": "GKB04ROBG6",
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 1343,
+      "salePrice": 1580,
+      "minStock": 10,
+      "image": "images/plomberie/ENERGICAL-GKB04ROBG6.webp",
+      "aliases": [
+        "robinet compteur g6 mop 0,5 (10/32)",
+        "gkb04robg6"
+      ],
+      "description": "Le robinet compteur G6 MOP 0,5 (10/32) est un élément essentiel pour vos systèmes de distribution de gaz, pesant 1,196 kg. Avec un design robuste en laiton et une manette en acier, il garantit une utilisation fiable et durable. Conforme aux normes européennes NF EN 12164 et NF EN 331, ce robinet assure une étanchéité optimale et répond aux exigences strictes de qualité et de sécurité.",
+      "categories": [
+        "Installation extérieure",
+        "Robinets gaz et accessoires"
+      ],
+      "source": {
+        "id": 12385,
+        "sku": "GKB04ROBG6",
+        "permalink": "https://energical.com/fr/produit/robinet-compteur-g6-mop-10-32/",
+        "stockStatus": "instock",
+        "categoryName": "Installation extérieure",
+        "scrapedAt": "2026-08-18T22:40:31.135Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-GKB05RPE40",
+      "name": "Raccord de transition PE40 / Cu22",
+      "nameAr": "",
+      "brand": "Generic",
+      "barcode": "GKB05RPE40",
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 3290,
+      "salePrice": 3870,
+      "minStock": 10,
+      "image": "images/plomberie/ENERGICAL-GKB05RPE40.webp",
+      "aliases": [
+        "raccord de transition pe40 / cu22",
+        "gkb05rpe40"
+      ],
+      "description": "",
+      "categories": [
+        "Installation extérieure",
+        "Robinets gaz et accessoires"
+      ],
+      "source": {
+        "id": 12381,
+        "sku": "GKB05RPE40",
+        "permalink": "https://energical.com/fr/produit/raccord-de-transition-pe40-cu22/",
+        "stockStatus": "instock",
+        "categoryName": "Installation extérieure",
+        "scrapedAt": "2026-08-18T22:40:31.135Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-GKB05RAC2P",
+      "name": "Raccord 2 Pcs DN15 à JSC Cu16",
+      "nameAr": "",
+      "brand": "Generic",
+      "barcode": "GKB05RAC2P",
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 340,
+      "salePrice": 400,
+      "minStock": 10,
+      "image": "images/plomberie/ENERGICAL-GKB05RAC2P.webp",
+      "aliases": [
+        "raccord 2 pcs dn15 à jsc cu16",
+        "gkb05rac2p"
+      ],
+      "description": "",
+      "categories": [
+        "Installation extérieure",
+        "Robinets gaz et accessoires"
+      ],
+      "source": {
+        "id": 12373,
+        "sku": "GKB05RAC2P",
+        "permalink": "https://energical.com/fr/produit/raccord-2-pcs-dn15-a-jsc-cu16/",
+        "stockStatus": "instock",
+        "categoryName": "Installation extérieure",
+        "scrapedAt": "2026-08-18T22:40:31.135Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-GKB06M3242",
+      "name": "Mamelon sortie B25 – 10/32 DN32 à JPC Cu42",
+      "nameAr": "",
+      "brand": "Generic",
+      "barcode": "GKB06M3242",
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 1241,
+      "salePrice": 1460,
+      "minStock": 10,
+      "image": "images/plomberie/ENERGICAL-GKB06M3242.webp",
+      "aliases": [
+        "mamelon sortie b25 – 10/32 dn32 à jpc cu42",
+        "gkb06m3242"
+      ],
+      "description": "",
+      "categories": [
+        "Installation extérieure",
+        "Robinets gaz et accessoires"
+      ],
+      "source": {
+        "id": 12369,
+        "sku": "GKB06M3242",
+        "permalink": "https://energical.com/fr/produit/mamelon-sortie-b25-10-32-dn32-jpc-cu42/",
+        "stockStatus": "instock",
+        "categoryName": "Installation extérieure",
+        "scrapedAt": "2026-08-18T22:40:31.135Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-GKB06M3228",
+      "name": "Mamelon DN25-10/32 à joint plat Cu28",
+      "nameAr": "",
+      "brand": "Generic",
+      "barcode": "GKB06M3228",
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 527,
+      "salePrice": 620,
+      "minStock": 10,
+      "image": "images/plomberie/ENERGICAL-GKB06M3228.webp",
+      "aliases": [
+        "mamelon dn25-10/32 à joint plat cu28",
+        "gkb06m3228"
+      ],
+      "description": "",
+      "categories": [
+        "Installation extérieure",
+        "Robinets gaz et accessoires"
+      ],
+      "source": {
+        "id": 12364,
+        "sku": "GKB06M3228",
+        "permalink": "https://energical.com/fr/produit/mamelon-dn25-10-32-a-joint-plat-cu28/",
+        "stockStatus": "instock",
+        "categoryName": "Installation extérieure",
+        "scrapedAt": "2026-08-18T22:40:31.135Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-GKB06M1516",
+      "name": "Mamelon entrée régulateur DN15 à JSC Cu16",
+      "nameAr": "",
+      "brand": "Generic",
+      "barcode": "GKB06M1516",
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 247,
+      "salePrice": 290,
+      "minStock": 10,
+      "image": "images/plomberie/ENERGICAL-GKB06M1516.webp",
+      "aliases": [
+        "mamelon entrée régulateur dn15 à jsc cu16",
+        "gkb06m1516"
+      ],
+      "description": "",
+      "categories": [
+        "Installation extérieure",
+        "Robinets gaz et accessoires"
+      ],
+      "source": {
+        "id": 12359,
+        "sku": "GKB06M1516",
+        "permalink": "https://energical.com/fr/produit/mamelon-entree-regulateur-dn15-a-jsc-cu16/",
+        "stockStatus": "instock",
+        "categoryName": "Installation extérieure",
+        "scrapedAt": "2026-08-18T22:40:31.135Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-GKB06M2022",
+      "name": "Mamelon sortie B6 – 6/20 DN20 à JPC Cu22",
+      "nameAr": "",
+      "brand": "Generic",
+      "barcode": "GKB06M2022",
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 374,
+      "salePrice": 440,
+      "minStock": 10,
+      "image": "images/plomberie/ENERGICAL-GKB06M2022.webp",
+      "aliases": [
+        "mamelon sortie b6 – 6/20 dn20 à jpc cu22",
+        "gkb06m2022"
+      ],
+      "description": "",
+      "categories": [
+        "Installation extérieure",
+        "Robinets gaz et accessoires"
+      ],
+      "source": {
+        "id": 12301,
+        "sku": "GKB06M2022",
+        "permalink": "https://energical.com/fr/produit/mamelon-sortie-b6-6-20-dn20-jpc-cu22/",
+        "stockStatus": "instock",
+        "categoryName": "Installation extérieure",
+        "scrapedAt": "2026-08-18T22:40:31.135Z"
+      }
     }
   ]
 }

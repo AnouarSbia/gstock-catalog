@@ -1,0 +1,67 @@
+{
+  "category": {
+    "code": "electromenager",
+    "name": "Électroménager",
+    "nameAr": "الأجهزة المنزلية"
+  },
+  "products": [
+    {
+      "code": "ENERGICAL-GAF6A00001",
+      "name": "Friteuse à air chaud 6 L -1500W",
+      "nameAr": "",
+      "brand": "Generic",
+      "barcode": "GAF6A00001",
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 10625,
+      "salePrice": 12500,
+      "minStock": 10,
+      "image": "images/electromenager/ENERGICAL-GAF6A00001.webp",
+      "aliases": [
+        "friteuse à air chaud 6 l -1500w",
+        "gaf6a00001"
+      ],
+      "description": "Fonctionnalités principales\n\n\nTechnologie Rapid Air pour une cuisson homogène et rapide jusqu’à 200 °C\n\n\nÉcran tactile intuitif et facile à utiliser\n\n\n6 programmes automatiques préréglés\n\n\nFonction d’arrêt automatique\n\n\nSurface de cuisson antiadhésive, facile à nettoyer\n\n\nFenêtre transparente pour surveiller la cuisson\n\n\nDesign élégant adapté à toutes les cuisines\n\n\n\n\n\n\n\n\n\n\nPrécautions d’utilisation\n\n\nUtilisez la friteuse uniquement sur une surface stable et sèche.\n\n\nNe touchez pas la surface pe",
+      "categories": [
+        "Électroménager"
+      ],
+      "source": {
+        "id": 46871,
+        "sku": "GAF6A00001",
+        "permalink": "https://energical.com/fr/produit/friteuse-a-air-chaud-6-l-1500w/",
+        "stockStatus": "instock",
+        "categoryName": "Électroménager",
+        "scrapedAt": "2026-08-18T22:40:21.279Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-GAF8A00001",
+      "name": "Friteuse à air chaud 8 L -1800 W",
+      "nameAr": "",
+      "brand": "Generic",
+      "barcode": "GAF8A00001",
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 12750,
+      "salePrice": 15000,
+      "minStock": 10,
+      "image": "images/electromenager/ENERGICAL-GAF8A00001.webp",
+      "aliases": [
+        "friteuse à air chaud 8 l -1800 w",
+        "gaf8a00001"
+      ],
+      "description": "Fonctionnalités principales\n\n\nTechnologie Rapid Air pour une cuisson homogène et rapide jusqu’à 200 °C\n\n\nÉcran tactile intuitif et facile à utiliser\n\n\n6 programmes automatiques préréglés\n\n\nFonction d’arrêt automatique\n\n\nSurface de cuisson antiadhésive, facile à nettoyer\n\n\nFenêtre transparente pour surveiller la cuisson\n\n\nDesign élégant adapté à toutes les cuisines\n\n\n\n\n\n\n\n\n\n\nPrécautions d’utilisation\n\n\nUtilisez la friteuse uniquement sur une surface stable et sèche.\n\n\nNe touchez pas la surface pe",
+      "categories": [
+        "Électroménager"
+      ],
+      "source": {
+        "id": 46490,
+        "sku": "GAF8A00001",
+        "permalink": "https://energical.com/fr/produit/friteuse-sans-huile/",
+        "stockStatus": "instock",
+        "categoryName": "Électroménager",
+        "scrapedAt": "2026-08-18T22:40:21.279Z"
+      }
+    }
+  ]
+}

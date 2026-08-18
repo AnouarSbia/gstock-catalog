@@ -17,7 +17,11 @@
       "salePrice": 165,
       "minStock": 50,
       "image": "images/quincaillerie/clous-40.jpg",
-      "aliases": ["clous", "مسامير", "pointes"],
+      "aliases": [
+        "clous",
+        "مسامير",
+        "pointes"
+      ],
       "description": "Clous en fer 40mm, vendus au kg"
     },
     {
@@ -32,7 +36,11 @@
       "salePrice": 175,
       "minStock": 50,
       "image": "images/quincaillerie/clous-50.jpg",
-      "aliases": ["clous", "مسامير", "pointes"],
+      "aliases": [
+        "clous",
+        "مسامير",
+        "pointes"
+      ],
       "description": "Clous en fer 50mm, vendus au kg"
     },
     {
@@ -47,7 +55,11 @@
       "salePrice": 180,
       "minStock": 50,
       "image": "images/quincaillerie/clous-70.jpg",
-      "aliases": ["clous", "مسامير", "pointes"],
+      "aliases": [
+        "clous",
+        "مسامير",
+        "pointes"
+      ],
       "description": "Clous en fer 70mm, vendus au kg"
     },
     {
@@ -62,7 +74,11 @@
       "salePrice": 195,
       "minStock": 40,
       "image": "images/quincaillerie/clous-90.jpg",
-      "aliases": ["clous", "مسامير", "pointes"],
+      "aliases": [
+        "clous",
+        "مسامير",
+        "pointes"
+      ],
       "description": "Clous en fer 90mm, vendus au kg"
     },
     {
@@ -77,7 +93,11 @@
       "salePrice": 220,
       "minStock": 30,
       "image": "images/quincaillerie/clous-120.jpg",
-      "aliases": ["clous", "مسامير", "pointes"],
+      "aliases": [
+        "clous",
+        "مسامير",
+        "pointes"
+      ],
       "description": "Clous en fer 120mm, vendus au kg"
     },
     {
@@ -92,7 +112,11 @@
       "salePrice": 270,
       "minStock": 20,
       "image": "images/quincaillerie/vis-bois-4x40.jpg",
-      "aliases": ["vis à bois", "براغي خشب", "vis"],
+      "aliases": [
+        "vis à bois",
+        "براغي خشب",
+        "vis"
+      ],
       "description": "Vis à bois 4x40mm, boîte de 100 pièces"
     },
     {
@@ -107,7 +131,11 @@
       "salePrice": 330,
       "minStock": 20,
       "image": "images/quincaillerie/vis-bois-5x60.jpg",
-      "aliases": ["vis à bois", "براغي خشب", "vis"],
+      "aliases": [
+        "vis à bois",
+        "براغي خشب",
+        "vis"
+      ],
       "description": "Vis à bois 5x60mm, boîte de 100 pièces"
     },
     {
@@ -122,7 +150,11 @@
       "salePrice": 300,
       "minStock": 20,
       "image": "images/quincaillerie/vis-metaux-4x20.jpg",
-      "aliases": ["vis à métaux", "براغي معدن", "vis"],
+      "aliases": [
+        "vis à métaux",
+        "براغي معدن",
+        "vis"
+      ],
       "description": "Vis à métaux 4x20mm, boîte de 100 pièces"
     },
     {
@@ -137,7 +169,11 @@
       "salePrice": 140,
       "minStock": 30,
       "image": "images/quincaillerie/chevilles-6.jpg",
-      "aliases": ["chevilles", "أوتاد", "douilles"],
+      "aliases": [
+        "chevilles",
+        "أوتاد",
+        "douilles"
+      ],
       "description": "Chevilles plastique Ø6mm, boîte de 100 pièces"
     },
     {
@@ -152,7 +188,11 @@
       "salePrice": 170,
       "minStock": 30,
       "image": "images/quincaillerie/chevilles-8.jpg",
-      "aliases": ["chevilles", "أوتاد", "douilles"],
+      "aliases": [
+        "chevilles",
+        "أوتاد",
+        "douilles"
+      ],
       "description": "Chevilles plastique Ø8mm, boîte de 100 pièces"
     },
     {
@@ -167,7 +207,11 @@
       "salePrice": 40,
       "minStock": 100,
       "image": "images/quincaillerie/boulon-m8x40.jpg",
-      "aliases": ["boulon", "صامولة", "vis"],
+      "aliases": [
+        "boulon",
+        "صامولة",
+        "vis"
+      ],
       "description": "Boulon M8x40mm, vendu à la pièce"
     },
     {
@@ -182,7 +226,11 @@
       "salePrice": 55,
       "minStock": 100,
       "image": "images/quincaillerie/boulon-m10x50.jpg",
-      "aliases": ["boulon", "صامولة", "vis"],
+      "aliases": [
+        "boulon",
+        "صامولة",
+        "vis"
+      ],
       "description": "Boulon M10x50mm, vendu à la pièce"
     },
     {
@@ -197,7 +245,11 @@
       "salePrice": 75,
       "minStock": 80,
       "image": "images/quincaillerie/boulon-m12x60.jpg",
-      "aliases": ["boulon", "صامولة", "vis"],
+      "aliases": [
+        "boulon",
+        "صامولة",
+        "vis"
+      ],
       "description": "Boulon M12x60mm, vendu à la pièce"
     },
     {
@@ -212,7 +264,11 @@
       "salePrice": 15,
       "minStock": 200,
       "image": "images/quincaillerie/ecrou-m8.jpg",
-      "aliases": ["écrou", "صامولة", "noix"],
+      "aliases": [
+        "écrou",
+        "صامولة",
+        "noix"
+      ],
       "description": "Écrou hexagonal M8, vendu à la pièce"
     },
     {
@@ -227,7 +283,11 @@
       "salePrice": 18,
       "minStock": 200,
       "image": "images/quincaillerie/ecrou-m10.jpg",
-      "aliases": ["écrou", "صامولة", "noix"],
+      "aliases": [
+        "écrou",
+        "صامولة",
+        "noix"
+      ],
       "description": "Écrou hexagonal M10, vendu à la pièce"
     },
     {
@@ -242,7 +302,11 @@
       "salePrice": 25,
       "minStock": 150,
       "image": "images/quincaillerie/ecrou-m12.jpg",
-      "aliases": ["écrou", "صامولة", "noix"],
+      "aliases": [
+        "écrou",
+        "صامولة",
+        "noix"
+      ],
       "description": "Écrou hexagonal M12, vendu à la pièce"
     },
     {
@@ -257,7 +321,11 @@
       "salePrice": 95,
       "minStock": 40,
       "image": "images/quincaillerie/rondelles-m8.jpg",
-      "aliases": ["rondelles", "حلقات", "rondelle plate"],
+      "aliases": [
+        "rondelles",
+        "حلقات",
+        "rondelle plate"
+      ],
       "description": "Rondelles plates M8, boîte de 50 pièces"
     },
     {
@@ -272,7 +340,11 @@
       "salePrice": 115,
       "minStock": 40,
       "image": "images/quincaillerie/rondelles-m10.jpg",
-      "aliases": ["rondelles", "حلقات", "rondelle plate"],
+      "aliases": [
+        "rondelles",
+        "حلقات",
+        "rondelle plate"
+      ],
       "description": "Rondelles plates M10, boîte de 50 pièces"
     },
     {
@@ -287,7 +359,11 @@
       "salePrice": 280,
       "minStock": 15,
       "image": "images/quincaillerie/cadenas-40.jpg",
-      "aliases": ["cadenas", "قفل", "lock"],
+      "aliases": [
+        "cadenas",
+        "قفل",
+        "lock"
+      ],
       "description": "Cadenas en laiton 40mm, 2 clés"
     },
     {
@@ -302,7 +378,11 @@
       "salePrice": 360,
       "minStock": 15,
       "image": "images/quincaillerie/cadenas-50.jpg",
-      "aliases": ["cadenas", "قفل", "lock"],
+      "aliases": [
+        "cadenas",
+        "قفل",
+        "lock"
+      ],
       "description": "Cadenas en laiton 50mm, 2 clés"
     },
     {
@@ -317,7 +397,11 @@
       "salePrice": 480,
       "minStock": 10,
       "image": "images/quincaillerie/cadenas-60.jpg",
-      "aliases": ["cadenas", "قفل", "lock"],
+      "aliases": [
+        "cadenas",
+        "قفل",
+        "lock"
+      ],
       "description": "Cadenas en laiton 60mm, 2 clés"
     },
     {
@@ -332,7 +416,11 @@
       "salePrice": 980,
       "minStock": 10,
       "image": "images/quincaillerie/serrure-cylindrique.jpg",
-      "aliases": ["serrure", "قفل", "cylindre"],
+      "aliases": [
+        "serrure",
+        "قفل",
+        "cylindre"
+      ],
       "description": "Serrure cylindrique pour porte, 3 clés"
     },
     {
@@ -347,7 +435,11 @@
       "salePrice": 1280,
       "minStock": 8,
       "image": "images/quincaillerie/serrure-mortaiser.jpg",
-      "aliases": ["serrure", "قفل", "mortaise"],
+      "aliases": [
+        "serrure",
+        "قفل",
+        "mortaise"
+      ],
       "description": "Serrure à mortaiser pour porte bois, 3 clés"
     },
     {
@@ -362,7 +454,11 @@
       "salePrice": 530,
       "minStock": 15,
       "image": "images/quincaillerie/poignee-interieure.jpg",
-      "aliases": ["poignée", "مقبض", "poignée intérieure"],
+      "aliases": [
+        "poignée",
+        "مقبض",
+        "poignée intérieure"
+      ],
       "description": "Poignée de porte intérieure, paire avec vis"
     },
     {
@@ -377,7 +473,11 @@
       "salePrice": 720,
       "minStock": 15,
       "image": "images/quincaillerie/poignee-exterieure.jpg",
-      "aliases": ["poignée", "مقبض", "poignée extérieure"],
+      "aliases": [
+        "poignée",
+        "مقبض",
+        "poignée extérieure"
+      ],
       "description": "Poignée de porte extérieure renforcée, paire avec vis"
     },
     {
@@ -392,7 +492,11 @@
       "salePrice": 190,
       "minStock": 30,
       "image": "images/quincaillerie/charnieres-75.jpg",
-      "aliases": ["charnières", "مفصلات", "pivots"],
+      "aliases": [
+        "charnières",
+        "مفصلات",
+        "pivots"
+      ],
       "description": "Charnières en acier 75mm, vendues par paire"
     },
     {
@@ -407,7 +511,11 @@
       "salePrice": 240,
       "minStock": 30,
       "image": "images/quincaillerie/charnieres-100.jpg",
-      "aliases": ["charnières", "مفصلات", "pivots"],
+      "aliases": [
+        "charnières",
+        "مفصلات",
+        "pivots"
+      ],
       "description": "Charnières en acier 100mm, vendues par paire"
     },
     {
@@ -422,7 +530,11 @@
       "salePrice": 210,
       "minStock": 25,
       "image": "images/quincaillerie/gonds-100.jpg",
-      "aliases": ["gonds", "كرانيش", "pivots"],
+      "aliases": [
+        "gonds",
+        "كرانيش",
+        "pivots"
+      ],
       "description": "Gonds en acier 100mm, vendus par paire"
     },
     {
@@ -437,7 +549,11 @@
       "salePrice": 290,
       "minStock": 25,
       "image": "images/quincaillerie/gonds-150.jpg",
-      "aliases": ["gonds", "كرانيش", "pivots"],
+      "aliases": [
+        "gonds",
+        "كرانيش",
+        "pivots"
+      ],
       "description": "Gonds en acier 150mm, vendus par paire"
     },
     {
@@ -452,7 +568,11 @@
       "salePrice": 140,
       "minStock": 20,
       "image": "images/quincaillerie/loquet.jpg",
-      "aliases": ["loquet", "مزلاج", "latch"],
+      "aliases": [
+        "loquet",
+        "مزلاج",
+        "latch"
+      ],
       "description": "Loquet simple en acier, avec vis de fixation"
     },
     {
@@ -467,7 +587,11 @@
       "salePrice": 680,
       "minStock": 10,
       "image": "images/quincaillerie/cremone.jpg",
-      "aliases": ["crémone", "مزلاج نافذة", "fermeture"],
+      "aliases": [
+        "crémone",
+        "مزلاج نافذة",
+        "fermeture"
+      ],
       "description": "Crémone pour fenêtre, ensemble complet avec tringles"
     },
     {
@@ -482,7 +606,11 @@
       "salePrice": 340,
       "minStock": 15,
       "image": "images/quincaillerie/chain-securite.jpg",
-      "aliases": ["chaîne de sécurité", "سلسلة أمان", "security chain"],
+      "aliases": [
+        "chaîne de sécurité",
+        "سلسلة أمان",
+        "security chain"
+      ],
       "description": "Chaîne de sécurité pour porte, acier inoxydable"
     },
     {
@@ -497,7 +625,11 @@
       "salePrice": 55,
       "minStock": 50,
       "image": "images/quincaillerie/oeillet.jpg",
-      "aliases": ["œillet", "عين", "eyelet"],
+      "aliases": [
+        "œillet",
+        "عين",
+        "eyelet"
+      ],
       "description": "Œillet métallique pour fixation, vendu à la pièce"
     },
     {
@@ -512,7 +644,11 @@
       "salePrice": 270,
       "minStock": 20,
       "image": "images/quincaillerie/fil-attente-1.jpg",
-      "aliases": ["fil d'attente", "سلك تعليق", "fil de fer"],
+      "aliases": [
+        "fil d'attente",
+        "سلك تعليق",
+        "fil de fer"
+      ],
       "description": "Fil d'attente galvanisé 1mm, vendu au kg"
     },
     {
@@ -527,7 +663,11 @@
       "salePrice": 300,
       "minStock": 20,
       "image": "images/quincaillerie/fil-attente-2.jpg",
-      "aliases": ["fil d'attente", "سلك تعليق", "fil de fer"],
+      "aliases": [
+        "fil d'attente",
+        "سلك تعليق",
+        "fil de fer"
+      ],
       "description": "Fil d'attente galvanisé 2mm, vendu au kg"
     },
     {
@@ -542,7 +682,11 @@
       "salePrice": 3300,
       "minStock": 5,
       "image": "images/quincaillerie/grillage-1x25.jpg",
-      "aliases": ["grillage", "شبك", "clôture"],
+      "aliases": [
+        "grillage",
+        "شبك",
+        "clôture"
+      ],
       "description": "Grillage galvanisé 1m x 25m, rouleau complet"
     },
     {
@@ -557,7 +701,11 @@
       "salePrice": 4800,
       "minStock": 5,
       "image": "images/quincaillerie/grillage-15x25.jpg",
-      "aliases": ["grillage", "شبك", "clôture"],
+      "aliases": [
+        "grillage",
+        "شبك",
+        "clôture"
+      ],
       "description": "Grillage galvanisé 1.5m x 25m, rouleau complet"
     },
     {
@@ -572,7 +720,11 @@
       "salePrice": 90,
       "minStock": 50,
       "image": "images/quincaillerie/cable-acier-3.jpg",
-      "aliases": ["câble acier", "كابل حديد", "câble"],
+      "aliases": [
+        "câble acier",
+        "كابل حديد",
+        "câble"
+      ],
       "description": "Câble en acier galvanisé 3mm, vendu au mètre"
     },
     {
@@ -587,7 +739,11 @@
       "salePrice": 145,
       "minStock": 50,
       "image": "images/quincaillerie/cable-acier-5.jpg",
-      "aliases": ["câble acier", "كابل حديد", "câble"],
+      "aliases": [
+        "câble acier",
+        "كابل حديد",
+        "câble"
+      ],
       "description": "Câble en acier galvanisé 5mm, vendu au mètre"
     },
     {
@@ -602,7 +758,11 @@
       "salePrice": 50,
       "minStock": 60,
       "image": "images/quincaillerie/manille-5.jpg",
-      "aliases": ["manille", "حلقة", "shackle"],
+      "aliases": [
+        "manille",
+        "حلقة",
+        "shackle"
+      ],
       "description": "Manille galvanisée 5mm, vendue à la pièce"
     },
     {
@@ -617,7 +777,11 @@
       "salePrice": 70,
       "minStock": 60,
       "image": "images/quincaillerie/manille-8.jpg",
-      "aliases": ["manille", "حلقة", "shackle"],
+      "aliases": [
+        "manille",
+        "حلقة",
+        "shackle"
+      ],
       "description": "Manille galvanisée 8mm, vendue à la pièce"
     },
     {
@@ -632,7 +796,11 @@
       "salePrice": 180,
       "minStock": 25,
       "image": "images/quincaillerie/tendeur.jpg",
-      "aliases": ["tendeur", "مشدد", "turnbuckle"],
+      "aliases": [
+        "tendeur",
+        "مشدد",
+        "turnbuckle"
+      ],
       "description": "Tendeur galvanisé pour câble, vendu à la pièce"
     },
     {
@@ -647,7 +815,11 @@
       "salePrice": 65,
       "minStock": 50,
       "image": "images/quincaillerie/piton.jpg",
-      "aliases": ["piton", "خطاف", "crochet"],
+      "aliases": [
+        "piton",
+        "خطاف",
+        "crochet"
+      ],
       "description": "Piton à visser en acier galvanisé, vendu à la pièce"
     },
     {
@@ -662,7 +834,11 @@
       "salePrice": 420,
       "minStock": 12,
       "image": "images/quincaillerie/cadre-serrure.jpg",
-      "aliases": ["cadre serrure", "إطار قفل", "boîtier"],
+      "aliases": [
+        "cadre serrure",
+        "إطار قفل",
+        "boîtier"
+      ],
       "description": "Cadre pour serrure à mortaiser, acier galvanisé"
     },
     {
@@ -677,7 +853,11 @@
       "salePrice": 480,
       "minStock": 15,
       "image": "images/quincaillerie/verrou.jpg",
-      "aliases": ["verrou", "قفل انزلاق", "bolt"],
+      "aliases": [
+        "verrou",
+        "قفل انزلاق",
+        "bolt"
+      ],
       "description": "Verrou à glissière pour porte, acier galvanisé"
     },
     {
@@ -692,7 +872,11 @@
       "salePrice": 570,
       "minStock": 15,
       "image": "images/quincaillerie/bequille.jpg",
-      "aliases": ["béquille", "مقبض", "poignée béquille"],
+      "aliases": [
+        "béquille",
+        "مقبض",
+        "poignée béquille"
+      ],
       "description": "Béquille de porte en inox, paire avec vis"
     },
     {
@@ -707,7 +891,11 @@
       "salePrice": 630,
       "minStock": 12,
       "image": "images/quincaillerie/barre-tirage.jpg",
-      "aliases": ["barre de tirage", "مقضب", "poignée tirette"],
+      "aliases": [
+        "barre de tirage",
+        "مقضب",
+        "poignée tirette"
+      ],
       "description": "Barre de tirage pour porte, acier inoxydable"
     },
     {
@@ -722,7 +910,11 @@
       "salePrice": 820,
       "minStock": 8,
       "image": "images/quincaillerie/chassis.jpg",
-      "aliases": ["châssis", "إطار", "frame"],
+      "aliases": [
+        "châssis",
+        "إطار",
+        "frame"
+      ],
       "description": "Châssis métallique pour fenêtre, acier galvanisé"
     },
     {
@@ -737,7 +929,11 @@
       "salePrice": 720,
       "minStock": 10,
       "image": "images/quincaillerie/cremaillere.jpg",
-      "aliases": ["crémaillère", "ترس", "rack"],
+      "aliases": [
+        "crémaillère",
+        "ترس",
+        "rack"
+      ],
       "description": "Crémaillère pour serrure, acier galvanisé"
     },
     {
@@ -752,7 +948,11 @@
       "salePrice": 145,
       "minStock": 30,
       "image": "images/quincaillerie/gache.jpg",
-      "aliases": ["gâche", "صفيحة قفل", "strike"],
+      "aliases": [
+        "gâche",
+        "صفيحة قفل",
+        "strike"
+      ],
       "description": "Gâche pour serrure, acier galvanisé, vendue à la pièce"
     },
     {
@@ -767,8 +967,678 @@
       "salePrice": 170,
       "minStock": 25,
       "image": "images/quincaillerie/tetiere.jpg",
-      "aliases": ["têtière", "لوحة قفل", "face plate"],
+      "aliases": [
+        "têtière",
+        "لوحة قفل",
+        "face plate"
+      ],
       "description": "Têtière pour serrure à mortaiser, acier galvanisé"
+    },
+    {
+      "code": "ENERGICAL-47703",
+      "name": "PORTE VITREE 1/3 EN PVC NID ABEILLE 830mm AVEC CADRE EN WPC",
+      "nameAr": "",
+      "brand": "Generic",
+      "barcode": null,
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 23715,
+      "salePrice": 27900,
+      "minStock": 10,
+      "image": "images/quincaillerie/ENERGICAL-47703.webp",
+      "aliases": [
+        "porte vitree 1/3 en pvc nid abeille 830mm avec cadre en wpc"
+      ],
+      "description": "La porte en PVC nid d&rsquo;abeille est conçue pour offrir une combinaison parfaite entre esthétique moderne, durabilité et performance.\nGrâce à sa structure robuste et à ses matériaux de haute qualité, elle garantit une excellente résistance à l’humidité, aux chocs et aux variations climatiques.",
+      "categories": [
+        "Portes",
+        "Portes pour réservation de 900mm"
+      ],
+      "source": {
+        "id": 47703,
+        "sku": "",
+        "permalink": "https://energical.com/fr/produit/porte-vitree-1-3-en-pvc-nid-abeille-830mm-avec-cadre-en-wpc/",
+        "stockStatus": "instock",
+        "categoryName": "Portes",
+        "scrapedAt": "2026-08-18T22:40:21.279Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-47673",
+      "name": "PORTE VITREE 1/3 EN PVC NID ABEILLE 730mm AVEC CADRE EN WPC",
+      "nameAr": "",
+      "brand": "Generic",
+      "barcode": null,
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 23715,
+      "salePrice": 27900,
+      "minStock": 10,
+      "image": "images/quincaillerie/ENERGICAL-47673.webp",
+      "aliases": [
+        "porte vitree 1/3 en pvc nid abeille 730mm avec cadre en wpc"
+      ],
+      "description": "La porte en PVC nid d&rsquo;abeille est conçue pour offrir une combinaison parfaite entre esthétique moderne, durabilité et performance.\nGrâce à sa structure robuste et à ses matériaux de haute qualité, elle garantit une excellente résistance à l’humidité, aux chocs et aux variations climatiques.",
+      "categories": [
+        "Portes",
+        "Portes pour réservation de 800mm"
+      ],
+      "source": {
+        "id": 47673,
+        "sku": "",
+        "permalink": "https://energical.com/fr/produit/porte-vitree-1-3-en-pvc-nid-abeille-730mm-avec-cadre-en-wpc/",
+        "stockStatus": "instock",
+        "categoryName": "Portes",
+        "scrapedAt": "2026-08-18T22:40:21.279Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-47672",
+      "name": "PORTE VITREE 1/2 EN PVC NID ABEILLE 830mm AVEC CADRE EN WPC",
+      "nameAr": "",
+      "brand": "Generic",
+      "barcode": null,
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 25755,
+      "salePrice": 30300,
+      "minStock": 10,
+      "image": "images/quincaillerie/ENERGICAL-47672.webp",
+      "aliases": [
+        "porte vitree 1/2 en pvc nid abeille 830mm avec cadre en wpc"
+      ],
+      "description": "La porte en PVC nid d&rsquo;abeille est conçue pour offrir une combinaison parfaite entre esthétique moderne, durabilité et performance.\nGrâce à sa structure robuste et à ses matériaux de haute qualité, elle garantit une excellente résistance à l’humidité, aux chocs et aux variations climatiques.",
+      "categories": [
+        "Portes",
+        "Portes pour réservation de 900mm"
+      ],
+      "source": {
+        "id": 47672,
+        "sku": "",
+        "permalink": "https://energical.com/fr/produit/porte-vitree-1-2-en-pvc-nid-abeille-830mm-avec-cadre-en-wpc/",
+        "stockStatus": "instock",
+        "categoryName": "Portes",
+        "scrapedAt": "2026-08-18T22:40:21.279Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-47643",
+      "name": "PORTE VITREE 1/2 EN PVC NID ABEILLE 730mm AVEC CADRE EN WPC",
+      "nameAr": "",
+      "brand": "Generic",
+      "barcode": null,
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 25755,
+      "salePrice": 30300,
+      "minStock": 10,
+      "image": "images/quincaillerie/ENERGICAL-47643.webp",
+      "aliases": [
+        "porte vitree 1/2 en pvc nid abeille 730mm avec cadre en wpc"
+      ],
+      "description": "La porte en PVC nid d&rsquo;abeille est conçue pour offrir une combinaison parfaite entre esthétique moderne, durabilité et performance.\nGrâce à sa structure robuste et à ses matériaux de haute qualité, elle garantit une excellente résistance à l’humidité, aux chocs et aux variations climatiques.",
+      "categories": [
+        "Portes",
+        "Portes pour réservation de 800mm"
+      ],
+      "source": {
+        "id": 47643,
+        "sku": "",
+        "permalink": "https://energical.com/fr/produit/porte-vitree-1-2-en-pvc-nid-abeille-730mm-avec-cadre-en-wpc/",
+        "stockStatus": "instock",
+        "categoryName": "Portes",
+        "scrapedAt": "2026-08-18T22:40:21.279Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-47614",
+      "name": "PORTE VITREE 1/1 EN PVC NID ABEILLE 830mm AVEC CADRE EN WPC",
+      "nameAr": "",
+      "brand": "Generic",
+      "barcode": null,
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 27200,
+      "salePrice": 32000,
+      "minStock": 10,
+      "image": "images/quincaillerie/ENERGICAL-47614.webp",
+      "aliases": [
+        "porte vitree 1/1 en pvc nid abeille 830mm avec cadre en wpc"
+      ],
+      "description": "La porte en PVC nid d&rsquo;abeille est conçue pour offrir une combinaison parfaite entre esthétique moderne, durabilité et performance.\nGrâce à sa structure robuste et à ses matériaux de haute qualité, elle garantit une excellente résistance à l’humidité, aux chocs et aux variations climatiques.",
+      "categories": [
+        "Portes",
+        "Portes pour réservation de 900mm"
+      ],
+      "source": {
+        "id": 47614,
+        "sku": "",
+        "permalink": "https://energical.com/fr/produit/porte-vitree-1-1-en-pvc-nid-abeille-830mm-avec-cadre-en-wpc/",
+        "stockStatus": "instock",
+        "categoryName": "Portes",
+        "scrapedAt": "2026-08-18T22:40:21.279Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-47613",
+      "name": "PORTE VITREE 1/1 EN PVC NID ABEILLE 730mm AVEC CADRE EN WPC",
+      "nameAr": "",
+      "brand": "Generic",
+      "barcode": null,
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 27200,
+      "salePrice": 32000,
+      "minStock": 10,
+      "image": "images/quincaillerie/ENERGICAL-47613.webp",
+      "aliases": [
+        "porte vitree 1/1 en pvc nid abeille 730mm avec cadre en wpc"
+      ],
+      "description": "La porte en PVC nid d&rsquo;abeille est conçue pour offrir une combinaison parfaite entre esthétique moderne, durabilité et performance.\nGrâce à sa structure robuste et à ses matériaux de haute qualité, elle garantit une excellente résistance à l’humidité, aux chocs et aux variations climatiques.",
+      "categories": [
+        "Portes",
+        "Portes pour réservation de 800mm"
+      ],
+      "source": {
+        "id": 47613,
+        "sku": "",
+        "permalink": "https://energical.com/fr/produit/porte-vitree-1-1-en-pvc-nid-abeille-730mm-avec-cadre-en-wpc/",
+        "stockStatus": "instock",
+        "categoryName": "Portes",
+        "scrapedAt": "2026-08-18T22:40:21.279Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-47584",
+      "name": "PORTE VITREE 1/1 EN PVC NID ABEILLE 1230mm AVEC CADRE EN WPC",
+      "nameAr": "",
+      "brand": "Generic",
+      "barcode": null,
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 35785,
+      "salePrice": 42100,
+      "minStock": 10,
+      "image": "images/quincaillerie/ENERGICAL-47584.webp",
+      "aliases": [
+        "porte vitree 1/1 en pvc nid abeille 1230mm avec cadre en wpc"
+      ],
+      "description": "La porte en PVC nid d&rsquo;abeille est conçue pour offrir une combinaison parfaite entre esthétique moderne, durabilité et performance.\nGrâce à sa structure robuste et à ses matériaux de haute qualité, elle garantit une excellente résistance à l’humidité, aux chocs et aux variations climatiques.",
+      "categories": [
+        "Portes",
+        "Portes pour réservation de 1300mm"
+      ],
+      "source": {
+        "id": 47584,
+        "sku": "",
+        "permalink": "https://energical.com/fr/produit/porte-vitree-1-1-en-pvc-nid-abeille-1230mm-avec-cadre-en-wpc/",
+        "stockStatus": "instock",
+        "categoryName": "Portes",
+        "scrapedAt": "2026-08-18T22:40:21.279Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-47583",
+      "name": "PORTE VITREE 1/1 EN PVC NID ABEILLE 1130mm AVEC CADRE EN WPC",
+      "nameAr": "",
+      "brand": "Generic",
+      "barcode": null,
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 35785,
+      "salePrice": 42100,
+      "minStock": 10,
+      "image": "images/quincaillerie/ENERGICAL-47583.webp",
+      "aliases": [
+        "porte vitree 1/1 en pvc nid abeille 1130mm avec cadre en wpc"
+      ],
+      "description": "La porte en PVC nid d&rsquo;abeille est conçue pour offrir une combinaison parfaite entre esthétique moderne, durabilité et performance.\nGrâce à sa structure robuste et à ses matériaux de haute qualité, elle garantit une excellente résistance à l’humidité, aux chocs et aux variations climatiques.",
+      "categories": [
+        "Portes",
+        "Portes pour réservation de 1200mm"
+      ],
+      "source": {
+        "id": 47583,
+        "sku": "",
+        "permalink": "https://energical.com/fr/produit/porte-vitree-1-1-en-pvc-nid-abeille-1130mm-avec-cadre-en-wpc/",
+        "stockStatus": "instock",
+        "categoryName": "Portes",
+        "scrapedAt": "2026-08-18T22:40:21.279Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-47553",
+      "name": "PORTE PLEINE EN PVC NID ABEILLE 830mm AVEC CADRE EN WPC",
+      "nameAr": "",
+      "brand": "Generic",
+      "barcode": null,
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 23205,
+      "salePrice": 27300,
+      "minStock": 10,
+      "image": "images/quincaillerie/ENERGICAL-47553.webp",
+      "aliases": [
+        "porte pleine en pvc nid abeille 830mm avec cadre en wpc"
+      ],
+      "description": "La porte en PVC nid d&rsquo;abeille est conçue pour offrir une combinaison parfaite entre esthétique moderne, durabilité et performance.\nGrâce à sa structure robuste et à ses matériaux de haute qualité, elle garantit une excellente résistance à l’humidité, aux chocs et aux variations climatiques.",
+      "categories": [
+        "Portes",
+        "Portes pour réservation de 900mm"
+      ],
+      "source": {
+        "id": 47553,
+        "sku": "",
+        "permalink": "https://energical.com/fr/produit/porte-pleine-en-pvc-nid-abeille-830mm-avec-cadre-en-wpc/",
+        "stockStatus": "instock",
+        "categoryName": "Portes",
+        "scrapedAt": "2026-08-18T22:40:21.279Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-47524",
+      "name": "PORTE PLEINE EN PVC NID ABEILLE 730mm AVEC CADRE EN WPC",
+      "nameAr": "",
+      "brand": "Generic",
+      "barcode": null,
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 23205,
+      "salePrice": 27300,
+      "minStock": 10,
+      "image": "images/quincaillerie/ENERGICAL-47524.webp",
+      "aliases": [
+        "porte pleine en pvc nid abeille 730mm avec cadre en wpc"
+      ],
+      "description": "La porte en PVC nid d&rsquo;abeille est conçue pour offrir une combinaison parfaite entre esthétique moderne, durabilité et performance.\nGrâce à sa structure robuste et à ses matériaux de haute qualité, elle garantit une excellente résistance à l’humidité, aux chocs et aux variations climatiques.",
+      "categories": [
+        "Portes",
+        "Portes pour réservation de 800mm"
+      ],
+      "source": {
+        "id": 47524,
+        "sku": "",
+        "permalink": "https://energical.com/fr/produit/porte-pleine-en-pvc-nid-abeille-730mm-avec-cadre-en-wpc/",
+        "stockStatus": "instock",
+        "categoryName": "Portes",
+        "scrapedAt": "2026-08-18T22:40:21.279Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-47523",
+      "name": "PORTE PLEINE EN PVC NID ABEILLE 1230mm AVEC CADRE EN WPC",
+      "nameAr": "",
+      "brand": "Generic",
+      "barcode": null,
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 30855,
+      "salePrice": 36300,
+      "minStock": 10,
+      "image": "images/quincaillerie/ENERGICAL-47523.webp",
+      "aliases": [
+        "porte pleine en pvc nid abeille 1230mm avec cadre en wpc"
+      ],
+      "description": "La porte en PVC nid d&rsquo;abeille est conçue pour offrir une combinaison parfaite entre esthétique moderne, durabilité et performance.\nGrâce à sa structure robuste et à ses matériaux de haute qualité, elle garantit une excellente résistance à l’humidité, aux chocs et aux variations climatiques.",
+      "categories": [
+        "Portes",
+        "Portes pour réservation de 1300mm"
+      ],
+      "source": {
+        "id": 47523,
+        "sku": "",
+        "permalink": "https://energical.com/fr/produit/porte-pleine-en-pvc-nid-abeille-1230mm-avec-cadre-en-wpc/",
+        "stockStatus": "instock",
+        "categoryName": "Portes",
+        "scrapedAt": "2026-08-18T22:40:21.279Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-47493",
+      "name": "PORTE PLEINE EN PVC NID ABEILLE 1130mm AVEC CADRE EN WPC",
+      "nameAr": "",
+      "brand": "Generic",
+      "barcode": null,
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 30855,
+      "salePrice": 36300,
+      "minStock": 10,
+      "image": "images/quincaillerie/ENERGICAL-47493.webp",
+      "aliases": [
+        "porte pleine en pvc nid abeille 1130mm avec cadre en wpc"
+      ],
+      "description": "La porte en PVC nid d&rsquo;abeille est conçue pour offrir une combinaison parfaite entre esthétique moderne, durabilité et performance.\nGrâce à sa structure robuste et à ses matériaux de haute qualité, elle garantit une excellente résistance à l’humidité, aux chocs et aux variations climatiques.",
+      "categories": [
+        "Portes",
+        "Portes pour réservation de 1200mm"
+      ],
+      "source": {
+        "id": 47493,
+        "sku": "",
+        "permalink": "https://energical.com/fr/produit/porte-pleine-en-pvc-nid-abeille-1130mm-avec-cadre-en-wpc/",
+        "stockStatus": "instock",
+        "categoryName": "Portes",
+        "scrapedAt": "2026-08-18T22:40:21.279Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-47487",
+      "name": "PORTE  PLEINE EN PVC NID ABEILLE 900mm AVEC CADRE EN WPC",
+      "nameAr": "",
+      "brand": "Generic",
+      "barcode": null,
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 24225,
+      "salePrice": 28500,
+      "minStock": 10,
+      "image": "images/quincaillerie/ENERGICAL-47487.webp",
+      "aliases": [
+        "porte  pleine en pvc nid abeille 900mm avec cadre en wpc"
+      ],
+      "description": "La porte en PVC nid d&rsquo;abeille est conçue pour offrir une combinaison parfaite entre esthétique moderne, durabilité et performance.\nGrâce à sa structure robuste et à ses matériaux de haute qualité, elle garantit une excellente résistance à l’humidité, aux chocs et aux variations climatiques.",
+      "categories": [
+        "Portes",
+        "Portes pour réservation de 1000mm"
+      ],
+      "source": {
+        "id": 47487,
+        "sku": "",
+        "permalink": "https://energical.com/fr/produit/porte-pleine-en-pvc-nid-abeille-900mm-avec-cadre-en-wpc/",
+        "stockStatus": "instock",
+        "categoryName": "Portes",
+        "scrapedAt": "2026-08-18T22:40:21.279Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-45987",
+      "name": "Serrure de porte",
+      "nameAr": "",
+      "brand": "Generic",
+      "barcode": null,
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 723,
+      "salePrice": 850,
+      "minStock": 10,
+      "image": "images/quincaillerie/ENERGICAL-45987.webp",
+      "aliases": [
+        "serrure de porte"
+      ],
+      "description": "Serrure de porte robuste et fiable, adaptée aux portes intérieures et extérieures.Disponible en trois modèles selon votre besoin de sécurité : à clé, à condamnation ou à canon.Fabrication solide garantissant durabilité et sécurité optimale.",
+      "categories": [
+        "Accessoires Portes"
+      ],
+      "source": {
+        "id": 45987,
+        "sku": "",
+        "permalink": "https://energical.com/fr/produit/serrure-de-porte/",
+        "stockStatus": "instock",
+        "categoryName": "Accessoires Portes",
+        "scrapedAt": "2026-08-18T22:40:21.279Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-35950",
+      "name": "Poignée de Porte Intérieur Zafina Dorée à Canon",
+      "nameAr": "",
+      "brand": "Generic",
+      "barcode": null,
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 1445,
+      "salePrice": 1700,
+      "minStock": 10,
+      "image": "images/quincaillerie/ENERGICAL-35950.webp",
+      "aliases": [
+        "poignée de porte intérieur zafina dorée à canon"
+      ],
+      "description": "",
+      "categories": [
+        "Accessoires Portes",
+        "Portes"
+      ],
+      "source": {
+        "id": 35950,
+        "sku": "",
+        "permalink": "https://energical.com/fr/produit/poignee-de-porte-interieur-zafina-doree-a-canon/",
+        "stockStatus": "instock",
+        "categoryName": "Accessoires Portes",
+        "scrapedAt": "2026-08-18T22:40:23.156Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-35949",
+      "name": "Poignée de Porte Intérieur Zafina Dorée à Condamnation",
+      "nameAr": "",
+      "brand": "Generic",
+      "barcode": null,
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 1445,
+      "salePrice": 1700,
+      "minStock": 10,
+      "image": "images/quincaillerie/ENERGICAL-35949.webp",
+      "aliases": [
+        "poignée de porte intérieur zafina dorée à condamnation"
+      ],
+      "description": "",
+      "categories": [
+        "Accessoires Portes",
+        "Portes"
+      ],
+      "source": {
+        "id": 35949,
+        "sku": "",
+        "permalink": "https://energical.com/fr/produit/poignee-de-porte-interieur-zafina-doree-a-condamnation/",
+        "stockStatus": "instock",
+        "categoryName": "Accessoires Portes",
+        "scrapedAt": "2026-08-18T22:40:23.156Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-35948",
+      "name": "Poignée de Porte Intérieur Zafina Dorée à Clé",
+      "nameAr": "",
+      "brand": "Generic",
+      "barcode": null,
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 1445,
+      "salePrice": 1700,
+      "minStock": 10,
+      "image": "images/quincaillerie/ENERGICAL-35948.webp",
+      "aliases": [
+        "poignée de porte intérieur zafina dorée à clé"
+      ],
+      "description": "",
+      "categories": [
+        "Accessoires Portes",
+        "Portes"
+      ],
+      "source": {
+        "id": 35948,
+        "sku": "",
+        "permalink": "https://energical.com/fr/produit/poignee-de-porte-interieur-zafina-doree-a-cle/",
+        "stockStatus": "instock",
+        "categoryName": "Accessoires Portes",
+        "scrapedAt": "2026-08-18T22:40:23.156Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-35947",
+      "name": "Poignée de Porte Intérieur Zafina Gris à Canon",
+      "nameAr": "",
+      "brand": "Generic",
+      "barcode": null,
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 850,
+      "salePrice": 1000,
+      "minStock": 10,
+      "image": "images/quincaillerie/ENERGICAL-35947.webp",
+      "aliases": [
+        "poignée de porte intérieur zafina gris à canon"
+      ],
+      "description": "",
+      "categories": [
+        "Accessoires Portes",
+        "Portes"
+      ],
+      "source": {
+        "id": 35947,
+        "sku": "",
+        "permalink": "https://energical.com/fr/produit/poignee-de-porte-interieur-zafina-gris-a-canon/",
+        "stockStatus": "instock",
+        "categoryName": "Accessoires Portes",
+        "scrapedAt": "2026-08-18T22:40:23.156Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-35946",
+      "name": "Poignée de Porte Intérieur Zafina Gris à Condamnation",
+      "nameAr": "",
+      "brand": "Generic",
+      "barcode": null,
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 850,
+      "salePrice": 1000,
+      "minStock": 10,
+      "image": "images/quincaillerie/ENERGICAL-35946.webp",
+      "aliases": [
+        "poignée de porte intérieur zafina gris à condamnation"
+      ],
+      "description": "",
+      "categories": [
+        "Accessoires Portes",
+        "Portes"
+      ],
+      "source": {
+        "id": 35946,
+        "sku": "",
+        "permalink": "https://energical.com/fr/produit/poignee-de-porte-interieur-zafina-gris-a-condamnation/",
+        "stockStatus": "instock",
+        "categoryName": "Accessoires Portes",
+        "scrapedAt": "2026-08-18T22:40:23.156Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-35945",
+      "name": "Poignée de Porte Intérieur Zafina Gris à Clé",
+      "nameAr": "",
+      "brand": "Generic",
+      "barcode": null,
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 850,
+      "salePrice": 1000,
+      "minStock": 10,
+      "image": "images/quincaillerie/ENERGICAL-35945.webp",
+      "aliases": [
+        "poignée de porte intérieur zafina gris à clé"
+      ],
+      "description": "",
+      "categories": [
+        "Accessoires Portes",
+        "Portes"
+      ],
+      "source": {
+        "id": 35945,
+        "sku": "",
+        "permalink": "https://energical.com/fr/produit/poignee-de-porte-interieur-zafina-gris-a-cle/",
+        "stockStatus": "instock",
+        "categoryName": "Accessoires Portes",
+        "scrapedAt": "2026-08-18T22:40:23.156Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-35944",
+      "name": "Poignée de Porte Intérieur Alpha à Canon",
+      "nameAr": "",
+      "brand": "Generic",
+      "barcode": null,
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 1105,
+      "salePrice": 1300,
+      "minStock": 10,
+      "image": "images/quincaillerie/ENERGICAL-35944.webp",
+      "aliases": [
+        "poignée de porte intérieur alpha à canon"
+      ],
+      "description": "",
+      "categories": [
+        "Accessoires Portes",
+        "Portes"
+      ],
+      "source": {
+        "id": 35944,
+        "sku": "",
+        "permalink": "https://energical.com/fr/produit/poignee-de-porte-interieur-alpha-a-canon/",
+        "stockStatus": "instock",
+        "categoryName": "Accessoires Portes",
+        "scrapedAt": "2026-08-18T22:40:23.156Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-35943",
+      "name": "Poignée de Porte Intérieur Alpha à Condamnation",
+      "nameAr": "",
+      "brand": "Generic",
+      "barcode": null,
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 1105,
+      "salePrice": 1300,
+      "minStock": 10,
+      "image": "images/quincaillerie/ENERGICAL-35943.webp",
+      "aliases": [
+        "poignée de porte intérieur alpha à condamnation"
+      ],
+      "description": "",
+      "categories": [
+        "Accessoires Portes",
+        "Portes"
+      ],
+      "source": {
+        "id": 35943,
+        "sku": "",
+        "permalink": "https://energical.com/fr/produit/poignee-de-porte-interieur-alpha-a-condamnation/",
+        "stockStatus": "instock",
+        "categoryName": "Accessoires Portes",
+        "scrapedAt": "2026-08-18T22:40:23.156Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-35942",
+      "name": "Poignée de Porte Intérieur Alpha à Clé",
+      "nameAr": "",
+      "brand": "Generic",
+      "barcode": null,
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 1105,
+      "salePrice": 1300,
+      "minStock": 10,
+      "image": "images/quincaillerie/ENERGICAL-35942.webp",
+      "aliases": [
+        "poignée de porte intérieur alpha à clé"
+      ],
+      "description": "",
+      "categories": [
+        "Accessoires Portes",
+        "Portes"
+      ],
+      "source": {
+        "id": 35942,
+        "sku": "",
+        "permalink": "https://energical.com/fr/produit/poignee-de-porte-interieur-alpha-a-cle/",
+        "stockStatus": "instock",
+        "categoryName": "Accessoires Portes",
+        "scrapedAt": "2026-08-18T22:40:23.156Z"
+      }
     }
   ]
 }

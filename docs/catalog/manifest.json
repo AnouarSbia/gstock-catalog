@@ -1,5 +1,5 @@
 {
-  "version": "1.0.0",
+  "version": "1.1.0",
   "lastUpdated": "2026-08-18",
   "baseUrl": "https://anouarsbia.github.io/gstock-catalog",
   "categories": [
@@ -60,6 +60,24 @@
       ]
     },
     {
+      "code": "bois-derives",
+      "name": "Bois & Dérivés",
+      "nameAr": "الخشب ومشتقاته",
+      "icon": "🪚",
+      "productCount": 18,
+      "file": "catalog/bois-derives.json",
+      "brands": [
+        {
+          "name": "Generic",
+          "count": 13
+        },
+        {
+          "name": "Knauf",
+          "count": 5
+        }
+      ]
+    },
+    {
       "code": "outillage",
       "name": "Outillage",
       "nameAr": "العُدد",
@@ -82,13 +100,31 @@
       ]
     },
     {
+      "code": "quincaillerie",
+      "name": "Quincaillerie",
+      "nameAr": "الحدادة",
+      "icon": "🔨",
+      "productCount": 74,
+      "file": "catalog/quincaillerie.json",
+      "brands": [
+        {
+          "name": "Generic",
+          "count": 74
+        }
+      ]
+    },
+    {
       "code": "plomberie",
       "name": "Plomberie",
       "nameAr": "السباكة",
       "icon": "🚿",
-      "productCount": 35,
+      "productCount": 94,
       "file": "catalog/plomberie.json",
       "brands": [
+        {
+          "name": "Generic",
+          "count": 59
+        },
         {
           "name": "Selem",
           "count": 15
@@ -116,24 +152,106 @@
       ]
     },
     {
+      "code": "sanitaire",
+      "name": "Sanitaire",
+      "nameAr": "الأدوات الصحية",
+      "icon": "🚽",
+      "productCount": 116,
+      "file": "catalog/sanitaire.json",
+      "brands": [
+        {
+          "name": "Generic",
+          "count": 51
+        },
+        {
+          "name": "Fly",
+          "count": 21
+        },
+        {
+          "name": "Amen",
+          "count": 15
+        },
+        {
+          "name": "Série 07",
+          "count": 8
+        },
+        {
+          "name": "Razy",
+          "count": 6
+        },
+        {
+          "name": "Tulip",
+          "count": 5
+        },
+        {
+          "name": "Confort",
+          "count": 5
+        },
+        {
+          "name": "AURA",
+          "count": 1
+        },
+        {
+          "name": "SILK",
+          "count": 1
+        },
+        {
+          "name": "Disa",
+          "count": 1
+        },
+        {
+          "name": "Oxalis",
+          "count": 1
+        },
+        {
+          "name": "Acacia",
+          "count": 1
+        }
+      ]
+    },
+    {
       "code": "electricite",
       "name": "Électricité",
       "nameAr": "الكهرباء",
       "icon": "⚡",
-      "productCount": 45,
+      "productCount": 293,
       "file": "catalog/electricite.json",
       "brands": [
         {
+          "name": "Generic",
+          "count": 140
+        },
+        {
+          "name": "DIAA",
+          "count": 63
+        },
+        {
+          "name": "NOOR",
+          "count": 23
+        },
+        {
           "name": "Schneider",
           "count": 22
+        },
+        {
+          "name": "Adenium",
+          "count": 11
         },
         {
           "name": "Sonelgaz",
           "count": 7
         },
         {
+          "name": "Sabah",
+          "count": 7
+        },
+        {
           "name": "Geba",
           "count": 6
+        },
+        {
+          "name": "NIR",
+          "count": 5
         },
         {
           "name": "Philips",
@@ -149,10 +267,6 @@
         },
         {
           "name": "WAGO",
-          "count": 1
-        },
-        {
-          "name": "Generic",
           "count": 1
         }
       ]
@@ -200,62 +314,44 @@
       ]
     },
     {
-      "code": "quincaillerie",
-      "name": "Quincaillerie",
-      "nameAr": "الحدادة",
-      "icon": "🔨",
-      "productCount": 51,
-      "file": "catalog/quincaillerie.json",
+      "code": "chauffage",
+      "name": "Chauffage",
+      "nameAr": "التدفئة",
+      "icon": "🔥",
+      "productCount": 121,
+      "file": "catalog/chauffage.json",
       "brands": [
         {
           "name": "Generic",
-          "count": 51
+          "count": 121
         }
       ]
     },
     {
-      "code": "bois-derives",
-      "name": "Bois & Dérivés",
-      "nameAr": "الخشب ومشتقاته",
-      "icon": "🪚",
-      "productCount": 18,
-      "file": "catalog/bois-derives.json",
+      "code": "securite",
+      "name": "Sécurité",
+      "nameAr": "الأمان",
+      "icon": "🛡️",
+      "productCount": 26,
+      "file": "catalog/securite.json",
       "brands": [
         {
           "name": "Generic",
-          "count": 13
-        },
-        {
-          "name": "Knauf",
-          "count": 5
+          "count": 26
         }
       ]
     },
     {
-      "code": "sanitaire",
-      "name": "Sanitaire",
-      "nameAr": "الأدوات الصحية",
-      "icon": "🚽",
-      "productCount": 20,
-      "file": "catalog/sanitaire.json",
+      "code": "electromenager",
+      "name": "Électroménager",
+      "nameAr": "الأجهزة المنزلية",
+      "icon": "🏠",
+      "productCount": 2,
+      "file": "catalog/electromenager.json",
       "brands": [
         {
           "name": "Generic",
-          "count": 20
-        }
-      ]
-    },
-    {
-      "code": "energical",
-      "name": "Energical",
-      "nameAr": "إنرجيكال",
-      "icon": "🔌",
-      "productCount": 575,
-      "file": "catalog/energical.json",
-      "brands": [
-        {
-          "name": "Energical",
-          "count": 575
+          "count": 2
         }
       ]
     }
@@ -386,6 +482,102 @@
       "name": "Energical",
       "nameAr": "إنرجيكال",
       "country": "Algérie"
+    },
+    {
+      "code": "diaa",
+      "name": "DIAA",
+      "nameAr": "دياا",
+      "country": "International"
+    },
+    {
+      "code": "noor",
+      "name": "NOOR",
+      "nameAr": "نور",
+      "country": "International"
+    },
+    {
+      "code": "adenium",
+      "name": "Adenium",
+      "nameAr": "أدينيوم",
+      "country": "International"
+    },
+    {
+      "code": "nir",
+      "name": "NIR",
+      "nameAr": "نير",
+      "country": "International"
+    },
+    {
+      "code": "sabah",
+      "name": "Sabah",
+      "nameAr": "صباح",
+      "country": "International"
+    },
+    {
+      "code": "fly",
+      "name": "Fly",
+      "nameAr": "فلاي",
+      "country": "International"
+    },
+    {
+      "code": "aura",
+      "name": "AURA",
+      "nameAr": "أورا",
+      "country": "International"
+    },
+    {
+      "code": "silk",
+      "name": "SILK",
+      "nameAr": "سيلك",
+      "country": "International"
+    },
+    {
+      "code": "razy",
+      "name": "Razy",
+      "nameAr": "رازي",
+      "country": "International"
+    },
+    {
+      "code": "amen",
+      "name": "Amen",
+      "nameAr": "آمن",
+      "country": "International"
+    },
+    {
+      "code": "serie-07",
+      "name": "Série 07",
+      "nameAr": "سيري 07",
+      "country": "International"
+    },
+    {
+      "code": "disa",
+      "name": "Disa",
+      "nameAr": "ديسا",
+      "country": "International"
+    },
+    {
+      "code": "oxalis",
+      "name": "Oxalis",
+      "nameAr": "أوكساليس",
+      "country": "International"
+    },
+    {
+      "code": "acacia",
+      "name": "Acacia",
+      "nameAr": "أكاسيا",
+      "country": "International"
+    },
+    {
+      "code": "tulip",
+      "name": "Tulip",
+      "nameAr": "توليب",
+      "country": "International"
+    },
+    {
+      "code": "confort",
+      "name": "Confort",
+      "nameAr": "كونفورت",
+      "country": "International"
     }
   ]
 }

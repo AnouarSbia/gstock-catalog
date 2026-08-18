@@ -1,389 +1,3286 @@
 {
-    "category":  {
-                     "code":  "sanitaire",
-                     "name":  "Sanitaire",
-                     "nameAr":  "الأدوات الصحية"
-                 },
-    "products":  [
-                     {
-                         "code":  "SAN-WC-TURC",
-                         "name":  "WC Turc Complet",
-                         "nameAr":  "مرحاض تركي كامل",
-                         "brand":  null,
-                         "barcode":  null,
-                         "unit":  "PCE",
-                         "taxRate":  0.19,
-                         "costPrice":  4500,
-                         "salePrice":  6500,
-                         "minStock":  5,
-                         "image":  "images/sanitaire/wc-turc.jpg",
-                         "aliases":  [
-                                         "wc turc",
-                                         "مرحاض",
-                                         "turkish toilet"
-                                     ],
-                         "description":  "Cuvette WC turc avec siphon"
-                     },
-                     {
-                         "code":  "SAN-WC-TURC-CUV",
-                         "name":  "WC Turc Cuvette Seule",
-                         "nameAr":  "مرحاض تركي قاعدة فقط",
-                         "brand":  null,
-                         "barcode":  null,
-                         "unit":  "PCE",
-                         "taxRate":  0.19,
-                         "costPrice":  2800,
-                         "salePrice":  4000,
-                         "minStock":  5,
-                         "image":  "images/sanitaire/wc-turc-cuv.jpg",
-                         "aliases":  [
-                                         "cuvette turc",
-                                         "wc turc cuvette",
-                                         "قاعدة تركي"
-                                     ],
-                         "description":  "Cuvette WC turc sans siphon"
-                     },
-                     {
-                         "code":  "SAN-WC-SUSP-CUV",
-                         "name":  "WC Suspendu Cuvette",
-                         "nameAr":  "مرحاض معلق قاعدة",
-                         "brand":  null,
-                         "barcode":  null,
-                         "unit":  "PCE",
-                         "taxRate":  0.19,
-                         "costPrice":  8500,
-                         "salePrice":  12000,
-                         "minStock":  3,
-                         "image":  "images/sanitaire/wc-susp-cuv.jpg",
-                         "aliases":  [
-                                         "wc suspendu",
-                                         "cuvette suspendu",
-                                         "مرحاض معلق"
-                                     ],
-                         "description":  "Cuvette WC suspendu céramique blanc"
-                     },
-                     {
-                         "code":  "SAN-WC-BATI",
-                         "name":  "Bâti Support WC Suspendu",
-                         "nameAr":  "هيكل دعم مرحاض معلق",
-                         "brand":  null,
-                         "barcode":  null,
-                         "unit":  "PCE",
-                         "taxRate":  0.19,
-                         "costPrice":  12000,
-                         "salePrice":  17000,
-                         "minStock":  3,
-                         "image":  "images/sanitaire/wc-bati.jpg",
-                         "aliases":  [
-                                         "bâti support",
-                                         "bâti technique",
-                                         "هيكل دعم"
-                                     ],
-                         "description":  "Bâti support métallique pour WC suspendu"
-                     },
-                     {
-                         "code":  "SAN-ABAT-SC",
-                         "name":  "Abattant WC Soft-Close",
-                         "nameAr":  "مقعد مرحاض فرامل",
-                         "brand":  null,
-                         "barcode":  null,
-                         "unit":  "PCE",
-                         "taxRate":  0.19,
-                         "costPrice":  1800,
-                         "salePrice":  2800,
-                         "minStock":  8,
-                         "image":  "images/sanitaire/abat-sc.jpg",
-                         "aliases":  [
-                                         "abattant soft-close",
-                                         "abattant frein",
-                                         "مقعد فرامل"
-                                     ],
-                         "description":  "Abattant WC soft-close avec descente amortie"
-                     },
-                     {
-                         "code":  "SAN-LAV-60",
-                         "name":  "Lavabo Céramique 60cm",
-                         "nameAr":  "مغسلة سيراميك 60سم",
-                         "brand":  null,
-                         "barcode":  null,
-                         "unit":  "PCE",
-                         "taxRate":  0.19,
-                         "costPrice":  3500,
-                         "salePrice":  5200,
-                         "minStock":  5,
-                         "image":  "images/sanitaire/lav-60.jpg",
-                         "aliases":  [
-                                         "lavabo 60",
-                                         "vasque 60",
-                                         "مغسلة 60"
-                                     ],
-                         "description":  "Lavabo céramique blanc à poser, largeur 60cm"
-                     },
-                     {
-                         "code":  "SAN-LAV-COL",
-                         "name":  "Lavabo avec Colonne",
-                         "nameAr":  "مغسلة مع عمود",
-                         "brand":  null,
-                         "barcode":  null,
-                         "unit":  "PCE",
-                         "taxRate":  0.19,
-                         "costPrice":  5500,
-                         "salePrice":  7800,
-                         "minStock":  4,
-                         "image":  "images/sanitaire/lav-col.jpg",
-                         "aliases":  [
-                                         "lavabo colonne",
-                                         "lavabo sur pied",
-                                         "مغسلة بعمود"
-                                     ],
-                         "description":  "Lavabo céramique avec colonne, 55cm"
-                     },
-                     {
-                         "code":  "SAN-EVIER-1B",
-                         "name":  "Évier Inox 1 Bac",
-                         "nameAr":  "حوض ستانلس 1 حوض",
-                         "brand":  null,
-                         "barcode":  null,
-                         "unit":  "PCE",
-                         "taxRate":  0.19,
-                         "costPrice":  6500,
-                         "salePrice":  9200,
-                         "minStock":  4,
-                         "image":  "images/sanitaire/evier-1b.jpg",
-                         "aliases":  [
-                                         "évier inox 1 bac",
-                                         "évier cuisine",
-                                         "حوض ستانلس"
-                                     ],
-                         "description":  "Évier cuisine inox 1 bac avec égouttoir"
-                     },
-                     {
-                         "code":  "SAN-EVIER-2B",
-                         "name":  "Évier Inox 2 Bacs",
-                         "nameAr":  "حوض ستانلس 2 حوض",
-                         "brand":  null,
-                         "barcode":  null,
-                         "unit":  "PCE",
-                         "taxRate":  0.19,
-                         "costPrice":  9500,
-                         "salePrice":  13500,
-                         "minStock":  3,
-                         "image":  "images/sanitaire/evier-2b.jpg",
-                         "aliases":  [
-                                         "évier inox 2 bacs",
-                                         "évier double",
-                                         "حوض مزدوج"
-                                     ],
-                         "description":  "Évier cuisine inox 2 bacs avec égouttoir"
-                     },
-                     {
-                         "code":  "SAN-RECEV-80",
-                         "name":  "Receveur de Douche 80x80cm",
-                         "nameAr":  "صحن دش 80x80سم",
-                         "brand":  null,
-                         "barcode":  null,
-                         "unit":  "PCE",
-                         "taxRate":  0.19,
-                         "costPrice":  4500,
-                         "salePrice":  6500,
-                         "minStock":  4,
-                         "image":  "images/sanitaire/recev-80.jpg",
-                         "aliases":  [
-                                         "receveur 80x80",
-                                         "bac à douche",
-                                         "صحن دش"
-                                     ],
-                         "description":  "Receveur de douche céramique 80x80cm"
-                     },
-                     {
-                         "code":  "SAN-SIPH-LAV",
-                         "name":  "Siphon Lavabo",
-                         "nameAr":  "سيفون مغسلة",
-                         "brand":  null,
-                         "barcode":  null,
-                         "unit":  "PCE",
-                         "taxRate":  0.19,
-                         "costPrice":  350,
-                         "salePrice":  550,
-                         "minStock":  15,
-                         "image":  "images/sanitaire/siph-lav.jpg",
-                         "aliases":  [
-                                         "siphon lavabo",
-                                         "siphon bouteille",
-                                         "سيفون"
-                                     ],
-                         "description":  "Siphon bouteille pour lavabo, évacuation Ø32"
-                     },
-                     {
-                         "code":  "SAN-SIPH-DOU",
-                         "name":  "Siphon Douche",
-                         "nameAr":  "سيفون دش",
-                         "brand":  null,
-                         "barcode":  null,
-                         "unit":  "PCE",
-                         "taxRate":  0.19,
-                         "costPrice":  450,
-                         "salePrice":  680,
-                         "minStock":  12,
-                         "image":  "images/sanitaire/siph-dou.jpg",
-                         "aliases":  [
-                                         "siphon douche",
-                                         "siphon sol",
-                                         "سيفون أرضي"
-                                     ],
-                         "description":  "Siphon de sol pour douche à l\u0027italienne, Ø50"
-                     },
-                     {
-                         "code":  "SAN-MIT-LAV",
-                         "name":  "Mitigeur Lavabo",
-                         "nameAr":  "ميكسير مغسلة",
-                         "brand":  null,
-                         "barcode":  null,
-                         "unit":  "PCE",
-                         "taxRate":  0.19,
-                         "costPrice":  1800,
-                         "salePrice":  2800,
-                         "minStock":  8,
-                         "image":  "images/sanitaire/mit-lav.jpg",
-                         "aliases":  [
-                                         "mitigeur lavabo",
-                                         "mixer lavabo",
-                                         "ميكسير"
-                                     ],
-                         "description":  "Mitigeur monocommande pour lavabo, chromé"
-                     },
-                     {
-                         "code":  "SAN-MIT-DOU",
-                         "name":  "Mitigeur Douche",
-                         "nameAr":  "ميكسير دش",
-                         "brand":  null,
-                         "barcode":  null,
-                         "unit":  "PCE",
-                         "taxRate":  0.19,
-                         "costPrice":  2200,
-                         "salePrice":  3300,
-                         "minStock":  8,
-                         "image":  "images/sanitaire/mit-dou.jpg",
-                         "aliases":  [
-                                         "mitigeur douche",
-                                         "mixer douche",
-                                         "ميكسير دش"
-                                     ],
-                         "description":  "Mitigeur monocommande pour douche, chromé"
-                     },
-                     {
-                         "code":  "SAN-FLEX-15",
-                         "name":  "Flexible Douche 1.5m",
-                         "nameAr":  "خرطوم دش 1.5م",
-                         "brand":  null,
-                         "barcode":  null,
-                         "unit":  "PCE",
-                         "taxRate":  0.19,
-                         "costPrice":  280,
-                         "salePrice":  450,
-                         "minStock":  20,
-                         "image":  "images/sanitaire/flex-15.jpg",
-                         "aliases":  [
-                                         "flexible douche",
-                                         "tuyau douche",
-                                         "خرطوم دش"
-                                     ],
-                         "description":  "Flexible de douche inox 1.5m avec écrous"
-                     },
-                     {
-                         "code":  "SAN-POMME",
-                         "name":  "Pomme de Douche",
-                         "nameAr":  "رأس دش",
-                         "brand":  null,
-                         "barcode":  null,
-                         "unit":  "PCE",
-                         "taxRate":  0.19,
-                         "costPrice":  550,
-                         "salePrice":  850,
-                         "minStock":  12,
-                         "image":  "images/sanitaire/pomme.jpg",
-                         "aliases":  [
-                                         "pomme douche",
-                                         "tête douche",
-                                         "رأس دش"
-                                     ],
-                         "description":  "Pomme de douche ronde chromée Ø20cm"
-                     },
-                     {
-                         "code":  "SAN-COL-DOU",
-                         "name":  "Colonne de Douche",
-                         "nameAr":  "عمود دش",
-                         "brand":  null,
-                         "barcode":  null,
-                         "unit":  "SET",
-                         "taxRate":  0.19,
-                         "costPrice":  4500,
-                         "salePrice":  6500,
-                         "minStock":  4,
-                         "image":  "images/sanitaire/col-dou.jpg",
-                         "aliases":  [
-                                         "colonne douche",
-                                         "barre douche",
-                                         "عمود دش"
-                                     ],
-                         "description":  "Colonne de douche avec mitigeur et pomme intégrée"
-                     },
-                     {
-                         "code":  "SAN-RES-WC-SUS",
-                         "name":  "Réservoir WC Suspendu",
-                         "nameAr":  "خزان مرحاض معلق",
-                         "brand":  null,
-                         "barcode":  null,
-                         "unit":  "PCE",
-                         "taxRate":  0.19,
-                         "costPrice":  5500,
-                         "salePrice":  7800,
-                         "minStock":  3,
-                         "image":  "images/sanitaire/res-wc-sus.jpg",
-                         "aliases":  [
-                                         "réservoir suspendu",
-                                         "chasse suspendu",
-                                         "خزان معلق"
-                                     ],
-                         "description":  "Réservoir WC encastré pour bâti support"
-                     },
-                     {
-                         "code":  "SAN-MECH-CHASSE",
-                         "name":  "Mécanisme Chasse d\u0027Eau",
-                         "nameAr":  "آلية سحب الماء",
-                         "brand":  null,
-                         "barcode":  null,
-                         "unit":  "PCE",
-                         "taxRate":  0.19,
-                         "costPrice":  1200,
-                         "salePrice":  1900,
-                         "minStock":  8,
-                         "image":  "images/sanitaire/mech-chasse.jpg",
-                         "aliases":  [
-                                         "mécanisme chasse",
-                                         "flush mechanism",
-                                         "آلية سحب"
-                                     ],
-                         "description":  "Mécanisme de chasse d\u0027eau double flux pour réservoir"
-                     },
-                     {
-                         "code":  "SAN-MIR-6080",
-                         "name":  "Miroir 60x80cm",
-                         "nameAr":  "مرآة 60x80سم",
-                         "brand":  null,
-                         "barcode":  null,
-                         "unit":  "PCE",
-                         "taxRate":  0.19,
-                         "costPrice":  1500,
-                         "salePrice":  2300,
-                         "minStock":  6,
-                         "image":  "images/sanitaire/mir-6080.jpg",
-                         "aliases":  [
-                                         "miroir 60x80",
-                                         "miroir salle de bain",
-                                         "مرآة"
-                                     ],
-                         "description":  "Miroir de salle de bain 60x80cm avec bords polis"
-                     }
-                 ]
+  "category": {
+    "code": "sanitaire",
+    "name": "Sanitaire",
+    "nameAr": "الأدوات الصحية"
+  },
+  "products": [
+    {
+      "code": "SAN-WC-TURC",
+      "name": "WC Turc Complet",
+      "nameAr": "مرحاض تركي كامل",
+      "brand": null,
+      "barcode": null,
+      "unit": "PCE",
+      "taxRate": 0.19,
+      "costPrice": 4500,
+      "salePrice": 6500,
+      "minStock": 5,
+      "image": "images/sanitaire/wc-turc.jpg",
+      "aliases": [
+        "wc turc",
+        "مرحاض",
+        "turkish toilet"
+      ],
+      "description": "Cuvette WC turc avec siphon"
+    },
+    {
+      "code": "SAN-WC-TURC-CUV",
+      "name": "WC Turc Cuvette Seule",
+      "nameAr": "مرحاض تركي قاعدة فقط",
+      "brand": null,
+      "barcode": null,
+      "unit": "PCE",
+      "taxRate": 0.19,
+      "costPrice": 2800,
+      "salePrice": 4000,
+      "minStock": 5,
+      "image": "images/sanitaire/wc-turc-cuv.jpg",
+      "aliases": [
+        "cuvette turc",
+        "wc turc cuvette",
+        "قاعدة تركي"
+      ],
+      "description": "Cuvette WC turc sans siphon"
+    },
+    {
+      "code": "SAN-WC-SUSP-CUV",
+      "name": "WC Suspendu Cuvette",
+      "nameAr": "مرحاض معلق قاعدة",
+      "brand": null,
+      "barcode": null,
+      "unit": "PCE",
+      "taxRate": 0.19,
+      "costPrice": 8500,
+      "salePrice": 12000,
+      "minStock": 3,
+      "image": "images/sanitaire/wc-susp-cuv.jpg",
+      "aliases": [
+        "wc suspendu",
+        "cuvette suspendu",
+        "مرحاض معلق"
+      ],
+      "description": "Cuvette WC suspendu céramique blanc"
+    },
+    {
+      "code": "SAN-WC-BATI",
+      "name": "Bâti Support WC Suspendu",
+      "nameAr": "هيكل دعم مرحاض معلق",
+      "brand": null,
+      "barcode": null,
+      "unit": "PCE",
+      "taxRate": 0.19,
+      "costPrice": 12000,
+      "salePrice": 17000,
+      "minStock": 3,
+      "image": "images/sanitaire/wc-bati.jpg",
+      "aliases": [
+        "bâti support",
+        "bâti technique",
+        "هيكل دعم"
+      ],
+      "description": "Bâti support métallique pour WC suspendu"
+    },
+    {
+      "code": "SAN-ABAT-SC",
+      "name": "Abattant WC Soft-Close",
+      "nameAr": "مقعد مرحاض فرامل",
+      "brand": null,
+      "barcode": null,
+      "unit": "PCE",
+      "taxRate": 0.19,
+      "costPrice": 1800,
+      "salePrice": 2800,
+      "minStock": 8,
+      "image": "images/sanitaire/abat-sc.jpg",
+      "aliases": [
+        "abattant soft-close",
+        "abattant frein",
+        "مقعد فرامل"
+      ],
+      "description": "Abattant WC soft-close avec descente amortie"
+    },
+    {
+      "code": "SAN-LAV-60",
+      "name": "Lavabo Céramique 60cm",
+      "nameAr": "مغسلة سيراميك 60سم",
+      "brand": null,
+      "barcode": null,
+      "unit": "PCE",
+      "taxRate": 0.19,
+      "costPrice": 3500,
+      "salePrice": 5200,
+      "minStock": 5,
+      "image": "images/sanitaire/lav-60.jpg",
+      "aliases": [
+        "lavabo 60",
+        "vasque 60",
+        "مغسلة 60"
+      ],
+      "description": "Lavabo céramique blanc à poser, largeur 60cm"
+    },
+    {
+      "code": "SAN-LAV-COL",
+      "name": "Lavabo avec Colonne",
+      "nameAr": "مغسلة مع عمود",
+      "brand": null,
+      "barcode": null,
+      "unit": "PCE",
+      "taxRate": 0.19,
+      "costPrice": 5500,
+      "salePrice": 7800,
+      "minStock": 4,
+      "image": "images/sanitaire/lav-col.jpg",
+      "aliases": [
+        "lavabo colonne",
+        "lavabo sur pied",
+        "مغسلة بعمود"
+      ],
+      "description": "Lavabo céramique avec colonne, 55cm"
+    },
+    {
+      "code": "SAN-EVIER-1B",
+      "name": "Évier Inox 1 Bac",
+      "nameAr": "حوض ستانلس 1 حوض",
+      "brand": null,
+      "barcode": null,
+      "unit": "PCE",
+      "taxRate": 0.19,
+      "costPrice": 6500,
+      "salePrice": 9200,
+      "minStock": 4,
+      "image": "images/sanitaire/evier-1b.jpg",
+      "aliases": [
+        "évier inox 1 bac",
+        "évier cuisine",
+        "حوض ستانلس"
+      ],
+      "description": "Évier cuisine inox 1 bac avec égouttoir"
+    },
+    {
+      "code": "SAN-EVIER-2B",
+      "name": "Évier Inox 2 Bacs",
+      "nameAr": "حوض ستانلس 2 حوض",
+      "brand": null,
+      "barcode": null,
+      "unit": "PCE",
+      "taxRate": 0.19,
+      "costPrice": 9500,
+      "salePrice": 13500,
+      "minStock": 3,
+      "image": "images/sanitaire/evier-2b.jpg",
+      "aliases": [
+        "évier inox 2 bacs",
+        "évier double",
+        "حوض مزدوج"
+      ],
+      "description": "Évier cuisine inox 2 bacs avec égouttoir"
+    },
+    {
+      "code": "SAN-RECEV-80",
+      "name": "Receveur de Douche 80x80cm",
+      "nameAr": "صحن دش 80x80سم",
+      "brand": null,
+      "barcode": null,
+      "unit": "PCE",
+      "taxRate": 0.19,
+      "costPrice": 4500,
+      "salePrice": 6500,
+      "minStock": 4,
+      "image": "images/sanitaire/recev-80.jpg",
+      "aliases": [
+        "receveur 80x80",
+        "bac à douche",
+        "صحن دش"
+      ],
+      "description": "Receveur de douche céramique 80x80cm"
+    },
+    {
+      "code": "SAN-SIPH-LAV",
+      "name": "Siphon Lavabo",
+      "nameAr": "سيفون مغسلة",
+      "brand": null,
+      "barcode": null,
+      "unit": "PCE",
+      "taxRate": 0.19,
+      "costPrice": 350,
+      "salePrice": 550,
+      "minStock": 15,
+      "image": "images/sanitaire/siph-lav.jpg",
+      "aliases": [
+        "siphon lavabo",
+        "siphon bouteille",
+        "سيفون"
+      ],
+      "description": "Siphon bouteille pour lavabo, évacuation Ø32"
+    },
+    {
+      "code": "SAN-SIPH-DOU",
+      "name": "Siphon Douche",
+      "nameAr": "سيفون دش",
+      "brand": null,
+      "barcode": null,
+      "unit": "PCE",
+      "taxRate": 0.19,
+      "costPrice": 450,
+      "salePrice": 680,
+      "minStock": 12,
+      "image": "images/sanitaire/siph-dou.jpg",
+      "aliases": [
+        "siphon douche",
+        "siphon sol",
+        "سيفون أرضي"
+      ],
+      "description": "Siphon de sol pour douche à l'italienne, Ø50"
+    },
+    {
+      "code": "SAN-MIT-LAV",
+      "name": "Mitigeur Lavabo",
+      "nameAr": "ميكسير مغسلة",
+      "brand": null,
+      "barcode": null,
+      "unit": "PCE",
+      "taxRate": 0.19,
+      "costPrice": 1800,
+      "salePrice": 2800,
+      "minStock": 8,
+      "image": "images/sanitaire/mit-lav.jpg",
+      "aliases": [
+        "mitigeur lavabo",
+        "mixer lavabo",
+        "ميكسير"
+      ],
+      "description": "Mitigeur monocommande pour lavabo, chromé"
+    },
+    {
+      "code": "SAN-MIT-DOU",
+      "name": "Mitigeur Douche",
+      "nameAr": "ميكسير دش",
+      "brand": null,
+      "barcode": null,
+      "unit": "PCE",
+      "taxRate": 0.19,
+      "costPrice": 2200,
+      "salePrice": 3300,
+      "minStock": 8,
+      "image": "images/sanitaire/mit-dou.jpg",
+      "aliases": [
+        "mitigeur douche",
+        "mixer douche",
+        "ميكسير دش"
+      ],
+      "description": "Mitigeur monocommande pour douche, chromé"
+    },
+    {
+      "code": "SAN-FLEX-15",
+      "name": "Flexible Douche 1.5m",
+      "nameAr": "خرطوم دش 1.5م",
+      "brand": null,
+      "barcode": null,
+      "unit": "PCE",
+      "taxRate": 0.19,
+      "costPrice": 280,
+      "salePrice": 450,
+      "minStock": 20,
+      "image": "images/sanitaire/flex-15.jpg",
+      "aliases": [
+        "flexible douche",
+        "tuyau douche",
+        "خرطوم دش"
+      ],
+      "description": "Flexible de douche inox 1.5m avec écrous"
+    },
+    {
+      "code": "SAN-POMME",
+      "name": "Pomme de Douche",
+      "nameAr": "رأس دش",
+      "brand": null,
+      "barcode": null,
+      "unit": "PCE",
+      "taxRate": 0.19,
+      "costPrice": 550,
+      "salePrice": 850,
+      "minStock": 12,
+      "image": "images/sanitaire/pomme.jpg",
+      "aliases": [
+        "pomme douche",
+        "tête douche",
+        "رأس دش"
+      ],
+      "description": "Pomme de douche ronde chromée Ø20cm"
+    },
+    {
+      "code": "SAN-COL-DOU",
+      "name": "Colonne de Douche",
+      "nameAr": "عمود دش",
+      "brand": null,
+      "barcode": null,
+      "unit": "SET",
+      "taxRate": 0.19,
+      "costPrice": 4500,
+      "salePrice": 6500,
+      "minStock": 4,
+      "image": "images/sanitaire/col-dou.jpg",
+      "aliases": [
+        "colonne douche",
+        "barre douche",
+        "عمود دش"
+      ],
+      "description": "Colonne de douche avec mitigeur et pomme intégrée"
+    },
+    {
+      "code": "SAN-RES-WC-SUS",
+      "name": "Réservoir WC Suspendu",
+      "nameAr": "خزان مرحاض معلق",
+      "brand": null,
+      "barcode": null,
+      "unit": "PCE",
+      "taxRate": 0.19,
+      "costPrice": 5500,
+      "salePrice": 7800,
+      "minStock": 3,
+      "image": "images/sanitaire/res-wc-sus.jpg",
+      "aliases": [
+        "réservoir suspendu",
+        "chasse suspendu",
+        "خزان معلق"
+      ],
+      "description": "Réservoir WC encastré pour bâti support"
+    },
+    {
+      "code": "SAN-MECH-CHASSE",
+      "name": "Mécanisme Chasse d'Eau",
+      "nameAr": "آلية سحب الماء",
+      "brand": null,
+      "barcode": null,
+      "unit": "PCE",
+      "taxRate": 0.19,
+      "costPrice": 1200,
+      "salePrice": 1900,
+      "minStock": 8,
+      "image": "images/sanitaire/mech-chasse.jpg",
+      "aliases": [
+        "mécanisme chasse",
+        "flush mechanism",
+        "آلية سحب"
+      ],
+      "description": "Mécanisme de chasse d'eau double flux pour réservoir"
+    },
+    {
+      "code": "SAN-MIR-6080",
+      "name": "Miroir 60x80cm",
+      "nameAr": "مرآة 60x80سم",
+      "brand": null,
+      "barcode": null,
+      "unit": "PCE",
+      "taxRate": 0.19,
+      "costPrice": 1500,
+      "salePrice": 2300,
+      "minStock": 6,
+      "image": "images/sanitaire/mir-6080.jpg",
+      "aliases": [
+        "miroir 60x80",
+        "miroir salle de bain",
+        "مرآة"
+      ],
+      "description": "Miroir de salle de bain 60x80cm avec bords polis"
+    },
+    {
+      "code": "ENERGICAL-WMF9C00C00",
+      "name": "Mitigeur Lavabo Vasque Fly",
+      "nameAr": "",
+      "brand": "Fly",
+      "barcode": "WMF9C00C00",
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 8373,
+      "salePrice": 9850,
+      "minStock": 10,
+      "image": "images/sanitaire/ENERGICAL-WMF9C00C00.webp",
+      "aliases": [
+        "mitigeur lavabo vasque fly",
+        "wmf9c00c00"
+      ],
+      "description": "",
+      "categories": [
+        "Fly",
+        "Noir",
+        "Robinetterie sanitaire"
+      ],
+      "source": {
+        "id": 49185,
+        "sku": "WMF9C00C00",
+        "permalink": "https://energical.com/fr/produit/mitigeur-lavabo-vasque-fly/",
+        "stockStatus": "instock",
+        "categoryName": "Fly",
+        "scrapedAt": "2026-08-18T22:40:21.279Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-WKMUHC00C0000",
+      "name": "Mitigeur AURA",
+      "nameAr": "",
+      "brand": "AURA",
+      "barcode": "WKMUHC00C0000",
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 6375,
+      "salePrice": 7500,
+      "minStock": 10,
+      "image": "images/sanitaire/ENERGICAL-WKMUHC00C0000.webp",
+      "aliases": [
+        "mitigeur aura",
+        "wkmuhc00c0000"
+      ],
+      "description": "Le mitigeur AURA avec douchette extractible allie un design élégant à une fonctionnalité avancée. Fabriqué en laiton avec une finition chromée de qualité, sa douchette extractible facilite le nettoyage et l&rsquo;utilisation au quotidien. Pesant 1,151 kg, il est robuste et simple à installer dans votre cuisine. Un choix idéal pour allier esthétique moderne et praticité durable.",
+      "categories": [
+        "Cuisine",
+        "Robinetterie sanitaire"
+      ],
+      "source": {
+        "id": 48536,
+        "sku": "WKMUHC00C0000",
+        "permalink": "https://energical.com/fr/produit/mitigeur-aura/",
+        "stockStatus": "instock",
+        "categoryName": "Cuisine",
+        "scrapedAt": "2026-08-18T22:40:21.279Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-WKMKHC00C0000",
+      "name": "Mitigeur SILK",
+      "nameAr": "",
+      "brand": "SILK",
+      "barcode": "WKMKHC00C0000",
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 5865,
+      "salePrice": 6900,
+      "minStock": 10,
+      "image": "images/sanitaire/ENERGICAL-WKMKHC00C0000.webp",
+      "aliases": [
+        "mitigeur silk",
+        "wkmkhc00c0000"
+      ],
+      "description": "Le mitigeur SILK avec douchette extractible modèle 0011 offre un parfait équilibre entre esthétique contemporaine et fonctionnalité. Fabriqué en laiton avec une finition chromée brillante, il intègre une douchette extractible pratique pour faciliter le nettoyage et le remplissage au quotidien. Pesant seulement 1,130 kg, il est compact et simple à installer dans votre cuisine. Un produit alliant qualité, durabilité et élégance.",
+      "categories": [
+        "Cuisine",
+        "Robinetterie sanitaire"
+      ],
+      "source": {
+        "id": 48534,
+        "sku": "WKMKHC00C0000",
+        "permalink": "https://energical.com/fr/produit/mitigeur-silk/",
+        "stockStatus": "instock",
+        "categoryName": "Cuisine",
+        "scrapedAt": "2026-08-18T22:40:21.279Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-SF2060",
+      "name": "Colonne de douche avec mitigeur bain-douche",
+      "nameAr": "",
+      "brand": "Generic",
+      "barcode": "SF2060",
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 35275,
+      "salePrice": 41500,
+      "minStock": 10,
+      "image": "images/sanitaire/ENERGICAL-SF2060.webp",
+      "aliases": [
+        "colonne de douche avec mitigeur bain-douche",
+        "sf2060"
+      ],
+      "description": "Une colonne de douche au design épuré, équipée d’un mitigeur bain-douche pour une utilisation polyvalente et confortable.La douche de tête offre un jet large et enveloppant, tandis que la douchette à main assure une flexibilité idéale pour le quotidien.Le mitigeur bain-douche intégré permet de passer facilement d’une sortie d’eau à l’autre, avec un réglage simple et précis de la température et du débit.\nFabriquée avec des matériaux durables et une finition résistante, cette colonne s’intègre par",
+      "categories": [
+        "Colonne de douche",
+        "Robinetterie sanitaire"
+      ],
+      "source": {
+        "id": 45486,
+        "sku": "SF2060",
+        "permalink": "https://energical.com/fr/produit/colonne-de-douche-avec-mitigeur-bain-douche-2/",
+        "stockStatus": "instock",
+        "categoryName": "Colonne de douche",
+        "scrapedAt": "2026-08-18T22:40:21.279Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-SF3030",
+      "name": "Colonne de douche avec mitigeur",
+      "nameAr": "",
+      "brand": "Generic",
+      "barcode": "SF3030",
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 19975,
+      "salePrice": 23500,
+      "minStock": 10,
+      "image": "images/sanitaire/ENERGICAL-SF3030.webp",
+      "aliases": [
+        "colonne de douche avec mitigeur",
+        "sf3030"
+      ],
+      "description": "Une colonne de douche au design épuré, pensée pour offrir une expérience de douche confortable et intuitive.La douche de tête assure un jet large et enveloppant, tandis que la douchette à main offre une utilisation flexible pour le quotidien.Grâce au mitigeur intégré, la température et le débit se règlent facilement pour un confort immédiat.\nFabriquée avec des matériaux durables et une finition résistante, cette colonne s’intègre parfaitement dans toutes les salles de bains modernes.Simple à ins",
+      "categories": [
+        "Colonne de douche",
+        "Robinetterie sanitaire"
+      ],
+      "source": {
+        "id": 45381,
+        "sku": "SF3030",
+        "permalink": "https://energical.com/fr/produit/colonne-de-douche-avec-mitigeur-bain-douche/",
+        "stockStatus": "instock",
+        "categoryName": "Colonne de douche",
+        "scrapedAt": "2026-08-18T22:40:21.279Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-WMF2C00C00",
+      "name": "Mitigeur Cuisine Fly",
+      "nameAr": "",
+      "brand": "Fly",
+      "barcode": "WMF2C00C00",
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 8288,
+      "salePrice": 9750,
+      "minStock": 10,
+      "image": "images/sanitaire/ENERGICAL-WMF2C00C00.webp",
+      "aliases": [
+        "mitigeur cuisine fly",
+        "wmf2c00c00"
+      ],
+      "description": "",
+      "categories": [
+        "Chromé",
+        "Fly",
+        "Robinetterie sanitaire"
+      ],
+      "source": {
+        "id": 41708,
+        "sku": "WMF2C00C00",
+        "permalink": "https://energical.com/fr/produit/mitigeur-cuisine-fly/",
+        "stockStatus": "instock",
+        "categoryName": "Chromé",
+        "scrapedAt": "2026-08-18T22:40:23.156Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-WMF5C00C00",
+      "name": "Mitigeur Bain douche Fly",
+      "nameAr": "",
+      "brand": "Fly",
+      "barcode": "WMF5C00C00",
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 9512,
+      "salePrice": 11190,
+      "minStock": 10,
+      "image": "images/sanitaire/ENERGICAL-WMF5C00C00.webp",
+      "aliases": [
+        "mitigeur bain douche fly",
+        "wmf5c00c00"
+      ],
+      "description": "",
+      "categories": [
+        "Chromé",
+        "Fly",
+        "Robinetterie sanitaire"
+      ],
+      "source": {
+        "id": 41707,
+        "sku": "WMF5C00C00",
+        "permalink": "https://energical.com/fr/produit/mitigeur-bain-douche-fly/",
+        "stockStatus": "instock",
+        "categoryName": "Chromé",
+        "scrapedAt": "2026-08-18T22:40:23.156Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-WMF7C00C00",
+      "name": "Mitigeur Bidet Fly",
+      "nameAr": "",
+      "brand": "Fly",
+      "barcode": "WMF7C00C00",
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 5517,
+      "salePrice": 6490,
+      "minStock": 10,
+      "image": "images/sanitaire/ENERGICAL-WMF7C00C00.webp",
+      "aliases": [
+        "mitigeur bidet fly",
+        "wmf7c00c00"
+      ],
+      "description": "",
+      "categories": [
+        "Chromé",
+        "Fly",
+        "Robinetterie sanitaire"
+      ],
+      "source": {
+        "id": 41706,
+        "sku": "WMF7C00C00",
+        "permalink": "https://energical.com/fr/produit/mitigeur-bidet-fly/",
+        "stockStatus": "instock",
+        "categoryName": "Chromé",
+        "scrapedAt": "2026-08-18T22:40:23.156Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-WMFCC00C00",
+      "name": "Mitigeur Cuisine à Bec Coudé Fly",
+      "nameAr": "",
+      "brand": "Fly",
+      "barcode": "WMFCC00C00",
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 6962,
+      "salePrice": 8190,
+      "minStock": 10,
+      "image": "images/sanitaire/ENERGICAL-WMFCC00C00.webp",
+      "aliases": [
+        "mitigeur cuisine à bec coudé fly",
+        "wmfcc00c00"
+      ],
+      "description": "",
+      "categories": [
+        "Chromé",
+        "Fly",
+        "Robinetterie sanitaire"
+      ],
+      "source": {
+        "id": 41705,
+        "sku": "WMFCC00C00",
+        "permalink": "https://energical.com/fr/produit/mitigeur-cuisine-a-bec-coude-fly/",
+        "stockStatus": "instock",
+        "categoryName": "Chromé",
+        "scrapedAt": "2026-08-18T22:40:23.156Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-WMF4C00C00",
+      "name": "Mitigeur Douche Fly",
+      "nameAr": "",
+      "brand": "Fly",
+      "barcode": "WMF4C00C00",
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 7982,
+      "salePrice": 9390,
+      "minStock": 10,
+      "image": "images/sanitaire/ENERGICAL-WMF4C00C00.webp",
+      "aliases": [
+        "mitigeur douche fly",
+        "wmf4c00c00"
+      ],
+      "description": "",
+      "categories": [
+        "Chromé",
+        "Fly",
+        "Robinetterie sanitaire"
+      ],
+      "source": {
+        "id": 41704,
+        "sku": "WMF4C00C00",
+        "permalink": "https://energical.com/fr/produit/mitigeur-douche-fly/",
+        "stockStatus": "instock",
+        "categoryName": "Chromé",
+        "scrapedAt": "2026-08-18T22:40:23.156Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-WMF1C00C00",
+      "name": "Mitigeur Lavabo Fly",
+      "nameAr": "",
+      "brand": "Fly",
+      "barcode": "WMF1C00C00",
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 5517,
+      "salePrice": 6490,
+      "minStock": 10,
+      "image": "images/sanitaire/ENERGICAL-WMF1C00C00.webp",
+      "aliases": [
+        "mitigeur lavabo fly",
+        "wmf1c00c00"
+      ],
+      "description": "",
+      "categories": [
+        "Chromé",
+        "Fly",
+        "Robinetterie sanitaire"
+      ],
+      "source": {
+        "id": 41703,
+        "sku": "WMF1C00C00",
+        "permalink": "https://energical.com/fr/produit/mitigeur-lavabo-fly/",
+        "stockStatus": "instock",
+        "categoryName": "Chromé",
+        "scrapedAt": "2026-08-18T22:40:23.156Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-WMR1N00D00",
+      "name": "Mitigeur Lavabo Razy Noir",
+      "nameAr": "",
+      "brand": "Razy",
+      "barcode": "WMR1N00D00",
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 5262,
+      "salePrice": 6190,
+      "minStock": 10,
+      "image": "images/sanitaire/ENERGICAL-WMR1N00D00.webp",
+      "aliases": [
+        "mitigeur lavabo razy noir",
+        "wmr1n00d00"
+      ],
+      "description": "Le Mitigeur Lavabo Razy avec finition époxy noire, poignée en rose doré, est conçu pour apporter une touche de modernité et de durabilité à votre salle de bains. Avec un poids de 1,24 kg, ce mitigeur robuste est résistant à la corrosion grâce à sa finition chromée. Idéal pour une utilisation quotidienne, il combine esthétisme et fonctionnalité. Bénéficiez d&rsquo;une garantie de 5 ans, assurant une qualité et une fiabilité exceptionnelles pour une tranquillité d&rsquo;esprit prolongée.",
+      "categories": [
+        "Noir",
+        "Razy",
+        "Robinetterie sanitaire"
+      ],
+      "source": {
+        "id": 39502,
+        "sku": "WMR1N00D00",
+        "permalink": "https://energical.com/fr/produit/mitigeur-lavabo-razy-noir/",
+        "stockStatus": "instock",
+        "categoryName": "Noir",
+        "scrapedAt": "2026-08-18T22:40:23.156Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-WMR2N00D00",
+      "name": "Mitigeur Cuisine Razy Noir",
+      "nameAr": "",
+      "brand": "Razy",
+      "barcode": "WMR2N00D00",
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 6120,
+      "salePrice": 7200,
+      "minStock": 10,
+      "image": "images/sanitaire/ENERGICAL-WMR2N00D00.webp",
+      "aliases": [
+        "mitigeur cuisine razy noir",
+        "wmr2n00d00"
+      ],
+      "description": "Le Mitigeur Cuisine Razy avec finition époxy noire, poignée en rose doré, est l&rsquo;ajout parfait à votre cuisine moderne. Pesant 1,26 kg, ce mitigeur robuste offre une durabilité exceptionnelle et une résistance à la corrosion. Conçu pour une utilisation quotidienne intensive, il combine esthétique et fonctionnalité. Avec une garantie de 5 ans, il assure une tranquillité d&rsquo;esprit et une performance fiable pour toutes vos tâches culinaires.",
+      "categories": [
+        "Noir",
+        "Razy",
+        "Robinetterie sanitaire"
+      ],
+      "source": {
+        "id": 39501,
+        "sku": "WMR2N00D00",
+        "permalink": "https://energical.com/fr/produit/mitigeur-cuisine-razy-noir/",
+        "stockStatus": "instock",
+        "categoryName": "Noir",
+        "scrapedAt": "2026-08-18T22:40:23.156Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-WMR5N00D00",
+      "name": "Mitigeur Bain douche Razy Noir",
+      "nameAr": "",
+      "brand": "Razy",
+      "barcode": "WMR5N00D00",
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 8670,
+      "salePrice": 10200,
+      "minStock": 10,
+      "image": "images/sanitaire/ENERGICAL-WMR5N00D00.webp",
+      "aliases": [
+        "mitigeur bain douche razy noir",
+        "wmr5n00d00"
+      ],
+      "description": "Le Mitigeur Bain Douche Razy avec finition époxy noire, poignée en rose doré, est l&rsquo;élément parfait pour une salle de bains élégante et fonctionnelle. Pesant 1,39 kg, ce mitigeur robuste et durable est conçu pour résister à la corrosion. Il comprend des flexibles de connexion, une douchette et un support pour une installation facile et pratique. Bénéficiez de la tranquillité d&rsquo;esprit avec une garantie de 5 ans, assurant une qualité et une fiabilité exceptionnelles.",
+      "categories": [
+        "Noir",
+        "Razy",
+        "Robinetterie sanitaire"
+      ],
+      "source": {
+        "id": 39500,
+        "sku": "WMR5N00D00",
+        "permalink": "https://energical.com/fr/produit/mitigeur-bain-douche-razy-noir/",
+        "stockStatus": "instock",
+        "categoryName": "Noir",
+        "scrapedAt": "2026-08-18T22:40:23.156Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-WMR4N00D00",
+      "name": "Mitigeur Douche Razy Noir",
+      "nameAr": "",
+      "brand": "Razy",
+      "barcode": "WMR4N00D00",
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 7268,
+      "salePrice": 8550,
+      "minStock": 10,
+      "image": "images/sanitaire/ENERGICAL-WMR4N00D00.webp",
+      "aliases": [
+        "mitigeur douche razy noir",
+        "wmr4n00d00"
+      ],
+      "description": "Le Mitigeur Douche Razy avec finition époxy noire, poignée en rose doré, est un complément parfait pour toute salle de bains moderne. Pesant 0,94 kg, ce mitigeur élégant est conçu pour durer, offrant une résistance à la corrosion. Il inclut des flexibles de connexion, une douchette et un support pour une installation complète et pratique. Avec une garantie de 5 ans, ce mitigeur assure qualité et tranquillité d&rsquo;esprit.",
+      "categories": [
+        "Noir",
+        "Razy",
+        "Robinetterie sanitaire"
+      ],
+      "source": {
+        "id": 39499,
+        "sku": "WMR4N00D00",
+        "permalink": "https://energical.com/fr/produit/mitigeur-douche-razy-noir/",
+        "stockStatus": "instock",
+        "categoryName": "Noir",
+        "scrapedAt": "2026-08-18T22:40:23.156Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-WMR7N00D00",
+      "name": "Mitigeur Bidet Razy Noir",
+      "nameAr": "",
+      "brand": "Razy",
+      "barcode": "WMR7N00D00",
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 5228,
+      "salePrice": 6150,
+      "minStock": 10,
+      "image": "images/sanitaire/ENERGICAL-WMR7N00D00.webp",
+      "aliases": [
+        "mitigeur bidet razy noir",
+        "wmr7n00d00"
+      ],
+      "description": "Le Mitigeur Bidet Razy avec finition époxy noire, poignée en rose doré, est un choix élégant et durable pour votre salle de bains. Pesant 0,98 kg, ce mitigeur de haute qualité combine style et fonctionnalité avec une finition chromée qui résiste à la corrosion. Avec une garantie de 5 ans, il offre une tranquillité d&rsquo;esprit durable. Sa construction en laiton assure une robustesse exceptionnelle, tandis que son design moderne s&rsquo;intègre parfaitement dans tout décor de salle de bains.",
+      "categories": [
+        "Noir",
+        "Razy",
+        "Robinetterie sanitaire"
+      ],
+      "source": {
+        "id": 39498,
+        "sku": "WMR7N00D00",
+        "permalink": "https://energical.com/fr/produit/mitigeur-bidet-razy-noir/",
+        "stockStatus": "instock",
+        "categoryName": "Noir",
+        "scrapedAt": "2026-08-18T22:40:23.156Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-WMR6N00D00",
+      "name": "Mitigeur cuisine murale Razy Noir",
+      "nameAr": "",
+      "brand": "Razy",
+      "barcode": "WMR6N00D00",
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 7140,
+      "salePrice": 8400,
+      "minStock": 10,
+      "image": "images/sanitaire/ENERGICAL-WMR6N00D00.webp",
+      "aliases": [
+        "mitigeur cuisine murale razy noir",
+        "wmr6n00d00"
+      ],
+      "description": "Le mitigeur cuisine murale Razy ajoute une touche d&rsquo;élégance à votre cuisine. Corps avec finition époxy noire, poignée en rose doré, il offre durabilité et esthétique. Doté d&rsquo;une garantie de 5 ans, ce mitigeur vous assure une tranquillité d&rsquo;esprit totale. Son design mural permet un gain d&rsquo;espace précieux sur le plan de travail. Profitez d&rsquo;une expérience de cuisine pratique et élégante avec le mitigeur cuisine murale Razy.",
+      "categories": [
+        "Noir",
+        "Razy",
+        "Robinetterie sanitaire"
+      ],
+      "source": {
+        "id": 39497,
+        "sku": "WMR6N00D00",
+        "permalink": "https://energical.com/fr/produit/mitigeur-cuisine-murale-razy-noir/",
+        "stockStatus": "instock",
+        "categoryName": "Noir",
+        "scrapedAt": "2026-08-18T22:40:23.156Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-WMF4N00C00",
+      "name": "Mitigeur Douche Fly Noir",
+      "nameAr": "",
+      "brand": "Fly",
+      "barcode": "WMF4N00C00",
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 7472,
+      "salePrice": 8790,
+      "minStock": 10,
+      "image": "images/sanitaire/ENERGICAL-WMF4N00C00.webp",
+      "aliases": [
+        "mitigeur douche fly noir",
+        "wmf4n00c00"
+      ],
+      "description": "",
+      "categories": [
+        "Fly",
+        "Noir",
+        "Robinetterie sanitaire"
+      ],
+      "source": {
+        "id": 38517,
+        "sku": "WMF4N00C00",
+        "permalink": "https://energical.com/fr/produit/mitigeur-douche-fly-noir/",
+        "stockStatus": "instock",
+        "categoryName": "Fly",
+        "scrapedAt": "2026-08-18T22:40:23.156Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-WMF9N00C00",
+      "name": "Mitigeur Lavabo Vasque Fly Noir",
+      "nameAr": "",
+      "brand": "Fly",
+      "barcode": "WMF9N00C00",
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 8160,
+      "salePrice": 9600,
+      "minStock": 10,
+      "image": "images/sanitaire/ENERGICAL-WMF9N00C00.webp",
+      "aliases": [
+        "mitigeur lavabo vasque fly noir",
+        "wmf9n00c00"
+      ],
+      "description": "",
+      "categories": [
+        "Fly",
+        "Noir",
+        "Robinetterie sanitaire"
+      ],
+      "source": {
+        "id": 38516,
+        "sku": "WMF9N00C00",
+        "permalink": "https://energical.com/fr/produit/mitigeur-lavabo-vasque-fly-noir/",
+        "stockStatus": "instock",
+        "categoryName": "Fly",
+        "scrapedAt": "2026-08-18T22:40:23.156Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-WMF1N00C00",
+      "name": "Mitigeur Lavabo Fly Noir",
+      "nameAr": "",
+      "brand": "Fly",
+      "barcode": "WMF1N00C00",
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 5262,
+      "salePrice": 6190,
+      "minStock": 10,
+      "image": "images/sanitaire/ENERGICAL-WMF1N00C00.webp",
+      "aliases": [
+        "mitigeur lavabo fly noir",
+        "wmf1n00c00"
+      ],
+      "description": "",
+      "categories": [
+        "Fly",
+        "Noir",
+        "Robinetterie sanitaire"
+      ],
+      "source": {
+        "id": 38515,
+        "sku": "WMF1N00C00",
+        "permalink": "https://energical.com/fr/produit/mitigeur-lavabo-fly-noir/",
+        "stockStatus": "instock",
+        "categoryName": "Fly",
+        "scrapedAt": "2026-08-18T22:40:23.156Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-WMFCN00C00",
+      "name": "Mitigeur Cuisine à Bec Coudé Fly Noir",
+      "nameAr": "",
+      "brand": "Fly",
+      "barcode": "WMFCN00C00",
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 6537,
+      "salePrice": 7690,
+      "minStock": 10,
+      "image": "images/sanitaire/ENERGICAL-WMFCN00C00.webp",
+      "aliases": [
+        "mitigeur cuisine à bec coudé fly noir",
+        "wmfcn00c00"
+      ],
+      "description": "",
+      "categories": [
+        "Fly",
+        "Noir",
+        "Robinetterie sanitaire"
+      ],
+      "source": {
+        "id": 38513,
+        "sku": "WMFCN00C00",
+        "permalink": "https://energical.com/fr/produit/mitigeur-cuisine-a-bec-coude-fly-noir/",
+        "stockStatus": "instock",
+        "categoryName": "Fly",
+        "scrapedAt": "2026-08-18T22:40:23.156Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-WMF7N00C00",
+      "name": "Mitigeur Bidet Fly Noir",
+      "nameAr": "",
+      "brand": "Fly",
+      "barcode": "WMF7N00C00",
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 5262,
+      "salePrice": 6190,
+      "minStock": 10,
+      "image": "images/sanitaire/ENERGICAL-WMF7N00C00.webp",
+      "aliases": [
+        "mitigeur bidet fly noir",
+        "wmf7n00c00"
+      ],
+      "description": "",
+      "categories": [
+        "Fly",
+        "Noir",
+        "Robinetterie sanitaire"
+      ],
+      "source": {
+        "id": 38512,
+        "sku": "WMF7N00C00",
+        "permalink": "https://energical.com/fr/produit/mitigeur-bidet-fly-noir/",
+        "stockStatus": "instock",
+        "categoryName": "Fly",
+        "scrapedAt": "2026-08-18T22:40:23.156Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-WMF5N00C00",
+      "name": "Mitigeur Bain douche Fly Noir",
+      "nameAr": "",
+      "brand": "Fly",
+      "barcode": "WMF5N00C00",
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 8883,
+      "salePrice": 10450,
+      "minStock": 10,
+      "image": "images/sanitaire/ENERGICAL-WMF5N00C00.webp",
+      "aliases": [
+        "mitigeur bain douche fly noir",
+        "wmf5n00c00"
+      ],
+      "description": "",
+      "categories": [
+        "Fly",
+        "Noir",
+        "Robinetterie sanitaire"
+      ],
+      "source": {
+        "id": 38511,
+        "sku": "WMF5N00C00",
+        "permalink": "https://energical.com/fr/produit/mitigeur-bain-douche-fly-noir/",
+        "stockStatus": "instock",
+        "categoryName": "Fly",
+        "scrapedAt": "2026-08-18T22:40:23.156Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-WMF2N00C00",
+      "name": "Mitigeur Cuisine Fly Noir",
+      "nameAr": "",
+      "brand": "Fly",
+      "barcode": "WMF2N00C00",
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 7557,
+      "salePrice": 8890,
+      "minStock": 10,
+      "image": "images/sanitaire/ENERGICAL-WMF2N00C00.webp",
+      "aliases": [
+        "mitigeur cuisine fly noir",
+        "wmf2n00c00"
+      ],
+      "description": "",
+      "categories": [
+        "Fly",
+        "Noir",
+        "Robinetterie sanitaire"
+      ],
+      "source": {
+        "id": 38495,
+        "sku": "WMF2N00C00",
+        "permalink": "https://energical.com/fr/produit/mitigeur-cuisine-fly-noir/",
+        "stockStatus": "instock",
+        "categoryName": "Fly",
+        "scrapedAt": "2026-08-18T22:40:23.156Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-WMA4B00C00",
+      "name": "Mitigeur Amen Douche Blanc",
+      "nameAr": "",
+      "brand": "Amen",
+      "barcode": "WMA4B00C00",
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 4803,
+      "salePrice": 5650,
+      "minStock": 10,
+      "image": "images/sanitaire/ENERGICAL-WMA4B00C00.webp",
+      "aliases": [
+        "mitigeur amen douche blanc",
+        "wma4b00c00"
+      ],
+      "description": "",
+      "categories": [
+        "Amen",
+        "Blanc",
+        "Robinetterie sanitaire"
+      ],
+      "source": {
+        "id": 37782,
+        "sku": "WMA4B00C00",
+        "permalink": "https://energical.com/fr/produit/mitigeur-amen-douche-blanc/",
+        "stockStatus": "instock",
+        "categoryName": "Amen",
+        "scrapedAt": "2026-08-18T22:40:23.156Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-WMA5B00C00",
+      "name": "Mitigeur Amen Bain douche Blanc",
+      "nameAr": "",
+      "brand": "Amen",
+      "barcode": "WMA5B00C00",
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 5610,
+      "salePrice": 6600,
+      "minStock": 10,
+      "image": "images/sanitaire/ENERGICAL-WMA5B00C00.webp",
+      "aliases": [
+        "mitigeur amen bain douche blanc",
+        "wma5b00c00"
+      ],
+      "description": "",
+      "categories": [
+        "Amen",
+        "Blanc",
+        "Robinetterie sanitaire"
+      ],
+      "source": {
+        "id": 37781,
+        "sku": "WMA5B00C00",
+        "permalink": "https://energical.com/fr/produit/mitigeur-amen-bain-douche-blanc/",
+        "stockStatus": "instock",
+        "categoryName": "Amen",
+        "scrapedAt": "2026-08-18T22:40:23.156Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-WMA2B00C00",
+      "name": "Mitigeur Amen Cuisine Blanc",
+      "nameAr": "",
+      "brand": "Amen",
+      "barcode": "WMA2B00C00",
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 4803,
+      "salePrice": 5650,
+      "minStock": 10,
+      "image": "images/sanitaire/ENERGICAL-WMA2B00C00.webp",
+      "aliases": [
+        "mitigeur amen cuisine blanc",
+        "wma2b00c00"
+      ],
+      "description": "",
+      "categories": [
+        "Amen",
+        "Blanc",
+        "Robinetterie sanitaire"
+      ],
+      "source": {
+        "id": 37780,
+        "sku": "WMA2B00C00",
+        "permalink": "https://energical.com/fr/produit/mitigeur-amen-cuisine-blanc/",
+        "stockStatus": "instock",
+        "categoryName": "Amen",
+        "scrapedAt": "2026-08-18T22:40:23.156Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-WMA1B00C00",
+      "name": "Mitigeur Amen Lavabo Blanc",
+      "nameAr": "",
+      "brand": "Amen",
+      "barcode": "WMA1B00C00",
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 3570,
+      "salePrice": 4200,
+      "minStock": 10,
+      "image": "images/sanitaire/ENERGICAL-WMA1B00C00.webp",
+      "aliases": [
+        "mitigeur amen lavabo blanc",
+        "wma1b00c00"
+      ],
+      "description": "",
+      "categories": [
+        "Amen",
+        "Blanc",
+        "Robinetterie sanitaire"
+      ],
+      "source": {
+        "id": 37778,
+        "sku": "WMA1B00C00",
+        "permalink": "https://energical.com/fr/produit/mitigeur-amen-lavabo-blanc/",
+        "stockStatus": "instock",
+        "categoryName": "Amen",
+        "scrapedAt": "2026-08-18T22:40:23.156Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-WMA1N00D00",
+      "name": "Mitigeur Amen Lavabo Noir",
+      "nameAr": "",
+      "brand": "Amen",
+      "barcode": "WMA1N00D00",
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 3987,
+      "salePrice": 4690,
+      "minStock": 10,
+      "image": "images/sanitaire/ENERGICAL-WMA1N00D00.webp",
+      "aliases": [
+        "mitigeur amen lavabo noir",
+        "wma1n00d00"
+      ],
+      "description": "",
+      "categories": [
+        "Amen",
+        "Noir",
+        "Robinetterie sanitaire"
+      ],
+      "source": {
+        "id": 37776,
+        "sku": "WMA1N00D00",
+        "permalink": "https://energical.com/fr/produit/mitigeur-amen-lavabo-noir/",
+        "stockStatus": "instock",
+        "categoryName": "Amen",
+        "scrapedAt": "2026-08-18T22:40:23.156Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-WMA7N00D00",
+      "name": "Mitigeur Amen Bidet Noir",
+      "nameAr": "",
+      "brand": "Amen",
+      "barcode": "WMA7N00D00",
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 3987,
+      "salePrice": 4690,
+      "minStock": 10,
+      "image": "images/sanitaire/ENERGICAL-WMA7N00D00.webp",
+      "aliases": [
+        "mitigeur amen bidet noir",
+        "wma7n00d00"
+      ],
+      "description": "",
+      "categories": [
+        "Amen",
+        "Noir",
+        "Robinetterie sanitaire"
+      ],
+      "source": {
+        "id": 37775,
+        "sku": "WMA7N00D00",
+        "permalink": "https://energical.com/fr/produit/mitigeur-amen-bidet-noir/",
+        "stockStatus": "instock",
+        "categoryName": "Amen",
+        "scrapedAt": "2026-08-18T22:40:23.156Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-WMA2N00D00",
+      "name": "Mitigeur Amen Cuisine Noir",
+      "nameAr": "",
+      "brand": "Amen",
+      "barcode": "WMA2N00D00",
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 5058,
+      "salePrice": 5950,
+      "minStock": 10,
+      "image": "images/sanitaire/ENERGICAL-WMA2N00D00.webp",
+      "aliases": [
+        "mitigeur amen cuisine noir",
+        "wma2n00d00"
+      ],
+      "description": "",
+      "categories": [
+        "Amen",
+        "Noir",
+        "Robinetterie sanitaire"
+      ],
+      "source": {
+        "id": 37774,
+        "sku": "WMA2N00D00",
+        "permalink": "https://energical.com/fr/produit/mitigeur-amen-cuisine-noir/",
+        "stockStatus": "instock",
+        "categoryName": "Amen",
+        "scrapedAt": "2026-08-18T22:40:23.156Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-WMA5N00D00",
+      "name": "Mitigeur Amen Bain douche Noir",
+      "nameAr": "",
+      "brand": "Amen",
+      "barcode": "WMA5N00D00",
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 6078,
+      "salePrice": 7150,
+      "minStock": 10,
+      "image": "images/sanitaire/ENERGICAL-WMA5N00D00.webp",
+      "aliases": [
+        "mitigeur amen bain douche noir",
+        "wma5n00d00"
+      ],
+      "description": "",
+      "categories": [
+        "Amen",
+        "Noir",
+        "Robinetterie sanitaire"
+      ],
+      "source": {
+        "id": 37772,
+        "sku": "WMA5N00D00",
+        "permalink": "https://energical.com/fr/produit/mitigeur-amen-bain-douche-noir/",
+        "stockStatus": "instock",
+        "categoryName": "Amen",
+        "scrapedAt": "2026-08-18T22:40:23.156Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-WMA4N00D00",
+      "name": "Mitigeur Amen Douche Noir",
+      "nameAr": "",
+      "brand": "Amen",
+      "barcode": "WMA4N00D00",
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 5007,
+      "salePrice": 5890,
+      "minStock": 10,
+      "image": "images/sanitaire/ENERGICAL-WMA4N00D00.webp",
+      "aliases": [
+        "mitigeur amen douche noir",
+        "wma4n00d00"
+      ],
+      "description": "",
+      "categories": [
+        "Amen",
+        "Noir",
+        "Robinetterie sanitaire"
+      ],
+      "source": {
+        "id": 37771,
+        "sku": "WMA4N00D00",
+        "permalink": "https://energical.com/fr/produit/mitigeur-amen-douche-noir/",
+        "stockStatus": "instock",
+        "categoryName": "Amen",
+        "scrapedAt": "2026-08-18T22:40:23.156Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-37487",
+      "name": "Colonne de douche encastrée",
+      "nameAr": "",
+      "brand": "Generic",
+      "barcode": null,
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 20230,
+      "salePrice": 23800,
+      "minStock": 10,
+      "image": "images/sanitaire/ENERGICAL-37487.webp",
+      "aliases": [
+        "colonne de douche encastrée"
+      ],
+      "description": "La colonne de douche encastrée est l&rsquo;élément parfait pour une expérience de douche luxueuse. Fabriquée en laiton avec une finition chromée ou noire élégante, elle ajoute une touche de sophistication à votre salle de bains. Elle est légère et facile à installer. Profitez d&rsquo;une garantie de 2 ans pour une tranquillité d&rsquo;esprit totale. Avec son design moderne et ses matériaux de qualité, cette colonne de douche vous offre une expérience de douche ultime.",
+      "categories": [
+        "Colonne de douche",
+        "Robinetterie sanitaire"
+      ],
+      "source": {
+        "id": 37487,
+        "sku": "",
+        "permalink": "https://energical.com/fr/produit/colonne-de-douche-encastree/",
+        "stockStatus": "instock",
+        "categoryName": "Colonne de douche",
+        "scrapedAt": "2026-08-18T22:40:23.156Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-WMSAB00C00",
+      "name": "Mitigeur Cuisine à bec long Série 07",
+      "nameAr": "",
+      "brand": "Série 07",
+      "barcode": "WMSAB00C00",
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 3060,
+      "salePrice": 3600,
+      "minStock": 10,
+      "image": "images/sanitaire/ENERGICAL-WMSAB00C00.webp",
+      "aliases": [
+        "mitigeur cuisine à bec long série 07",
+        "wmsab00c00"
+      ],
+      "description": "Découvrez le Mitigeur Cuisine à bec long Série 07, un choix élégant et fonctionnel pour votre cuisine. Avec un poids léger de 0,5 kg et une construction en laiton durable, ce mitigeur offre une performance fiable. Son design épuré combine un corps blanc et une finition chromée, ajoutant une touche de modernité à votre espace. Profitez de son bec long pour un accès facile à l&rsquo;eau, simplifiant vos tâches quotidiennes en cuisine.",
+      "categories": [
+        "Robinetterie sanitaire",
+        "Série 07"
+      ],
+      "source": {
+        "id": 32485,
+        "sku": "WMSAB00C00",
+        "permalink": "https://energical.com/fr/produit/mitigeur-cuisine-a-bec-long-serie-07/",
+        "stockStatus": "instock",
+        "categoryName": "Robinetterie sanitaire",
+        "scrapedAt": "2026-08-18T22:40:23.156Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-WRS8B00C00",
+      "name": "Robinet Ablution Série 07",
+      "nameAr": "",
+      "brand": "Série 07",
+      "barcode": "WRS8B00C00",
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 3698,
+      "salePrice": 4350,
+      "minStock": 10,
+      "image": "images/sanitaire/ENERGICAL-WRS8B00C00.webp",
+      "aliases": [
+        "robinet ablution série 07",
+        "wrs8b00c00"
+      ],
+      "description": "Découvrez le robinet Ablution Série 07, un chef-d&rsquo;œuvre d&rsquo;ingénierie alliant élégance et performance. Pesant seulement 0,6 kg et fabriqué en laiton de haute qualité, ce mitigeur offre une durabilité exceptionnelle. Son design saisissant, avec un corps blanc et une finition chromée brillante, ajoute une touche de sophistication à toute salle de bains. Profitez d&rsquo;une expérience de lavage fluide et agréable avec ce robinet de qualité supérieure.",
+      "categories": [
+        "Robinetterie sanitaire",
+        "Série 07"
+      ],
+      "source": {
+        "id": 32484,
+        "sku": "WRS8B00C00",
+        "permalink": "https://energical.com/fr/produit/mitigeur-ablution-serie-07/",
+        "stockStatus": "instock",
+        "categoryName": "Robinetterie sanitaire",
+        "scrapedAt": "2026-08-18T22:40:23.156Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-WMS7B00C00",
+      "name": "Mitigeur Bidet Série 07",
+      "nameAr": "",
+      "brand": "Série 07",
+      "barcode": "WMS7B00C00",
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 2763,
+      "salePrice": 3250,
+      "minStock": 10,
+      "image": "images/sanitaire/ENERGICAL-WMS7B00C00.webp",
+      "aliases": [
+        "mitigeur bidet série 07",
+        "wms7b00c00"
+      ],
+      "description": "Découvrez le Mitigeur Bidet Série 07, l&rsquo;ultime ajout à votre espace de salle de bains. Son design élégant, avec un corps blanc et une finition chromée, apporte une touche de sophistication à votre bidet. Fabriqué en laiton de haute qualité, il offre une durabilité exceptionnelle. Avec un poids de seulement 0,45 kg, il est facile à installer et à utiliser, tout en assurant des performances optimales pour vos besoins d&rsquo;hygiène personnelle",
+      "categories": [
+        "Robinetterie sanitaire",
+        "Série 07"
+      ],
+      "source": {
+        "id": 32483,
+        "sku": "WMS7B00C00",
+        "permalink": "https://energical.com/fr/produit/mitigeur-bidet-serie-07/",
+        "stockStatus": "instock",
+        "categoryName": "Robinetterie sanitaire",
+        "scrapedAt": "2026-08-18T22:40:23.156Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-WMS4B00C00",
+      "name": "Mitigeur Douche Série 07",
+      "nameAr": "",
+      "brand": "Série 07",
+      "barcode": "WMS4B00C00",
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 3698,
+      "salePrice": 4350,
+      "minStock": 10,
+      "image": "images/sanitaire/ENERGICAL-WMS4B00C00.webp",
+      "aliases": [
+        "mitigeur douche série 07",
+        "wms4b00c00"
+      ],
+      "description": "Découvrez le Mitigeur Douche Série 07, un symbole de luxe et de fonctionnalité dans votre salle de bains. Son design épuré, avec un corps blanc et une finition chromée, ajoute une touche d&rsquo;élégance à votre espace. Fabriqué en laiton de haute qualité, il garantit une durabilité exceptionnelle. Pesant seulement 0,48 kg, il est facile à installer et offre une performance de douche optimale pour une expérience de détente ultime.",
+      "categories": [
+        "Robinetterie sanitaire",
+        "Série 07"
+      ],
+      "source": {
+        "id": 32481,
+        "sku": "WMS4B00C00",
+        "permalink": "https://energical.com/fr/produit/mitigeur-douche-serie-07/",
+        "stockStatus": "instock",
+        "categoryName": "Robinetterie sanitaire",
+        "scrapedAt": "2026-08-18T22:40:23.156Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-WMS5B00C00",
+      "name": "Mitigeur Bain Douche Série 07",
+      "nameAr": "",
+      "brand": "Série 07",
+      "barcode": "WMS5B00C00",
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 5049,
+      "salePrice": 5940,
+      "minStock": 10,
+      "image": "images/sanitaire/ENERGICAL-WMS5B00C00.webp",
+      "aliases": [
+        "mitigeur bain douche série 07",
+        "wms5b00c00"
+      ],
+      "description": "Découvrez le Mitigeur Bain Douche Série 07, l&rsquo;essence même de l&rsquo;élégance et de la fonctionnalité dans votre salle de bains. Son design raffiné, avec un corps blanc et une finition chromée, ajoute une touche de sophistication à votre espace. Fabriqué en laiton de haute qualité, il garantit une durabilité exceptionnelle. Avec un poids de 0,87 kg, il est robuste et fiable, offrant une performance de bain-douche supérieure pour une expérience de relaxation ultime.",
+      "categories": [
+        "Robinetterie sanitaire",
+        "Série 07"
+      ],
+      "source": {
+        "id": 32479,
+        "sku": "WMS5B00C00",
+        "permalink": "https://energical.com/fr/produit/mitigeur-bain-douche-serie-07/",
+        "stockStatus": "instock",
+        "categoryName": "Robinetterie sanitaire",
+        "scrapedAt": "2026-08-18T22:40:23.156Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-WMSBC00C00",
+      "name": "Mitigeur Cuisine avec douchette Série 07",
+      "nameAr": "",
+      "brand": "Série 07",
+      "barcode": "WMSBC00C00",
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 4233,
+      "salePrice": 4980,
+      "minStock": 10,
+      "image": "images/sanitaire/ENERGICAL-WMSBC00C00.webp",
+      "aliases": [
+        "mitigeur cuisine avec douchette série 07",
+        "wmsbc00c00"
+      ],
+      "description": "Découvrez le Mitigeur Cuisine avec Douchette Série 07, l&rsquo;outil indispensable pour votre cuisine moderne. Avec sa douchette pratique et son design élégant chromé, il offre à la fois style et fonctionnalité. Fabriqué en laiton de haute qualité, il garantit une durabilité exceptionnelle.",
+      "categories": [
+        "Robinetterie sanitaire",
+        "Série 07"
+      ],
+      "source": {
+        "id": 32477,
+        "sku": "WMSBC00C00",
+        "permalink": "https://energical.com/fr/produit/mitigeur-cuisine-avec-douchette-serie-07/",
+        "stockStatus": "instock",
+        "categoryName": "Robinetterie sanitaire",
+        "scrapedAt": "2026-08-18T22:40:23.156Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-WMS2B00C00",
+      "name": "Mitigeur Cuisine Série 07",
+      "nameAr": "",
+      "brand": "Série 07",
+      "barcode": "WMS2B00C00",
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 3315,
+      "salePrice": 3900,
+      "minStock": 10,
+      "image": "images/sanitaire/ENERGICAL-WMS2B00C00.webp",
+      "aliases": [
+        "mitigeur cuisine série 07",
+        "wms2b00c00"
+      ],
+      "description": "Découvrez le Mitigeur Cuisine Série 07, un ajout indispensable à votre espace culinaire. Avec un poids léger de seulement 0,61 kg et une construction en laiton de qualité supérieure, ce mitigeur offre durabilité et fiabilité. Son corps blanc et sa finition chromée apportent une esthétique moderne et élégante à votre cuisine. Profitez d&rsquo;un contrôle précis de la température et du débit d&rsquo;eau pour une expérience de cuisine agréable et efficace.",
+      "categories": [
+        "Robinetterie sanitaire",
+        "Série 07"
+      ],
+      "source": {
+        "id": 32475,
+        "sku": "WMS2B00C00",
+        "permalink": "https://energical.com/fr/produit/mitigeur-cuisine-serie-07/",
+        "stockStatus": "instock",
+        "categoryName": "Robinetterie sanitaire",
+        "scrapedAt": "2026-08-18T22:40:23.156Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-WMS1B00C00",
+      "name": "Mitigeur Lavabo Série 07",
+      "nameAr": "",
+      "brand": "Série 07",
+      "barcode": "WMS1B00C00",
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 2763,
+      "salePrice": 3250,
+      "minStock": 10,
+      "image": "images/sanitaire/ENERGICAL-WMS1B00C00.webp",
+      "aliases": [
+        "mitigeur lavabo série 07",
+        "wms1b00c00"
+      ],
+      "description": "Optez pour le Mitigeur Lavabo Série 07 pour une salle de bain élégante et fonctionnelle. Avec un poids léger de seulement 0,45 kg et une construction en laiton durable, ce mitigeur offre qualité et durabilité. Son design épuré avec un corps blanc et une finition chromée apporte une touche de modernité à votre lavabo. Profitez d&rsquo;un contrôle précis du débit et de la température de l&rsquo;eau pour une expérience de lavage confortable et agréable.",
+      "categories": [
+        "Robinetterie sanitaire",
+        "Série 07"
+      ],
+      "source": {
+        "id": 32471,
+        "sku": "WMS1B00C00",
+        "permalink": "https://energical.com/fr/produit/mitigeur-lavabo-serie-07/",
+        "stockStatus": "instock",
+        "categoryName": "Robinetterie sanitaire",
+        "scrapedAt": "2026-08-18T22:40:23.156Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-WE01C00C00",
+      "name": "Mitigeur à capteur automatique",
+      "nameAr": "",
+      "brand": "Generic",
+      "barcode": "WE01C00C00",
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 13260,
+      "salePrice": 15600,
+      "minStock": 10,
+      "image": "images/sanitaire/ENERGICAL-WE01C00C00.webp",
+      "aliases": [
+        "mitigeur à capteur automatique",
+        "we01c00c00"
+      ],
+      "description": "Le mitigeur à capteur automatique révolutionne votre expérience de salle de bains ou de cuisine avec sa technologie innovante. Alimenté par 4 piles 1.5V-AA ou par un transformateur AC/230V-50HZ inclus, ce mitigeur offre une utilisation pratique et sans effort. Son poids léger de 2,54 kg le rend facile à installer et à utiliser. Profitez de la commodité et de l&rsquo;hygiène d&rsquo;un robinet sans contact, idéal pour les environnements où l&rsquo;hygiène est une priorité.",
+      "categories": [
+        "Robinet infrarouge",
+        "Robinetterie sanitaire"
+      ],
+      "source": {
+        "id": 27070,
+        "sku": "WE01C00C00",
+        "permalink": "https://energical.com/fr/produit/nouveau-robinet-a-capteur-automatique/",
+        "stockStatus": "instock",
+        "categoryName": "Robinet infrarouge",
+        "scrapedAt": "2026-08-18T22:40:25.913Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-WM32C00C00",
+      "name": "Mitigeur Disa",
+      "nameAr": "",
+      "brand": "Disa",
+      "barcode": "WM32C00C00",
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 7472,
+      "salePrice": 8790,
+      "minStock": 10,
+      "image": "images/sanitaire/ENERGICAL-WM32C00C00.webp",
+      "aliases": [
+        "mitigeur disa",
+        "wm32c00c00"
+      ],
+      "description": "Le mitigeur Disa allie style et fonctionnalité pour votre salle de bains ou votre cuisine. Fabriqué en laiton avec une finition chromée élégante, il apporte une touche de modernité à votre espace. Pesant seulement 1,23 kg et mesurant 58 × 30,5 × 7 cm, il est compact et facile à installer. Profitez d&rsquo;une garantie exceptionnelle de 5 ans, offrant une tranquillité d&rsquo;esprit totale. Transformez votre espace avec le mitigeur Disa, alliant qualité, durabilité et esthétique.",
+      "categories": [
+        "Cuisine",
+        "Robinetterie sanitaire"
+      ],
+      "source": {
+        "id": 19330,
+        "sku": "WM32C00C00",
+        "permalink": "https://energical.com/fr/produit/mitigeur-disa/",
+        "stockStatus": "instock",
+        "categoryName": "Cuisine",
+        "scrapedAt": "2026-08-18T22:40:25.913Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-WM12C00C00",
+      "name": "Mitigeur Oxalis",
+      "nameAr": "",
+      "brand": "Oxalis",
+      "barcode": "WM12C00C00",
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 17340,
+      "salePrice": 20400,
+      "minStock": 10,
+      "image": "images/sanitaire/ENERGICAL-WM12C00C00.webp",
+      "aliases": [
+        "mitigeur oxalis",
+        "wm12c00c00"
+      ],
+      "description": "Le mitigeur Oxalis offre un mariage parfait entre élégance et fonctionnalité pour votre salle de bains ou votre cuisine. Fabriqué en laiton avec une finition chromée brillante, il ajoute une touche de style contemporain à votre espace. Pesant 4,08 kg et mesurant 58 × 30,5 × 7 cm, il est robuste et facile à installer. Profitez d&rsquo;un design intemporel et d&rsquo;une durabilité exceptionnelle avec le mitigeur Oxalis pour une expérience quotidienne de qualité.",
+      "categories": [
+        "Cuisine",
+        "Robinetterie sanitaire"
+      ],
+      "source": {
+        "id": 19334,
+        "sku": "WM12C00C00",
+        "permalink": "https://energical.com/fr/produit/mitigeur-oxalis/",
+        "stockStatus": "instock",
+        "categoryName": "Cuisine",
+        "scrapedAt": "2026-08-18T22:40:25.913Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-WM22C00C00",
+      "name": "Mitigeur Acacia",
+      "nameAr": "",
+      "brand": "Acacia",
+      "barcode": "WM22C00C00",
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 16320,
+      "salePrice": 19200,
+      "minStock": 10,
+      "image": "images/sanitaire/ENERGICAL-WM22C00C00.webp",
+      "aliases": [
+        "mitigeur acacia",
+        "wm22c00c00"
+      ],
+      "description": "Le mitigeur Acacia allie style et fonctionnalité pour votre salle de bains ou cuisine. Fabriqué en laiton avec une finition chromée élégante, il apporte une touche de modernité à votre espace. Pesant 3,88 kg et mesurant 58 × 30,5 × 7 cm, il est robuste et facile à installer. Profitez d&rsquo;un design intemporel et d&rsquo;une utilisation fiable au quotidien avec le mitigeur Acacia, pour une expérience de qualité dans votre maison.",
+      "categories": [
+        "Cuisine",
+        "Robinetterie sanitaire"
+      ],
+      "source": {
+        "id": 19338,
+        "sku": "WM22C00C00",
+        "permalink": "https://energical.com/fr/produit/mitigeur-acacia-2/",
+        "stockStatus": "instock",
+        "categoryName": "Cuisine",
+        "scrapedAt": "2026-08-18T22:40:25.913Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-WMC8C00C00",
+      "name": "Mitigeur Bidet Mural",
+      "nameAr": "",
+      "brand": "Generic",
+      "barcode": "WMC8C00C00",
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 4497,
+      "salePrice": 5290,
+      "minStock": 10,
+      "image": "images/sanitaire/ENERGICAL-WMC8C00C00.webp",
+      "aliases": [
+        "mitigeur bidet mural",
+        "wmc8c00c00"
+      ],
+      "description": "Le mitigeur bidet mural ajoute une touche d&rsquo;élégance à votre salle de bains. Fabriqué en laiton avec une finition chromée, il offre durabilité et esthétique. Pesant seulement 1,06 kg et mesurant 20 × 15 × 7 cm, il est facile à installer et à entretenir. Livré avec des accessoires pratiques tels que des flexibles de connexion, une douchette et un support, il offre une expérience bidet complète. Bénéficiez d&rsquo;une garantie de 5 ans pour une tranquillité d&rsquo;esprit totale.",
+      "categories": [
+        "Mitigeur Bidet Mural",
+        "Robinetterie sanitaire"
+      ],
+      "source": {
+        "id": 20351,
+        "sku": "WMC8C00C00",
+        "permalink": "https://energical.com/fr/produit/mitigeur-bidet-mural/",
+        "stockStatus": "instock",
+        "categoryName": "Mitigeur Bidet Mural",
+        "scrapedAt": "2026-08-18T22:40:25.913Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-WC0DC00C00",
+      "name": "Colonne de douche A007",
+      "nameAr": "",
+      "brand": "Generic",
+      "barcode": "WC0DC00C00",
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 13260,
+      "salePrice": 15600,
+      "minStock": 10,
+      "image": "images/sanitaire/ENERGICAL-WC0DC00C00.webp",
+      "aliases": [
+        "colonne de douche a007",
+        "wc0dc00c00"
+      ],
+      "description": "La colonne de douche A007 est l&rsquo;élément parfait pour une expérience de douche luxueuse. Fabriquée en laiton avec une finition chromée élégante, elle ajoute une touche de sophistication à votre salle de bains. Pesant seulement 3,35 kg, elle est légère et facile à installer. Profitez d&rsquo;une garantie de 2 ans pour une tranquillité d&rsquo;esprit totale. Avec son design moderne et ses matériaux de qualité, cette colonne de douche vous offre une expérience de douche ultime.",
+      "categories": [
+        "Colonne de douche",
+        "Robinetterie sanitaire"
+      ],
+      "source": {
+        "id": 19204,
+        "sku": "WC0DC00C00",
+        "permalink": "https://energical.com/fr/produit/colonne-de-douche-a007/",
+        "stockStatus": "instock",
+        "categoryName": "Colonne de douche",
+        "scrapedAt": "2026-08-18T22:40:25.913Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-WMR9C00C00",
+      "name": "Mitigeur Lavabo Vasque Razy",
+      "nameAr": "",
+      "brand": "Fly",
+      "barcode": "WMR9C00C00",
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 8288,
+      "salePrice": 9750,
+      "minStock": 10,
+      "image": "images/sanitaire/ENERGICAL-WMR9C00C00.webp",
+      "aliases": [
+        "mitigeur lavabo vasque razy",
+        "wmr9c00c00"
+      ],
+      "description": "Le mitigeur Vasque Razy apporte une touche d&rsquo;élégance à votre salle de bains. Fabriqué en laiton avec une finition chromée, il offre durabilité et esthétique. Pesant seulement 1,54 kg, il est facile à installer et à entretenir. Doté d&rsquo;une garantie de 5 ans, ce mitigeur vous assure une tranquillité d&rsquo;esprit totale. Profitez d&rsquo;une expérience de lavage luxueuse avec ce mitigeur Vasque Razy, alliant style et qualité.",
+      "categories": [
+        "Chromé",
+        "Razy",
+        "Robinetterie sanitaire"
+      ],
+      "source": {
+        "id": 19263,
+        "sku": "WMR9C00C00",
+        "permalink": "https://energical.com/fr/produit/mitigeur-vasque-razy/",
+        "stockStatus": "instock",
+        "categoryName": "Chromé",
+        "scrapedAt": "2026-08-18T22:40:25.913Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-WMR6C00C00",
+      "name": "Mitigeur cuisine murale Razy",
+      "nameAr": "",
+      "brand": "Fly",
+      "barcode": "WMR6C00C00",
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 7268,
+      "salePrice": 8550,
+      "minStock": 10,
+      "image": "images/sanitaire/ENERGICAL-WMR6C00C00.webp",
+      "aliases": [
+        "mitigeur cuisine murale razy",
+        "wmr6c00c00"
+      ],
+      "description": "Le mitigeur cuisine murale Razy ajoute une touche d&rsquo;élégance à votre cuisine. Fabriqué en laiton avec une finition chromée, il offre durabilité et esthétique. Doté d&rsquo;une garantie de 5 ans, ce mitigeur vous assure une tranquillité d&rsquo;esprit totale. Son design mural permet un gain d&rsquo;espace précieux sur le plan de travail. Profitez d&rsquo;une expérience de cuisine pratique et élégante avec le mitigeur cuisine murale Razy.",
+      "categories": [
+        "Chromé",
+        "Razy",
+        "Robinetterie sanitaire"
+      ],
+      "source": {
+        "id": 19259,
+        "sku": "WMR6C00C00",
+        "permalink": "https://energical.com/fr/produit/mitigeur-cuisine-murale-razy/",
+        "stockStatus": "instock",
+        "categoryName": "Chromé",
+        "scrapedAt": "2026-08-18T22:40:25.913Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-WMR7C00C00",
+      "name": "Mitigeur Bidet Razy",
+      "nameAr": "",
+      "brand": "Fly",
+      "barcode": "WMR7C00C00",
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 5228,
+      "salePrice": 6150,
+      "minStock": 10,
+      "image": "images/sanitaire/ENERGICAL-WMR7C00C00.webp",
+      "aliases": [
+        "mitigeur bidet razy",
+        "wmr7c00c00"
+      ],
+      "description": "Le Mitigeur Bidet Razy en laiton chromé est un choix élégant et durable pour votre salle de bains. Pesant 0,98 kg, ce mitigeur de haute qualité combine style et fonctionnalité avec une finition chromée qui résiste à la corrosion. Avec une garantie de 5 ans, il offre une tranquillité d&rsquo;esprit durable. Sa construction en laiton assure une robustesse exceptionnelle, tandis que son design moderne s&rsquo;intègre parfaitement dans tout décor de salle de bains.",
+      "categories": [
+        "Chromé",
+        "Razy",
+        "Robinetterie sanitaire"
+      ],
+      "source": {
+        "id": 19256,
+        "sku": "WMR7C00C00",
+        "permalink": "https://energical.com/fr/produit/mitigeur-bidet-razy/",
+        "stockStatus": "instock",
+        "categoryName": "Chromé",
+        "scrapedAt": "2026-08-18T22:40:25.913Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-WMR4C00C00",
+      "name": "Mitigeur Douche Razy",
+      "nameAr": "",
+      "brand": "Fly",
+      "barcode": "WMR4C00C00",
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 7268,
+      "salePrice": 8550,
+      "minStock": 10,
+      "image": "images/sanitaire/ENERGICAL-WMR4C00C00.webp",
+      "aliases": [
+        "mitigeur douche razy",
+        "wmr4c00c00"
+      ],
+      "description": "Le Mitigeur Douche Razy en laiton chromé est un complément parfait pour toute salle de bains moderne. Pesant 0,94 kg, ce mitigeur élégant est conçu pour durer, offrant une résistance à la corrosion grâce à sa finition chromée. Il inclut des flexibles de connexion, une douchette et un support pour une installation complète et pratique. Avec une garantie de 5 ans, ce mitigeur assure qualité et tranquillité d&rsquo;esprit.",
+      "categories": [
+        "Chromé",
+        "Razy",
+        "Robinetterie sanitaire"
+      ],
+      "source": {
+        "id": 19250,
+        "sku": "WMR4C00C00",
+        "permalink": "https://energical.com/fr/produit/mitigeur-douche-razy/",
+        "stockStatus": "instock",
+        "categoryName": "Chromé",
+        "scrapedAt": "2026-08-18T22:40:25.913Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-WMR5C00C00",
+      "name": "Mitigeur Bain douche Razy",
+      "nameAr": "",
+      "brand": "Fly",
+      "barcode": "WMR5C00C00",
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 8373,
+      "salePrice": 9850,
+      "minStock": 10,
+      "image": "images/sanitaire/ENERGICAL-WMR5C00C00.webp",
+      "aliases": [
+        "mitigeur bain douche razy",
+        "wmr5c00c00"
+      ],
+      "description": "Le Mitigeur Bain Douche Razy en laiton chromé est l&rsquo;élément parfait pour une salle de bains élégante et fonctionnelle. Pesant 1,39 kg, ce mitigeur robuste et durable est conçu pour résister à la corrosion grâce à sa finition chromée. Il comprend des flexibles de connexion, une douchette et un support pour une installation facile et pratique. Bénéficiez de la tranquillité d&rsquo;esprit avec une garantie de 5 ans, assurant une qualité et une fiabilité exceptionnelles.",
+      "categories": [
+        "Chromé",
+        "Razy",
+        "Robinetterie sanitaire"
+      ],
+      "source": {
+        "id": 19247,
+        "sku": "WMR5C00C00",
+        "permalink": "https://energical.com/fr/produit/mitigeur-bain-douche-razy/",
+        "stockStatus": "instock",
+        "categoryName": "Chromé",
+        "scrapedAt": "2026-08-18T22:40:25.913Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-WMR2C00C00",
+      "name": "Mitigeur Cuisine Razy",
+      "nameAr": "",
+      "brand": "Fly",
+      "barcode": "WMR2C00C00",
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 6248,
+      "salePrice": 7350,
+      "minStock": 10,
+      "image": "images/sanitaire/ENERGICAL-WMR2C00C00.webp",
+      "aliases": [
+        "mitigeur cuisine razy",
+        "wmr2c00c00"
+      ],
+      "description": "Le Mitigeur Cuisine Razy en laiton chromé est l&rsquo;ajout parfait à votre cuisine moderne. Pesant 1,26 kg, ce mitigeur robuste offre une durabilité exceptionnelle et une résistance à la corrosion grâce à sa finition chromée. Conçu pour une utilisation quotidienne intensive, il combine esthétique et fonctionnalité. Avec une garantie de 5 ans, il assure une tranquillité d&rsquo;esprit et une performance fiable pour toutes vos tâches culinaires.",
+      "categories": [
+        "Chromé",
+        "Razy",
+        "Robinetterie sanitaire"
+      ],
+      "source": {
+        "id": 19211,
+        "sku": "WMR2C00C00",
+        "permalink": "https://energical.com/fr/produit/mitigeur-cuisine-razy/",
+        "stockStatus": "instock",
+        "categoryName": "Chromé",
+        "scrapedAt": "2026-08-18T22:40:25.913Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-WMR1C00C00",
+      "name": "Mitigeur Lavabo Razy",
+      "nameAr": "",
+      "brand": "Fly",
+      "barcode": "WMR1C00C00",
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 5228,
+      "salePrice": 6150,
+      "minStock": 10,
+      "image": "images/sanitaire/ENERGICAL-WMR1C00C00.webp",
+      "aliases": [
+        "mitigeur lavabo razy",
+        "wmr1c00c00"
+      ],
+      "description": "Le Mitigeur Lavabo Razy en laiton chromé est conçu pour apporter une touche de modernité et de durabilité à votre salle de bains. Avec un poids de 1,24 kg, ce mitigeur robuste est résistant à la corrosion grâce à sa finition chromée. Idéal pour une utilisation quotidienne, il combine esthétisme et fonctionnalité. Bénéficiez d&rsquo;une garantie de 5 ans, assurant une qualité et une fiabilité exceptionnelles pour une tranquillité d&rsquo;esprit prolongée.",
+      "categories": [
+        "Chromé",
+        "Razy",
+        "Robinetterie sanitaire"
+      ],
+      "source": {
+        "id": 19244,
+        "sku": "WMR1C00C00",
+        "permalink": "https://energical.com/fr/produit/mitigeur-lavabo-razy/",
+        "stockStatus": "instock",
+        "categoryName": "Chromé",
+        "scrapedAt": "2026-08-18T22:40:25.913Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-WC0EC00C00",
+      "name": "Colonne de douche A008",
+      "nameAr": "",
+      "brand": "Generic",
+      "barcode": "WC0EC00C00",
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 14790,
+      "salePrice": 17400,
+      "minStock": 10,
+      "image": "images/sanitaire/ENERGICAL-WC0EC00C00.webp",
+      "aliases": [
+        "colonne de douche a008",
+        "wc0ec00c00"
+      ],
+      "description": "La Colonne de douche A008 en laiton chromé est l&rsquo;ajout idéal pour une salle de bains moderne et élégante. Avec un poids de 3,47 kg, cette colonne robuste offre une durabilité et une résistance exceptionnelles à la corrosion grâce à sa finition chromée. Conçue pour un confort optimal, elle intègre des fonctionnalités pratiques pour une expérience de douche luxueuse. Profitez d&rsquo;une tranquillité d&rsquo;esprit avec une garantie de 2 ans, assurant une qualité et une fiabilité à long term",
+      "categories": [
+        "Colonne de douche",
+        "Robinetterie sanitaire"
+      ],
+      "source": {
+        "id": 19207,
+        "sku": "WC0EC00C00",
+        "permalink": "https://energical.com/fr/produit/colonne-de-douche-a008/",
+        "stockStatus": "instock",
+        "categoryName": "Colonne de douche",
+        "scrapedAt": "2026-08-18T22:40:25.913Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-BS86 180080SA",
+      "name": "Baignoire BS86",
+      "nameAr": "",
+      "brand": "Generic",
+      "barcode": "BS86 180080SA",
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 10923,
+      "salePrice": 12850,
+      "minStock": 10,
+      "image": "images/sanitaire/ENERGICAL-BS86_180080SA.webp",
+      "aliases": [
+        "baignoire bs86",
+        "bs86 180080sa"
+      ],
+      "description": "La baignoire BS86 offre une expérience de bain luxueuse dans un design élégant. Avec ses dimensions généreuses de 180 × 80 × 40 cm et un volume de 260 L, elle vous permet de vous détendre pleinement. Fabriquée en acrylique de haute qualité (ABS + PMMA) et disponible en blanc éclatant, cette baignoire allie durabilité et esthétique. Son poids de 22 kg garantit une installation facile et sécurisée dans votre salle de bain.",
+      "categories": [
+        "Baignoires"
+      ],
+      "source": {
+        "id": 13147,
+        "sku": "BS86 180080SA",
+        "permalink": "https://energical.com/fr/produit/baignoire-bs86/",
+        "stockStatus": "instock",
+        "categoryName": "Baignoires",
+        "scrapedAt": "2026-08-18T22:40:28.483Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-BS85 180075SA",
+      "name": "Baignoire BS85",
+      "nameAr": "",
+      "brand": "Generic",
+      "barcode": "BS85 180075SA",
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 10795,
+      "salePrice": 12700,
+      "minStock": 10,
+      "image": "images/sanitaire/ENERGICAL-BS85_180075SA.webp",
+      "aliases": [
+        "baignoire bs85",
+        "bs85 180075sa"
+      ],
+      "description": "La baignoire BS85 offre une expérience de bain relaxante dans un design moderne. Avec ses dimensions généreuses de 180 × 75 × 39,5 cm et un volume de 260 L, elle vous permet de profiter d&rsquo;un bain confortable. Fabriquée en acrylique de haute qualité (ABS + PMMA) et disponible en blanc élégant, cette baignoire combine style et durabilité. Avec un poids de 21 kg, elle s&rsquo;installe facilement dans votre salle de bain pour un plaisir durable.",
+      "categories": [
+        "Baignoires"
+      ],
+      "source": {
+        "id": 13143,
+        "sku": "BS85 180075SA",
+        "permalink": "https://energical.com/fr/produit/baignoire-bs85/",
+        "stockStatus": "instock",
+        "categoryName": "Baignoires",
+        "scrapedAt": "2026-08-18T22:40:28.483Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-BS81 180080AA",
+      "name": "Baignoire BS81",
+      "nameAr": "",
+      "brand": "Generic",
+      "barcode": "BS81 180080AA",
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 10923,
+      "salePrice": 12850,
+      "minStock": 10,
+      "image": "images/sanitaire/ENERGICAL-BS81_180080AA.webp",
+      "aliases": [
+        "baignoire bs81",
+        "bs81 180080aa"
+      ],
+      "description": "La baignoire BS81 offre une expérience de bain luxueuse dans un design élégant. Avec ses dimensions spacieuses de 180 × 80 × 40 cm et un volume généreux de 390 L, elle vous permet de vous détendre pleinement. Fabriquée en acrylique de haute qualité (ABS + PMMA) et disponible en blanc éclatant, cette baignoire allie durabilité et esthétique. Son poids de 22 kg garantit une installation facile et sécurisée dans votre salle de bain.",
+      "categories": [
+        "Baignoires"
+      ],
+      "source": {
+        "id": 13139,
+        "sku": "BS81 180080AA",
+        "permalink": "https://energical.com/fr/produit/baignoire-bs81/",
+        "stockStatus": "instock",
+        "categoryName": "Baignoires",
+        "scrapedAt": "2026-08-18T22:40:28.483Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-BS80 180075AA",
+      "name": "Baignoire BS80",
+      "nameAr": "",
+      "brand": "Generic",
+      "barcode": "BS80 180075AA",
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 10710,
+      "salePrice": 12600,
+      "minStock": 10,
+      "image": "images/sanitaire/ENERGICAL-BS80_180075AA.webp",
+      "aliases": [
+        "baignoire bs80",
+        "bs80 180075aa"
+      ],
+      "description": "La baignoire BS80 offre une expérience de bain relaxante dans un design moderne. Avec ses dimensions de 180 × 75 × 40 cm et un volume de 300 L, elle vous permet de profiter d&rsquo;un bain confortable. Fabriquée en acrylique de haute qualité (ABS + PMMA) et disponible en blanc élégant, cette baignoire combine style et durabilité. Son poids de 21 kg facilite son installation dans votre salle de bain pour une expérience de bain agréable.",
+      "categories": [
+        "Baignoires"
+      ],
+      "source": {
+        "id": 13135,
+        "sku": "BS80 180075AA",
+        "permalink": "https://energical.com/fr/produit/baignoire-bs80/",
+        "stockStatus": "instock",
+        "categoryName": "Baignoires",
+        "scrapedAt": "2026-08-18T22:40:28.483Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-BS77 170080SA",
+      "name": "Baignoire BS77",
+      "nameAr": "",
+      "brand": "Generic",
+      "barcode": "BS77 170080SA",
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 10498,
+      "salePrice": 12350,
+      "minStock": 10,
+      "image": "images/sanitaire/ENERGICAL-BS77_170080SA.webp",
+      "aliases": [
+        "baignoire bs77",
+        "bs77 170080sa"
+      ],
+      "description": "La baignoire BS77 offre une expérience de bain confortable dans un design moderne. Avec des dimensions de 170 × 80 × 40 cm et un volume de 245 L, elle vous permet de vous détendre pleinement. Fabriquée en acrylique de haute qualité (ABS + PMMA) et disponible en blanc éclatant, cette baignoire combine durabilité et esthétique. Son poids de 21 kg facilite son installation dans votre salle de bain pour des moments de relaxation paisibles.",
+      "categories": [
+        "Baignoires"
+      ],
+      "source": {
+        "id": 13131,
+        "sku": "BS77 170080SA",
+        "permalink": "https://energical.com/fr/produit/baignoire-bs77/",
+        "stockStatus": "instock",
+        "categoryName": "Baignoires",
+        "scrapedAt": "2026-08-18T22:40:28.483Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-BS76 170075SA",
+      "name": "Baignoire BS76",
+      "nameAr": "",
+      "brand": "Generic",
+      "barcode": "BS76 170075SA",
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 10328,
+      "salePrice": 12150,
+      "minStock": 10,
+      "image": "images/sanitaire/ENERGICAL-BS76_170075SA.webp",
+      "aliases": [
+        "baignoire bs76",
+        "bs76 170075sa"
+      ],
+      "description": "La baignoire BS76 offre une expérience de bain relaxante dans un design moderne et compact. Avec des dimensions de 170 × 75 × 39,5 cm et un volume de 240 L, elle vous permet de vous détendre confortablement. Fabriquée en acrylique de haute qualité (ABS + PMMA) et disponible en blanc élégant, cette baignoire combine durabilité et esthétique. Son poids de 20 kg facilite son installation dans votre salle de bain pour des moments de détente paisibles.",
+      "categories": [
+        "Baignoires"
+      ],
+      "source": {
+        "id": 13127,
+        "sku": "BS76 170075SA",
+        "permalink": "https://energical.com/fr/produit/baignoire-bs76/",
+        "stockStatus": "instock",
+        "categoryName": "Baignoires",
+        "scrapedAt": "2026-08-18T22:40:28.483Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-BS75 170070SA",
+      "name": "Baignoire BS75",
+      "nameAr": "",
+      "brand": "Generic",
+      "barcode": "BS75 170070SA",
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 10328,
+      "salePrice": 12150,
+      "minStock": 10,
+      "image": "images/sanitaire/ENERGICAL-BS75_170070SA.webp",
+      "aliases": [
+        "baignoire bs75",
+        "bs75 170070sa"
+      ],
+      "description": "La baignoire BS75 offre une expérience de bain confortable dans un design moderne et compact. Avec des dimensions de 170 × 70 × 40 cm et un volume de 150 L, elle est idéale pour les petites salles de bains. Fabriquée en acrylique de haute qualité (ABS + PMMA) et disponible en blanc élégant, cette baignoire combine durabilité et esthétique. Son poids léger de 14 kg facilite son installation et sa manipulation pour une détente maximale.",
+      "categories": [
+        "Baignoires"
+      ],
+      "source": {
+        "id": 13123,
+        "sku": "BS75 170070SA",
+        "permalink": "https://energical.com/fr/produit/baignoire-bs75/",
+        "stockStatus": "instock",
+        "categoryName": "Baignoires",
+        "scrapedAt": "2026-08-18T22:40:28.483Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-BS72 170080AA",
+      "name": "Baignoire BS72",
+      "nameAr": "",
+      "brand": "Generic",
+      "barcode": "BS72 170080AA",
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 10498,
+      "salePrice": 12350,
+      "minStock": 10,
+      "image": "images/sanitaire/ENERGICAL-BS72_170080AA.webp",
+      "aliases": [
+        "baignoire bs72",
+        "bs72 170080aa"
+      ],
+      "description": "La baignoire BS72 offre une expérience de bain luxueuse dans un design moderne et spacieux. Avec des dimensions de 170 × 80 × 40 cm et un volume généreux de 270 L, elle vous permet de vous détendre pleinement. Fabriquée en acrylique de haute qualité (ABS + PMMA) et disponible en blanc élégant, cette baignoire combine durabilité et esthétique. Son poids de 21 kg facilite son installation dans votre salle de bain pour des moments de relaxation paisibles.",
+      "categories": [
+        "Baignoires"
+      ],
+      "source": {
+        "id": 13119,
+        "sku": "BS72 170080AA",
+        "permalink": "https://energical.com/fr/produit/baignoire-bs72/",
+        "stockStatus": "instock",
+        "categoryName": "Baignoires",
+        "scrapedAt": "2026-08-18T22:40:28.483Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-BS71 170075AA",
+      "name": "Baignoire BS71",
+      "nameAr": "",
+      "brand": "Generic",
+      "barcode": "BS71 170075AA",
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 10328,
+      "salePrice": 12150,
+      "minStock": 10,
+      "image": "images/sanitaire/ENERGICAL-BS71_170075AA.webp",
+      "aliases": [
+        "baignoire bs71",
+        "bs71 170075aa"
+      ],
+      "description": "La baignoire BS71 offre une expérience de bain confortable dans un design moderne et spacieux. Avec des dimensions de 170 × 75 × 40 cm et un volume généreux de 280 L, elle vous permet de vous détendre pleinement. Fabriquée en acrylique de haute qualité (ABS + PMMA) et disponible en blanc élégant, cette baignoire combine durabilité et esthétique. Son poids de 20 kg facilite son installation dans votre salle de bain pour des moments de relaxation paisibles.",
+      "categories": [
+        "Baignoires"
+      ],
+      "source": {
+        "id": 13115,
+        "sku": "BS71 170075AA",
+        "permalink": "https://energical.com/fr/produit/baignoire-bs71/",
+        "stockStatus": "instock",
+        "categoryName": "Baignoires",
+        "scrapedAt": "2026-08-18T22:40:28.483Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-BS70 170070AA",
+      "name": "Baignoire BS70",
+      "nameAr": "",
+      "brand": "Generic",
+      "barcode": "BS70 170070AA",
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 10328,
+      "salePrice": 12150,
+      "minStock": 10,
+      "image": "images/sanitaire/ENERGICAL-BS70_170070AA.webp",
+      "aliases": [
+        "baignoire bs70",
+        "bs70 170070aa"
+      ],
+      "description": "Découvrez la baignoire BS70, un chef-d&rsquo;œuvre de confort et de sophistication pour votre salle de bains. Avec un poids de 13,5 kg et des dimensions généreuses de 170 × 70 × 40 cm, cette baignoire offre un espace luxueux pour se détendre. Fabriquée en acrylique de qualité supérieure (ABS + PMMA) et d&rsquo;une capacité de 190 litres, elle garantit une durabilité et une résistance exceptionnelles. Son design élégant en blanc apporte une touche de modernité à votre espace de bain.",
+      "categories": [
+        "Baignoires"
+      ],
+      "source": {
+        "id": 13111,
+        "sku": "BS70 170070AA",
+        "permalink": "https://energical.com/fr/produit/baignoire-bs70/",
+        "stockStatus": "instock",
+        "categoryName": "Baignoires",
+        "scrapedAt": "2026-08-18T22:40:28.483Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-BS66 160070SA",
+      "name": "Baignoire BS66",
+      "nameAr": "",
+      "brand": "Generic",
+      "barcode": "BS66 160070SA",
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 9053,
+      "salePrice": 10650,
+      "minStock": 10,
+      "image": "images/sanitaire/ENERGICAL-BS66_160070SA.webp",
+      "aliases": [
+        "baignoire bs66",
+        "bs66 160070sa"
+      ],
+      "description": "Plongez dans le luxe avec la baignoire BS66, un symbole d&rsquo;élégance et de confort dans votre salle de bains. Pesant 14,5 kg et mesurant 160 × 70 × 40 cm, cette baignoire offre un espace généreux pour se détendre. Fabriquée en acrylique de haute qualité (ABS + PMMA) et d&rsquo;une capacité de 130 litres, elle garantit une durabilité et une résistance exceptionnelles. Avec son design épuré en blanc, elle apporte une touche moderne à votre espace de bain.",
+      "categories": [
+        "Baignoires"
+      ],
+      "source": {
+        "id": 13107,
+        "sku": "BS66 160070SA",
+        "permalink": "https://energical.com/fr/produit/baignoire-bs66/",
+        "stockStatus": "instock",
+        "categoryName": "Baignoires",
+        "scrapedAt": "2026-08-18T22:40:28.483Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-BS65 160070SA",
+      "name": "Baignoire BS65",
+      "nameAr": "",
+      "brand": "Generic",
+      "barcode": "BS65 160070SA",
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 9053,
+      "salePrice": 10650,
+      "minStock": 10,
+      "image": "images/sanitaire/ENERGICAL-BS65_160070SA.webp",
+      "aliases": [
+        "baignoire bs65",
+        "bs65 160070sa"
+      ],
+      "description": "Plongez dans le confort ultime avec la baignoire BS65, conçue pour allier élégance et relaxation dans votre salle de bains. Pesant 13,5 kg et mesurant 160 × 70 × 40 cm, elle offre un espace spacieux pour se détendre. Fabriquée en acrylique de haute qualité (ABS + PMMA) et d&rsquo;une capacité de 155 litres, cette baignoire garantit une durabilité et une résistance exceptionnelles. Son design épuré en blanc ajoute une touche de modernité à votre espace de bain.",
+      "categories": [
+        "Baignoires"
+      ],
+      "source": {
+        "id": 13103,
+        "sku": "BS65 160070SA",
+        "permalink": "https://energical.com/fr/produit/baignoire-bs65/",
+        "stockStatus": "instock",
+        "categoryName": "Baignoires",
+        "scrapedAt": "2026-08-18T22:40:28.483Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-BS62 160090AC-G",
+      "name": "Baignoire BS62",
+      "nameAr": "",
+      "brand": "Generic",
+      "barcode": "BS62 160090AC-G",
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 10455,
+      "salePrice": 12300,
+      "minStock": 10,
+      "image": "images/sanitaire/ENERGICAL-BS62_160090AC-G.webp",
+      "aliases": [
+        "baignoire bs62",
+        "bs62 160090ac-g"
+      ],
+      "description": "Découvrez la baignoire BS62, un havre de luxe et de détente pour votre salle de bains. Avec un poids de 14 kg et des dimensions généreuses de 160 × 90 × 40 cm, cette baignoire offre un espace spacieux pour se prélasser. Fabriquée en acrylique de haute qualité (ABS + PMMA) et d&rsquo;une capacité de 240 litres, elle garantit une durabilité et une résistance exceptionnelles. Son design blanc épuré apporte une touche de modernité à votre espace de bain.",
+      "categories": [
+        "Baignoires"
+      ],
+      "source": {
+        "id": 13095,
+        "sku": "BS62 160090AC-G",
+        "permalink": "https://energical.com/fr/produit/baignoire-bs62/",
+        "stockStatus": "instock",
+        "categoryName": "Baignoires",
+        "scrapedAt": "2026-08-18T22:40:28.483Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-BS61 160090AC-D",
+      "name": "Baignoire BS61",
+      "nameAr": "",
+      "brand": "Generic",
+      "barcode": "BS61 160090AC-D",
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 10455,
+      "salePrice": 12300,
+      "minStock": 10,
+      "image": "images/sanitaire/ENERGICAL-BS61_160090AC-D.webp",
+      "aliases": [
+        "baignoire bs61",
+        "bs61 160090ac-d"
+      ],
+      "description": "Découvrez la baignoire BS61, une oasis de luxe et de confort pour votre salle de bains. Avec un poids de 14 kg et des dimensions généreuses de 160 × 90 × 40 cm, cette baignoire offre un espace spacieux pour se détendre. Fabriquée en acrylique de haute qualité (ABS + PMMA) et d&rsquo;une capacité de 240 litres, elle garantit une durabilité et une résistance exceptionnelles. Son design blanc épuré apporte une touche de modernité à votre espace de bain.",
+      "categories": [
+        "Baignoires"
+      ],
+      "source": {
+        "id": 13090,
+        "sku": "BS61 160090AC-D",
+        "permalink": "https://energical.com/fr/produit/baignoire-bs61/",
+        "stockStatus": "instock",
+        "categoryName": "Baignoires",
+        "scrapedAt": "2026-08-18T22:40:28.483Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-BS60 160070AA",
+      "name": "Baignoire BS60",
+      "nameAr": "",
+      "brand": "Generic",
+      "barcode": "BS60 160070AA",
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 9053,
+      "salePrice": 10650,
+      "minStock": 10,
+      "image": "images/sanitaire/ENERGICAL-BS60_160070AA.webp",
+      "aliases": [
+        "baignoire bs60",
+        "bs60 160070aa"
+      ],
+      "description": "Découvrez la baignoire BS60, un mélange parfait de luxe et de fonctionnalité pour votre salle de bains. Avec un poids de 15 kg et des dimensions de 160 × 70 × 40 cm, cette baignoire offre un espace spacieux pour se détendre. Fabriquée en acrylique de haute qualité (ABS + PMMA) et d&rsquo;une capacité de 200 litres, elle assure une durabilité et une résistance exceptionnelles. Son design élégant en blanc ajoute une touche de modernité à votre espace de bain.",
+      "categories": [
+        "Baignoires"
+      ],
+      "source": {
+        "id": 13086,
+        "sku": "BS60 160070AA",
+        "permalink": "https://energical.com/fr/produit/baignoire-bs60/",
+        "stockStatus": "instock",
+        "categoryName": "Baignoires",
+        "scrapedAt": "2026-08-18T22:40:28.483Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-BS55 150070SA",
+      "name": "Baignoire BS55",
+      "nameAr": "",
+      "brand": "Generic",
+      "barcode": "BS55 150070SA",
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 8755,
+      "salePrice": 10300,
+      "minStock": 10,
+      "image": "images/sanitaire/ENERGICAL-BS55_150070SA.webp",
+      "aliases": [
+        "baignoire bs55",
+        "bs55 150070sa"
+      ],
+      "description": "Découvrez la baignoire BS55, une combinaison parfaite de style et de confort pour votre salle de bains. Avec un poids de 13 kg et des dimensions de 150 × 70 × 40 cm, cette baignoire offre un espace généreux pour se détendre. Fabriquée en acrylique de haute qualité (ABS + PMMA) et d&rsquo;une capacité de 140 litres, elle garantit une durabilité et une résistance exceptionnelles. Son design élégant en blanc apporte une touche de modernité à votre espace de bain.",
+      "categories": [
+        "Baignoires"
+      ],
+      "source": {
+        "id": 13082,
+        "sku": "BS55 150070SA",
+        "permalink": "https://energical.com/fr/produit/baignoire-bs55/",
+        "stockStatus": "instock",
+        "categoryName": "Baignoires",
+        "scrapedAt": "2026-08-18T22:40:28.483Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-BS50 150070AA",
+      "name": "Baignoire BS50",
+      "nameAr": "",
+      "brand": "Generic",
+      "barcode": "BS50 150070AA",
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 8755,
+      "salePrice": 10300,
+      "minStock": 10,
+      "image": "images/sanitaire/ENERGICAL-BS50_150070AA.webp",
+      "aliases": [
+        "baignoire bs50",
+        "bs50 150070aa"
+      ],
+      "description": "Plongez dans le luxe avec la baignoire BS50, un mariage parfait de style et de confort pour votre salle de bains. Avec un poids de 13,5 kg et des dimensions de 150 × 70 × 40 cm, cette baignoire offre un espace généreux pour se détendre. Fabriquée en acrylique de haute qualité (ABS + PMMA) et d&rsquo;une capacité de 155 litres, elle garantit une durabilité et une résistance exceptionnelles. Son design élégant en blanc rehausse le charme de votre espace de bain.",
+      "categories": [
+        "Baignoires"
+      ],
+      "source": {
+        "id": 13078,
+        "sku": "BS50 150070AA",
+        "permalink": "https://energical.com/fr/produit/baignoire-bs50/",
+        "stockStatus": "instock",
+        "categoryName": "Baignoires",
+        "scrapedAt": "2026-08-18T22:40:28.483Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-BS45 140070SA",
+      "name": "Baignoire BS45",
+      "nameAr": "",
+      "brand": "Generic",
+      "barcode": "BS45 140070SA",
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 8330,
+      "salePrice": 9800,
+      "minStock": 10,
+      "image": "images/sanitaire/ENERGICAL-BS45_140070SA.webp",
+      "aliases": [
+        "baignoire bs45",
+        "bs45 140070sa"
+      ],
+      "description": "Découvrez la baignoire BS45, une fusion parfaite de design contemporain et de confort pour votre salle de bains. Avec un poids de 13 kg et des dimensions de 140 × 70 × 40 cm, cette baignoire offre un espace généreux pour se détendre. Fabriquée en acrylique de haute qualité (ABS + PMMA) et d&rsquo;une capacité de 155 litres, elle assure une durabilité et une résistance exceptionnelles. Son design épuré en blanc apporte une touche moderne à votre espace de bain.",
+      "categories": [
+        "Baignoires"
+      ],
+      "source": {
+        "id": 13074,
+        "sku": "BS45 140070SA",
+        "permalink": "https://energical.com/fr/produit/baignoire-bs45/",
+        "stockStatus": "instock",
+        "categoryName": "Baignoires",
+        "scrapedAt": "2026-08-18T22:40:28.483Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-BS40 140070AA",
+      "name": "Baignoire BS40",
+      "nameAr": "",
+      "brand": "Generic",
+      "barcode": "BS40 140070AA",
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 8330,
+      "salePrice": 9800,
+      "minStock": 10,
+      "image": "images/sanitaire/ENERGICAL-BS40_140070AA.webp",
+      "aliases": [
+        "baignoire bs40",
+        "bs40 140070aa"
+      ],
+      "description": "Découvrez la baignoire BS40, une pièce maîtresse de style et de confort pour votre salle de bains. Avec un poids de 13 kg et des dimensions de 140 × 70 × 40 cm, cette baignoire offre un espace généreux pour se détendre. Fabriquée en acrylique de haute qualité (ABS + PMMA) et d&rsquo;une capacité de 155 litres, elle assure une durabilité et une résistance exceptionnelles. Son design élégant en blanc apporte une touche moderne à votre espace de bain.",
+      "categories": [
+        "Baignoires"
+      ],
+      "source": {
+        "id": 13069,
+        "sku": "BS40 140070AA",
+        "permalink": "https://energical.com/fr/produit/baignoire-bs40/",
+        "stockStatus": "instock",
+        "categoryName": "Baignoires",
+        "scrapedAt": "2026-08-18T22:40:28.483Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-BS21 120070AA",
+      "name": "Baignoire BS21",
+      "nameAr": "",
+      "brand": "Generic",
+      "barcode": "BS21 120070AA",
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 6758,
+      "salePrice": 7950,
+      "minStock": 10,
+      "image": "images/sanitaire/ENERGICAL-BS21_120070AA.webp",
+      "aliases": [
+        "baignoire bs21",
+        "bs21 120070aa"
+      ],
+      "description": "Découvrez la baignoire BS21, un équilibre parfait entre design contemporain et confort pour votre salle de bains. Avec un poids de 14 kg et des dimensions de 120 × 70 × 40 cm, cette baignoire offre un espace généreux pour se détendre. Fabriquée en acrylique de haute qualité (ABS + PMMA) et d&rsquo;une capacité de 175 litres, elle garantit une durabilité et une résistance exceptionnelles. Son design épuré en blanc ajoute une touche de modernité à votre espace de bain.",
+      "categories": [
+        "Baignoires"
+      ],
+      "source": {
+        "id": 13065,
+        "sku": "BS21 120070AA",
+        "permalink": "https://energical.com/fr/produit/baignoire-bs21/",
+        "stockStatus": "instock",
+        "categoryName": "Baignoires",
+        "scrapedAt": "2026-08-18T22:40:28.483Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-BS41 140140SC",
+      "name": "Baignoire BS41",
+      "nameAr": "",
+      "brand": "Generic",
+      "barcode": "BS41 140140SC",
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 16320,
+      "salePrice": 19200,
+      "minStock": 10,
+      "image": "images/sanitaire/ENERGICAL-BS41_140140SC.webp",
+      "aliases": [
+        "baignoire bs41",
+        "bs41 140140sc"
+      ],
+      "description": "La baignoire BS41 offre une expérience de bain luxueuse dans un design moderne et spacieux. Avec des dimensions de 140 × 140 × 40 cm et un volume généreux de 350 L, elle vous permet de vous détendre pleinement. Fabriquée en acrylique de haute qualité (ABS + PMMA) et disponible en blanc élégant, cette baignoire combine durabilité et esthétique. Son poids de 28 kg assure une stabilité et une sécurité optimales dans votre salle de bain.",
+      "categories": [
+        "Baignoires"
+      ],
+      "source": {
+        "id": 13061,
+        "sku": "BS41 140140SC",
+        "permalink": "https://energical.com/fr/produit/baignoire-bs41/",
+        "stockStatus": "instock",
+        "categoryName": "Baignoires",
+        "scrapedAt": "2026-08-18T22:40:28.483Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-BS30 130130SC",
+      "name": "Baignoire BS30",
+      "nameAr": "",
+      "brand": "Generic",
+      "barcode": "BS30 130130SC",
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 14323,
+      "salePrice": 16850,
+      "minStock": 10,
+      "image": "images/sanitaire/ENERGICAL-BS30_130130SC.webp",
+      "aliases": [
+        "baignoire bs30",
+        "bs30 130130sc"
+      ],
+      "description": "La baignoire BS30 offre une expérience de bain luxueuse dans un design moderne et compact. Avec des dimensions de 130 × 130 × 40 cm et un volume généreux de 310 L, elle vous permet de vous détendre pleinement. Fabriquée en acrylique de haute qualité (ABS + PMMA) et disponible en blanc élégant, cette baignoire combine durabilité et esthétique. Son poids de 26 kg assure une stabilité optimale, offrant ainsi une expérience de bain sécurisée.",
+      "categories": [
+        "Baignoires"
+      ],
+      "source": {
+        "id": 13057,
+        "sku": "BS30 130130SC",
+        "permalink": "https://energical.com/fr/produit/baignoire-bs30/",
+        "stockStatus": "instock",
+        "categoryName": "Baignoires",
+        "scrapedAt": "2026-08-18T22:40:28.483Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-BS20 120120SC",
+      "name": "Baignoire BS20",
+      "nameAr": "",
+      "brand": "Generic",
+      "barcode": "BS20 120120SC",
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 11433,
+      "salePrice": 13450,
+      "minStock": 10,
+      "image": "images/sanitaire/ENERGICAL-BS20_120120SC.webp",
+      "aliases": [
+        "baignoire bs20",
+        "bs20 120120sc"
+      ],
+      "description": "La baignoire BS20 offre une expérience de bain confortable dans un design moderne et compact. Avec des dimensions de 120 × 120 × 40 cm et un volume généreux de 260 L, elle vous permet de vous détendre pleinement. Fabriquée en acrylique de haute qualité (ABS + PMMA) et disponible en blanc élégant, cette baignoire combine durabilité et esthétique. Son poids léger de 14 kg facilite son installation et sa manipulation pour une détente maximale.",
+      "categories": [
+        "Baignoires"
+      ],
+      "source": {
+        "id": 12981,
+        "sku": "BS20 120120SC",
+        "permalink": "https://energical.com/fr/produit/baignoire-bs20/",
+        "stockStatus": "instock",
+        "categoryName": "Baignoires",
+        "scrapedAt": "2026-08-18T22:40:28.483Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-WMT7C00C00",
+      "name": "Mitigeur Bidet Tulip",
+      "nameAr": "",
+      "brand": "Tulip",
+      "barcode": "WMT7C00C00",
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 5313,
+      "salePrice": 6250,
+      "minStock": 10,
+      "image": "images/sanitaire/ENERGICAL-WMT7C00C00.webp",
+      "aliases": [
+        "mitigeur bidet tulip",
+        "wmt7c00c00"
+      ],
+      "description": "Le mitigeur bidet Tulip combine élégance et fonctionnalité dans votre salle de bain. Pesant 1,370 kg et mesurant 173 × 172 × 117 cm, il offre une expérience de lavage confortable. Fabriqué avec un corps en laiton et une manette en alliage de zinc, il assure durabilité et résistance à la corrosion. Conforme aux normes NF EN 200, NF EN 877 et NF EN 1503-4, ce mitigeur est équipé de composants de haute qualité pour une utilisation fiable. Garantie de 5 ans incluse.",
+      "categories": [
+        "Robinetterie sanitaire",
+        "Tulip"
+      ],
+      "source": {
+        "id": 12210,
+        "sku": "WMT7C00C00",
+        "permalink": "https://energical.com/fr/produit/mitigeur-bidet-tulip/",
+        "stockStatus": "instock",
+        "categoryName": "Robinetterie sanitaire",
+        "scrapedAt": "2026-08-18T22:40:31.135Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-WMT4C00C00",
+      "name": "Mitigeur Douche Tulip",
+      "nameAr": "",
+      "brand": "Tulip",
+      "barcode": "WMT4C00C00",
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 7650,
+      "salePrice": 9000,
+      "minStock": 10,
+      "image": "images/sanitaire/ENERGICAL-WMT4C00C00.webp",
+      "aliases": [
+        "mitigeur douche tulip",
+        "wmt4c00c00"
+      ],
+      "description": "Le mitigeur douche Tulip offre une expérience de douche luxueuse dans votre salle de bain. Pesant 1,905 kg et mesurant 200 × 249 × 135 cm, il allie élégance et fonctionnalité. Fabriqué avec un corps en laiton et une manette en alliage de zinc, il garantit durabilité et résistance à la corrosion. Conforme aux normes NF EN 200, NF EN 877 et NF EN 1503-4, ce mitigeur est équipé de composants de haute qualité pour une utilisation fiable. Garantie de 5 ans incluse.",
+      "categories": [
+        "Robinetterie sanitaire",
+        "Tulip"
+      ],
+      "source": {
+        "id": 12205,
+        "sku": "WMT4C00C00",
+        "permalink": "https://energical.com/fr/produit/mitigeur-douche-tulip/",
+        "stockStatus": "instock",
+        "categoryName": "Robinetterie sanitaire",
+        "scrapedAt": "2026-08-18T22:40:31.135Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-WMT5C00C00",
+      "name": "Mitigeur Bain douche Tulip",
+      "nameAr": "",
+      "brand": "Tulip",
+      "barcode": "WMT5C00C00",
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 9180,
+      "salePrice": 10800,
+      "minStock": 10,
+      "image": "images/sanitaire/ENERGICAL-WMT5C00C00.webp",
+      "aliases": [
+        "mitigeur bain douche tulip",
+        "wmt5c00c00"
+      ],
+      "description": "Le mitigeur bain douche Tulip vous offre une expérience luxueuse dans votre salle de bain. Avec un poids de 2,358 kg et des dimensions de 200 × 249 × 135 cm, ce mitigeur combine élégance et fonctionnalité. Fabriqué avec un corps en laiton et une manette en alliage de zinc, il garantit durabilité et résistance à la corrosion. Conforme aux normes NF EN 200, NF EN 877 et NF EN 1503-4, ce mitigeur est équipé de composants de haute qualité pour une utilisation fiable. Garantie de 5 ans incluse.",
+      "categories": [
+        "Robinetterie sanitaire",
+        "Tulip"
+      ],
+      "source": {
+        "id": 12200,
+        "sku": "WMT5C00C00",
+        "permalink": "https://energical.com/fr/produit/mitigeur-bain-douche-tulip/",
+        "stockStatus": "instock",
+        "categoryName": "Robinetterie sanitaire",
+        "scrapedAt": "2026-08-18T22:40:31.136Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-WMT1C00C00",
+      "name": "Mitigeur Lavabo Tulip",
+      "nameAr": "",
+      "brand": "Tulip",
+      "barcode": "WMT1C00C00",
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 5313,
+      "salePrice": 6250,
+      "minStock": 10,
+      "image": "images/sanitaire/ENERGICAL-WMT1C00C00.webp",
+      "aliases": [
+        "mitigeur lavabo tulip",
+        "wmt1c00c00"
+      ],
+      "description": "Le mitigeur lavabo Tulip ajoute une touche d&rsquo;élégance à votre salle de bain. Avec un poids de 1,452 kg et des dimensions de 173 × 172 × 117 cm, il offre un design moderne et fonctionnel. Fabriqué avec un corps en laiton et une manette en alliage de zinc, il assure durabilité et résistance à la corrosion. Conforme aux normes NF EN 200, NF EN 877 et NF EN 1503-4, ce mitigeur est équipé de composants de haute qualité pour une utilisation fiable. Garantie de 5 ans incluse.",
+      "categories": [
+        "Robinetterie sanitaire",
+        "Tulip"
+      ],
+      "source": {
+        "id": 12196,
+        "sku": "WMT1C00C00",
+        "permalink": "https://energical.com/fr/produit/mitigeur-lavabo-tulip/",
+        "stockStatus": "instock",
+        "categoryName": "Robinetterie sanitaire",
+        "scrapedAt": "2026-08-18T22:40:31.136Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-WMT2C00C00",
+      "name": "Mitigeur Cuisine Tulip",
+      "nameAr": "",
+      "brand": "Tulip",
+      "barcode": "WMT2C00C00",
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 7650,
+      "salePrice": 9000,
+      "minStock": 10,
+      "image": "images/sanitaire/ENERGICAL-WMT2C00C00.webp",
+      "aliases": [
+        "mitigeur cuisine tulip",
+        "wmt2c00c00"
+      ],
+      "description": "Le mitigeur cuisine Tulip offre fonctionnalité et style à votre cuisine. Avec un poids de 1,896 kg et des dimensions de 250 × 393 × 70 cm, ce mitigeur combine design moderne et performances optimales. Fabriqué avec un corps en laiton et une manette en alliage de zinc, il assure durabilité et résistance à la corrosion. Conforme aux normes NF EN 200, NF EN 877 et NF EN 1503-4, ce mitigeur est équipé de composants de haute qualité pour une utilisation fiable. Garantie de 5 ans incluse.",
+      "categories": [
+        "Robinetterie sanitaire",
+        "Tulip"
+      ],
+      "source": {
+        "id": 12190,
+        "sku": "WMT2C00C00",
+        "permalink": "https://energical.com/fr/produit/mitigeur-cuisine-tulip/",
+        "stockStatus": "instock",
+        "categoryName": "Robinetterie sanitaire",
+        "scrapedAt": "2026-08-18T22:40:31.136Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-WMC7C00C00",
+      "name": "Mitigeur Bidet Confort",
+      "nameAr": "",
+      "brand": "Confort",
+      "barcode": "WMC7C00C00",
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 6120,
+      "salePrice": 7200,
+      "minStock": 10,
+      "image": "images/sanitaire/ENERGICAL-WMC7C00C00.webp",
+      "aliases": [
+        "mitigeur bidet confort",
+        "wmc7c00c00"
+      ],
+      "description": "Le mitigeur bidet Confort allie élégance et fonctionnalité dans votre salle de bains. Avec un poids de 1,640 kg et des dimensions de 173 × 172 × 117 cm, ce mitigeur offre un design moderne et des performances exceptionnelles. Fabriqué avec un corps en laiton et une manette en alliage de zinc, il garantit durabilité et résistance à la corrosion. Conforme aux normes NF EN 200, NF EN 877 et NF EN 1503-4, il est équipé de composants de haute qualité pour une utilisation fiable. Garantie de 5 ans inc",
+      "categories": [
+        "Confort",
+        "Robinetterie sanitaire"
+      ],
+      "source": {
+        "id": 12164,
+        "sku": "WMC7C00C00",
+        "permalink": "https://energical.com/fr/produit/mitigeur-bidet-confort/",
+        "stockStatus": "instock",
+        "categoryName": "Confort",
+        "scrapedAt": "2026-08-18T22:40:31.136Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-WMC4C00C00",
+      "name": "Mitigeur Douche Confort",
+      "nameAr": "",
+      "brand": "Confort",
+      "barcode": "WMC4C00C00",
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 8160,
+      "salePrice": 9600,
+      "minStock": 10,
+      "image": "images/sanitaire/ENERGICAL-WMC4C00C00.webp",
+      "aliases": [
+        "mitigeur douche confort",
+        "wmc4c00c00"
+      ],
+      "description": "Le mitigeur douche Confort offre une expérience de douche luxueuse et pratique. Avec un poids de 2,238 kg et des dimensions de 200 × 249 × 135 cm, ce mitigeur combine un design élégant avec des fonctionnalités avancées. Fabriqué en laiton avec une manette en alliage de zinc, il assure une durabilité et une résistance exceptionnelles. Conforme aux normes NF EN 200, NF EN 877 et NF EN 1503-4, il est équipé de composants de haute qualité pour une utilisation fiable. Garantie de 5 ans incluse.",
+      "categories": [
+        "Confort",
+        "Robinetterie sanitaire"
+      ],
+      "source": {
+        "id": 12160,
+        "sku": "WMC4C00C00",
+        "permalink": "https://energical.com/fr/produit/mitigeur-douche-confort/",
+        "stockStatus": "instock",
+        "categoryName": "Confort",
+        "scrapedAt": "2026-08-18T22:40:31.136Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-WMC5C00C00",
+      "name": "Mitigeur Bain douche Confort",
+      "nameAr": "",
+      "brand": "Confort",
+      "barcode": "WMC5C00C00",
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 10107,
+      "salePrice": 11890,
+      "minStock": 10,
+      "image": "images/sanitaire/ENERGICAL-WMC5C00C00.webp",
+      "aliases": [
+        "mitigeur bain douche confort",
+        "wmc5c00c00"
+      ],
+      "description": "Le mitigeur bain douche Confort offre une expérience de bain relaxante et pratique. Avec un poids de 2,585 kg et des dimensions de 200 × 249 × 135 cm, ce mitigeur combine un design élégant avec des fonctionnalités avancées. Fabriqué en laiton avec une manette en alliage de zinc, il assure une durabilité et une résistance exceptionnelles. Conforme aux normes NF EN 200, NF EN 877 et NF EN 1503-4, il est équipé de composants de haute qualité pour une utilisation fiable. Garantie de 5 ans incluse.",
+      "categories": [
+        "Confort",
+        "Robinetterie sanitaire"
+      ],
+      "source": {
+        "id": 12156,
+        "sku": "WMC5C00C00",
+        "permalink": "https://energical.com/fr/produit/mitigeur-bain-douche-confort/",
+        "stockStatus": "instock",
+        "categoryName": "Confort",
+        "scrapedAt": "2026-08-18T22:40:31.136Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-WMC1C00C00",
+      "name": "Mitigeur Lavabo Confort",
+      "nameAr": "",
+      "brand": "Confort",
+      "barcode": "WMC1C00C00",
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 6120,
+      "salePrice": 7200,
+      "minStock": 10,
+      "image": "images/sanitaire/ENERGICAL-WMC1C00C00.webp",
+      "aliases": [
+        "mitigeur lavabo confort",
+        "wmc1c00c00"
+      ],
+      "description": "Le mitigeur lavabo Confort offre style et fonctionnalité pour votre salle de bain. Avec un poids de 1,650 kg et des dimensions de 173 × 172 × 117 cm, ce mitigeur combine un design élégant avec des fonctionnalités avancées. Fabriqué en laiton avec une manette en alliage de zinc, il assure une durabilité et une résistance exceptionnelles. Conforme aux normes NF EN 200, NF EN 877 et NF EN 1503-4, il est équipé de composants de haute qualité pour une utilisation fiable. Garantie de 5 ans incluse.",
+      "categories": [
+        "Confort",
+        "Robinetterie sanitaire"
+      ],
+      "source": {
+        "id": 12152,
+        "sku": "WMC1C00C00",
+        "permalink": "https://energical.com/fr/produit/mitigeur-lavabo-confort/",
+        "stockStatus": "instock",
+        "categoryName": "Confort",
+        "scrapedAt": "2026-08-18T22:40:31.136Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-WMC2C00C00",
+      "name": "Mitigeur Cuisine Confort",
+      "nameAr": "",
+      "brand": "Confort",
+      "barcode": "WMC2C00C00",
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 9180,
+      "salePrice": 10800,
+      "minStock": 10,
+      "image": "images/sanitaire/ENERGICAL-WMC2C00C00.webp",
+      "aliases": [
+        "mitigeur cuisine confort",
+        "wmc2c00c00"
+      ],
+      "description": "Le mitigeur cuisine Confort est un choix idéal pour votre cuisine, alliant style et fonctionnalité. Avec un poids de 2,507 kg et des dimensions de 250 × 393 × 70 cm, ce mitigeur offre une conception robuste avec un corps en laiton et une manette en alliage de zinc. Doté de fonctionnalités avancées telles qu&rsquo;une triple couche de protection et une cartouche céramique SEDAL, il répond aux normes NF EN 200, NF EN 877 et NF EN 1503-4 pour une qualité optimale. Garantie de 5 ans incluse.",
+      "categories": [
+        "Confort",
+        "Robinetterie sanitaire"
+      ],
+      "source": {
+        "id": 12132,
+        "sku": "WMC2C00C00",
+        "permalink": "https://energical.com/fr/produit/mitigeur-cuisine-confort/",
+        "stockStatus": "instock",
+        "categoryName": "Confort",
+        "scrapedAt": "2026-08-18T22:40:31.136Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-WMA4C00C00",
+      "name": "Mitigeur Amen Douche",
+      "nameAr": "",
+      "brand": "Amen",
+      "barcode": "WMA4C00C00",
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 5007,
+      "salePrice": 5890,
+      "minStock": 10,
+      "image": "images/sanitaire/ENERGICAL-WMA4C00C00.webp",
+      "aliases": [
+        "mitigeur amen douche",
+        "wma4c00c00"
+      ],
+      "description": "",
+      "categories": [
+        "Amen",
+        "Chromé",
+        "Robinetterie sanitaire"
+      ],
+      "source": {
+        "id": 9118,
+        "sku": "WMA4C00C00",
+        "permalink": "https://energical.com/fr/produit/mitigeur-amen-douche/",
+        "stockStatus": "instock",
+        "categoryName": "Amen",
+        "scrapedAt": "2026-08-18T22:40:33.636Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-WMA5C00C00",
+      "name": "Mitigeur Amen Bain douche",
+      "nameAr": "",
+      "brand": "Amen",
+      "barcode": "WMA5C00C00",
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 6078,
+      "salePrice": 7150,
+      "minStock": 10,
+      "image": "images/sanitaire/ENERGICAL-WMA5C00C00.webp",
+      "aliases": [
+        "mitigeur amen bain douche",
+        "wma5c00c00"
+      ],
+      "description": "",
+      "categories": [
+        "Amen",
+        "Chromé",
+        "Robinetterie sanitaire"
+      ],
+      "source": {
+        "id": 9117,
+        "sku": "WMA5C00C00",
+        "permalink": "https://energical.com/fr/produit/mitigeur-amen-bain-douche/",
+        "stockStatus": "instock",
+        "categoryName": "Amen",
+        "scrapedAt": "2026-08-18T22:40:33.636Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-WMA6C00C00",
+      "name": "Mitigeur Amen Cuisine murale",
+      "nameAr": "",
+      "brand": "Amen",
+      "barcode": "WMA6C00C00",
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 5007,
+      "salePrice": 5890,
+      "minStock": 10,
+      "image": "images/sanitaire/ENERGICAL-WMA6C00C00.webp",
+      "aliases": [
+        "mitigeur amen cuisine murale",
+        "wma6c00c00"
+      ],
+      "description": "",
+      "categories": [
+        "Amen",
+        "Chromé",
+        "Robinetterie sanitaire"
+      ],
+      "source": {
+        "id": 9107,
+        "sku": "WMA6C00C00",
+        "permalink": "https://energical.com/fr/produit/mitigeur-amen-cuisine-murale/",
+        "stockStatus": "instock",
+        "categoryName": "Amen",
+        "scrapedAt": "2026-08-18T22:40:33.636Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-WMA2C00C00",
+      "name": "Mitigeur Amen Cuisine",
+      "nameAr": "",
+      "brand": "Amen",
+      "barcode": "WMA2C00C00",
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 5058,
+      "salePrice": 5950,
+      "minStock": 10,
+      "image": "images/sanitaire/ENERGICAL-WMA2C00C00.webp",
+      "aliases": [
+        "mitigeur amen cuisine",
+        "wma2c00c00"
+      ],
+      "description": "",
+      "categories": [
+        "Amen",
+        "Chromé",
+        "Robinetterie sanitaire"
+      ],
+      "source": {
+        "id": 9103,
+        "sku": "WMA2C00C00",
+        "permalink": "https://energical.com/fr/produit/mitigeur-amen-cuisine/",
+        "stockStatus": "instock",
+        "categoryName": "Amen",
+        "scrapedAt": "2026-08-18T22:40:33.636Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-WMA7C00C00",
+      "name": "Mitigeur Amen Bidet",
+      "nameAr": "",
+      "brand": "Amen",
+      "barcode": "WMA7C00C00",
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 3987,
+      "salePrice": 4690,
+      "minStock": 10,
+      "image": "images/sanitaire/ENERGICAL-WMA7C00C00.webp",
+      "aliases": [
+        "mitigeur amen bidet",
+        "wma7c00c00"
+      ],
+      "description": "",
+      "categories": [
+        "Amen",
+        "Chromé",
+        "Robinetterie sanitaire"
+      ],
+      "source": {
+        "id": 9099,
+        "sku": "WMA7C00C00",
+        "permalink": "https://energical.com/fr/produit/mitigeur-amen-bidet/",
+        "stockStatus": "instock",
+        "categoryName": "Amen",
+        "scrapedAt": "2026-08-18T22:40:33.636Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-WMA1C00C00",
+      "name": "Mitigeur Amen Lavabo",
+      "nameAr": "",
+      "brand": "Amen",
+      "barcode": "WMA1C00C00",
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 3987,
+      "salePrice": 4690,
+      "minStock": 10,
+      "image": "images/sanitaire/ENERGICAL-WMA1C00C00.webp",
+      "aliases": [
+        "mitigeur amen lavabo",
+        "wma1c00c00"
+      ],
+      "description": "",
+      "categories": [
+        "Amen",
+        "Chromé",
+        "Robinetterie sanitaire"
+      ],
+      "source": {
+        "id": 9092,
+        "sku": "WMA1C00C00",
+        "permalink": "https://energical.com/fr/produit/mitigeur-amen-lavabo/",
+        "stockStatus": "instock",
+        "categoryName": "Amen",
+        "scrapedAt": "2026-08-18T22:40:33.636Z"
+      }
+    },
+    {
+      "code": "ENERGICAL-BS10 110110SC",
+      "name": "Baignoire BS10",
+      "nameAr": "",
+      "brand": "Generic",
+      "barcode": "BS10 110110SC",
+      "unit": "U",
+      "taxRate": 0.19,
+      "costPrice": 10413,
+      "salePrice": 12250,
+      "minStock": 10,
+      "image": "images/sanitaire/ENERGICAL-BS10_110110SC.webp",
+      "aliases": [
+        "baignoire bs10",
+        "bs10 110110sc"
+      ],
+      "description": "",
+      "categories": [
+        "Baignoires"
+      ],
+      "source": {
+        "id": 9058,
+        "sku": "BS10 110110SC",
+        "permalink": "https://energical.com/fr/produit/baignoire-bs10/",
+        "stockStatus": "instock",
+        "categoryName": "Baignoires",
+        "scrapedAt": "2026-08-18T22:40:33.636Z"
+      }
+    }
+  ]
 }

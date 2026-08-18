@@ -17,6 +17,14 @@
       "file": "catalog/fer-acier.json"
     },
     {
+      "code": "bois-derives",
+      "name": "Bois & Dérivés",
+      "nameAr": "الخشب ومشتقاته",
+      "icon": "🪚",
+      "productCount": 18,
+      "file": "catalog/bois-derives.json"
+    },
+    {
       "code": "outillage",
       "name": "Outillage",
       "nameAr": "العُدد",
@@ -25,19 +33,35 @@
       "file": "catalog/outillage.json"
     },
     {
+      "code": "quincaillerie",
+      "name": "Quincaillerie",
+      "nameAr": "الحدادة",
+      "icon": "🔨",
+      "productCount": 74,
+      "file": "catalog/quincaillerie.json"
+    },
+    {
       "code": "plomberie",
       "name": "Plomberie",
       "nameAr": "السباكة",
       "icon": "🚿",
-      "productCount": 35,
+      "productCount": 94,
       "file": "catalog/plomberie.json"
+    },
+    {
+      "code": "sanitaire",
+      "name": "Sanitaire",
+      "nameAr": "الأدوات الصحية",
+      "icon": "🚽",
+      "productCount": 116,
+      "file": "catalog/sanitaire.json"
     },
     {
       "code": "electricite",
       "name": "Électricité",
       "nameAr": "الكهرباء",
       "icon": "⚡",
-      "productCount": 45,
+      "productCount": 293,
       "file": "catalog/electricite.json"
     },
     {
@@ -49,36 +73,28 @@
       "file": "catalog/peinture.json"
     },
     {
-      "code": "quincaillerie",
-      "name": "Quincaillerie",
-      "nameAr": "الحدادة",
-      "icon": "🔨",
-      "productCount": 51,
-      "file": "catalog/quincaillerie.json"
+      "code": "chauffage",
+      "name": "Chauffage",
+      "nameAr": "التدفئة",
+      "icon": "🔥",
+      "productCount": 121,
+      "file": "catalog/chauffage.json"
     },
     {
-      "code": "bois-derives",
-      "name": "Bois & Dérivés",
-      "nameAr": "الخشب ومشتقاته",
-      "icon": "🪚",
-      "productCount": 18,
-      "file": "catalog/bois-derives.json"
+      "code": "securite",
+      "name": "Sécurité",
+      "nameAr": "الأمان",
+      "icon": "🛡️",
+      "productCount": 26,
+      "file": "catalog/securite.json"
     },
     {
-      "code": "sanitaire",
-      "name": "Sanitaire",
-      "nameAr": "الأدوات الصحية",
-      "icon": "🚽",
-      "productCount": 20,
-      "file": "catalog/sanitaire.json"
-    },
-    {
-      "code": "energical",
-      "name": "Energical",
-      "nameAr": "إنرجيكال",
-      "icon": "🔌",
-      "productCount": 575,
-      "file": "catalog/energical.json"
+      "code": "electromenager",
+      "name": "Électroménager",
+      "nameAr": "الأجهزة المنزلية",
+      "icon": "🏠",
+      "productCount": 2,
+      "file": "catalog/electromenager.json"
     }
   ]
 }
