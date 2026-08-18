@@ -7,9 +7,12 @@
     <style>
         * { margin: 0; padding: 0; box-sizing: border-box; }
         body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; background: #f5f5f5; color: #1a1a1a; }
-        .header { background: linear-gradient(135deg, #1e40af, #3b82f6); color: white; padding: 2rem; text-align: center; }
-        .header h1 { font-size: 1.8rem; margin-bottom: 0.5rem; }
-        .header p { opacity: 0.9; font-size: 1rem; }
+        .header { background: linear-gradient(135deg, #1e40af, #3b82f6); color: white; padding: 1.5rem 2rem; text-align: center; }
+        .header h1 { font-size: 1.8rem; margin-bottom: 0.25rem; }
+        .header p { opacity: 0.9; font-size: 0.95rem; }
+        .header .admin-toggle { margin-top: 0.75rem; }
+        .header .admin-toggle button { background: rgba(255,255,255,0.2); border: 1px solid rgba(255,255,255,0.3); color: white; padding: 0.4rem 1rem; border-radius: 6px; cursor: pointer; font-size: 0.85rem; }
+        .header .admin-toggle button:hover { background: rgba(255,255,255,0.3); }
         .container { max-width: 1200px; margin: 2rem auto; padding: 0 1rem; }
         .stats { display: flex; gap: 1rem; margin-bottom: 2rem; flex-wrap: wrap; }
         .stat-card { background: white; padding: 1.5rem; border-radius: 8px; box-shadow: 0 1px 3px rgba(0,0,0,0.1); text-align: center; flex: 1; min-width: 150px; }
@@ -36,16 +39,75 @@
         .footer { text-align: center; padding: 2rem; color: #999; font-size: 0.85rem; }
         .search-bar { width: 100%; padding: 0.75rem 1rem; border: 1px solid #e5e7eb; border-radius: 8px; font-size: 1rem; margin-bottom: 1rem; }
         .search-bar:focus { outline: none; border-color: #3b82f6; }
+
+        /* ── Admin Panel ── */
+        .admin-panel { display: none; background: #1e293b; color: #e2e8f0; padding: 1.5rem; border-radius: 8px; margin-bottom: 1.5rem; }
+        .admin-panel.active { display: block; }
+        .admin-panel h3 { margin-bottom: 0.75rem; font-size: 1rem; color: #93c5fd; }
+        .admin-panel input { width: 100%; padding: 0.5rem 0.75rem; border: 1px solid #475569; border-radius: 6px; background: #0f172a; color: #e2e8f0; font-size: 0.85rem; margin-bottom: 0.5rem; }
+        .admin-panel .token-row { display: flex; gap: 0.5rem; align-items: center; }
+        .admin-panel .token-row input { flex: 1; margin-bottom: 0; }
+        .admin-panel .token-row button { white-space: nowrap; }
+        .admin-panel .hint { font-size: 0.75rem; color: #64748b; margin-top: 0.25rem; }
+        .admin-panel .status { font-size: 0.8rem; margin-top: 0.5rem; }
+        .admin-panel .status.ok { color: #4ade80; }
+        .admin-panel .status.err { color: #f87171; }
+        .btn { padding: 0.5rem 1rem; border: none; border-radius: 6px; cursor: pointer; font-size: 0.85rem; font-weight: 500; }
+        .btn-primary { background: #2563eb; color: white; }
+        .btn-primary:hover { background: #1d4ed8; }
+        .btn-danger { background: #dc2626; color: white; }
+        .btn-danger:hover { background: #b91c1c; }
+        .btn-success { background: #059669; color: white; }
+        .btn-success:hover { background: #047857; }
+        .btn-ghost { background: #e5e7eb; color: #374151; }
+        .btn-ghost:hover { background: #d1d5db; }
+        .btn-sm { padding: 0.3rem 0.6rem; font-size: 0.8rem; }
+
+        /* ── Product Form Modal ── */
+        .modal-overlay { display: none; position: fixed; top: 0; left: 0; width: 100%; height: 100%; background: rgba(0,0,0,0.5); z-index: 1000; justify-content: center; align-items: flex-start; padding: 2rem; overflow-y: auto; }
+        .modal-overlay.active { display: flex; }
+        .modal { background: white; border-radius: 12px; padding: 2rem; max-width: 600px; width: 100%; box-shadow: 0 20px 60px rgba(0,0,0,0.3); }
+        .modal h2 { margin-bottom: 1rem; font-size: 1.3rem; }
+        .form-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 0.75rem; }
+        .form-grid .full { grid-column: 1 / -1; }
+        .form-group label { display: block; font-size: 0.8rem; color: #666; margin-bottom: 0.25rem; font-weight: 500; }
+        .form-group input, .form-group select, .form-group textarea { width: 100%; padding: 0.5rem 0.75rem; border: 1px solid #d1d5db; border-radius: 6px; font-size: 0.9rem; }
+        .form-group input:focus, .form-group select:focus, .form-group textarea:focus { outline: none; border-color: #3b82f6; }
+        .form-group textarea { resize: vertical; min-height: 60px; }
+        .modal-actions { display: flex; gap: 0.5rem; justify-content: flex-end; margin-top: 1.5rem; }
+        .actions-cell { display: flex; gap: 0.25rem; }
+        .toast { position: fixed; bottom: 2rem; right: 2rem; background: #1e293b; color: white; padding: 1rem 1.5rem; border-radius: 8px; box-shadow: 0 4px 20px rgba(0,0,0,0.3); z-index: 2000; font-size: 0.9rem; display: none; }
+        .toast.active { display: block; }
+        .toast.success { border-left: 4px solid #4ade80; }
+        .toast.error { border-left: 4px solid #f87171; }
     </style>
 </head>
 <body>
     <div class="header">
         <h1>GStock Catalog</h1>
         <p>Catalogue produits open-source pour quincailleries algériennes</p>
+        <div class="admin-toggle">
+            <button onclick="toggleAdmin()" id="adminToggleBtn">🔐 Mode Admin</button>
+        </div>
     </div>
 
     <div class="container">
         <div id="stats" class="stats"></div>
+
+        <!-- Admin Panel -->
+        <div id="adminPanel" class="admin-panel">
+            <h3>🔐 Authentification GitHub</h3>
+            <div class="token-row">
+                <input type="password" id="githubToken" placeholder="ghp_xxxxxxxxxxxx (Personal Access Token avec scope 'repo')" />
+                <button class="btn btn-primary btn-sm" onclick="loginWithToken()">Se connecter</button>
+            </div>
+            <div class="hint">Créer un token: https://github.com/settings/tokens/new — scopes requis: <code>repo</code></div>
+            <div id="adminStatus" class="status"></div>
+            <div id="adminActions" style="margin-top:0.75rem; display:none">
+                <button class="btn btn-success btn-sm" onclick="openProductForm(null)">+ Nouveau Produit</button>
+                <button class="btn btn-ghost btn-sm" onclick="logout()">Déconnexion</button>
+            </div>
+        </div>
 
         <div id="categories-view">
             <input type="text" class="search-bar" id="search" placeholder="Rechercher un produit..." oninput="searchProducts()">
@@ -55,6 +117,9 @@
         <div id="products-view" class="products">
             <button class="back-btn" onclick="showCategories()">← Retour aux catégories</button>
             <h2 id="category-title" style="margin-bottom:1rem"></h2>
+            <div id="adminCategoryActions" style="display:none; margin-bottom:1rem">
+                <button class="btn btn-success btn-sm" onclick="openProductForm(currentCategoryCode)">+ Ajouter un produit</button>
+            </div>
             <table class="product-table">
                 <thead>
                     <tr>
@@ -63,8 +128,9 @@
                         <th>الاسم</th>
                         <th>Marque</th>
                         <th>Unité</th>
-                        <th>Prix vente HT</th>
+                        <th>Prix HT</th>
                         <th>TVA</th>
+                        <th id="actionsHeader" style="display:none">Actions</th>
                     </tr>
                 </thead>
                 <tbody id="products-body"></tbody>
@@ -80,7 +146,7 @@
                         <th>Désignation</th>
                         <th>Catégorie</th>
                         <th>Marque</th>
-                        <th>Prix vente HT</th>
+                        <th>Prix HT</th>
                     </tr>
                 </thead>
                 <tbody id="search-body"></tbody>
@@ -92,19 +158,130 @@
         GStock Catalog · MIT License · <a href="https://github.com/AnouarSbia/gstock-catalog">GitHub</a>
     </div>
 
+    <!-- Product Form Modal -->
+    <div id="productModal" class="modal-overlay">
+        <div class="modal">
+            <h2 id="modalTitle">Nouveau Produit</h2>
+            <div class="form-grid">
+                <div class="form-group full">
+                    <label>Catégorie *</label>
+                    <select id="formCategory" onchange="updateFormCodePrefix()"></select>
+                </div>
+                <div class="form-group">
+                    <label>Code produit *</label>
+                    <input type="text" id="formCode" placeholder="CIM-CPJ45-50KG" />
+                </div>
+                <div class="form-group">
+                    <label>Marque</label>
+                    <input type="text" id="formBrand" placeholder="GICA" list="brandList" />
+                    <datalist id="brandList"></datalist>
+                </div>
+                <div class="form-group">
+                    <label>Nom (Français) *</label>
+                    <input type="text" id="formName" placeholder="Ciment CPJ 42.5 Sac 50kg" />
+                </div>
+                <div class="form-group">
+                    <label>الاسم (Arabe) *</label>
+                    <input type="text" id="formNameAr" placeholder="إسمنت CPJ 42.5 كيس 50كلغ" dir="rtl" />
+                </div>
+                <div class="form-group">
+                    <label>Unité *</label>
+                    <select id="formUnit">
+                        <option value="PCE">PCE — Pièce</option>
+                        <option value="SAC">SAC — Sac</option>
+                        <option value="M">M — Mètre</option>
+                        <option value="KG">KG — Kilogramme</option>
+                        <option value="L">L — Litre</option>
+                        <option value="M²">M² — Mètre carré</option>
+                        <option value="SET">SET — Ensemble</option>
+                        <option value="PAIR">PAIR — Paire</option>
+                    </select>
+                </div>
+                <div class="form-group">
+                    <label>TVA *</label>
+                    <select id="formTaxRate">
+                        <option value="0.19">19% (standard)</option>
+                        <option value="0.09">9% (réduit)</option>
+                        <option value="0">0% (exonéré)</option>
+                    </select>
+                </div>
+                <div class="form-group">
+                    <label>Prix achat HT (DA) *</label>
+                    <input type="number" id="formCostPrice" placeholder="850" step="1" min="0" />
+                </div>
+                <div class="form-group">
+                    <label>Prix vente HT (DA) *</label>
+                    <input type="number" id="formSalePrice" placeholder="950" step="1" min="0" />
+                </div>
+                <div class="form-group">
+                    <label>Prix revendeur HT</label>
+                    <input type="number" id="formResellerPrice" placeholder="920" step="1" min="0" />
+                </div>
+                <div class="form-group">
+                    <label>Prix entrepreneur HT</label>
+                    <input type="number" id="formContractorPrice" placeholder="900" step="1" min="0" />
+                </div>
+                <div class="form-group">
+                    <label>Stock minimum</label>
+                    <input type="number" id="formMinStock" placeholder="50" step="1" min="0" />
+                </div>
+                <div class="form-group">
+                    <label>Code-barres</label>
+                    <input type="text" id="formBarcode" placeholder="6131234567890" />
+                </div>
+                <div class="form-group full">
+                    <label>Image (chemin relatif)</label>
+                    <input type="text" id="formImage" placeholder="images/ciment/cpj-42-5-50kg.jpg" />
+                </div>
+                <div class="form-group full">
+                    <label>Alias (séparés par virgule)</label>
+                    <input type="text" id="formAliases" placeholder="ciment gris, CPJ, إسمنت رمادي" />
+                </div>
+                <div class="form-group full">
+                    <label>Description</label>
+                    <textarea id="formDescription" placeholder="Ciment Portland composé 42.5, sac de 50kg"></textarea>
+                </div>
+            </div>
+            <div class="modal-actions">
+                <button class="btn btn-ghost" onclick="closeProductForm()">Annuler</button>
+                <button class="btn btn-primary" onclick="saveProduct()">Enregistrer</button>
+            </div>
+        </div>
+    </div>
+
+    <!-- Toast -->
+    <div id="toast" class="toast"></div>
+
     <script>
+        const REPO = 'AnouarSbia/gstock-catalog';
+        const API = `https://api.github.com/repos/${REPO}`;
         let manifest = null;
         let allProducts = [];
+        let currentCategoryCode = null;
+        let currentCategoryData = null;
+        let currentFileSha = null;
+        let editingProductCode = null;
+        let isAdmin = false;
+        let githubToken = null;
 
+        // ── Init ──
         async function init() {
             try {
                 const res = await fetch('catalog/manifest.json');
                 manifest = await res.json();
                 renderStats();
                 renderCategories();
+                populateBrandList();
                 await loadAllProducts();
             } catch (e) {
                 document.getElementById('categories').innerHTML = '<div class="loading">Erreur de chargement du catalogue</div>';
+            }
+            // Restore token from sessionStorage
+            const savedToken = sessionStorage.getItem('gh_token');
+            if (savedToken) {
+                githubToken = savedToken;
+                document.getElementById('githubToken').value = savedToken;
+                loginWithToken();
             }
         }
 
@@ -130,6 +307,11 @@
             document.getElementById('categories').innerHTML = html;
         }
 
+        function populateBrandList() {
+            const list = document.getElementById('brandList');
+            list.innerHTML = manifest.brands.map(b => `<option value="${b.name}">`).join('');
+        }
+
         async function loadAllProducts() {
             for (const cat of manifest.categories) {
                 try {
@@ -142,40 +324,61 @@
             }
         }
 
+        // ── Category View ──
         async function showCategory(code) {
             const cat = manifest.categories.find(c => c.code === code);
             if (!cat) return;
+            currentCategoryCode = code;
             document.getElementById('categories-view').style.display = 'none';
             document.getElementById('products-view').classList.add('active');
             document.getElementById('category-title').textContent = `${cat.icon || ''} ${cat.name} (${cat.productCount})`;
             document.getElementById('products-body').innerHTML = '<tr><td colspan="7" class="loading">Chargement...</td></tr>';
 
+            // Show admin actions if logged in
+            document.getElementById('adminCategoryActions').style.display = isAdmin ? 'block' : 'none';
+            document.getElementById('actionsHeader').style.display = isAdmin ? 'table-cell' : 'none';
+
             try {
                 const res = await fetch(cat.file);
-                const data = await res.json();
-                const products = data.products || [];
-                document.getElementById('products-body').innerHTML = products.map(p => `
-                    <tr>
-                        <td><code>${p.code}</code></td>
-                        <td>${p.name}</td>
-                        <td dir="rtl">${p.nameAr || ''}</td>
-                        <td class="brand">${p.brand || '—'}</td>
-                        <td>${p.unit}</td>
-                        <td class="price">${p.salePrice} DA</td>
-                        <td>${(p.taxRate * 100).toFixed(0)}%</td>
-                    </tr>
-                `).join('');
+                currentCategoryData = await res.json();
+                renderProducts(currentCategoryData.products || []);
             } catch (e) {
                 document.getElementById('products-body').innerHTML = '<tr><td colspan="7" class="loading">Erreur</td></tr>';
             }
+        }
+
+        function renderProducts(products) {
+            const showActions = isAdmin;
+            const colspan = showActions ? 8 : 7;
+            if (products.length === 0) {
+                document.getElementById('products-body').innerHTML = `<tr><td colspan="${colspan}" class="loading">Aucun produit</td></tr>`;
+                return;
+            }
+            document.getElementById('products-body').innerHTML = products.map(p => `
+                <tr>
+                    <td><code>${p.code}</code></td>
+                    <td>${p.name}</td>
+                    <td dir="rtl">${p.nameAr || ''}</td>
+                    <td class="brand">${p.brand || '—'}</td>
+                    <td>${p.unit}</td>
+                    <td class="price">${p.salePrice} DA</td>
+                    <td>${(p.taxRate * 100).toFixed(0)}%</td>
+                    ${showActions ? `<td class="actions-cell">
+                        <button class="btn btn-ghost btn-sm" onclick="openProductForm('${p.code}')">✏️</button>
+                        <button class="btn btn-danger btn-sm" onclick="deleteProduct('${p.code}')">🗑️</button>
+                    </td>` : ''}
+                </tr>
+            `).join('');
         }
 
         function showCategories() {
             document.getElementById('products-view').classList.remove('active');
             document.getElementById('search-results').style.display = 'none';
             document.getElementById('categories-view').style.display = 'block';
+            currentCategoryCode = null;
         }
 
+        // ── Search ──
         function searchProducts() {
             const q = document.getElementById('search').value.trim().toLowerCase();
             if (q.length < 2) {
@@ -203,6 +406,299 @@
                     </tr>
                 `).join('');
         }
+
+        // ── Admin ──
+        function toggleAdmin() {
+            const panel = document.getElementById('adminPanel');
+            panel.classList.toggle('active');
+            document.getElementById('adminToggleBtn').textContent = panel.classList.contains('active') ? '🔒 Masquer Admin' : '🔐 Mode Admin';
+        }
+
+        async function loginWithToken() {
+            const token = document.getElementById('githubToken').value.trim();
+            if (!token) { showAdminStatus('Veuillez entrer un token', 'err'); return; }
+
+            try {
+                const res = await fetch('https://api.github.com/user', {
+                    headers: { 'Authorization': `token ${token}` }
+                });
+                if (!res.ok) throw new Error('Token invalide');
+                const user = await res.json();
+
+                // Check repo access
+                const repoRes = await fetch(`${API}`, { headers: { 'Authorization': `token ${token}` } });
+                if (!repoRes.ok) throw new Error('Accès repo refusé');
+
+                githubToken = token;
+                sessionStorage.setItem('gh_token', token);
+                isAdmin = true;
+                showAdminStatus(`✅ Connecté: ${user.login} — CRUD activé`, 'ok');
+                document.getElementById('adminActions').style.display = 'block';
+                // Refresh view if in a category
+                if (currentCategoryCode) showCategory(currentCategoryCode);
+            } catch (e) {
+                isAdmin = false;
+                showAdminStatus(`❌ ${e.message}`, 'err');
+            }
+        }
+
+        function logout() {
+            githubToken = null;
+            isAdmin = false;
+            sessionStorage.removeItem('gh_token');
+            document.getElementById('githubToken').value = '';
+            showAdminStatus('Déconnecté', '');
+            document.getElementById('adminActions').style.display = 'none';
+            if (currentCategoryCode) showCategory(currentCategoryCode);
+        }
+
+        function showAdminStatus(msg, type) {
+            const el = document.getElementById('adminStatus');
+            el.textContent = msg;
+            el.className = 'status ' + (type || '');
+        }
+
+        // ── GitHub API helpers ──
+        async function ghFetch(path, options = {}) {
+            const res = await fetch(`${API}${path}`, {
+                ...options,
+                headers: {
+                    'Authorization': `token ${githubToken}`,
+                    'Accept': 'application/vnd.github+json',
+                    ...options.headers
+                }
+            });
+            if (!res.ok) {
+                const err = await res.json().catch(() => ({}));
+                throw new Error(err.message || `HTTP ${res.status}`);
+            }
+            return res;
+        }
+
+        async function getFileContent(path) {
+            const res = await ghFetch(`/contents/${path}`);
+            const data = await res.json();
+            const content = atob(data.content.replace(/\n/g, ''));
+            return { content: JSON.parse(content), sha: data.sha };
+        }
+
+        async function updateFile(path, content, sha, message) {
+            const body = {
+                message: message,
+                content: btoa(unescape(encodeURIComponent(JSON.stringify(content, null, 2)))),
+                branch: 'main'
+            };
+            if (sha) body.sha = sha;
+            const res = await ghFetch(`/contents/${path}`, {
+                method: 'PUT',
+                headers: { 'Content-Type': 'application/json' },
+                body: JSON.stringify(body)
+            });
+            return await res.json();
+        }
+
+        // ── Product Form ──
+        function openProductForm(existingCode) {
+            if (!isAdmin) { showToast('Connectez-vous en mode admin', 'error'); return; }
+
+            // Populate category dropdown
+            const catSelect = document.getElementById('formCategory');
+            catSelect.innerHTML = manifest.categories.map(c =>
+                `<option value="${c.code}">${c.name}</option>`
+            ).join('');
+
+            if (existingCode) {
+                // Edit mode
+                editingProductCode = existingCode;
+                const product = currentCategoryData.products.find(p => p.code === existingCode);
+                if (!product) return;
+                document.getElementById('modalTitle').textContent = 'Modifier Produit';
+                catSelect.value = currentCategoryCode;
+                catSelect.disabled = true;
+                document.getElementById('formCode').value = product.code || '';
+                document.getElementById('formCode').disabled = true;
+                document.getElementById('formName').value = product.name || '';
+                document.getElementById('formNameAr').value = product.nameAr || '';
+                document.getElementById('formBrand').value = product.brand || '';
+                document.getElementById('formUnit').value = product.unit || 'PCE';
+                document.getElementById('formTaxRate').value = product.taxRate || 0.19;
+                document.getElementById('formCostPrice').value = product.costPrice || '';
+                document.getElementById('formSalePrice').value = product.salePrice || '';
+                document.getElementById('formResellerPrice').value = product.resellerPrice || '';
+                document.getElementById('formContractorPrice').value = product.contractorPrice || '';
+                document.getElementById('formMinStock').value = product.minStock || 0;
+                document.getElementById('formBarcode').value = product.barcode || '';
+                document.getElementById('formImage').value = product.image || '';
+                document.getElementById('formAliases').value = (product.aliases || []).join(', ');
+                document.getElementById('formDescription').value = product.description || '';
+            } else {
+                // Create mode
+                editingProductCode = null;
+                document.getElementById('modalTitle').textContent = 'Nouveau Produit';
+                catSelect.disabled = false;
+                if (currentCategoryCode) catSelect.value = currentCategoryCode;
+                ['formCode','formName','formNameAr','formBrand','formBarcode','formImage','formAliases','formDescription'].forEach(id => {
+                    const el = document.getElementById(id);
+                    el.value = '';
+                    el.disabled = false;
+                });
+                document.getElementById('formUnit').value = 'PCE';
+                document.getElementById('formTaxRate').value = '0.19';
+                ['formCostPrice','formSalePrice','formResellerPrice','formContractorPrice','formMinStock'].forEach(id => {
+                    document.getElementById(id).value = '';
+                });
+            }
+            document.getElementById('productModal').classList.add('active');
+        }
+
+        function closeProductForm() {
+            document.getElementById('productModal').classList.remove('active');
+        }
+
+        function updateFormCodePrefix() {
+            // Auto-fill code prefix based on category
+            const cat = document.getElementById('formCategory').value;
+            const prefixes = {
+                'ciment-beton': 'CIM-', 'fer-acier': 'FER-', 'outillage': 'OUT-',
+                'plomberie': 'PLOM-', 'electricite': 'ELEC-', 'peinture': 'PEINT-',
+                'quincaillerie': 'QUIN-', 'bois-derives': 'BOIS-', 'sanitaire': 'SAN-'
+            };
+            const codeField = document.getElementById('formCode');
+            if (!editingProductCode && prefixes[cat] && !codeField.value.startsWith(prefixes[cat])) {
+                codeField.placeholder = prefixes[cat] + '...';
+            }
+        }
+
+        async function saveProduct() {
+            const catCode = document.getElementById('formCategory').value;
+            const code = document.getElementById('formCode').value.trim();
+            const name = document.getElementById('formName').value.trim();
+            const nameAr = document.getElementById('formNameAr').value.trim();
+
+            if (!code || !name || !nameAr) {
+                showToast('Code, Nom FR et Nom AR sont obligatoires', 'error');
+                return;
+            }
+
+            const costPrice = parseFloat(document.getElementById('formCostPrice').value) || 0;
+            const salePrice = parseFloat(document.getElementById('formSalePrice').value) || 0;
+            if (salePrice <= 0) {
+                showToast('Prix de vente doit être > 0', 'error');
+                return;
+            }
+
+            const product = {
+                code: code,
+                name: name,
+                nameAr: nameAr,
+                brand: document.getElementById('formBrand').value.trim() || null,
+                barcode: document.getElementById('formBarcode').value.trim() || null,
+                unit: document.getElementById('formUnit').value,
+                taxRate: parseFloat(document.getElementById('formTaxRate').value),
+                costPrice: costPrice,
+                salePrice: salePrice,
+                resellerPrice: parseFloat(document.getElementById('formResellerPrice').value) || undefined,
+                contractorPrice: parseFloat(document.getElementById('formContractorPrice').value) || undefined,
+                minStock: parseFloat(document.getElementById('formMinStock').value) || 0,
+                image: document.getElementById('formImage').value.trim() || null,
+                aliases: document.getElementById('formAliases').value.split(',').map(s => s.trim()).filter(s => s),
+                description: document.getElementById('formDescription').value.trim() || undefined
+            };
+
+            // Clean nulls
+            if (!product.resellerPrice) delete product.resellerPrice;
+            if (!product.contractorPrice) delete product.contractorPrice;
+            if (!product.description) delete product.description;
+
+            try {
+                showToast('Sauvegarde en cours...', '');
+                const cat = manifest.categories.find(c => c.code === catCode);
+                const filePath = cat.file;
+
+                // Fetch current file
+                const fileData = await getFileContent(filePath);
+                const products = fileData.content.products || [];
+
+                if (editingProductCode) {
+                    // Update existing
+                    const idx = products.findIndex(p => p.code === editingProductCode);
+                    if (idx === -1) throw new Error('Produit non trouvé');
+                    products[idx] = product;
+                } else {
+                    // Check duplicate code
+                    if (products.some(p => p.code === code)) {
+                        showToast(`Le code "${code}" existe déjà dans cette catégorie`, 'error');
+                        return;
+                    }
+                    products.push(product);
+                }
+
+                fileData.content.products = products;
+                const msg = editingProductCode
+                    ? `Update product: ${code}`
+                    : `Add product: ${code}`;
+                await updateFile(filePath, fileData.content, fileData.sha, msg);
+
+                showToast(editingProductCode ? 'Produit modifié ✓' : 'Produit ajouté ✓', 'success');
+                closeProductForm();
+
+                // Reload category view
+                await showCategory(catCode);
+                // Reload all products for search
+                allProducts = [];
+                await loadAllProducts();
+            } catch (e) {
+                showToast(`Erreur: ${e.message}`, 'error');
+            }
+        }
+
+        async function deleteProduct(code) {
+            if (!isAdmin) return;
+            if (!confirm(`Supprimer le produit "${code}" ?`)) return;
+
+            try {
+                showToast('Suppression en cours...', '');
+                const cat = manifest.categories.find(c => c.code === currentCategoryCode);
+                const filePath = cat.file;
+
+                const fileData = await getFileContent(filePath);
+                const products = fileData.content.products || [];
+                const filtered = products.filter(p => p.code !== code);
+
+                if (filtered.length === products.length) {
+                    showToast('Produit non trouvé', 'error');
+                    return;
+                }
+
+                fileData.content.products = filtered;
+                await updateFile(filePath, fileData.content, fileData.sha, `Delete product: ${code}`);
+
+                showToast('Produit supprimé ✓', 'success');
+                await showCategory(currentCategoryCode);
+                allProducts = [];
+                await loadAllProducts();
+            } catch (e) {
+                showToast(`Erreur: ${e.message}`, 'error');
+            }
+        }
+
+        // ── Toast ──
+        function showToast(msg, type) {
+            const toast = document.getElementById('toast');
+            toast.textContent = msg;
+            toast.className = 'toast active ' + (type || '');
+            if (type) setTimeout(() => toast.classList.remove('active'), 3000);
+        }
+
+        // Close modal on overlay click
+        document.getElementById('productModal').addEventListener('click', (e) => {
+            if (e.target.id === 'productModal') closeProductForm();
+        });
+
+        // Close modal on Escape
+        document.addEventListener('keydown', (e) => {
+            if (e.key === 'Escape') closeProductForm();
+        });
 
         init();
     </script>
