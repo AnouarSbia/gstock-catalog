@@ -394,14 +394,14 @@
                          "unit":  "PCE",
                          "code":  "SAN-TEST-CRUD",
                          "brand":  "TestBrand",
-                         "name":  "Test CRUD Product",
+                         "name":  "Test CRUD Product (UPDATED)",
                          "barcode":  null,
                          "nameAr":  "Ù…Ù†ØªØ¬ Ø§Ø®ØªØ¨Ø§Ø±",
                          "minStock":  5,
                          "taxRate":  0.19,
                          "costPrice":  100,
-                         "salePrice":  200,
-                         "description":  "Product created via API test"
+                         "salePrice":  250,
+                         "description":  "Product updated via API test"
                      }
                  ]
 }
