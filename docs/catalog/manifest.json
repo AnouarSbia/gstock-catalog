@@ -244,6 +244,20 @@
           "count": 20
         }
       ]
+    },
+    {
+      "code": "energical",
+      "name": "Energical",
+      "nameAr": "إنرجيكال",
+      "icon": "🔌",
+      "productCount": 575,
+      "file": "catalog/energical.json",
+      "brands": [
+        {
+          "name": "Energical",
+          "count": 575
+        }
+      ]
     }
   ],
   "brands": [
@@ -366,6 +380,12 @@
       "name": "Yale",
       "nameAr": "يال",
       "country": "USA"
+    },
+    {
+      "code": "energical",
+      "name": "Energical",
+      "nameAr": "إنرجيكال",
+      "country": "Algérie"
     }
   ]
 }
