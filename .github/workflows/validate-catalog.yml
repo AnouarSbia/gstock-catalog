@@ -1,0 +1,93 @@
+name: Validate Catalog
+
+on:
+  pull_request:
+    paths:
+      - 'docs/catalog/**'
+      - 'docs/images/**'
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Validate JSON syntax
+        run: |
+          set -e
+          for f in docs/catalog/*.json; do
+            echo "Validating $f"
+            python3 -c "import json; json.load(open('$f'))" || exit 1
+          done
+
+      - name: Validate product codes are unique
+        run: |
+          python3 << 'EOF'
+          import json, os, sys
+
+          all_codes = {}
+          for f in sorted(os.listdir('docs/catalog')):
+              if not f.endswith('.json') or f in ('manifest.json', 'categories.json', 'brands.json'):
+                  continue
+              data = json.load(open(f'docs/catalog/{f}'))
+              for p in data.get('products', []):
+                  code = p.get('code', '')
+                  if code in all_codes:
+                      print(f'DUPLICATE CODE: {code} in {f} and {all_codes[code]}')
+                      sys.exit(1)
+                  all_codes[code] = f
+
+          print(f'OK: {len(all_codes)} unique product codes')
+          EOF
+
+      - name: Validate required fields
+        run: |
+          python3 << 'EOF'
+          import json, os, sys
+
+          required = ['code', 'name', 'nameAr', 'unit', 'taxRate', 'costPrice', 'salePrice']
+          valid_tax = [0, 0.09, 0.19]
+          errors = 0
+
+          for f in sorted(os.listdir('docs/catalog')):
+              if not f.endswith('.json') or f in ('manifest.json', 'categories.json', 'brands.json'):
+                  continue
+              data = json.load(open(f'docs/catalog/{f}'))
+              for i, p in enumerate(data.get('products', [])):
+                  for field in required:
+                      if field not in p or p[field] is None:
+                          print(f'MISSING {field}: {f} product #{i} ({p.get("code","?")})')
+                          errors += 1
+                  if p.get('taxRate') not in valid_tax:
+                      print(f'INVALID TVA: {f} {p.get("code")} taxRate={p.get("taxRate")}')
+                      errors += 1
+                  if p.get('salePrice', 0) <= 0:
+                      print(f'INVALID PRICE: {f} {p.get("code")} salePrice={p.get("salePrice")}')
+                      errors += 1
+
+          if errors > 0:
+              print(f'{errors} validation errors')
+              sys.exit(1)
+          print('All products valid')
+          EOF
+
+      - name: Validate image references
+        run: |
+          python3 << 'EOF'
+          import json, os, sys
+
+          errors = 0
+          for f in sorted(os.listdir('docs/catalog')):
+              if not f.endswith('.json') or f in ('manifest.json', 'categories.json', 'brands.json'):
+                  continue
+              data = json.load(open(f'docs/catalog/{f}'))
+              for p in data.get('products', []):
+                  img = p.get('image')
+                  if img and not os.path.exists(f'docs/{img}'):
+                      print(f'MISSING IMAGE: {p.get("code")} -> {img}')
+                      errors += 1
+
+          if errors > 0:
+              print(f'{errors} missing images (non-blocking)')
+          print('Image check complete')
+          EOF
