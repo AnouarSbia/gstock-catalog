@@ -1,0 +1,210 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GStock Catalog — Catalogue Produits</title>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; background: #f5f5f5; color: #1a1a1a; }
+        .header { background: linear-gradient(135deg, #1e40af, #3b82f6); color: white; padding: 2rem; text-align: center; }
+        .header h1 { font-size: 1.8rem; margin-bottom: 0.5rem; }
+        .header p { opacity: 0.9; font-size: 1rem; }
+        .container { max-width: 1200px; margin: 2rem auto; padding: 0 1rem; }
+        .stats { display: flex; gap: 1rem; margin-bottom: 2rem; flex-wrap: wrap; }
+        .stat-card { background: white; padding: 1.5rem; border-radius: 8px; box-shadow: 0 1px 3px rgba(0,0,0,0.1); text-align: center; flex: 1; min-width: 150px; }
+        .stat-card .num { font-size: 2rem; font-weight: bold; color: #1e40af; }
+        .stat-card .label { font-size: 0.85rem; color: #666; margin-top: 0.25rem; }
+        .categories { display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 1rem; }
+        .category-card { background: white; padding: 1.5rem; border-radius: 8px; box-shadow: 0 1px 3px rgba(0,0,0,0.1); cursor: pointer; transition: transform 0.15s, box-shadow 0.15s; }
+        .category-card:hover { transform: translateY(-2px); box-shadow: 0 4px 12px rgba(0,0,0,0.15); }
+        .category-card .icon { font-size: 2rem; margin-bottom: 0.5rem; }
+        .category-card .name { font-size: 1.1rem; font-weight: 600; }
+        .category-card .name-ar { font-size: 0.95rem; color: #666; direction: rtl; }
+        .category-card .count { font-size: 0.85rem; color: #3b82f6; margin-top: 0.5rem; }
+        .products { display: none; }
+        .products.active { display: block; }
+        .back-btn { background: #e5e7eb; border: none; padding: 0.5rem 1rem; border-radius: 6px; cursor: pointer; margin-bottom: 1rem; font-size: 0.9rem; }
+        .back-btn:hover { background: #d1d5db; }
+        .product-table { width: 100%; background: white; border-radius: 8px; overflow: hidden; box-shadow: 0 1px 3px rgba(0,0,0,0.1); }
+        .product-table th { background: #f9fafb; padding: 0.75rem 1rem; text-align: left; font-size: 0.85rem; color: #666; border-bottom: 1px solid #e5e7eb; }
+        .product-table td { padding: 0.75rem 1rem; border-bottom: 1px solid #f3f4f6; font-size: 0.9rem; }
+        .product-table tr:hover { background: #f9fafb; }
+        .price { font-weight: 600; color: #059669; }
+        .brand { color: #7c3aed; font-size: 0.85rem; }
+        .loading { text-align: center; padding: 3rem; color: #999; }
+        .footer { text-align: center; padding: 2rem; color: #999; font-size: 0.85rem; }
+        .search-bar { width: 100%; padding: 0.75rem 1rem; border: 1px solid #e5e7eb; border-radius: 8px; font-size: 1rem; margin-bottom: 1rem; }
+        .search-bar:focus { outline: none; border-color: #3b82f6; }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <h1>GStock Catalog</h1>
+        <p>Catalogue produits open-source pour quincailleries algériennes</p>
+    </div>
+
+    <div class="container">
+        <div id="stats" class="stats"></div>
+
+        <div id="categories-view">
+            <input type="text" class="search-bar" id="search" placeholder="Rechercher un produit..." oninput="searchProducts()">
+            <div id="categories" class="categories"></div>
+        </div>
+
+        <div id="products-view" class="products">
+            <button class="back-btn" onclick="showCategories()">← Retour aux catégories</button>
+            <h2 id="category-title" style="margin-bottom:1rem"></h2>
+            <table class="product-table">
+                <thead>
+                    <tr>
+                        <th>Code</th>
+                        <th>Désignation</th>
+                        <th>الاسم</th>
+                        <th>Marque</th>
+                        <th>Unité</th>
+                        <th>Prix vente HT</th>
+                        <th>TVA</th>
+                    </tr>
+                </thead>
+                <tbody id="products-body"></tbody>
+            </table>
+        </div>
+
+        <div id="search-results" style="display:none">
+            <h2 style="margin-bottom:1rem">Résultats de recherche</h2>
+            <table class="product-table">
+                <thead>
+                    <tr>
+                        <th>Code</th>
+                        <th>Désignation</th>
+                        <th>Catégorie</th>
+                        <th>Marque</th>
+                        <th>Prix vente HT</th>
+                    </tr>
+                </thead>
+                <tbody id="search-body"></tbody>
+            </table>
+        </div>
+    </div>
+
+    <div class="footer">
+        GStock Catalog · MIT License · <a href="https://github.com/AnouarSbia/gstock-catalog">GitHub</a>
+    </div>
+
+    <script>
+        let manifest = null;
+        let allProducts = [];
+
+        async function init() {
+            try {
+                const res = await fetch('catalog/manifest.json');
+                manifest = await res.json();
+                renderStats();
+                renderCategories();
+                await loadAllProducts();
+            } catch (e) {
+                document.getElementById('categories').innerHTML = '<div class="loading">Erreur de chargement du catalogue</div>';
+            }
+        }
+
+        function renderStats() {
+            const total = manifest.categories.reduce((s, c) => s + c.productCount, 0);
+            document.getElementById('stats').innerHTML = `
+                <div class="stat-card"><div class="num">${total}</div><div class="label">Produits</div></div>
+                <div class="stat-card"><div class="num">${manifest.categories.length}</div><div class="label">Catégories</div></div>
+                <div class="stat-card"><div class="num">${manifest.brands.length}</div><div class="label">Marques</div></div>
+                <div class="stat-card"><div class="num">${manifest.version}</div><div class="label">Version</div></div>
+            `;
+        }
+
+        function renderCategories() {
+            const html = manifest.categories.map(c => `
+                <div class="category-card" onclick="showCategory('${c.code}')">
+                    <div class="icon">${c.icon || '📦'}</div>
+                    <div class="name">${c.name}</div>
+                    <div class="name-ar">${c.nameAr || ''}</div>
+                    <div class="count">${c.productCount} produits</div>
+                </div>
+            `).join('');
+            document.getElementById('categories').innerHTML = html;
+        }
+
+        async function loadAllProducts() {
+            for (const cat of manifest.categories) {
+                try {
+                    const res = await fetch(cat.file);
+                    const data = await res.json();
+                    for (const p of (data.products || [])) {
+                        allProducts.push({ ...p, categoryName: cat.name, categoryCode: cat.code });
+                    }
+                } catch (e) { /* skip */ }
+            }
+        }
+
+        async function showCategory(code) {
+            const cat = manifest.categories.find(c => c.code === code);
+            if (!cat) return;
+            document.getElementById('categories-view').style.display = 'none';
+            document.getElementById('products-view').classList.add('active');
+            document.getElementById('category-title').textContent = `${cat.icon || ''} ${cat.name} (${cat.productCount})`;
+            document.getElementById('products-body').innerHTML = '<tr><td colspan="7" class="loading">Chargement...</td></tr>';
+
+            try {
+                const res = await fetch(cat.file);
+                const data = await res.json();
+                const products = data.products || [];
+                document.getElementById('products-body').innerHTML = products.map(p => `
+                    <tr>
+                        <td><code>${p.code}</code></td>
+                        <td>${p.name}</td>
+                        <td dir="rtl">${p.nameAr || ''}</td>
+                        <td class="brand">${p.brand || '—'}</td>
+                        <td>${p.unit}</td>
+                        <td class="price">${p.salePrice} DA</td>
+                        <td>${(p.taxRate * 100).toFixed(0)}%</td>
+                    </tr>
+                `).join('');
+            } catch (e) {
+                document.getElementById('products-body').innerHTML = '<tr><td colspan="7" class="loading">Erreur</td></tr>';
+            }
+        }
+
+        function showCategories() {
+            document.getElementById('products-view').classList.remove('active');
+            document.getElementById('search-results').style.display = 'none';
+            document.getElementById('categories-view').style.display = 'block';
+        }
+
+        function searchProducts() {
+            const q = document.getElementById('search').value.trim().toLowerCase();
+            if (q.length < 2) {
+                document.getElementById('search-results').style.display = 'none';
+                return;
+            }
+            const results = allProducts.filter(p =>
+                (p.name || '').toLowerCase().includes(q) ||
+                (p.nameAr || '').includes(q) ||
+                (p.code || '').toLowerCase().includes(q) ||
+                (p.brand || '').toLowerCase().includes(q) ||
+                (p.aliases || []).some(a => a.toLowerCase().includes(q))
+            ).slice(0, 50);
+
+            document.getElementById('search-results').style.display = 'block';
+            document.getElementById('search-body').innerHTML = results.length === 0
+                ? '<tr><td colspan="5" class="loading">Aucun résultat</td></tr>'
+                : results.map(p => `
+                    <tr>
+                        <td><code>${p.code}</code></td>
+                        <td>${p.name}</td>
+                        <td>${p.categoryName}</td>
+                        <td class="brand">${p.brand || '—'}</td>
+                        <td class="price">${p.salePrice} DA</td>
+                    </tr>
+                `).join('');
+        }
+
+        init();
+    </script>
+</body>
+</html>

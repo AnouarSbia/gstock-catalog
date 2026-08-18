@@ -1,0 +1,24 @@
+{
+  "brands": [
+    { "code": "gica", "name": "GICA", "nameAr": "جيكا", "country": "Algérie" },
+    { "code": "sonelgaz", "name": "Sonelgaz", "nameAr": "سونلغاز", "country": "Algérie" },
+    { "code": "ensa", "name": "ENSA", "nameAr": "أنسا", "country": "Algérie" },
+    { "code": "mitsubishi", "name": "Mitsubishi", "nameAr": "ميتسوبيشي", "country": "Japon" },
+    { "code": "bosch", "name": "Bosch", "nameAr": "بوش", "country": "Allemagne" },
+    { "code": "makita", "name": "Makita", "nameAr": "ماكيتا", "country": "Japon" },
+    { "code": "stanley", "name": "Stanley", "nameAr": "ستانلي", "country": "USA" },
+    { "code": "virax", "name": "Virax", "nameAr": "فيراكس", "country": "France" },
+    { "code": "pressol", "name": "Pressol", "nameAr": "بريسول", "country": "France" },
+    { "code": "algerie-tuyaux", "name": "Algérie Tuyaux", "nameAr": "أنابيب الجزائر", "country": "Algérie" },
+    { "code": "tubial", "name": "Tubial", "nameAr": "توبيال", "country": "Algérie" },
+    { "code": "palsit", "name": "Palsit", "nameAr": "پالسيت", "country": "Algérie" },
+    { "code": "knauf", "name": "Knauf", "nameAr": "ناوف", "country": "Allemagne" },
+    { "code": "placo", "name": "Placo", "nameAr": "بلاكو", "country": "France" },
+    { "code": "saint-gobain", "name": "Saint-Gobain", "nameAr": "سان غوبان", "country": "France" },
+    { "code": "jotun", "name": "Jotun", "nameAr": "جوتن", "country": "Norvège" },
+    { "code": "selem", "name": "Selem", "nameAr": "سالم", "country": "Algérie" },
+    { "code": "tassili", "name": "Tassili", "nameAr": "تاسيلي", "country": "Algérie" },
+    { "code": "kassler", "name": "Kassler", "nameAr": "كاسلر", "country": "Allemagne" },
+    { "code": "yale", "name": "Yale", "nameAr": "يال", "country": "USA" }
+  ]
+}
