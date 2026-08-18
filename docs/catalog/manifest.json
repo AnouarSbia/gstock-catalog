@@ -1,0 +1,101 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": "2026-08-18",
+  "baseUrl": "https://gstock-dz.github.io/gstock-catalog",
+  "categories": [
+    {
+      "code": "ciment-beton",
+      "name": "Ciment & Béton",
+      "nameAr": "الإسمنت والخرسانة",
+      "icon": "🏗️",
+      "productCount": 24,
+      "file": "catalog/ciment-beton.json"
+    },
+    {
+      "code": "fer-acier",
+      "name": "Fer & Acier",
+      "nameAr": "الحديد والصلب",
+      "icon": "🔩",
+      "productCount": 31,
+      "file": "catalog/fer-acier.json"
+    },
+    {
+      "code": "outillage",
+      "name": "Outillage",
+      "nameAr": "العُدد",
+      "icon": "🔧",
+      "productCount": 34,
+      "file": "catalog/outillage.json"
+    },
+    {
+      "code": "plomberie",
+      "name": "Plomberie",
+      "nameAr": "السباكة",
+      "icon": "🚿",
+      "productCount": 35,
+      "file": "catalog/plomberie.json"
+    },
+    {
+      "code": "electricite",
+      "name": "Électricité",
+      "nameAr": "الكهرباء",
+      "icon": "⚡",
+      "productCount": 45,
+      "file": "catalog/electricite.json"
+    },
+    {
+      "code": "peinture",
+      "name": "Peinture",
+      "nameAr": "الدهان",
+      "icon": "🎨",
+      "productCount": 36,
+      "file": "catalog/peinture.json"
+    },
+    {
+      "code": "quincaillerie",
+      "name": "Quincaillerie",
+      "nameAr": "الحدادة",
+      "icon": "🔨",
+      "productCount": 51,
+      "file": "catalog/quincaillerie.json"
+    },
+    {
+      "code": "bois-derives",
+      "name": "Bois & Dérivés",
+      "nameAr": "الخشب ومشتقاته",
+      "icon": "🪚",
+      "productCount": 18,
+      "file": "catalog/bois-derives.json"
+    },
+    {
+      "code": "sanitaire",
+      "name": "Sanitaire",
+      "nameAr": "الأدوات الصحية",
+      "icon": "🚽",
+      "productCount": 20,
+      "file": "catalog/sanitaire.json"
+    }
+  ],
+  "brands": [
+    { "code": "gica", "name": "GICA", "nameAr": "جيكا", "country": "Algérie" },
+    { "code": "sonelgaz", "name": "Sonelgaz", "nameAr": "سونلغاز", "country": "Algérie" },
+    { "code": "ensa", "name": "ENSA", "nameAr": "أنسا", "country": "Algérie" },
+    { "code": "mitsubishi", "name": "Mitsubishi", "nameAr": "ميتسوبيشي", "country": "Japon" },
+    { "code": "bosch", "name": "Bosch", "nameAr": "بوش", "country": "Allemagne" },
+    { "code": "makita", "name": "Makita", "nameAr": "ماكيتا", "country": "Japon" },
+    { "code": "stanley", "name": "Stanley", "nameAr": "ستانلي", "country": "USA" },
+    { "code": "virax", "name": "Virax", "nameAr": "فيراكس", "country": "France" },
+    { "code": "pressol", "name": "Pressol", "nameAr": "بريسول", "country": "France" },
+    { "code": "algerie-tuyaux", "name": "Algérie Tuyaux", "nameAr": "أنابيب الجزائر", "country": "Algérie" },
+    { "code": "tubial", "name": "Tubial", "nameAr": "توبيال", "country": "Algérie" },
+    { "code": "palsit", "name": "Palsit", "nameAr": "پالسيت", "country": "Algérie" },
+    { "code": "knauf", "name": "Knauf", "nameAr": "ناوف", "country": "Allemagne" },
+    { "code": "placo", "name": "Placo", "nameAr": "بلاكو", "country": "France" },
+    { "code": "saint-gobain", "name": "Saint-Gobain", "nameAr": "سان غوبان", "country": "France" },
+    { "code": "jotun", "name": "Jotun", "nameAr": "جوتن", "country": "Norvège" },
+    { "code": "selem", "name": "Selem", "nameAr": "سالم", "country": "Algérie" },
+    { "code": "tassili", "name": "Tassili", "nameAr": "تاسيلي", "country": "Algérie" },
+    { "code": "kassler", "name": "Kassler", "nameAr": "كاسلر", "country": "Allemagne" },
+    { "code": "yale", "name": "Yale", "nameAr": "يال", "country": "USA" }
+  ]
+}
