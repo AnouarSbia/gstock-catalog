@@ -36,6 +36,9 @@
         .price { font-weight: 600; color: #059669; }
         .brand { color: #7c3aed; font-size: 0.85rem; }
         .loading { text-align: center; padding: 3rem; color: #999; }
+        .product-thumb { width: 48px; height: 48px; object-fit: cover; border-radius: 6px; border: 1px solid #e5e7eb; background: #f9fafb; }
+        .product-thumb-placeholder { width: 48px; height: 48px; border-radius: 6px; border: 1px solid #e5e7eb; background: #f9fafb; display: flex; align-items: center; justify-content: center; font-size: 1.2rem; color: #ccc; }
+        .img-cell { width: 56px; text-align: center; }
         .footer { text-align: center; padding: 2rem; color: #999; font-size: 0.85rem; }
         .search-bar { width: 100%; padding: 0.75rem 1rem; border: 1px solid #e5e7eb; border-radius: 8px; font-size: 1rem; margin-bottom: 1rem; }
         .search-bar:focus { outline: none; border-color: #3b82f6; }
@@ -123,6 +126,7 @@
             <table class="product-table">
                 <thead>
                     <tr>
+                        <th class="img-cell">Image</th>
                         <th>Code</th>
                         <th>Désignation</th>
                         <th>الاسم</th>
@@ -142,6 +146,7 @@
             <table class="product-table">
                 <thead>
                     <tr>
+                        <th class="img-cell">Image</th>
                         <th>Code</th>
                         <th>Désignation</th>
                         <th>Catégorie</th>
@@ -264,6 +269,15 @@
         let isAdmin = false;
         let githubToken = null;
 
+        // Resolve image URLs: absolute URLs pass through, relative paths get the Pages base prefix.
+        function resolveImageUrl(img) {
+            if (!img) return '';
+            if (img.startsWith('http://') || img.startsWith('https://') || img.startsWith('data:')) return img;
+            // Relative path — prepend the site root (works for both local dev and GitHub Pages)
+            const base = window.location.origin + window.location.pathname.replace(/\/index\.html$/, '/').replace(/\/$/, '');
+            return `${base}/${img.replace(/^\//, '')}`;
+        }
+
         // ── Init ──
         async function init() {
             try {
@@ -349,13 +363,18 @@
 
         function renderProducts(products) {
             const showActions = isAdmin;
-            const colspan = showActions ? 8 : 7;
+            const colspan = showActions ? 9 : 8;
             if (products.length === 0) {
                 document.getElementById('products-body').innerHTML = `<tr><td colspan="${colspan}" class="loading">Aucun produit</td></tr>`;
                 return;
             }
-            document.getElementById('products-body').innerHTML = products.map(p => `
+            document.getElementById('products-body').innerHTML = products.map(p => {
+                const imgCell = p.image
+                    ? `<img class="product-thumb" src="${resolveImageUrl(p.image)}" alt="${p.name}" loading="lazy" onerror="this.outerHTML='<div class=\\'product-thumb-placeholder\\'>📦</div>'" />`
+                    : `<div class="product-thumb-placeholder">📦</div>`;
+                return `
                 <tr>
+                    <td class="img-cell">${imgCell}</td>
                     <td><code>${p.code}</code></td>
                     <td>${p.name}</td>
                     <td dir="rtl">${p.nameAr || ''}</td>
@@ -367,8 +386,8 @@
                         <button class="btn btn-ghost btn-sm" onclick="openProductForm('${p.code}')">✏️</button>
                         <button class="btn btn-danger btn-sm" onclick="deleteProduct('${p.code}')">🗑️</button>
                     </td>` : ''}
-                </tr>
-            `).join('');
+                </tr>`;
+            }).join('');
         }
 
         function showCategories() {
@@ -395,16 +414,21 @@
 
             document.getElementById('search-results').style.display = 'block';
             document.getElementById('search-body').innerHTML = results.length === 0
-                ? '<tr><td colspan="5" class="loading">Aucun résultat</td></tr>'
-                : results.map(p => `
+                ? '<tr><td colspan="6" class="loading">Aucun résultat</td></tr>'
+                : results.map(p => {
+                    const imgCell = p.image
+                        ? `<img class="product-thumb" src="${resolveImageUrl(p.image)}" alt="${p.name}" loading="lazy" onerror="this.outerHTML='<div class=\\'product-thumb-placeholder\\'>📦</div>'" />`
+                        : `<div class="product-thumb-placeholder">📦</div>`;
+                    return `
                     <tr>
+                        <td class="img-cell">${imgCell}</td>
                         <td><code>${p.code}</code></td>
                         <td>${p.name}</td>
                         <td>${p.categoryName}</td>
                         <td class="brand">${p.brand || '—'}</td>
                         <td class="price">${p.salePrice} DA</td>
-                    </tr>
-                `).join('');
+                    </tr>`;
+                }).join('');
         }
 
         // ── Admin ──
